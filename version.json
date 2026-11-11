@@ -1,10 +1,10 @@
 {
- "version": "v298",
- "notes": "A frissítés-keresés a GitHub aktuális commitját használja, így az új verzió azonnal látszik (nincs gyorsítótár-késés)",
+ "version": "v299",
+ "notes": "Az Infó oldal átdolgozva magyarul és angolul: frissítés, leszállás-rögzítés, kereső terület, súgóikonok; a bemutató túra gomb az Első lépések lapra került",
  "files": [
   {
    "path": "app.py",
-   "sha256": "8eabc4e2bbe5ea8e62774330b6ede2ee72b8f088c7e8b3ad16e7cc6aef54147a"
+   "sha256": "8acc9883fbc8a89e8089acf44dd252410aae75a4459ccc7a4406afa42921167a"
   }
  ]
 }
