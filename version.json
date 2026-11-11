@@ -1,0 +1,10 @@
+{
+ "version": "v280",
+ "notes": "Felhős frissítés",
+ "files": [
+  {
+   "path": "app.py",
+   "sha256": "410bc0e734eb178316147419266a728f6a3eef110dfc0eba2ef92da902411db5"
+  }
+ ]
+}
