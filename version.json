@@ -1,10 +1,10 @@
 {
- "version": "v296",
- "notes": "Az app ablak éles ikont kap közvetlenül, az ablakcím újra AiROGUIDE, 5 percenkénti frissítés-keresés, a launcher mutatja az utolsó ellenőrzés idejét",
+ "version": "v297",
+ "notes": "Az Irányvonal súgóból kikerült a HDG-tekerőre vonatkozó feltételezés",
  "files": [
   {
    "path": "app.py",
-   "sha256": "ff42d83e801570c1457afc2950d468b1b6de1448f913af8da67758f98e426fba"
+   "sha256": "e5cfd2f38db52fa916ed51bd2a9c3a8541b92b7384111cdf27aaee1367b978bb"
   }
  ]
 }
