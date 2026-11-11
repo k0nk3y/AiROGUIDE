@@ -1,10 +1,10 @@
 {
- "version": "v297",
- "notes": "Az Irányvonal súgóból kikerült a HDG-tekerőre vonatkozó feltételezés",
+ "version": "v298",
+ "notes": "A frissítés-keresés a GitHub aktuális commitját használja, így az új verzió azonnal látszik (nincs gyorsítótár-késés)",
  "files": [
   {
    "path": "app.py",
-   "sha256": "e5cfd2f38db52fa916ed51bd2a9c3a8541b92b7384111cdf27aaee1367b978bb"
+   "sha256": "8eabc4e2bbe5ea8e62774330b6ede2ee72b8f088c7e8b3ad16e7cc6aef54147a"
   }
  ]
 }
