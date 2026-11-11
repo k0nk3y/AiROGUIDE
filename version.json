@@ -1,10 +1,10 @@
 {
- "version": "v299",
- "notes": "Az Infó oldal átdolgozva magyarul és angolul: frissítés, leszállás-rögzítés, kereső terület, súgóikonok; a bemutató túra gomb az Első lépések lapra került",
+ "version": "v300",
+ "notes": "Nem futhat két példány ugyanazon a porton (az ablak nem kapcsolódhat régi verzióhoz); az új indítás leállítja a régebbi példányt",
  "files": [
   {
    "path": "app.py",
-   "sha256": "8acc9883fbc8a89e8089acf44dd252410aae75a4459ccc7a4406afa42921167a"
+   "sha256": "408e19021853e37abff96d48ae9963edfc95b919c76bfefb046c53bd3f73506a"
   }
  ]
 }
