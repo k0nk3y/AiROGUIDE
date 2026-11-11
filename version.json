@@ -1,10 +1,10 @@
 {
- "version": "v292",
- "notes": "Az útvonal menti kereső sáv halványkék a teljes térképen",
+ "version": "v293",
+ "notes": "A kereső terület (radar-alak, útvonalsáv) erősebb kitöltést és kontúrt kapott a teljes térképen",
  "files": [
   {
    "path": "app.py",
-   "sha256": "115564b99cd09943f11a8e157710cd69aaeb703ea8d02747bc99f33b03f85fdf"
+   "sha256": "998a12822188008f316533b18f16f5ad56c8794ab45739ca79ea8eda7d57b103"
   }
  ]
 }
