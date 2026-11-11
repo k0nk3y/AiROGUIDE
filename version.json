@@ -1,6 +1,6 @@
 {
- "version": "v284",
- "notes": "Leszállás kártya a megnyitott repülésnél (süllyedés, G, értékelés, sebesség, szél, hőmérséklet, dőlés, megállásig, hely); pontosabb érzékelés",
+ "version": "v285",
+ "notes": "Leszállás kártya hangolva az MSFS Landing Rate alapján",
  "files": [
   {
    "path": "app.py",
