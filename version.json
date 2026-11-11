@@ -1,10 +1,10 @@
 {
- "version": "v290",
- "notes": "Állapotjelzők a lista módhoz és a kézi pozícióhoz, ? súgóikonok a Hang, Megjelenítés, AI, Haladó és Nyelv fülön",
+ "version": "v291",
+ "notes": "Kereső terület (radar-alak, útvonalsáv) a teljes térképen, önálló autopilot HDG vonal, egyszerűbb feliratok",
  "files": [
   {
    "path": "app.py",
-   "sha256": "94fae349949db08fc8852a2cfcff9b830051dc4781dda0a70c8e84dfa642d685"
+   "sha256": "cf6e6a2c137d480aacdbd7ffbd140e42ea9c9a7a254a599bbd00e2a5932a47f4"
   }
  ]
 }
