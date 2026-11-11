@@ -1,10 +1,10 @@
 {
- "version": "v285",
- "notes": "Leszállás kártya hangolva az MSFS Landing Rate alapján",
+ "version": "v286",
+ "notes": "Leszállás-értékelés a valós gyakorlati határokhoz igazítva, szöveges minősítéssel",
  "files": [
   {
    "path": "app.py",
-   "sha256": "93837ca7a8665c984224bad9f091281dccd3b27e8a1aae21dff1bfa6c810352c"
+   "sha256": "40cb90932de6ff8f08b8360e3b7d73146bf5913bd7dbcff3f386ccac33761f3d"
   }
  ]
 }
