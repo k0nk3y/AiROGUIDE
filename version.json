@@ -1,10 +1,10 @@
 {
- "version": "v291",
- "notes": "Kereső terület (radar-alak, útvonalsáv) a teljes térképen, önálló autopilot HDG vonal, egyszerűbb feliratok",
+ "version": "v292",
+ "notes": "Az útvonal menti kereső sáv halványkék a teljes térképen",
  "files": [
   {
    "path": "app.py",
-   "sha256": "cf6e6a2c137d480aacdbd7ffbd140e42ea9c9a7a254a599bbd00e2a5932a47f4"
+   "sha256": "115564b99cd09943f11a8e157710cd69aaeb703ea8d02747bc99f33b03f85fdf"
   }
  ]
 }
