@@ -1,10 +1,10 @@
 {
- "version": "v281",
- "notes": "Pilot Book: összesítés egyszerűsítve, gyártó+típus nevek, világos thumbnail, leszállás-statisztika (süllyedés, G, helyzet)",
+ "version": "v282",
+ "notes": "Pilot Book: egyszerűbb összesítés, gyártó+típus nevek, világos thumbnail, leszállás-statisztika; indítóablak: Frissítés keresése",
  "files": [
   {
    "path": "app.py",
-   "sha256": "5f5adbeff78bcc3d2793c1a51db3d5f415185ca7cf7b8091c84d72ab96ca0bb1"
+   "sha256": "c72a29d9649da6d8bc74ffa2db5927908b5759e9fa0c8054694de4c16ed47dd3"
   }
  ]
 }
