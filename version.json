@@ -1,10 +1,10 @@
 {
- "version": "v283",
- "notes": "Pilot Book: a Mind külön a Gép szűrőbe került, keresősáv igazítva",
+ "version": "v284",
+ "notes": "Leszállás kártya a megnyitott repülésnél (süllyedés, G, értékelés, sebesség, szél, hőmérséklet, dőlés, megállásig, hely); pontosabb érzékelés",
  "files": [
   {
    "path": "app.py",
-   "sha256": "42e1da071eb354e609e15b2c3a852292628d5a0417028f7e7457dcffa62b8867"
+   "sha256": "f528b3f9f7568e2631c79c7678bd06e71576148e364821170714c62b814a28ac"
   }
  ]
 }
