@@ -1,10 +1,10 @@
 {
- "version": "v282",
- "notes": "Pilot Book: egyszerűbb összesítés, gyártó+típus nevek, világos thumbnail, leszállás-statisztika; indítóablak: Frissítés keresése",
+ "version": "v283",
+ "notes": "Pilot Book: a Mind külön a Gép szűrőbe került, keresősáv igazítva",
  "files": [
   {
    "path": "app.py",
-   "sha256": "c72a29d9649da6d8bc74ffa2db5927908b5759e9fa0c8054694de4c16ed47dd3"
+   "sha256": "42e1da071eb354e609e15b2c3a852292628d5a0417028f7e7457dcffa62b8867"
   }
  ]
 }
