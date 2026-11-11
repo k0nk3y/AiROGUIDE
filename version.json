@@ -1,10 +1,10 @@
 {
- "version": "v293",
- "notes": "A kereső terület (radar-alak, útvonalsáv) erősebb kitöltést és kontúrt kapott a teljes térképen",
+ "version": "v294",
+ "notes": "Gyakoribb automatikus frissítés-keresés, a launcher Naprakész felirata nem ragad be",
  "files": [
   {
    "path": "app.py",
-   "sha256": "998a12822188008f316533b18f16f5ad56c8794ab45739ca79ea8eda7d57b103"
+   "sha256": "023f2e957c2a2809a576a4b701983e2db58926c81bf973b0fbbda06733f9bafb"
   }
  ]
 }
