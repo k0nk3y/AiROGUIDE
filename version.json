@@ -1,10 +1,10 @@
 {
- "version": "v286",
- "notes": "Leszállás-értékelés a valós gyakorlati határokhoz igazítva, szöveges minősítéssel",
+ "version": "v287",
+ "notes": "Repülés kártya: Gép gomb eltávolítva, Letöltés tooltip, LHDU reptér, saját reptérlista",
  "files": [
   {
    "path": "app.py",
-   "sha256": "40cb90932de6ff8f08b8360e3b7d73146bf5913bd7dbcff3f386ccac33761f3d"
+   "sha256": "28c5f9007a2a11ae5d331ce175cb6ae50467b786d3b34a4f271c2f19c042cd18"
   }
  ]
 }
