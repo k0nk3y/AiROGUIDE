@@ -1,10 +1,10 @@
 {
- "version": "v289",
- "notes": "POI-lista beállítások átrendezve: élő módjelzés, ? súgóikonok, a beállítások a megfelelő szekcióban",
+ "version": "v290",
+ "notes": "Állapotjelzők a lista módhoz és a kézi pozícióhoz, ? súgóikonok a Hang, Megjelenítés, AI, Haladó és Nyelv fülön",
  "files": [
   {
    "path": "app.py",
-   "sha256": "0bb5d52bbfc806fbc972a6ca57cd7565a2edfe7f538ab37c1f14cd9f4ecdc569"
+   "sha256": "94fae349949db08fc8852a2cfcff9b830051dc4781dda0a70c8e84dfa642d685"
   }
  ]
 }
