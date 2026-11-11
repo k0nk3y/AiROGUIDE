@@ -1,10 +1,10 @@
 {
- "version": "v295",
- "notes": "Külön ikon az app ablaknak (éles) és a háttérprogramnak (fogaskerék-jelvény), az app ablak címsora nem ismétli az AiROGUIDE nevet, finomabb kontúr a kereső területen",
+ "version": "v296",
+ "notes": "Az app ablak éles ikont kap közvetlenül, az ablakcím újra AiROGUIDE, 5 percenkénti frissítés-keresés, a launcher mutatja az utolsó ellenőrzés idejét",
  "files": [
   {
    "path": "app.py",
-   "sha256": "05886be825e53f5a49913d846ee87f4d7d9c1f768eabbde1bc57e6d456c67f73"
+   "sha256": "ff42d83e801570c1457afc2950d468b1b6de1448f913af8da67758f98e426fba"
   }
  ]
 }
