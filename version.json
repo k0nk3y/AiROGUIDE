@@ -1,10 +1,10 @@
 {
- "version": "v294",
- "notes": "Gyakoribb automatikus frissítés-keresés, a launcher Naprakész felirata nem ragad be",
+ "version": "v295",
+ "notes": "Külön ikon az app ablaknak (éles) és a háttérprogramnak (fogaskerék-jelvény), az app ablak címsora nem ismétli az AiROGUIDE nevet, finomabb kontúr a kereső területen",
  "files": [
   {
    "path": "app.py",
-   "sha256": "023f2e957c2a2809a576a4b701983e2db58926c81bf973b0fbbda06733f9bafb"
+   "sha256": "05886be825e53f5a49913d846ee87f4d7d9c1f768eabbde1bc57e6d456c67f73"
   }
  ]
 }
