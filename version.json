@@ -1,10 +1,10 @@
 {
- "version": "v288",
- "notes": "Leszállás-jelölők az idővonalon (kattintásra kártya), ikonok a gombokon, pontosabb ugrás a földetérésre",
+ "version": "v289",
+ "notes": "POI-lista beállítások átrendezve: élő módjelzés, ? súgóikonok, a beállítások a megfelelő szekcióban",
  "files": [
   {
    "path": "app.py",
-   "sha256": "98413bed5a561b808a7f300ba1498f84d2255aec1746904733a69d45bab684f7"
+   "sha256": "0bb5d52bbfc806fbc972a6ca57cd7565a2edfe7f538ab37c1f14cd9f4ecdc569"
   }
  ]
 }
