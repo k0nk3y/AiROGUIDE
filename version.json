@@ -1,10 +1,10 @@
 {
- "version": "v341",
- "notes": "Megosztott kép: a látott helyek neve már nem csúszik a logó alá",
+ "version": "v342",
+ "notes": "Pilot Book: nem magyar leírásnyelvnél a felvétel visszanézésében is megjelenik a repülés közben elkészült leírás",
  "files": [
   {
    "path": "app.py",
-   "sha256": "c61d8005c85969c5f8193bca46494fd9d70e26c97d6bfe1e3e4e45373a9f6b22"
+   "sha256": "5f0561a251279f69b3f069b56af181da4649a7175d26cae961228aae92e20908"
   },
   {
    "path": "lang/de.json",
