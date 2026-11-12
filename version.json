@@ -1,10 +1,10 @@
 {
- "version": "v329",
- "notes": "Pilot Book: kézi leállítás után az automatikus felvétel nem indul újra, amíg a gép le nem lassul",
+ "version": "v330",
+ "notes": "Mini nézet beállításai: a bepipált jelölőnégyzetek a játékban is láthatóan jelzik az állapotot",
  "files": [
   {
    "path": "app.py",
-   "sha256": "ee4f6e3b284d73253ef8bd4703c982a967a2dc160cfc7564b82465f1bc3cab0f"
+   "sha256": "2a55f8ab9e148980f98b92f4ebddefbf863948d3d6f1dc8dfee4b64af7f9b788"
   }
  ]
 }
