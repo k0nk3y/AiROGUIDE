@@ -1,10 +1,10 @@
 {
- "version": "v327",
- "notes": "EFB: az üres „Éppen ott vagy” sáv nem marad látható, ha nincs kiemelt hely",
+ "version": "v328",
+ "notes": "Pilot Book: automatikus rögzítésnél helyszínváltáskor (teleport) új trip indul, nem folytatja a régit",
  "files": [
   {
    "path": "app.py",
-   "sha256": "0e328c49e9b798e7ed04d946266e16fd876d5d82cad6cec9b21efa8ceb2d5bf0"
+   "sha256": "270385b962db173a748832c87bde823404eb7a09a39f20b26d90b7eb9432d85a"
   }
  ]
 }
