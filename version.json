@@ -1,10 +1,10 @@
 {
- "version": "v344",
- "notes": "About: Discord és Buy Me a Coffee link ikonnal; hibajelentés: legfeljebb 3 képernyőkép csatolható a zip-hez",
+ "version": "v345",
+ "notes": "A teszthelyek választó a Fejlesztői beállításokba került",
  "files": [
   {
    "path": "app.py",
-   "sha256": "d85f37f70796dbd7a1686b36ee8e2c78b84e41cac412e581bd25ce74f70c9473"
+   "sha256": "7d837278448c5a5a5edbfde7f49d69dea09df2c45752c645b0decfb14189892a"
   },
   {
    "path": "lang/de.json",
