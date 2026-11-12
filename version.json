@@ -1,10 +1,10 @@
 {
- "version": "v305",
- "notes": "Éles tálca-ikonok (pontos méretű .ico), a mini ablak saját, sárga szem-jelvényes ikonja",
+ "version": "v306",
+ "notes": "Mini ablak: követi a csillagszűrőt és az elrejtett helyeket, látható beállítás-gomb, háttér világossága",
  "files": [
   {
    "path": "app.py",
-   "sha256": "3df0d1db247c2c1f9b769fc7766cc01250177e12aad1ef844cd9a25800e0c1ba"
+   "sha256": "12a95f573a1485d4d534de3c0a7eeb8684401fb06a10f8d2653a5474704496cd"
   }
  ]
 }
