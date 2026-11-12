@@ -1,10 +1,10 @@
 {
- "version": "v335",
- "notes": "Elhagyott helyek: kis jelvény a szűrősorban (nem foglal sort a listában); EFB-ben a darabszám helyet ad neki",
+ "version": "v336",
+ "notes": "Angol módban a kép nélküli látnivalókhoz (pl. Balaton) is keresi a képet: megőrzi a magyar Wikipedia képét, vagy megkeresi az angol cikket; az AI-tudásból írt leírások egyszer újragenerálódnak",
  "files": [
   {
    "path": "app.py",
-   "sha256": "4e64332b7d9ed7c20e93f9f84e8e045473cf019ce7c8027b9fd6436243398b50"
+   "sha256": "17fbb478e66e3410de02d04e2659e5db9998f2b80e1d7cb42453a656983a2cb7"
   }
  ]
 }
