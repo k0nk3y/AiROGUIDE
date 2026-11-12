@@ -1,10 +1,10 @@
 {
- "version": "v328",
- "notes": "Pilot Book: automatikus rögzítésnél helyszínváltáskor (teleport) új trip indul, nem folytatja a régit",
+ "version": "v329",
+ "notes": "Pilot Book: kézi leállítás után az automatikus felvétel nem indul újra, amíg a gép le nem lassul",
  "files": [
   {
    "path": "app.py",
-   "sha256": "270385b962db173a748832c87bde823404eb7a09a39f20b26d90b7eb9432d85a"
+   "sha256": "ee4f6e3b284d73253ef8bd4703c982a967a2dc160cfc7564b82465f1bc3cab0f"
   }
  ]
 }
