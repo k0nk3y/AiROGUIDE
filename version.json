@@ -1,10 +1,10 @@
 {
- "version": "v313",
- "notes": "Mini nézet: fogaskerék ikon javítva, keret/címsor elrejthető a játékon belüli panelben",
+ "version": "v314",
+ "notes": "Mini nézet: állítható háttér-átlátszatlanság a játékon belüli panelben",
  "files": [
   {
    "path": "app.py",
-   "sha256": "e30d355dd78289dde1b23360276131a933255ca6f3ec4860ab25c4f110fda6df"
+   "sha256": "ff1119d4c8c7cdaaa79e3779c0654b92edee48a015236d03625d66b1949b495c"
   }
  ]
 }
