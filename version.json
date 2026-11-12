@@ -1,10 +1,10 @@
 {
- "version": "v334",
- "notes": "Útvonal-lista: az elhagyott helyek egyetlen sorba összecsukhatók (rákattintva megnyílnak); Beállítások › POI-lista: be/ki kapcsolható",
+ "version": "v335",
+ "notes": "Elhagyott helyek: kis jelvény a szűrősorban (nem foglal sort a listában); EFB-ben a darabszám helyet ad neki",
  "files": [
   {
    "path": "app.py",
-   "sha256": "ea0a343d3c1110c9e063e33e12430a393fadccc4dbfdf918f37601945c5aa9ff"
+   "sha256": "4e64332b7d9ed7c20e93f9f84e8e045473cf019ce7c8027b9fd6436243398b50"
   }
  ]
 }
