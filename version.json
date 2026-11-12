@@ -1,10 +1,10 @@
 {
- "version": "v319",
- "notes": "Keskeny (cockpit) EFB: a szimulátor-kapcsolat jelzés nem ér össze a mellette lévő gombokkal",
+ "version": "v320",
+ "notes": "EFB: a csillag-szűrők mindig egy sorban vannak a helylistánál",
  "files": [
   {
    "path": "app.py",
-   "sha256": "828b4588db28ff1db8863c45dd69b861e0d3e55f9e266e0072a83b41fb0844dc"
+   "sha256": "0b8571cbeca96c55544a35cf24994190676d129a5f665312d589fea5cf948637"
   }
  ]
 }
