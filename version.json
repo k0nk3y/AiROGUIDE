@@ -1,10 +1,10 @@
 {
- "version": "v324",
- "notes": "Első indítás: amíg nincs nyelv választva, az indítási üzenetek angolul jelennek meg",
+ "version": "v325",
+ "notes": "Angol leírásnál is megjelenik a leírás-kérés gomb, ha a szöveg még készül",
  "files": [
   {
    "path": "app.py",
-   "sha256": "ce7f161a7304d8665672c5d65407f4abf11aee212de9f7d639974def910fda98"
+   "sha256": "518d2b0525e9d49e39b0d2a2e8df30988f01019b9de2193b5330d94bb6d5ad6d"
   }
  ]
 }
