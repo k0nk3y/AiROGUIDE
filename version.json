@@ -1,10 +1,10 @@
 {
- "version": "v330",
- "notes": "Mini nézet beállításai: a bepipált jelölőnégyzetek a játékban is láthatóan jelzik az állapotot",
+ "version": "v331",
+ "notes": "Angol leírásoknál a „leírások: x/y” számláló a valódi állapotot mutatja; a közeli keresés nem várja a felesleges magyar szövegeket, és a chip zöld, ha már vannak találatok",
  "files": [
   {
    "path": "app.py",
-   "sha256": "2a55f8ab9e148980f98b92f4ebddefbf863948d3d6f1dc8dfee4b64af7f9b788"
+   "sha256": "74b14d344a69e45e71a06666a8c5aa9ad7677337880e2c9d95c9e534aa5201d4"
   }
  ]
 }
