@@ -1,42 +1,42 @@
 {
- "version": "v343",
- "notes": "Új felületnyelvek: német, spanyol, francia, olasz, lengyel, szlovák, orosz, kínai (AI fordítás, visszajelzést szívesen várunk); Discord hibabejelentő link",
+ "version": "v344",
+ "notes": "About: Discord és Buy Me a Coffee link ikonnal; hibajelentés: legfeljebb 3 képernyőkép csatolható a zip-hez",
  "files": [
   {
    "path": "app.py",
-   "sha256": "6bbc902a667f3d51c0495ed657b47c8f211d58c92e223805012ce2ff1c1c848e"
+   "sha256": "d85f37f70796dbd7a1686b36ee8e2c78b84e41cac412e581bd25ce74f70c9473"
   },
   {
    "path": "lang/de.json",
-   "sha256": "dc45ab0f4b0e332eee24c45d1dc87c3e9776f4e8483bc2b8163f0d8fd0d18652"
+   "sha256": "bbd9193c4e580cba9371e83727234cc0724babd1e1c81b770d2e6c0bcf18f800"
   },
   {
    "path": "lang/es.json",
-   "sha256": "9b1a6ecf6599eeb6e4803ce2a33625547b77b2687d88449fe9fccac7ac5f08ae"
+   "sha256": "d6589b5b59cb616368918c24aa12be8232d8f758a049141216ad727551796026"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "99f449f4d2c190e15fce47b9af538106abc83ff5ed5f6e80fa608866a504521e"
+   "sha256": "852798dcec309ec0ba5624d699fe77cfe5c65309a9cd123ce68b704000f74969"
   },
   {
    "path": "lang/it.json",
-   "sha256": "744cb80ae035c64ef1e49b09071d90d1a19c00125592678136b78f3cfd340626"
+   "sha256": "b1dc4b4037e281562d0a73be72a7304e4bd4a9f0ebc671994ef41a2228ab01ae"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "c8c584105b285fd9c7f1a42a78b156c78c3581382ca314419c7f15e9981a2ed3"
+   "sha256": "2b33289963f13f1e5270b3dcc70783add70d3ea7e06b9c1547af7c53d62ce769"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "e1cae4a8495f64d0eb19bcc7d02e6e1fd9f980d71ba86b0b5597db776ecd3d47"
+   "sha256": "f140b095c737f43757f14dc18916ca907b6407cdb1b3bafae65db8f3f819a986"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "606f8f3106c3ed7e39f31c0ca61878a4744b2c6a1e3d404d2345e0986bca9117"
+   "sha256": "a4a2920dc1fa7058d7de27719fef36769fc9cf442ac46571517b5d73becd0be0"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "f08c912c1d17965f74141c588da4f16058c525fc59eb1d67b33fc7c1f1c55100"
+   "sha256": "090bfed0c13990da1eb05728d983d40aadd3b577892f98c615e81bed094b1760"
   }
  ]
 }
