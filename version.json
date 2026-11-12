@@ -1,10 +1,10 @@
 {
- "version": "v303",
- "notes": "Vezérlőablak: Mini ablak (HUD) gomb",
+ "version": "v304",
+ "notes": "Mini ablak: saját ikon a tálcán",
  "files": [
   {
    "path": "app.py",
-   "sha256": "a34e72f32a04abac551c796db80e4574f35397fef4f6c4f36e037ea3ce02de4d"
+   "sha256": "8418de57e1fd1786043821ea9aa6a35c6b41068c735b8bf5096e1c043427c62e"
   }
  ]
 }
