@@ -1,10 +1,10 @@
 {
- "version": "v320",
- "notes": "EFB: a csillag-szűrők mindig egy sorban vannak a helylistánál",
+ "version": "v321",
+ "notes": "EFB: nagyított térképnél a szűrők és az „Éppen ott vagy” kártya egy sorban, a nem megjeleníthető írásjelek (arab, héber stb.) nem látszanak négyzetként, szimulátor-jelző hézag",
  "files": [
   {
    "path": "app.py",
-   "sha256": "0b8571cbeca96c55544a35cf24994190676d129a5f665312d589fea5cf948637"
+   "sha256": "457bab38cf6d2a3f8f9c096c0b2cb1bcb60b604705e7d77c543ab36ed78ee511"
   }
  ]
 }
