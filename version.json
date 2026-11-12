@@ -1,10 +1,10 @@
 {
- "version": "v318",
- "notes": "A kérésre vagy sorban elkészült leírások frissítés és újraindítás után is megmaradnak; megbízhatóbb gyorsítótár-mentés",
+ "version": "v319",
+ "notes": "Keskeny (cockpit) EFB: a szimulátor-kapcsolat jelzés nem ér össze a mellette lévő gombokkal",
  "files": [
   {
    "path": "app.py",
-   "sha256": "f164f0a62606c9c0c3a11b843a9d371abbeed6a2bb71f6fb2118d8f2706c18fb"
+   "sha256": "828b4588db28ff1db8863c45dd69b861e0d3e55f9e266e0072a83b41fb0844dc"
   }
  ]
 }
