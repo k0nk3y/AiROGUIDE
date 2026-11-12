@@ -1,10 +1,10 @@
 {
- "version": "v340",
- "notes": "Német felület javítások: POI fülek, Pilot Book gombok, leírás nélküli helyek szövege",
+ "version": "v341",
+ "notes": "Megosztott kép: a látott helyek neve már nem csúszik a logó alá",
  "files": [
   {
    "path": "app.py",
-   "sha256": "770f5da4d1e08b3a8908db8c0206cf6cab8e429b7197853dcff2ac4bffa9f4ab"
+   "sha256": "c61d8005c85969c5f8193bca46494fd9d70e26c97d6bfe1e3e4e45373a9f6b22"
   },
   {
    "path": "lang/de.json",
