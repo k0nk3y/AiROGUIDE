@@ -1,10 +1,10 @@
 {
- "version": "v302",
- "notes": "Új: mini ablak (HUD) a /mini címen, következő látványosságok és merre nézz nyíl",
+ "version": "v303",
+ "notes": "Vezérlőablak: Mini ablak (HUD) gomb",
  "files": [
   {
    "path": "app.py",
-   "sha256": "fd47b16ec2bd4dafc1719eeb190c28381ec2b3d7667840912bd6c6b6f23c59ae"
+   "sha256": "a34e72f32a04abac551c796db80e4574f35397fef4f6c4f36e037ea3ce02de4d"
   }
  ]
 }
