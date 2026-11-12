@@ -1,10 +1,10 @@
 {
- "version": "v323",
- "notes": "Alapból csak ezen a gépen érhető el; a hálózati elérés a vezérlőablakban kapcsolható be, a választás megmarad",
+ "version": "v324",
+ "notes": "Első indítás: amíg nincs nyelv választva, az indítási üzenetek angolul jelennek meg",
  "files": [
   {
    "path": "app.py",
-   "sha256": "adf2698832eadf0984c4f57d7fb62facac09742127a0e262877a80dc3333e25b"
+   "sha256": "ce7f161a7304d8665672c5d65407f4abf11aee212de9f7d639974def910fda98"
   }
  ]
 }
