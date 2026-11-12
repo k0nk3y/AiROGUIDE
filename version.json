@@ -1,10 +1,14 @@
 {
- "version": "v338",
- "notes": "A hibajelentés a Haladó fül aljára került: összecsukott „Bug report” sáv, kis bogár ikonnal",
+ "version": "v339",
+ "notes": "Új felülethez nyelv: német (Deutsch) – felület és Info/súgó. Az AI-fordítás hibákat tartalmazhat, visszajelzést szívesen várunk",
  "files": [
   {
    "path": "app.py",
-   "sha256": "a2b2eef96b0898363083e02f9308decc8a66640b5eae2547260ff8964676a57b"
+   "sha256": "5163bd5de71f7020dd08c8caf60f7896fe79ce79157030965997cbc30a29cee9"
+  },
+  {
+   "path": "lang/de.json",
+   "sha256": "70f6a65354bb95a1483efdaa3da16684a141dab463386a6d38edb11f5b93ca07"
   }
  ]
 }
