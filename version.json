@@ -1,10 +1,10 @@
 {
- "version": "v316",
- "notes": "Mini beállítások: a csúszkák mellett látszik az aktuális érték",
+ "version": "v317",
+ "notes": "EFB: leszállás értékelés csillagai látszanak, keskeny (cockpit) EFB fejléc egy sorban",
  "files": [
   {
    "path": "app.py",
-   "sha256": "675b1dcebbc5101c597ea9655507e7864ce098fbb0bbe3c302e57e41aa31e33c"
+   "sha256": "526f5c49061b62fd4e61473a990b1e86de057c6fdb38874c0a9688948735d5a3"
   }
  ]
 }
