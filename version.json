@@ -1,10 +1,10 @@
 {
- "version": "v304",
- "notes": "Mini ablak: saját ikon a tálcán",
+ "version": "v305",
+ "notes": "Éles tálca-ikonok (pontos méretű .ico), a mini ablak saját, sárga szem-jelvényes ikonja",
  "files": [
   {
    "path": "app.py",
-   "sha256": "8418de57e1fd1786043821ea9aa6a35c6b41068c735b8bf5096e1c043427c62e"
+   "sha256": "3df0d1db247c2c1f9b769fc7766cc01250177e12aad1ef844cd9a25800e0c1ba"
   }
  ]
 }
