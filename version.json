@@ -1,10 +1,10 @@
 {
- "version": "v315",
- "notes": "EFB: az „Éppen ott vagy” doboz elrendezése stabilabb (Merre nézz jelzés a dobozon belül marad)",
+ "version": "v316",
+ "notes": "Mini beállítások: a csúszkák mellett látszik az aktuális érték",
  "files": [
   {
    "path": "app.py",
-   "sha256": "e5ef04ee8e741456b9439ee94cc3ecf4fac00e235f516053a884f73ec6a73762"
+   "sha256": "675b1dcebbc5101c597ea9655507e7864ce098fbb0bbe3c302e57e41aa31e33c"
   }
  ]
 }
