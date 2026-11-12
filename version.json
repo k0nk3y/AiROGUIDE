@@ -1,10 +1,10 @@
 {
- "version": "v314",
- "notes": "Mini nézet: állítható háttér-átlátszatlanság a játékon belüli panelben",
+ "version": "v315",
+ "notes": "EFB: az „Éppen ott vagy” doboz elrendezése stabilabb (Merre nézz jelzés a dobozon belül marad)",
  "files": [
   {
    "path": "app.py",
-   "sha256": "ff1119d4c8c7cdaaa79e3779c0654b92edee48a015236d03625d66b1949b495c"
+   "sha256": "e5ef04ee8e741456b9439ee94cc3ecf4fac00e235f516053a884f73ec6a73762"
   }
  ]
 }
