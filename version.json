@@ -1,10 +1,10 @@
 {
- "version": "v310",
- "notes": "Mobil: a leírás X gombja a kártyán marad, a menü görgetése nem húzza a főképernyőt",
+ "version": "v311",
+ "notes": "Mini nézet: betöltési és hibaüzenetek, diagnosztika a játékon belüli panelhez",
  "files": [
   {
    "path": "app.py",
-   "sha256": "146a29cca6ff58da2edee224c999613fb5a580ddfd6fece652e0a743741d3a06"
+   "sha256": "0433a5371dbea25040dacfc08e24df567a89475b8047cbd03e63a4627d798c62"
   }
  ]
 }
