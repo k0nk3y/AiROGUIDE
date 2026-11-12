@@ -1,10 +1,10 @@
 {
- "version": "v332",
- "notes": "Hibakeresés: airoguide_debug.log időbélyeges napló (keresések, hibák, elakadás esetén szálállapot)",
+ "version": "v333",
+ "notes": "Új: Beállítások › Haladó › Probléma jelentése: zip-jelentés (UI-hiba pozíció nélkül, vagy pozícióhoz kapcsolódó hiba pozícióval), Discord megnyitása",
  "files": [
   {
    "path": "app.py",
-   "sha256": "76574fd934099e0a3d7fc0237ec5bf86ec5524e47105e3406d6636083d8aa100"
+   "sha256": "37f655f82fbf6d5d46387bc40ed45746ba86e49d805520786854e186bf9569c4"
   }
  ]
 }
