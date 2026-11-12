@@ -1,10 +1,10 @@
 {
- "version": "v307",
- "notes": "Mini ablak: a nagy lista sorrendje, \"csak előre\" kapcsoló",
+ "version": "v308",
+ "notes": "Mini ablak: Körülötted / Előtted lista-mód",
  "files": [
   {
    "path": "app.py",
-   "sha256": "736dd031dfa67fc943711e7ba7e763b2e25dc20570943f1ad942700c7dd6fd45"
+   "sha256": "29bd535d9c54761429a2813a2bef8b06814096da2dce7487ae312c3d039a5efa"
   }
  ]
 }
