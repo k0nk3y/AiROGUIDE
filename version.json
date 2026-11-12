@@ -1,10 +1,10 @@
 {
- "version": "v322",
- "notes": "EFB nagyított térkép: az „Éppen ott vagy” kártyán a Merre nézz jelzés a szöveg mellett jobbra van, több hely marad a listának",
+ "version": "v323",
+ "notes": "Alapból csak ezen a gépen érhető el; a hálózati elérés a vezérlőablakban kapcsolható be, a választás megmarad",
  "files": [
   {
    "path": "app.py",
-   "sha256": "a23a94887351252e554ea0a84d0f1064cdd7117d7d45f20eeeafdcec398d4f76"
+   "sha256": "adf2698832eadf0984c4f57d7fb62facac09742127a0e262877a80dc3333e25b"
   }
  ]
 }
