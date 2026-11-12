@@ -1,10 +1,10 @@
 {
- "version": "v333",
- "notes": "Új: Beállítások › Haladó › Probléma jelentése: zip-jelentés (UI-hiba pozíció nélkül, vagy pozícióhoz kapcsolódó hiba pozícióval), Discord megnyitása",
+ "version": "v334",
+ "notes": "Útvonal-lista: az elhagyott helyek egyetlen sorba összecsukhatók (rákattintva megnyílnak); Beállítások › POI-lista: be/ki kapcsolható",
  "files": [
   {
    "path": "app.py",
-   "sha256": "37f655f82fbf6d5d46387bc40ed45746ba86e49d805520786854e186bf9569c4"
+   "sha256": "ea0a343d3c1110c9e063e33e12430a393fadccc4dbfdf918f37601945c5aa9ff"
   }
  ]
 }
