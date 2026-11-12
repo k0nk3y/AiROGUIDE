@@ -1,10 +1,10 @@
 {
- "version": "v321",
- "notes": "EFB: nagyított térképnél a szűrők és az „Éppen ott vagy” kártya egy sorban, a nem megjeleníthető írásjelek (arab, héber stb.) nem látszanak négyzetként, szimulátor-jelző hézag",
+ "version": "v322",
+ "notes": "EFB nagyított térkép: az „Éppen ott vagy” kártyán a Merre nézz jelzés a szöveg mellett jobbra van, több hely marad a listának",
  "files": [
   {
    "path": "app.py",
-   "sha256": "457bab38cf6d2a3f8f9c096c0b2cb1bcb60b604705e7d77c543ab36ed78ee511"
+   "sha256": "a23a94887351252e554ea0a84d0f1064cdd7117d7d45f20eeeafdcec398d4f76"
   }
  ]
 }
