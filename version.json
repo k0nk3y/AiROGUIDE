@@ -1,10 +1,10 @@
 {
- "version": "v337",
- "notes": "Angol felület: néhány eddig magyarul maradt felirat (Kérésre / közeledéskor, Wikipedia coordinates, Landscape/Portrait, Previous/Next, felvétel állapota, Gemini-tipp) lefordítva",
+ "version": "v338",
+ "notes": "A hibajelentés a Haladó fül aljára került: összecsukott „Bug report” sáv, kis bogár ikonnal",
  "files": [
   {
    "path": "app.py",
-   "sha256": "2df5be1bd2670f08b69fe8203e05481c20fef2860205435fa672302c76dc3828"
+   "sha256": "a2b2eef96b0898363083e02f9308decc8a66640b5eae2547260ff8964676a57b"
   }
  ]
 }
