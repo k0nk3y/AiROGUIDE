@@ -1,10 +1,10 @@
 {
- "version": "v301",
- "notes": "Infó: a régi felvételekre utaló mondat törölve",
+ "version": "v302",
+ "notes": "Új: mini ablak (HUD) a /mini címen, következő látványosságok és merre nézz nyíl",
  "files": [
   {
    "path": "app.py",
-   "sha256": "c15b5668260e6d2171a44543836f47fc6a8bf7d40ddf015a2b99da0dfdeb9477"
+   "sha256": "fd47b16ec2bd4dafc1719eeb190c28381ec2b3d7667840912bd6c6b6f23c59ae"
   }
  ]
 }
