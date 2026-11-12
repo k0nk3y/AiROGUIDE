@@ -1,10 +1,10 @@
 {
- "version": "v312",
- "notes": "Vezérlőablak: a gombok kerettel és háttérrel, jobban elkülönülnek",
+ "version": "v313",
+ "notes": "Mini nézet: fogaskerék ikon javítva, keret/címsor elrejthető a játékon belüli panelben",
  "files": [
   {
    "path": "app.py",
-   "sha256": "597ff6ea4fbb1bd63e77252ed31a5fbf6ae85dfdf0738d78f7d8eb756d269c38"
+   "sha256": "e30d355dd78289dde1b23360276131a933255ca6f3ec4860ab25c4f110fda6df"
   }
  ]
 }
