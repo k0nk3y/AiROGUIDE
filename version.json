@@ -1,10 +1,10 @@
 {
- "version": "v336",
- "notes": "Angol módban a kép nélküli látnivalókhoz (pl. Balaton) is keresi a képet: megőrzi a magyar Wikipedia képét, vagy megkeresi az angol cikket; az AI-tudásból írt leírások egyszer újragenerálódnak",
+ "version": "v337",
+ "notes": "Angol felület: néhány eddig magyarul maradt felirat (Kérésre / közeledéskor, Wikipedia coordinates, Landscape/Portrait, Previous/Next, felvétel állapota, Gemini-tipp) lefordítva",
  "files": [
   {
    "path": "app.py",
-   "sha256": "17fbb478e66e3410de02d04e2659e5db9998f2b80e1d7cb42453a656983a2cb7"
+   "sha256": "2df5be1bd2670f08b69fe8203e05481c20fef2860205435fa672302c76dc3828"
   }
  ]
 }
