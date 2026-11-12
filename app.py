@@ -7914,7 +7914,7 @@ def builtin_pln(rid):
     return "\r\n".join(out)
 
 
-BUG_URL = ""          # ide kerul a Discord meghivo / hibabejelento csatorna linkje; ures: a gomb jelzi, hogy meg nincs beallitva
+BUG_URL = "https://discord.gg/kZUD4adc2U"          # ide kerul a Discord meghivo / hibabejelento csatorna linkje; ures: a gomb jelzi, hogy meg nincs beallitva
 SUBMIT_URL = ""       # ide kerul a (Google) urlap cime, amire a felhasznalok az utvonalaikat bekuldhetik; ures: a gomb jelzi, hogy meg nincs beallitva
 
 _PLN_POS = re.compile(r"<WorldPosition>\s*([NS])\s*(\d+)\D+?(\d+)\D+?([\d.]+)\D*?,\s*([EW])\s*(\d+)\D+?(\d+)\D+?([\d.]+)", re.S)
