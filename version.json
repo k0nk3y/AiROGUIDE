@@ -1,14 +1,14 @@
 {
- "version": "v339",
- "notes": "Új felülethez nyelv: német (Deutsch) – felület és Info/súgó. Az AI-fordítás hibákat tartalmazhat, visszajelzést szívesen várunk",
+ "version": "v340",
+ "notes": "Német felület javítások: POI fülek, Pilot Book gombok, leírás nélküli helyek szövege",
  "files": [
   {
    "path": "app.py",
-   "sha256": "5163bd5de71f7020dd08c8caf60f7896fe79ce79157030965997cbc30a29cee9"
+   "sha256": "770f5da4d1e08b3a8908db8c0206cf6cab8e429b7197853dcff2ac4bffa9f4ab"
   },
   {
    "path": "lang/de.json",
-   "sha256": "70f6a65354bb95a1483efdaa3da16684a141dab463386a6d38edb11f5b93ca07"
+   "sha256": "dc45ab0f4b0e332eee24c45d1dc87c3e9776f4e8483bc2b8163f0d8fd0d18652"
   }
  ]
 }
