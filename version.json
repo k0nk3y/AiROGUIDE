@@ -1,10 +1,10 @@
 {
- "version": "v311",
- "notes": "Mini nézet: betöltési és hibaüzenetek, diagnosztika a játékon belüli panelhez",
+ "version": "v312",
+ "notes": "Vezérlőablak: a gombok kerettel és háttérrel, jobban elkülönülnek",
  "files": [
   {
    "path": "app.py",
-   "sha256": "0433a5371dbea25040dacfc08e24df567a89475b8047cbd03e63a4627d798c62"
+   "sha256": "597ff6ea4fbb1bd63e77252ed31a5fbf6ae85dfdf0738d78f7d8eb756d269c38"
   }
  ]
 }
