@@ -1,10 +1,10 @@
 {
- "version": "v309",
- "notes": "EFB-nézet javítások: lista-mód rádiógombok, \"Éppen ott vagy\" doboz keskeny oszlopban, Infó logó mérete",
+ "version": "v310",
+ "notes": "Mobil: a leírás X gombja a kártyán marad, a menü görgetése nem húzza a főképernyőt",
  "files": [
   {
    "path": "app.py",
-   "sha256": "a3fbec3187f9d1fa5014237fc3e3798ceb2ff70e130fca0d748dbaad33088de4"
+   "sha256": "146a29cca6ff58da2edee224c999613fb5a580ddfd6fece652e0a743741d3a06"
   }
  ]
 }
