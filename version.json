@@ -1,10 +1,10 @@
 {
- "version": "v325",
- "notes": "Angol leírásnál is megjelenik a leírás-kérés gomb, ha a szöveg még készül",
+ "version": "v326",
+ "notes": "Merre nézz: ha 1 km-en belül nincs hely, a legközelebbi látnivalót mutatja (kb. 3–8 km-ig, magasságtól függően)",
  "files": [
   {
    "path": "app.py",
-   "sha256": "518d2b0525e9d49e39b0d2a2e8df30988f01019b9de2193b5330d94bb6d5ad6d"
+   "sha256": "261e5c2e308964120620561b80e7836622d7369df00030c86c05f876185128b9"
   }
  ]
 }
