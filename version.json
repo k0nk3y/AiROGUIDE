@@ -1,10 +1,10 @@
 {
- "version": "v349",
- "notes": "3 további, nem magyar teszt útvonal a fejlesztői menüben (Las Vegas–Grand Canyon, Norvégia fjordok, Egyiptom Nílus)",
+ "version": "v350",
+ "notes": "Útvonal-lista javítás: egy korábban betöltött útvonal háttérszála már nem írja felül az új útvonal helyeit",
  "files": [
   {
    "path": "app.py",
-   "sha256": "2cbc60f8df418c6a4e13243dc044091e68564644363e60a98718c90190e16217"
+   "sha256": "73623eb660230da4762215f0a8dfdee15ad7e2e0cd36ad49a00569b78d7b0056"
   },
   {
    "path": "lang/de.json",
