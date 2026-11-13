@@ -1,10 +1,10 @@
 {
- "version": "v354",
- "notes": "Helyek száma (radar és útvonal): Auto / Kézi kapcsoló és csúszka",
+ "version": "v355",
+ "notes": "Állapotsáv: nem váltogat Keresés/Útvonal között betöltött útvonalnál, fix szélességű; a kész leírások sora zöld",
  "files": [
   {
    "path": "app.py",
-   "sha256": "26f0f0054ac1d26a1daabe3c9d7933d4a494f18b824d402c25d344daa33c542f"
+   "sha256": "3c8de2e4558e2b5d576eeea690724f7336b9914bee0c89e2986d660917a05d93"
   },
   {
    "path": "lang/de.json",
