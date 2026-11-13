@@ -1,10 +1,10 @@
 {
- "version": "v369",
- "notes": "A „Hiányzó nevezetességek” ellenőrzés pontosabb okokat ad (bevezető szerint szervezet/személy, triviális szó), a sablonokat elrejti, és a ténylegesen hiányzókat teszi előre",
+ "version": "v370",
+ "notes": "Felhőkarcolók és óriáskerekek is látnivalónak számítanak (pl. The Shard, London Eye)",
  "files": [
   {
    "path": "app.py",
-   "sha256": "c7a48fb42d33f616c35d36401f61166b0f620e002c7f5f15cd397c51d9d0cef3"
+   "sha256": "8ea97147e90586976b1a6a5a701b85e5e46f444de68bf83be9da1dd4d999fc97"
   },
   {
    "path": "lang/de.json",
