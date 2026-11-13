@@ -1,10 +1,10 @@
 {
- "version": "v366",
- "notes": "Obszervatóriumok, planetáriumok és távcsövek erősebb találatként szerepelnek az angol Wikipédia-kiegészítésben",
+ "version": "v367",
+ "notes": "A pilóta 5 km-es körzetében lévő látnivalók mindig bekerülnek a radar listájába, a rangsortól és a hely-limittől függetlenül",
  "files": [
   {
    "path": "app.py",
-   "sha256": "46ee458c08419c26488b9f9ad172c812a8de14b5e26d2651674fe66b195ece06"
+   "sha256": "2d34805bb9644aaa555f4c0e91f79e409f43e624433f396a2cca68e70404a4cd"
   },
   {
    "path": "lang/de.json",
