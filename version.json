@@ -1,10 +1,10 @@
 {
- "version": "v371",
- "notes": "A címükben épületet jelző helyek (pl. Mátyás-templom) nem esnek ki a bevezető szervezet/személy-szűrőjén",
+ "version": "v372",
+ "notes": "Két kiadási változat: a flightsim.to-s kiadásban a frissítés csak emlékeztet, az online (edge-tts) hang kapcsolható és alapból ki van kapcsolva",
  "files": [
   {
    "path": "app.py",
-   "sha256": "7008089058ce32fca2fd58cac80f843d4bf7345cce608e491a426c951f3667e8"
+   "sha256": "e7233f35cd918b60fc0d81a46bdefaa5a6416272525723a9adb0f980f6cc8d35"
   },
   {
    "path": "lang/de.json",
@@ -38,5 +38,9 @@
    "path": "lang/zh.json",
    "sha256": "2203cb92922df53be01ad973be000ac47701a0ce3e8fc20bd3df3c00a2a11977"
   }
- ]
+ ],
+ "release": {
+  "version": "v372",
+  "url": "https://flightsim.to/profile/k0nk3y"
+ }
 }
