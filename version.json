@@ -1,10 +1,10 @@
 {
- "version": "v373",
- "notes": "Kiadási változat: saját verziószám (1.0), a fejlesztői eszközök rejtve, forrásmegjelölés a Névjegyben",
+ "version": "v374",
+ "notes": "EFB: saját legördülő lista (a beépített menük a játékban nem nyíltak meg)",
  "files": [
   {
    "path": "app.py",
-   "sha256": "890b5224f13c771c1ae55e5f014878e7c5cac99078685e123a41a0e345a625e4"
+   "sha256": "0a2330e34c81d0fcc92e9358b92282c2923092104aa5432e0dacdd2728d7bdf8"
   },
   {
    "path": "lang/de.json",
