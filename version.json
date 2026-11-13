@@ -1,42 +1,42 @@
 {
- "version": "v357",
- "notes": "Közeledéskor mód: beállítható távolság (5–200 km), ennyivel a gép előtt készül el a hely leírása",
+ "version": "v358",
+ "notes": "Szabad repülésben (radar) a látható helyek leírása mind elkészül; a közeledési távolság csak útvonal-módban számít",
  "files": [
   {
    "path": "app.py",
-   "sha256": "66cb5e6c61a48475b8e8b3e072ffe3b2e4ddfa8bdf25e45492c65d96df4ad8e7"
+   "sha256": "085708cbed7820e6ed486856df882f95e5a87fd6b4d3e414fea4199ec29b0fde"
   },
   {
    "path": "lang/de.json",
-   "sha256": "bcc34523c6ed7ce0b6be1ca534211a9f8ea550f84fcac40d71b69501fb994f37"
+   "sha256": "8c7864dc722f81582521812ade6630850b870bb15db6f39dc9daabe5da232542"
   },
   {
    "path": "lang/es.json",
-   "sha256": "90782577e7f7b0f36c32171959f9dd347d71a23f21e906865f82c6e3fa8f2d6e"
+   "sha256": "eca325fee65af8351ad41c8674465daf5211b3ee5a74857cbc381d4f40be2dd4"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "24d7fef7f79b5b72ccf51b8ffb35d049fa14704f0b4f7159f316a7843964429e"
+   "sha256": "40da277b3f8c94c1e61fe18ccba15f1109733a72fc85bd4acddc33d55788b676"
   },
   {
    "path": "lang/it.json",
-   "sha256": "6407efdf0696e479be661758a609ed42d3f8b74e6bedf9496bbfb2a68e7e4686"
+   "sha256": "61d4b8717c6fda6f80d5e0fb85b71f2cfdf35659c39d96ef265132e80fcec133"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "c0b11079cd4bd71d22a52f277cf831d64d23c0991db090e9030cab7bee4292af"
+   "sha256": "182870596b32b05be44be4324a4a43bf5c49c143dcaf552fecf2d48a2be3563c"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "babd626f2951df0616ce5dc5124b4c0f6e1c95a6446e6f45bb7b976ec5580172"
+   "sha256": "0340461d5bf4689a3af233e3bbc98718de73c0e915d012b0fe2192bbbfe8709a"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "cc190cc1b253117784e8cd5cad0f55ff1bcfcfdcc188bbf46fca8afb2efde6ac"
+   "sha256": "9ce6ebb7f569f947d63f3176c730e35efd9db74f73f70b7c3928b422952d834e"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "15e9f796ba6ab850851873941088d0a7a15d7e409c2b085e3b2fdfc466afe2bc"
+   "sha256": "0ce0d7abe81848c5e8789ca44dca23df996a42ec6d42bcb88e9ca32ee3908828"
   }
  ]
 }
