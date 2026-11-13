@@ -1,10 +1,10 @@
 {
- "version": "v368",
- "notes": "Fejlesztői eszköz: „Hiányzó nevezetességek” ellenőrzés – a jelenlegi pozíción kilistázza a sok nyelven szócikkel bíró, de a listából hiányzó helyeket és az okukat",
+ "version": "v369",
+ "notes": "A „Hiányzó nevezetességek” ellenőrzés pontosabb okokat ad (bevezető szerint szervezet/személy, triviális szó), a sablonokat elrejti, és a ténylegesen hiányzókat teszi előre",
  "files": [
   {
    "path": "app.py",
-   "sha256": "8c23a92b25a0078f9d1db436901b0bddfe2d551cadccaa8fb67362bb83f7767a"
+   "sha256": "c7a48fb42d33f616c35d36401f61166b0f620e002c7f5f15cd397c51d9d0cef3"
   },
   {
    "path": "lang/de.json",
