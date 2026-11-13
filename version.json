@@ -1,10 +1,10 @@
 {
- "version": "v346",
- "notes": "Képként megosztott repülés: világos témánál is a sötét háttérhez illő logó kerül a képre",
+ "version": "v347",
+ "notes": "Útvonal-lista: 50 km-es AI-szakaszok (egyenletesebb lefedettség), a kért darabszám tényleges betartása (a Wikipédia-kiegészítés is ehhez igazodik), térkép-jellegű Wikipédia-képek kiszűrése",
  "files": [
   {
    "path": "app.py",
-   "sha256": "b6e9bafc24eec52897cc5860ba14b78a6ff88b431321301e5238ff8aba0db9b0"
+   "sha256": "d79ade870011568098f548bb8117690bef98138b1a2a02afe78392a1052efa42"
   },
   {
    "path": "lang/de.json",
