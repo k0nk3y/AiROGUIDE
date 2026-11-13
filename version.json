@@ -1,10 +1,10 @@
 {
- "version": "v374",
- "notes": "EFB: saját legördülő lista (a beépített menük a játékban nem nyíltak meg)",
+ "version": "v375",
+ "notes": "Kiadási változat: info a kiadásnak megfelelő (nincs önfrissítés-állítás, nincs Újdonságok), frissítési link a flightsim.to oldalra",
  "files": [
   {
    "path": "app.py",
-   "sha256": "0a2330e34c81d0fcc92e9358b92282c2923092104aa5432e0dacdd2728d7bdf8"
+   "sha256": "331c7dffff1d8b2756c2018bd2ee1f37a38dc0528351da69937476f851f2ff12"
   },
   {
    "path": "lang/de.json",
@@ -41,6 +41,6 @@
  ],
  "release": {
   "version": "1.0",
-  "url": "https://flightsim.to/profile/k0nk3y"
+  "url": "https://flightsim.to/addon/119104/airoguide-sightseeing-guide"
  }
 }
