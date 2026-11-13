@@ -1,42 +1,42 @@
 {
- "version": "v353",
- "notes": "Radar módban is van „+ További helyek” gomb (ismételhetően +15 hely); új világos témájú logó",
+ "version": "v354",
+ "notes": "Helyek száma (radar és útvonal): Auto / Kézi kapcsoló és csúszka",
  "files": [
   {
    "path": "app.py",
-   "sha256": "f8b9efd1e0fb2f62fd9916f8c1eeb5c766288ba7a33a9c83d512cd57b117ba03"
+   "sha256": "26f0f0054ac1d26a1daabe3c9d7933d4a494f18b824d402c25d344daa33c542f"
   },
   {
    "path": "lang/de.json",
-   "sha256": "fbe6b7e1ecee84df8057f84617eda40e099b3b2979fae94ad5e80f7f583a21a4"
+   "sha256": "89c5fb119bbf53db59a2776f32753849706c34de81a441c6835bc3726bc3f524"
   },
   {
    "path": "lang/es.json",
-   "sha256": "8115f0c228beebbb78135a253964d31ffa876e0067aea0c00aeb1a36ddc2f816"
+   "sha256": "a58db599f12e2173ce9342b28488e3d5c7d6e4d42868d7823152b271fd35acc6"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "91f383b1b8941baa13399d38635f2ebbf942ef7290cdf8109b21d4c0a59813bc"
+   "sha256": "41ecd1c370f833322fa06e8fee118254f75b73391d2847ae8eb22eecdc687875"
   },
   {
    "path": "lang/it.json",
-   "sha256": "aa3cf72f2e2abad3525a1190f94a0a443b04d9644f578b3a00585750fbb7c73d"
+   "sha256": "e24589e9f7ee0734bccadb7ea4f841d8c3270ff25f5c9ed57fd6f04ced07acca"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "942dd81f3146117f08e9fa2b79b2ecbe171e273d93e92af18540dce591935a6e"
+   "sha256": "5a6ac5324239ed037b05a472035c1638ccff65161e0a91bb660837960ed59257"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "89c9162da00ce180d057c0eacf3a5914b7f1cca03dec6b2fa92dd4fba442ddf3"
+   "sha256": "40245656983a409f07f06ed727b9f96e480a9889c2308214df0dd5186ecacbb3"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "8c2f3b9e419b9be4023fd2fe145666a428c81176b846863d26ffb958018bb100"
+   "sha256": "d50d9cad8f668f824492fbc4e72507fb89a3e135ecd345ec79e8b61ee093ffa5"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "c738ae48c093b05119ba4043c60753115a18d30abb6f1b176329f902a1563f73"
+   "sha256": "6170880f9ec8fea1fb5efd20641ad183cbdb702b3b85f7d50fa2eb089649032f"
   }
  ]
 }
