@@ -1,10 +1,10 @@
 {
- "version": "v358",
- "notes": "Szabad repülésben (radar) a látható helyek leírása mind elkészül; a közeledési távolság csak útvonal-módban számít",
+ "version": "v359",
+ "notes": "Beállítások: elválasztó vonal az Elhagyott helyek és a Szabad repülés beállításai között",
  "files": [
   {
    "path": "app.py",
-   "sha256": "085708cbed7820e6ed486856df882f95e5a87fd6b4d3e414fea4199ec29b0fde"
+   "sha256": "487647750487a8377339953d064a047d1e7e3dee9b4b769cc9a3e60c64946cd4"
   },
   {
    "path": "lang/de.json",
