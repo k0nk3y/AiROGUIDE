@@ -1,10 +1,10 @@
 {
- "version": "v352",
- "notes": "Szabad repülésben a „Helyek száma” alapértéke Auto (a keresési sugárhoz igazodik); a két lista-méret súgóban: Ajánlott: Auto",
+ "version": "v353",
+ "notes": "Radar módban is van „+ További helyek” gomb (ismételhetően +15 hely); új világos témájú logó",
  "files": [
   {
    "path": "app.py",
-   "sha256": "df483ca967e3e117063e0cd482a4c90112c54f1c8c6cf370e672d2464ffac28c"
+   "sha256": "f8b9efd1e0fb2f62fd9916f8c1eeb5c766288ba7a33a9c83d512cd57b117ba03"
   },
   {
    "path": "lang/de.json",
