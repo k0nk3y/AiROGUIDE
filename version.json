@@ -1,10 +1,10 @@
 {
- "version": "v362",
- "notes": "Közeli keresés forrás-kapszula: a kiegészítő szöveg (leggyorsabb / lassabb) megszűnt",
+ "version": "v363",
+ "notes": "Fejlesztői diagnosztika (Miért nincs ott a hely?): az angol Wikipédia cikkeit is vizsgálja, és kiírja a szűrők eredményét",
  "files": [
   {
    "path": "app.py",
-   "sha256": "058999b04082db1b406aaae9dd2112b6b451c8de963c2b54a3e7409b4a286303"
+   "sha256": "995d898445131fe1bc6a0267d072134ca3330bcc9c5b94e3405717433f420237"
   },
   {
    "path": "lang/de.json",
