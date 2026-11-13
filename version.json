@@ -1,10 +1,10 @@
 {
- "version": "v350",
- "notes": "Útvonal-lista javítás: egy korábban betöltött útvonal háttérszála már nem írja felül az új útvonal helyeit",
+ "version": "v351",
+ "notes": "Az állapotsáv lenyíló részében a folyamatban lévő feladatok sárgák, a kész feladatok zöldek",
  "files": [
   {
    "path": "app.py",
-   "sha256": "73623eb660230da4762215f0a8dfdee15ad7e2e0cd36ad49a00569b78d7b0056"
+   "sha256": "a9a22f439549caccb87fc4025326a9beac94c45f2a9416e9ca9f93d69e7e67c2"
   },
   {
    "path": "lang/de.json",
