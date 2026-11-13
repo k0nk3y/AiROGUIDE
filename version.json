@@ -1,42 +1,42 @@
 {
- "version": "v351",
- "notes": "Az állapotsáv lenyíló részében a folyamatban lévő feladatok sárgák, a kész feladatok zöldek",
+ "version": "v352",
+ "notes": "Szabad repülésben a „Helyek száma” alapértéke Auto (a keresési sugárhoz igazodik); a két lista-méret súgóban: Ajánlott: Auto",
  "files": [
   {
    "path": "app.py",
-   "sha256": "a9a22f439549caccb87fc4025326a9beac94c45f2a9416e9ca9f93d69e7e67c2"
+   "sha256": "df483ca967e3e117063e0cd482a4c90112c54f1c8c6cf370e672d2464ffac28c"
   },
   {
    "path": "lang/de.json",
-   "sha256": "02c13e56726e0f8ccade42611f9eeb509de1ab90a8a41143b418895c199f6056"
+   "sha256": "fbe6b7e1ecee84df8057f84617eda40e099b3b2979fae94ad5e80f7f583a21a4"
   },
   {
    "path": "lang/es.json",
-   "sha256": "fe78832adc07e634b4d40876b5df9e91a7c75a018c45c405cfb2349a5f57ddba"
+   "sha256": "8115f0c228beebbb78135a253964d31ffa876e0067aea0c00aeb1a36ddc2f816"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "5f3240a559e3d84479e147e5c67913ba89538a710089829eb9185937e1d7c214"
+   "sha256": "91f383b1b8941baa13399d38635f2ebbf942ef7290cdf8109b21d4c0a59813bc"
   },
   {
    "path": "lang/it.json",
-   "sha256": "7bec18b6b285222a2c9a120754f29d85f6151a00ecc5c9630a802f4aacc9c52f"
+   "sha256": "aa3cf72f2e2abad3525a1190f94a0a443b04d9644f578b3a00585750fbb7c73d"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "599101879b0908d1fd411e0f0e1224d7861c6d12e13da3ae502bacc7c306af16"
+   "sha256": "942dd81f3146117f08e9fa2b79b2ecbe171e273d93e92af18540dce591935a6e"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "147d756f0847d5ea0b8991a91a2944b9a6d3f6b0487bafdd5c750e84d731ebb9"
+   "sha256": "89c9162da00ce180d057c0eacf3a5914b7f1cca03dec6b2fa92dd4fba442ddf3"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "6db2d3e18fcaea5581e61b93b898e73d854b7da612d714c3177808cb49b2ffa2"
+   "sha256": "8c2f3b9e419b9be4023fd2fe145666a428c81176b846863d26ffb958018bb100"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "8fed587a336577671093f8d535a47d85eb5654fb00c98f7c6e5d44b9e2853058"
+   "sha256": "c738ae48c093b05119ba4043c60753115a18d30abb6f1b176329f902a1563f73"
   }
  ]
 }
