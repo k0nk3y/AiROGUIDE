@@ -1,42 +1,42 @@
 {
- "version": "v355",
- "notes": "Állapotsáv: nem váltogat Keresés/Útvonal között betöltött útvonalnál, fix szélességű; a kész leírások sora zöld",
+ "version": "v356",
+ "notes": "Leírások beállítása egyszerűsítve: egy kapcsoló (Csak kérésre / Közeledéskor / Az egész útvonalra előre), alatta magyarázattal",
  "files": [
   {
    "path": "app.py",
-   "sha256": "3c8de2e4558e2b5d576eeea690724f7336b9914bee0c89e2986d660917a05d93"
+   "sha256": "f684eb189c01b282a867f7169d2d1ce7aede76f788d3bcb959ca01c0b8076d81"
   },
   {
    "path": "lang/de.json",
-   "sha256": "89c5fb119bbf53db59a2776f32753849706c34de81a441c6835bc3726bc3f524"
+   "sha256": "57b4328a46c714a5536e223a4efe2883751431954bc2aea6a9f164bb1cab945b"
   },
   {
    "path": "lang/es.json",
-   "sha256": "a58db599f12e2173ce9342b28488e3d5c7d6e4d42868d7823152b271fd35acc6"
+   "sha256": "9edcc9966b4a96fd35728746efacd988d2de1d48ace464eb0d833d40ccb4339b"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "41ecd1c370f833322fa06e8fee118254f75b73391d2847ae8eb22eecdc687875"
+   "sha256": "325362b303354ea9c1f178a72432a84409594a37852df4f45f3e6a07f2fe80fa"
   },
   {
    "path": "lang/it.json",
-   "sha256": "e24589e9f7ee0734bccadb7ea4f841d8c3270ff25f5c9ed57fd6f04ced07acca"
+   "sha256": "49190a5e5a0cc2e115d3eb9ced8272ebd47c243ea0b7c9d503c9623eadd588fa"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "5a6ac5324239ed037b05a472035c1638ccff65161e0a91bb660837960ed59257"
+   "sha256": "9424220e51cacfe7011ac0ded63747688a8396cd0bfbcd23268b69a7b72256c9"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "40245656983a409f07f06ed727b9f96e480a9889c2308214df0dd5186ecacbb3"
+   "sha256": "a72d651ba3841162f3b400df40ec151752ba3616ae00987f633234da229d9a3c"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "d50d9cad8f668f824492fbc4e72507fb89a3e135ecd345ec79e8b61ee093ffa5"
+   "sha256": "b54fda3f6db99e1ed106ae5c386ae75aeeb8a2c208759b60a5f1ea87010003b2"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "6170880f9ec8fea1fb5efd20641ad183cbdb702b3b85f7d50fa2eb089649032f"
+   "sha256": "68a0b2c9fd5cd28431bb4e71b96cee0639d2784a8a869b941de8e53431109718"
   }
  ]
 }
