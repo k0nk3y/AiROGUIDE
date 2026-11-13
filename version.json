@@ -1,10 +1,10 @@
 {
- "version": "v348",
- "notes": "Kért helyek száma: Auto mód (a helyi látványosságokhoz mérten), + További helyek gomb a lista alján; 3 új teszt útvonal a fejlesztői menüben (Alföld, Eger–Tokaj–Hortobágy–Debrecen, Nyugat-Dunántúl)",
+ "version": "v349",
+ "notes": "3 további, nem magyar teszt útvonal a fejlesztői menüben (Las Vegas–Grand Canyon, Norvégia fjordok, Egyiptom Nílus)",
  "files": [
   {
    "path": "app.py",
-   "sha256": "fc8ba92c7a9ca675dacd7796106ecb5e56485a092124fd6206f336c53f93f870"
+   "sha256": "2cbc60f8df418c6a4e13243dc044091e68564644363e60a98718c90190e16217"
   },
   {
    "path": "lang/de.json",
