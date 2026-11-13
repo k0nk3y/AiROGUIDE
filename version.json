@@ -1,10 +1,10 @@
 {
- "version": "v361",
- "notes": "Hova repüljek?: távolság-alapú tervezés (csúszka), az utazósebesség mező megszűnt; több hiányzó fordítás pótolva (Helyi index, Auto, Feljebb/Lejjebb, AI-hívások stb.)",
+ "version": "v362",
+ "notes": "Közeli keresés forrás-kapszula: a kiegészítő szöveg (leggyorsabb / lassabb) megszűnt",
  "files": [
   {
    "path": "app.py",
-   "sha256": "eeba59e09fbe8a61991814c4ec0f499a30be13c2685e1574c92ce68f8dc2f54f"
+   "sha256": "058999b04082db1b406aaae9dd2112b6b451c8de963c2b54a3e7409b4a286303"
   },
   {
    "path": "lang/de.json",
