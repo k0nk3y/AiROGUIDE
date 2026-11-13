@@ -1,42 +1,42 @@
 {
- "version": "v360",
- "notes": "Útvonal-lista: sírkamrák és számozott sírok (KV39, Királyok völgye 62) kiszűrve",
+ "version": "v361",
+ "notes": "Hova repüljek?: távolság-alapú tervezés (csúszka), az utazósebesség mező megszűnt; több hiányzó fordítás pótolva (Helyi index, Auto, Feljebb/Lejjebb, AI-hívások stb.)",
  "files": [
   {
    "path": "app.py",
-   "sha256": "e8d856db898569af3f81729663a11e70bf73bbddb3f2e1b35500768b10f59a14"
+   "sha256": "eeba59e09fbe8a61991814c4ec0f499a30be13c2685e1574c92ce68f8dc2f54f"
   },
   {
    "path": "lang/de.json",
-   "sha256": "8c7864dc722f81582521812ade6630850b870bb15db6f39dc9daabe5da232542"
+   "sha256": "b838301688d7d29a67deb733c848a10aa74f4234116bdaf695b2c6ba757e47c8"
   },
   {
    "path": "lang/es.json",
-   "sha256": "eca325fee65af8351ad41c8674465daf5211b3ee5a74857cbc381d4f40be2dd4"
+   "sha256": "f4c589e06e0d1dde46ea522d87f38240342484aac25f66df090d599aa7d18430"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "40da277b3f8c94c1e61fe18ccba15f1109733a72fc85bd4acddc33d55788b676"
+   "sha256": "b402d662db345ac83359a6deb44e6f1a22f6ad4f925b3f2967d0c66aa10c47db"
   },
   {
    "path": "lang/it.json",
-   "sha256": "61d4b8717c6fda6f80d5e0fb85b71f2cfdf35659c39d96ef265132e80fcec133"
+   "sha256": "a1faad4cbf6fe71da206d280b096d7ca5524ef240bae2c73520e7e81f25f4906"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "182870596b32b05be44be4324a4a43bf5c49c143dcaf552fecf2d48a2be3563c"
+   "sha256": "8b4578fc160d572a73c540792f3870ad7c67c1237de208d8f30b9afb9c4eb7f3"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "0340461d5bf4689a3af233e3bbc98718de73c0e915d012b0fe2192bbbfe8709a"
+   "sha256": "9c66752044d0bf76e58db4db1a41b291a2d861e097138814eedf556a45ca505a"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "9ce6ebb7f569f947d63f3176c730e35efd9db74f73f70b7c3928b422952d834e"
+   "sha256": "35fc6922dbd4cdc5d21c6ade8b8975daa87d55333f52eb85320f005f22d7595b"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "0ce0d7abe81848c5e8789ca44dca23df996a42ec6d42bcb88e9ca32ee3908828"
+   "sha256": "2203cb92922df53be01ad973be000ac47701a0ce3e8fc20bd3df3c00a2a11977"
   }
  ]
 }
