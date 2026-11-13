@@ -1,42 +1,42 @@
 {
- "version": "v347",
- "notes": "Útvonal-lista: 50 km-es AI-szakaszok (egyenletesebb lefedettség), a kért darabszám tényleges betartása (a Wikipédia-kiegészítés is ehhez igazodik), térkép-jellegű Wikipédia-képek kiszűrése",
+ "version": "v348",
+ "notes": "Kért helyek száma: Auto mód (a helyi látványosságokhoz mérten), + További helyek gomb a lista alján; 3 új teszt útvonal a fejlesztői menüben (Alföld, Eger–Tokaj–Hortobágy–Debrecen, Nyugat-Dunántúl)",
  "files": [
   {
    "path": "app.py",
-   "sha256": "d79ade870011568098f548bb8117690bef98138b1a2a02afe78392a1052efa42"
+   "sha256": "fc8ba92c7a9ca675dacd7796106ecb5e56485a092124fd6206f336c53f93f870"
   },
   {
    "path": "lang/de.json",
-   "sha256": "bbd9193c4e580cba9371e83727234cc0724babd1e1c81b770d2e6c0bcf18f800"
+   "sha256": "02c13e56726e0f8ccade42611f9eeb509de1ab90a8a41143b418895c199f6056"
   },
   {
    "path": "lang/es.json",
-   "sha256": "d6589b5b59cb616368918c24aa12be8232d8f758a049141216ad727551796026"
+   "sha256": "fe78832adc07e634b4d40876b5df9e91a7c75a018c45c405cfb2349a5f57ddba"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "852798dcec309ec0ba5624d699fe77cfe5c65309a9cd123ce68b704000f74969"
+   "sha256": "5f3240a559e3d84479e147e5c67913ba89538a710089829eb9185937e1d7c214"
   },
   {
    "path": "lang/it.json",
-   "sha256": "b1dc4b4037e281562d0a73be72a7304e4bd4a9f0ebc671994ef41a2228ab01ae"
+   "sha256": "7bec18b6b285222a2c9a120754f29d85f6151a00ecc5c9630a802f4aacc9c52f"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "2b33289963f13f1e5270b3dcc70783add70d3ea7e06b9c1547af7c53d62ce769"
+   "sha256": "599101879b0908d1fd411e0f0e1224d7861c6d12e13da3ae502bacc7c306af16"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "f140b095c737f43757f14dc18916ca907b6407cdb1b3bafae65db8f3f819a986"
+   "sha256": "147d756f0847d5ea0b8991a91a2944b9a6d3f6b0487bafdd5c750e84d731ebb9"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "a4a2920dc1fa7058d7de27719fef36769fc9cf442ac46571517b5d73becd0be0"
+   "sha256": "6db2d3e18fcaea5581e61b93b898e73d854b7da612d714c3177808cb49b2ffa2"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "090bfed0c13990da1eb05728d983d40aadd3b577892f98c615e81bed094b1760"
+   "sha256": "8fed587a336577671093f8d535a47d85eb5654fb00c98f7c6e5d44b9e2853058"
   }
  ]
 }
