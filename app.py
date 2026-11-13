@@ -2844,7 +2844,7 @@ def wiki_fill(a_, b_, Wc, existing, per_max=80):
     out = out[:per_max]
     try:                                                   # cegek, szervezetek kiszurese a bevezeto alapjan (a leiras gyakran ures)
         full_info([p["hu_pid"] for p in out], budget=20)
-        out = [p for p in out if not ORG_X_RE.search(_first_sentence((FULL.get(p["hu_pid"]) or {}).get("extract")))]
+        out = [p for p in out if SIGHT_RE.search(p["title"]) or not ORG_X_RE.search(_first_sentence((FULL.get(p["hu_pid"]) or {}).get("extract")))]
     except Exception:
         pass
     for p in out:
