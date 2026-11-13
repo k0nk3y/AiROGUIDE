@@ -1,10 +1,10 @@
 {
- "version": "v372",
- "notes": "Két kiadási változat: a flightsim.to-s kiadásban a frissítés csak emlékeztet, az online (edge-tts) hang kapcsolható és alapból ki van kapcsolva",
+ "version": "v373",
+ "notes": "Kiadási változat: saját verziószám (1.0), a fejlesztői eszközök rejtve, forrásmegjelölés a Névjegyben",
  "files": [
   {
    "path": "app.py",
-   "sha256": "e7233f35cd918b60fc0d81a46bdefaa5a6416272525723a9adb0f980f6cc8d35"
+   "sha256": "890b5224f13c771c1ae55e5f014878e7c5cac99078685e123a41a0e345a625e4"
   },
   {
    "path": "lang/de.json",
@@ -40,7 +40,7 @@
   }
  ],
  "release": {
-  "version": "v372",
+  "version": "1.0",
   "url": "https://flightsim.to/profile/k0nk3y"
  }
 }
