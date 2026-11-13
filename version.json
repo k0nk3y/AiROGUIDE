@@ -1,10 +1,10 @@
 {
- "version": "v359",
- "notes": "Beállítások: elválasztó vonal az Elhagyott helyek és a Szabad repülés beállításai között",
+ "version": "v360",
+ "notes": "Útvonal-lista: sírkamrák és számozott sírok (KV39, Királyok völgye 62) kiszűrve",
  "files": [
   {
    "path": "app.py",
-   "sha256": "487647750487a8377339953d064a047d1e7e3dee9b4b769cc9a3e60c64946cd4"
+   "sha256": "951ca8fcee1eb7486744e4d36c520f0b32e100a15aeb013c8c769ced2812c888"
   },
   {
    "path": "lang/de.json",
