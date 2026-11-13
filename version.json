@@ -1,10 +1,10 @@
 {
- "version": "v375",
- "notes": "Kiadási változat: info a kiadásnak megfelelő (nincs önfrissítés-állítás, nincs Újdonságok), frissítési link a flightsim.to oldalra",
+ "version": "v376",
+ "notes": "Mobil: a nagy térkép nézetben megnyitott leírás teljes magasságban látszik (nem csúszik össze)",
  "files": [
   {
    "path": "app.py",
-   "sha256": "331c7dffff1d8b2756c2018bd2ee1f37a38dc0528351da69937476f851f2ff12"
+   "sha256": "26a2d3e684100954f2583a465b24f143b40d68d44cb1712500d786425e930e9b"
   },
   {
    "path": "lang/de.json",
