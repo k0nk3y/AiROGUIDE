@@ -1,10 +1,10 @@
 {
- "version": "v365",
- "notes": "A „+ További helyek” gomb a lista alján rögzítve marad, és többször kérhető; a „Miért nincs ott a hely?” diagnosztika kiírja a pontszámot és hogy a hely a listában van-e",
+ "version": "v366",
+ "notes": "Obszervatóriumok, planetáriumok és távcsövek erősebb találatként szerepelnek az angol Wikipédia-kiegészítésben",
  "files": [
   {
    "path": "app.py",
-   "sha256": "32d908216a169acfac867f238a5a9ceae6818168db3ae5539ada25bc3889f180"
+   "sha256": "46ee458c08419c26488b9f9ad172c812a8de14b5e26d2651674fe66b195ece06"
   },
   {
    "path": "lang/de.json",
