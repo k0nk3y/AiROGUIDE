@@ -1,10 +1,10 @@
 {
- "version": "v370",
- "notes": "Felhőkarcolók és óriáskerekek is látnivalónak számítanak (pl. The Shard, London Eye)",
+ "version": "v371",
+ "notes": "A címükben épületet jelző helyek (pl. Mátyás-templom) nem esnek ki a bevezető szervezet/személy-szűrőjén",
  "files": [
   {
    "path": "app.py",
-   "sha256": "8ea97147e90586976b1a6a5a701b85e5e46f444de68bf83be9da1dd4d999fc97"
+   "sha256": "8e4150a2b17e164637378e4fd349a3c3c8c67018f36c8a7b3e61187a8b728994"
   },
   {
    "path": "lang/de.json",
