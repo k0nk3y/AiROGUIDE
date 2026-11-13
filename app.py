@@ -2593,7 +2593,7 @@ LIST_PROMPT = (
     "ha biztosan van ilyen, különben \"\", \"kind\": típus 1-3 magyar szóval, \"lat\": szélesség tizedfokban, \"lon\": hosszúság tizedfokban, "
     "\"importance\": 1 (említésre méltó), 2 (jelentős) vagy 3 (kiemelkedő, világhírű), \"visual\": 1 mondat arról, hogyan ismerhető fel a levegőből "
     "(alak, szín, környezet), csak ha biztosan tudod, különben üres}. Leírást NE írj.\n\nBEMENET:\n")
-_INTERIOR_RE = re.compile(r"orgon|oltár|oltar|freskó|kincstár|trónterem|díszterem|\bterem\b|kripta|szarkofág|festmény|\bharang\b|kiállítás|gyűjtemény|\borgan\b|\baltar\b|\bcrypt\b|treasury|\bmural|sírkamra|sirkamra|burial chamber|tomb chamber|^(?:kv|wv|tt|qv)\s?\d+\b|királyok völgye \d+|valley of the kings \d+", re.I)
+_INTERIOR_RE = re.compile(r"orgon|oltár|oltar|freskó|kincstár|trónterem|díszterem|\bterem\b|kripta|szarkofág|festmény|\bharang\b|kiállítás|gyűjtemény|\borgan\b|\baltar\b|\bcrypt\b|treasury|\bmural|sírkamr|sirkamr|burial chamber|tomb chamber|^(?:kv|wv|tt|qv)\s?\d+\b|királyok völgye \d+|valley of the kings \d+", re.I)
 LISTC = {}          # (szakasz-ujjlenyomat, sav, darab) -> nyers AI-lista (gyorsitotarba mentve)
 SIMPLE_MAX = 50     # az egesz utvonalra kert helyek szama (kb.)
 
