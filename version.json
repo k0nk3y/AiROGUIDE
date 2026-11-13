@@ -1,10 +1,10 @@
 {
- "version": "v363",
- "notes": "Fejlesztői diagnosztika (Miért nincs ott a hely?): az angol Wikipédia cikkeit is vizsgálja, és kiírja a szűrők eredményét",
+ "version": "v364",
+ "notes": "Radar módban újra megjelenik a „+ További helyek” gomb a lista alján",
  "files": [
   {
    "path": "app.py",
-   "sha256": "995d898445131fe1bc6a0267d072134ca3330bcc9c5b94e3405717433f420237"
+   "sha256": "3be80c936a8be5b52ae9b9b1aa250ddd06a1f1742e4b4ada06bb96449d81df4e"
   },
   {
    "path": "lang/de.json",
