@@ -1,10 +1,10 @@
 {
-  "version": "v8",
-  "notes": "WT v8: automatikus túratervező, rögzített lerepült szakaszok, újratervezés, érintendő pontok, sablon",
+  "version": "v9",
+  "notes": "WT v9: automatikus világkörüli út azonos indulás/cél esetén, dátumvonalon átívelő szakaszok rajza, ismeretlen felületű repülőterek jelölése",
   "files": [
     {
       "path": "app.py",
-      "sha256": "6861942ecf85ee6382b76593c757c09aa41f4642bf304237251858159338445a"
+      "sha256": "d1ef18c520c2aaa30443fbfc0c316a45509320ab86f50948f26358e006cdd3fa"
     },
     {
       "path": "lang/de.json",
