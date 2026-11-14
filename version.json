@@ -1,10 +1,10 @@
 {
- "version": "v377",
- "notes": "A fejlesztői változat verziója elé \"dev.\" kerül",
+ "version": "v378",
+ "notes": "Javítás: a verziócímke miatti folyamatos újratöltés (villogás) megszűnt",
  "files": [
   {
    "path": "app.py",
-   "sha256": "6041c3d0039d6bb23e08ae714a88eccd1b0cd72874f7d33fdefb33298dc6626f"
+   "sha256": "603c9f53b9f1c936926860b788397d3610e87b1b7da4b00e5f004a1a163bfa08"
   },
   {
    "path": "lang/de.json",
