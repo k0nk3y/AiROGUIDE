@@ -1,10 +1,10 @@
 {
-  "version": "v4",
-  "notes": "WT v4: a frissítő a tömörített adatfájlokat is kezeli",
+  "version": "v5",
+  "notes": "Javítás: a verziócímke miatti folyamatos újratöltés (villogás) megszűnt",
   "files": [
     {
       "path": "app.py",
-      "sha256": "05adf12b1db1eaa802c708cf2194ef1ff1def0b2ecb9c25833402b8c42b57c18"
+      "sha256": "67834d97d3ca670c432e346620ebe623c75b2f559b08352c8c67340adb6071fe"
     },
     {
       "path": "lang/de.json",
