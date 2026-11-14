@@ -1,10 +1,10 @@
 {
-  "version": "v7",
-  "notes": "WT v7: a repülőtér-kereső mező nem kínál böngésző-kitöltést, és a kiválasztott repülőtér újra kereshető",
+  "version": "v8",
+  "notes": "WT v8: automatikus túratervező, rögzített lerepült szakaszok, újratervezés, érintendő pontok, sablon",
   "files": [
     {
       "path": "app.py",
-      "sha256": "7125dcb235ee1b698ac0c6ff8e8fa759a926c7d5b0d54a76056e8751ca1b4fde"
+      "sha256": "6861942ecf85ee6382b76593c757c09aa41f4642bf304237251858159338445a"
     },
     {
       "path": "lang/de.json",
