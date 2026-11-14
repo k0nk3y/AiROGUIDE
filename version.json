@@ -1,10 +1,10 @@
 {
-  "version": "v2",
-  "notes": "WT v2: repülőtér-adatbázis (pályák, felületek) és kipróbáló oldal: /airports",
+  "version": "v3",
+  "notes": "WT v3: a repülőtér-kártya követi a gépprofilt",
   "files": [
     {
       "path": "app.py",
-      "sha256": "6d4cee1a1097913e4be4ca4e3a0471a2d212f39d218bf1942f5fe13c0018eeb3"
+      "sha256": "ac64ff4e8be59ad70cc6585898d54b9d9f167af45e9ab93acd25094bb9d43fe6"
     },
     {
       "path": "lang/de.json",
