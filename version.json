@@ -1,10 +1,10 @@
 {
-  "version": "v6",
-  "notes": "WT v6: Tour váz (/tour): gépek listája és szerkesztése, túrák, szakaszlista, aktív/lerepült állapot",
+  "version": "v7",
+  "notes": "WT v7: a repülőtér-kereső mező nem kínál böngésző-kitöltést, és a kiválasztott repülőtér újra kereshető",
   "files": [
     {
       "path": "app.py",
-      "sha256": "9927f8488dda84ec23b2c9289fe64426b94d25c558720ae69fad65f3c5278972"
+      "sha256": "7125dcb235ee1b698ac0c6ff8e8fa759a926c7d5b0d54a76056e8751ca1b4fde"
     },
     {
       "path": "lang/de.json",
