@@ -1,10 +1,10 @@
 {
- "version": "v376",
- "notes": "Mobil: a nagy térkép nézetben megnyitott leírás teljes magasságban látszik (nem csúszik össze)",
+ "version": "v1",
+ "notes": "AiROGUIDE WT (World Tour) fejlesztői ág, az 1.0 kiadásból indul",
  "files": [
   {
    "path": "app.py",
-   "sha256": "26a2d3e684100954f2583a465b24f143b40d68d44cb1712500d786425e930e9b"
+   "sha256": "082fcd65d23d0b58e6c4fb65a58aed8081af6666c8e606cf2918eabcc40102ec"
   },
   {
    "path": "lang/de.json",
@@ -38,9 +38,5 @@
    "path": "lang/zh.json",
    "sha256": "2203cb92922df53be01ad973be000ac47701a0ce3e8fc20bd3df3c00a2a11977"
   }
- ],
- "release": {
-  "version": "1.0",
-  "url": "https://flightsim.to/addon/119104/airoguide-sightseeing-guide"
- }
+ ]
 }
