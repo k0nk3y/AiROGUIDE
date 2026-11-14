@@ -1,42 +1,46 @@
 {
- "version": "v1",
- "notes": "AiROGUIDE WT (World Tour) fejlesztői ág, az 1.0 kiadásból indul",
- "files": [
-  {
-   "path": "app.py",
-   "sha256": "082fcd65d23d0b58e6c4fb65a58aed8081af6666c8e606cf2918eabcc40102ec"
-  },
-  {
-   "path": "lang/de.json",
-   "sha256": "b838301688d7d29a67deb733c848a10aa74f4234116bdaf695b2c6ba757e47c8"
-  },
-  {
-   "path": "lang/es.json",
-   "sha256": "f4c589e06e0d1dde46ea522d87f38240342484aac25f66df090d599aa7d18430"
-  },
-  {
-   "path": "lang/fr.json",
-   "sha256": "b402d662db345ac83359a6deb44e6f1a22f6ad4f925b3f2967d0c66aa10c47db"
-  },
-  {
-   "path": "lang/it.json",
-   "sha256": "a1faad4cbf6fe71da206d280b096d7ca5524ef240bae2c73520e7e81f25f4906"
-  },
-  {
-   "path": "lang/pl.json",
-   "sha256": "8b4578fc160d572a73c540792f3870ad7c67c1237de208d8f30b9afb9c4eb7f3"
-  },
-  {
-   "path": "lang/ru.json",
-   "sha256": "9c66752044d0bf76e58db4db1a41b291a2d861e097138814eedf556a45ca505a"
-  },
-  {
-   "path": "lang/sk.json",
-   "sha256": "35fc6922dbd4cdc5d21c6ade8b8975daa87d55333f52eb85320f005f22d7595b"
-  },
-  {
-   "path": "lang/zh.json",
-   "sha256": "2203cb92922df53be01ad973be000ac47701a0ce3e8fc20bd3df3c00a2a11977"
-  }
- ]
+  "version": "v2",
+  "notes": "WT v2: repülőtér-adatbázis (pályák, felületek) és kipróbáló oldal: /airports",
+  "files": [
+    {
+      "path": "app.py",
+      "sha256": "6d4cee1a1097913e4be4ca4e3a0471a2d212f39d218bf1942f5fe13c0018eeb3"
+    },
+    {
+      "path": "lang/de.json",
+      "sha256": "b838301688d7d29a67deb733c848a10aa74f4234116bdaf695b2c6ba757e47c8"
+    },
+    {
+      "path": "lang/es.json",
+      "sha256": "f4c589e06e0d1dde46ea522d87f38240342484aac25f66df090d599aa7d18430"
+    },
+    {
+      "path": "lang/fr.json",
+      "sha256": "b402d662db345ac83359a6deb44e6f1a22f6ad4f925b3f2967d0c66aa10c47db"
+    },
+    {
+      "path": "lang/it.json",
+      "sha256": "a1faad4cbf6fe71da206d280b096d7ca5524ef240bae2c73520e7e81f25f4906"
+    },
+    {
+      "path": "lang/pl.json",
+      "sha256": "8b4578fc160d572a73c540792f3870ad7c67c1237de208d8f30b9afb9c4eb7f3"
+    },
+    {
+      "path": "lang/ru.json",
+      "sha256": "9c66752044d0bf76e58db4db1a41b291a2d861e097138814eedf556a45ca505a"
+    },
+    {
+      "path": "lang/sk.json",
+      "sha256": "35fc6922dbd4cdc5d21c6ade8b8975daa87d55333f52eb85320f005f22d7595b"
+    },
+    {
+      "path": "lang/zh.json",
+      "sha256": "2203cb92922df53be01ad973be000ac47701a0ce3e8fc20bd3df3c00a2a11977"
+    },
+    {
+      "path": "data/airports_rwy.tsv.gz",
+      "sha256": "49d7d80d7195a923df79ab3681266efce313f742500b9bc2928ef88e13581c0b"
+    }
+  ]
 }
