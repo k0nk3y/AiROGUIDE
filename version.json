@@ -1,10 +1,10 @@
 {
-  "version": "v3",
-  "notes": "WT v3: a repülőtér-kártya követi a gépprofilt",
+  "version": "v4",
+  "notes": "WT v4: a frissítő a tömörített adatfájlokat is kezeli",
   "files": [
     {
       "path": "app.py",
-      "sha256": "ac64ff4e8be59ad70cc6585898d54b9d9f167af45e9ab93acd25094bb9d43fe6"
+      "sha256": "05adf12b1db1eaa802c708cf2194ef1ff1def0b2ecb9c25833402b8c42b57c18"
     },
     {
       "path": "lang/de.json",
@@ -37,10 +37,6 @@
     {
       "path": "lang/zh.json",
       "sha256": "2203cb92922df53be01ad973be000ac47701a0ce3e8fc20bd3df3c00a2a11977"
-    },
-    {
-      "path": "data/airports_rwy.tsv.gz",
-      "sha256": "49d7d80d7195a923df79ab3681266efce313f742500b9bc2928ef88e13581c0b"
     }
   ]
 }
