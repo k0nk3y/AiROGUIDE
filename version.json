@@ -1,10 +1,10 @@
 {
-  "version": "v9",
-  "notes": "WT v9: automatikus világkörüli út azonos indulás/cél esetén, dátumvonalon átívelő szakaszok rajza, ismeretlen felületű repülőterek jelölése",
+  "version": "v10",
+  "notes": "WT v10: átrepülős pontok (helykeresés, koordináta, térkép), körzetes sablon, pályarajz a repülőtér-kártyán, Keres gomb javítás",
   "files": [
     {
       "path": "app.py",
-      "sha256": "d1ef18c520c2aaa30443fbfc0c316a45509320ab86f50948f26358e006cdd3fa"
+      "sha256": "8d15b7c25323f7be3ed67a2ef84d0a5806988d188706868fb6c62dbc2647d8a1"
     },
     {
       "path": "lang/de.json",
@@ -37,6 +37,10 @@
     {
       "path": "lang/zh.json",
       "sha256": "2203cb92922df53be01ad973be000ac47701a0ce3e8fc20bd3df3c00a2a11977"
+    },
+    {
+      "path": "data/airports_rwy.tsv.gz",
+      "sha256": "8f6b1709bc20be3f28e94e4ac86d9d752d592d272c85501d8eff29328c120b40"
     }
   ]
 }

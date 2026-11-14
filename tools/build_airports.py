@@ -2,7 +2,7 @@
 """Repuloter+palya adatbazis epitese az OurAirports (kozkincs) CSV-kbol.
 Hasznalat: python build_airports.py <ourairports-data mappa> <kimenet.tsv.gz>
 Kimenet soronkent: ICAO, nev, lat, lon, elev_ft, tipus, orszag, telepules, palyak
-palyak = ';'-vel elvalasztva: azon|hossz_ft|szeles_ft|felulet|vilagitas|lezart   (felulet: H kemeny, G fu, V kavics, D fold, W viz, S ho/jeg, U ismeretlen)"""
+palyak = ';'-vel elvalasztva: azon|hossz_ft|szeles_ft|felulet|vilagitas|lezart|le_lat|le_lon|he_lat|he_lon   (felulet: H kemeny, G fu, V kavics, D fold, W viz, S ho/jeg, U ismeretlen)"""
 import csv, gzip, sys, os, re
 
 def surf(s):
@@ -30,7 +30,15 @@ for r in csv.DictReader(open(os.path.join(src, "runways.csv"), encoding="utf-8")
     if L <= 0:
         continue
     ident = "%s/%s" % (r["le_ident"], r["he_ident"]) if r["he_ident"] else r["le_ident"]
-    rw.setdefault(r["airport_ident"], []).append("%s|%d|%d|%s|%s|%s" % (ident.replace("|", "").replace(";", ""), L, W, surf(r["surface"]), r["lighted"] or "0", r["closed"] or "0"))
+    def cc(k):
+        try:
+            return "%.5f" % float(r[k])
+        except (KeyError, ValueError):
+            return ""
+    co = "|".join(cc(k) for k in ("le_latitude_deg", "le_longitude_deg", "he_latitude_deg", "he_longitude_deg"))
+    if not all(cc(k) for k in ("le_latitude_deg", "le_longitude_deg", "he_latitude_deg", "he_longitude_deg")):
+        co = ""
+    rw.setdefault(r["airport_ident"], []).append("%s|%d|%d|%s|%s|%s|%s" % (ident.replace("|", "").replace(";", ""), L, W, surf(r["surface"]), r["lighted"] or "0", r["closed"] or "0", co))
 n = 0
 with gzip.open(out, "wt", encoding="utf-8") as f:
     for r in csv.DictReader(open(os.path.join(src, "airports.csv"), encoding="utf-8")):
@@ -41,7 +49,7 @@ with gzip.open(out, "wt", encoding="utf-8") as f:
         if r["type"] in ("heliport", "balloonport") and not rws:
             continue
         if r["type"] == "seaplane_base" and not rws:
-            rws = ["WATER|0|0|W|0|0"]
+            rws = ["WATER|0|0|W|0|0|"]
         try:
             el = int(float(r["elevation_ft"] or 0))
         except ValueError:
