@@ -1,10 +1,10 @@
 {
-  "version": "v40",
-  "notes": "WT v40: Világkörüli út – a start melletti körzet (pl. Rióból Grönland) az út elejére kerül, így nincs zsákutcás visszatérés a kör végén",
+  "version": "41",
+  "notes": "Dél-atlanti start (pl. Rio) nyugati irányban: a Grönland-körzet az út végére került, így nincs oda-vissza zsákutca, és a keleti irányú kör is hibátlanul záródik.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "6d895bfa004b3e7e0bc91bf029677dc218227878cb5ae64a087f923693730a8d"
+      "sha256": "7e37ed99c2af3ff0b5263bfa24a899b792798587f63db96338be6e4ec31e724d"
     },
     {
       "path": "lang/de.json",
