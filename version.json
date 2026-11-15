@@ -1,10 +1,10 @@
 {
- "version": "v380",
- "notes": "Javítás: a tűzfal-gomb csak akkor jelenik meg, ha még nincs AiROGUIDE tűzfal-szabály",
+ "version": "v381",
+ "notes": "Vezérlőablak: a frissítés-sor követi a nyelvet; új verzió esetén Újdonságok és Letöltés (flightsim.to) gomb a kiadásban",
  "files": [
   {
    "path": "app.py",
-   "sha256": "5e2920c5881140be8eb0825791196ea2788020985416f191da4b5ab6ab542e91"
+   "sha256": "3d917bcd65cd9fe0fcd6097aef3d883653de40f8ead521267db44246446458ae"
   },
   {
    "path": "lang/de.json",
