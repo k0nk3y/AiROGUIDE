@@ -1,10 +1,10 @@
 {
- "version": "v383",
- "notes": "Az Újdonságok és Letöltés gomb a státusz-kártya aljára, jobbra került",
+ "version": "v384",
+ "notes": "A tűzfal-gomb mostantól minden hálózati profilra (nem csak privátra) engedélyezi a portot a helyi hálózatról, és törli a programot tiltó szabályokat; a gomb a régi, csak privát szabálynál újra megjelenik",
  "files": [
   {
    "path": "app.py",
-   "sha256": "7ff643fc3f0840a528d4d17989fa79acbdd5ade177317cca5106c54ed8e23fd1"
+   "sha256": "1e25de53d45181296f8a23b2ab428336b6fffed8b169a672b076908d8b427f4d"
   },
   {
    "path": "lang/de.json",
