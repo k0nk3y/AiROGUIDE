@@ -1,10 +1,10 @@
 {
-  "version": "v31",
-  "notes": "WT v31: azonos számjelű kifutó nem szerepelhet kétszer: a közeli, azonos jelű OSM-kifutó az adatbázisbelivel egybeolvad (pl. YSSY 16L)",
+  "version": "v32",
+  "notes": "WT v32: a reptér-rajzról kimaradnak a másik repülőtérhez tartozó kifutók (pl. KOSH mellett a Pioneer Airport), és az azonos jelű, távoli kifutó sem kerül bele",
   "files": [
     {
       "path": "app.py",
-      "sha256": "725e418af6928d430700c6b01f0bffd8d06f39fc80562b26fa95f8eeba544166"
+      "sha256": "b1cee03c0ddb5c5eaa7a790cb1a49218a883a7e92691cd31c7809eca210b90d5"
     },
     {
       "path": "lang/de.json",
