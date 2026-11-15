@@ -1,10 +1,10 @@
 {
-  "version": "v12",
-  "notes": "WT v12: szebb repülőtér-rajz (középvonal, küszöbcsíkok), taxik, kötények és épületek az OpenStreetMapból",
+  "version": "v13",
+  "notes": "WT v13: új túra űrlap (csak gép és indulás kötelező, túratípus és sablon gombok, + gombos pont/cél hozzáadás), alaprajz-letöltés hibaüzenettel és több tükörrel",
   "files": [
     {
       "path": "app.py",
-      "sha256": "3ca02e62a8d05f73040a09f00d519e646d87360fb42c02bf2e925b581a066e20"
+      "sha256": "743c6e5c4e2fdb40936f3791c32d2d8c141a1ed6235a83ac16eb307c459b272a"
     },
     {
       "path": "lang/de.json",
