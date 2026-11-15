@@ -1,10 +1,10 @@
 {
-  "version": "v24",
-  "notes": "WT v24: a reptér-rajzon az OSM-kifutó nem duplázódik az adatbázisival (pl. EGHL), és a távoli, másik reptérhez tartozó kifutók (pl. Letňany LKKB mellett) nem kerülnek bele",
+  "version": "v25",
+  "notes": "WT v25: a reptér-rajzon a párhuzamos kifutók külön látszanak (pl. EDRK), a távoli kifutók (pl. Letňany) kimaradnak, és a rajz kitölti a területet (pl. KOSH)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "9b62038829c82e70f5973c85b348cc48dd6278fed6d6938c058b36f79e607f67"
+      "sha256": "75e046d67e48276d46f7465752c2f31f8f27e9d49d7a1fa4024421987b610c4a"
     },
     {
       "path": "lang/de.json",
