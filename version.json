@@ -1,10 +1,10 @@
 {
- "version": "v382",
- "notes": "Demó: az Újdonságok és Letöltés gomb megjelenítésének kipróbálása (airoguide_demo_update.txt)",
+ "version": "v383",
+ "notes": "Az Újdonságok és Letöltés gomb a státusz-kártya aljára, jobbra került",
  "files": [
   {
    "path": "app.py",
-   "sha256": "11d9894f8a34368ac5870b9f8f898412dcd14183a049190da0995df904fdce2f"
+   "sha256": "7ff643fc3f0840a528d4d17989fa79acbdd5ade177317cca5106c54ed8e23fd1"
   },
   {
    "path": "lang/de.json",
