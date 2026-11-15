@@ -1,42 +1,42 @@
 {
- "version": 385,
+ "version": 386,
  "notes": "SimBrief import: az Útvonal betöltése oldalon az EFB szinkron kártya „Szinkron” lett két gombbal (EFB és SimBrief). A SimBrief gombra először a felhasználóneved vagy pilóta-azonosítód kell megadni (csak ezen a gépen tárolódik), majd megmutatja a legutóbbi terv előnézetét, és jóváhagyás után betölti.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "d9e0c701f5ed31a85e66ce3b44fe74507708fcbc646e466d7319f6699b769517"
+   "sha256": "d50846dac1e5ab2b3c666662b82622b2b6492cb6404c23b1e2156dae75ef8da0"
   },
   {
    "path": "lang/de.json",
-   "sha256": "1e8831ba9e6c27e4976e239726799c94baf6c7a4ad8c7a94b3ef595d2793d81f"
+   "sha256": "c3f961f9f58c30bad3844d99cc87b30a3566fe535cb153abacc459dea285cefc"
   },
   {
    "path": "lang/es.json",
-   "sha256": "001182533516ccac8ffffa77ea247cd20df1a52b949b02e27987fb6a588b0ba2"
+   "sha256": "2ae4311c70bf6c1d9e2b153d4fb9bbf910dcb2f704e4e3d715721b0b9f4113e5"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "251aa8b373fa913553086de675d0c26c3e941ec99a0be768fd8f4a2fc25371fc"
+   "sha256": "adfb986f018e1332bd0bf7bfc96ea0b50bd7ef8de165baf7f6dbb62c430f34f0"
   },
   {
    "path": "lang/it.json",
-   "sha256": "8f9ece3710f0120fcee50d33bdbce66cf592d1ad61e683c2d86f61ecc69d9655"
+   "sha256": "aa8777b5608ed0eee9585ae0fc25aebbb99a5d4786f2403933ab2b136933449d"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "b0f6b10e4f97fea9beacfcd2fa50d9af04de85cd13d774dcce318f8477c5e734"
+   "sha256": "b822b6204efea61b39a4eb03fa97b4cbad2333b9c1cd678fc98b91d5d4f5f672"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "d2558f82d0931eaa4a79ee36a1d8bb986bfb8fedeaba58508ac3e488f618e36b"
+   "sha256": "673e2b8acb38c6cf37e06878010c308e8df076d9d5c32eee9da8a6a2970799fa"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "5197dd09c8f0ea940c764758c5cb073d8a7810278102079b0b38ed29a8f5f50c"
+   "sha256": "f4f0c57093e2b005e6eebb43bf1d2a2766a0691d261fb9b7220ecba7534e2861"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "dd06667e848742ed59c4ff12973750cc5ddf26f76646d2c7ccd53f43e9fd5b24"
+   "sha256": "0e07691f2cbd7a5b494e0ace9784d9549e1b1b55b5f6eef0e18b8036115e6cb6"
   }
  ],
  "release": {
