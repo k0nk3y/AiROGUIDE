@@ -1,10 +1,10 @@
 {
-  "version": "v19",
-  "notes": "WT v19: az OpenStreetMapben szereplő, de az adatbázisból hiányzó kifutók (pl. Sandskeið) is megjelennek a rajzon",
+  "version": "v20",
+  "notes": "WT v20: \"újratölt\" link az alaprajz mellett (kényszerített frissítés a gyorsítótár helyett)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "fe786b8f0fca43480f49c9326e50c06ee09afcd98daf5b0bf544d910914a87ec"
+      "sha256": "abfa28c74cbb32cdf81de4785b0c8447a572600063315b492c2e947b526de64d"
     },
     {
       "path": "lang/de.json",
