@@ -1,10 +1,10 @@
 {
-  "version": "v33",
-  "notes": "WT v33: az AiROGUIDE World Tour logó megjelenik a túraszervező és a repülőtér-kereső oldal tetején",
+  "version": "v34",
+  "notes": "WT v34: Túrák oldal csak a mentett túrákat mutatja + Új túra gomb (az új túra tiszta oldalsávon); 17 MSFS 2024 kisgép alapból; Repülőterek külön fül (legutóbbiak, Nagyítás kártya, felület/világítás jelvényekkel)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "91ff86b2500eb6c67285f5808e0c964f1633bd2325b9008f0849c08e0a0cc032"
+      "sha256": "efe9c4891e8eb3d442f0a81c66f1daded5bb1371d1532b4493bc908a6f66e588"
     },
     {
       "path": "lang/de.json",
