@@ -1,10 +1,10 @@
 {
-  "version": "v30",
-  "notes": "WT v30: a reptér-rajzon a félkész OSM-szám (pl. \"18\") nem írja felül a teljes feliratot (18/36), és a kifutó mentén futó rövid OSM-darab (pl. YSSY 16L) nem jelenik meg külön pályaként",
+  "version": "v31",
+  "notes": "WT v31: azonos számjelű kifutó nem szerepelhet kétszer: a közeli, azonos jelű OSM-kifutó az adatbázisbelivel egybeolvad (pl. YSSY 16L)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "62f6926655b19d82c6d52ea9edd6adfa263d88d58b49b7566cbf68f50b948926"
+      "sha256": "725e418af6928d430700c6b01f0bffd8d06f39fc80562b26fa95f8eeba544166"
     },
     {
       "path": "lang/de.json",
