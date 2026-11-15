@@ -1,10 +1,10 @@
 {
-  "version": "v17",
-  "notes": "WT v17: alaprajz-letöltés több tükörszerverrel (lépcsőzetesen), csomagolt alaprajzok támogatása, előre letöltő eszköz (tools/build_layouts.py)",
+  "version": "v18",
+  "notes": "WT v18: alaprajz-letöltés: hibánál azonnal a következő szerver, \"újra\" gomb a hibaüzenet mellett",
   "files": [
     {
       "path": "app.py",
-      "sha256": "44c2ee3636c3ed37f374a937f72d451787d2a14f474e1f97de16d154b1d279ac"
+      "sha256": "cd3f193524c32434fbdd14895743f6218fefa8317649af85703009f0c6e24420"
     },
     {
       "path": "lang/de.json",
