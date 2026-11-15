@@ -1,10 +1,10 @@
 {
-  "version": "v25",
-  "notes": "WT v25: a reptér-rajzon a párhuzamos kifutók külön látszanak (pl. EDRK), a távoli kifutók (pl. Letňany) kimaradnak, és a rajz kitölti a területet (pl. KOSH)",
+  "version": "v26",
+  "notes": "WT v26: útvonal-tervezés közben élő számláló és folyamatjelző sáv (hányadik pont, kész szakaszok, eltelt idő)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "75e046d67e48276d46f7465752c2f31f8f27e9d49d7a1fa4024421987b610c4a"
+      "sha256": "b28dcb086121f37ccc976771c8d1f5f70d7bcdb2b2445e2d8155ba1cf913236d"
     },
     {
       "path": "lang/de.json",
