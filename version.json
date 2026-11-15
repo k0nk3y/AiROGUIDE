@@ -1,10 +1,10 @@
 {
-  "version": "v22",
-  "notes": "WT v22: OSM-kifutók a táblázatban és a jelmagyarázatban, pontosabb duplikátum-szűrés, fű színe más, OSM-számozás a rajzon",
+  "version": "v23",
+  "notes": "WT v23: az OSM-kifutók számozása a helyes végre kerül (pl. 01/19)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "7e4aa518186695316d1e331c05dc4e7ad4b5d115e595f97794e3882eb65000ac"
+      "sha256": "7b19cb7b1772b7c27177ad4185a20c7d144b8eb463313d9360c3e59cba0a8904"
     },
     {
       "path": "lang/de.json",
