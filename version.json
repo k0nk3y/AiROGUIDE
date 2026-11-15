@@ -1,10 +1,10 @@
 {
-  "version": "v10",
-  "notes": "WT v10: átrepülős pontok (helykeresés, koordináta, térkép), körzetes sablon, pályarajz a repülőtér-kártyán, Keres gomb javítás",
+  "version": "v11",
+  "notes": "WT v11: részletes pályarajz (küszöbcsíkok, célpont, érintési zóna, középvonal, számok, fények), pályára kattintva váltható",
   "files": [
     {
       "path": "app.py",
-      "sha256": "8d15b7c25323f7be3ed67a2ef84d0a5806988d188706868fb6c62dbc2647d8a1"
+      "sha256": "1bbc642c8c8cae5b8064e7ee2d8f9ca889a4745bcf7a43a31cbadd44d7ea4e6b"
     },
     {
       "path": "lang/de.json",
