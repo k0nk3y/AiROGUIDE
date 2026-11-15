@@ -1,10 +1,10 @@
 {
-  "version": "v16",
-  "notes": "WT v16: a kijelölt repülőtér kiemelve a térképen és a listában, másodperc-számláló az alaprajz betöltéséhez",
+  "version": "v17",
+  "notes": "WT v17: alaprajz-letöltés több tükörszerverrel (lépcsőzetesen), csomagolt alaprajzok támogatása, előre letöltő eszköz (tools/build_layouts.py)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "ceeac1e34a6b1273f59fe64dd6a69a99c6f591ac40e4dc569dc8a70e9478cf90"
+      "sha256": "44c2ee3636c3ed37f374a937f72d451787d2a14f474e1f97de16d154b1d279ac"
     },
     {
       "path": "lang/de.json",
@@ -41,6 +41,10 @@
     {
       "path": "data/airports_rwy.tsv.gz",
       "sha256": "8f6b1709bc20be3f28e94e4ac86d9d752d592d272c85501d8eff29328c120b40"
+    },
+    {
+      "path": "tools/build_layouts.py",
+      "sha256": "43874517eec685978b220ad4080a373368fa729ca9421c4b080fca1a97154159"
     }
   ]
 }
