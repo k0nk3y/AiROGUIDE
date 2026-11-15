@@ -1,10 +1,10 @@
 {
-  "version": "v29",
-  "notes": "WT v29: a reptér-rajzon a párosított adatbázis-kifutó az OSM pontosabb irányát követi (pl. EDRK párhuzamos kifutói)",
+  "version": "v30",
+  "notes": "WT v30: a reptér-rajzon a félkész OSM-szám (pl. \"18\") nem írja felül a teljes feliratot (18/36), és a kifutó mentén futó rövid OSM-darab (pl. YSSY 16L) nem jelenik meg külön pályaként",
   "files": [
     {
       "path": "app.py",
-      "sha256": "d35d2e20a111eed7e413954eef769507c7e118be7ace8ed24e29289e58902506"
+      "sha256": "62f6926655b19d82c6d52ea9edd6adfa263d88d58b49b7566cbf68f50b948926"
     },
     {
       "path": "lang/de.json",
