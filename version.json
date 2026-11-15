@@ -1,10 +1,10 @@
 {
-  "version": "v14",
-  "notes": "WT v14: gyorsabb alaprajz-lekérdezés (téglalap-keresés, elemtípusonként)",
+  "version": "v15",
+  "notes": "WT v15: alaprajz-letöltés kisebb területtel és a három szerver egyszerre (kevesebb időtúllépés)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "f73b9abdce33fcd78a6f404716d0f204c2fffbfd1b6c7e8663dadb0223d529b9"
+      "sha256": "05cc34cd5e95c29da62b21aaba1853e2174c108f840241d68b7db73ff7a1be5c"
     },
     {
       "path": "lang/de.json",
