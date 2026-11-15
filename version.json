@@ -1,10 +1,10 @@
 {
-  "version": "v37",
-  "notes": "WT v37: Rögzített fejléc a fő program stílusában (világos/sötét téma), a gombok a fejlécben: ← AiROGUIDE, Túrák, Gépek, Repülőterek; Irány választó a világkörüli úthoz (automatikus / nyugat felé / kelet felé)",
+  "version": "v38",
+  "notes": "WT v38: Világkörüli út – a Szibéria és Izland áthidaló körzet miatt a kör az Atlanti-óceán és Eurázsia felett is a kiválasztott irányban zárul (pl. Rio: nyugat felé és kelet felé is teljes kör); a Grönland–Kanada átkelés is megtalálható dél felől",
   "files": [
     {
       "path": "app.py",
-      "sha256": "c439c40e86be0d73c3b3a9a63c2f88512204a69e57b2c3af239dbb04c8ada407"
+      "sha256": "9b1a8b3734aece45a1fb944f53247fd819645d2779483b0742281cb4cb8de10b"
     },
     {
       "path": "lang/de.json",
