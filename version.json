@@ -1,10 +1,10 @@
 {
-  "version": "v34",
-  "notes": "WT v34: Túrák oldal csak a mentett túrákat mutatja + Új túra gomb (az új túra tiszta oldalsávon); 17 MSFS 2024 kisgép alapból; Repülőterek külön fül (legutóbbiak, Nagyítás kártya, felület/világítás jelvényekkel)",
+  "version": "v35",
+  "notes": "WT v35: Reptér rajz – ha az adatbázis kifutójának nincs értelmezhető koordinátája (pl. LHBS), a párját a számozás és a hossz alapján keresi az OSM-rajzban, így a világított/felület jelzés a valódi kifutóra kerül",
   "files": [
     {
       "path": "app.py",
-      "sha256": "efe9c4891e8eb3d442f0a81c66f1daded5bb1371d1532b4493bc908a6f66e588"
+      "sha256": "66091b60cb039128be30db1f9ecb71016a4f15fe33ec3dfed756af67ad66310b"
     },
     {
       "path": "lang/de.json",
