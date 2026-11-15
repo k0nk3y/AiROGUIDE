@@ -1,42 +1,42 @@
 {
- "version": "v384",
- "notes": "A tűzfal-gomb mostantól minden hálózati profilra (nem csak privátra) engedélyezi a portot a helyi hálózatról, és törli a programot tiltó szabályokat; a gomb a régi, csak privát szabálynál újra megjelenik",
+ "version": 385,
+ "notes": "SimBrief import: az Útvonal betöltése oldalon az EFB szinkron kártya „Szinkron” lett két gombbal (EFB és SimBrief). A SimBrief gombra először a felhasználóneved vagy pilóta-azonosítód kell megadni (csak ezen a gépen tárolódik), majd megmutatja a legutóbbi terv előnézetét, és jóváhagyás után betölti.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "1e25de53d45181296f8a23b2ab428336b6fffed8b169a672b076908d8b427f4d"
+   "sha256": "d9e0c701f5ed31a85e66ce3b44fe74507708fcbc646e466d7319f6699b769517"
   },
   {
    "path": "lang/de.json",
-   "sha256": "b838301688d7d29a67deb733c848a10aa74f4234116bdaf695b2c6ba757e47c8"
+   "sha256": "1e8831ba9e6c27e4976e239726799c94baf6c7a4ad8c7a94b3ef595d2793d81f"
   },
   {
    "path": "lang/es.json",
-   "sha256": "f4c589e06e0d1dde46ea522d87f38240342484aac25f66df090d599aa7d18430"
+   "sha256": "001182533516ccac8ffffa77ea247cd20df1a52b949b02e27987fb6a588b0ba2"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "b402d662db345ac83359a6deb44e6f1a22f6ad4f925b3f2967d0c66aa10c47db"
+   "sha256": "251aa8b373fa913553086de675d0c26c3e941ec99a0be768fd8f4a2fc25371fc"
   },
   {
    "path": "lang/it.json",
-   "sha256": "a1faad4cbf6fe71da206d280b096d7ca5524ef240bae2c73520e7e81f25f4906"
+   "sha256": "8f9ece3710f0120fcee50d33bdbce66cf592d1ad61e683c2d86f61ecc69d9655"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "8b4578fc160d572a73c540792f3870ad7c67c1237de208d8f30b9afb9c4eb7f3"
+   "sha256": "b0f6b10e4f97fea9beacfcd2fa50d9af04de85cd13d774dcce318f8477c5e734"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "9c66752044d0bf76e58db4db1a41b291a2d861e097138814eedf556a45ca505a"
+   "sha256": "d2558f82d0931eaa4a79ee36a1d8bb986bfb8fedeaba58508ac3e488f618e36b"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "35fc6922dbd4cdc5d21c6ade8b8975daa87d55333f52eb85320f005f22d7595b"
+   "sha256": "5197dd09c8f0ea940c764758c5cb073d8a7810278102079b0b38ed29a8f5f50c"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "2203cb92922df53be01ad973be000ac47701a0ce3e8fc20bd3df3c00a2a11977"
+   "sha256": "dd06667e848742ed59c4ff12973750cc5ddf26f76646d2c7ccd53f43e9fd5b24"
   }
  ],
  "release": {
