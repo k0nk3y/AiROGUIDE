@@ -1,10 +1,10 @@
 {
-  "version": "v35",
-  "notes": "WT v35: Reptér rajz – ha az adatbázis kifutójának nincs értelmezhető koordinátája (pl. LHBS), a párját a számozás és a hossz alapján keresi az OSM-rajzban, így a világított/felület jelzés a valódi kifutóra kerül",
+  "version": "v36",
+  "notes": "WT v36: Túratervező – a távoli (pl. dél-amerikai) indulóknál a keresés sokkal gyorsabb, a körzetek nem maradnak ki (Rio: 0 → teljes körút); Reptér rajz: koordináta nélküli adatbázis-kifutók párosítása (LHBS)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "66091b60cb039128be30db1f9ecb71016a4f15fe33ec3dfed756af67ad66310b"
+      "sha256": "28e5b87e867e6613c060e1d96f1c78eac31122a72f0815c7cf0d313cf92080b8"
     },
     {
       "path": "lang/de.json",
