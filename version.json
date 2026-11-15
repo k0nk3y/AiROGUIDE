@@ -1,10 +1,10 @@
 {
- "version": "v378",
- "notes": "Javítás: a verziócímke miatti folyamatos újratöltés (villogás) megszűnt",
+ "version": "v379",
+ "notes": "Javítás: a vezérlőablak követi a választott nyelvet (es, de, ru, pl, sk, it, zh, fr); tűzfal-szabály gomb a hálózati eléréshez",
  "files": [
   {
    "path": "app.py",
-   "sha256": "603c9f53b9f1c936926860b788397d3610e87b1b7da4b00e5f004a1a163bfa08"
+   "sha256": "923f0ebc1b1c367ddc58800907ab722ce93314deffacea3ea2bc4c7b2d03cee7"
   },
   {
    "path": "lang/de.json",
