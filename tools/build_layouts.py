@@ -52,19 +52,26 @@ def parse(js):
             continue
         t = e.get("tags") or {}
         k = t.get("aeroway") or ""
-        if k not in KINDS or k == "runway":
+        if k not in KINDS:
             continue
         p = [[round(x["lat"], 5), round(x["lon"], 5)] for x in (e.get("geometry") or []) if "lat" in x and "lon" in x]
         if len(p) < 2:
             continue
         if len(p) > 400:
             p = p[::max(1, len(p) // 400)]
-        out.append({"k": k, "r": str(t.get("ref") or "")[:6], "p": p})
+        o = {"k": k, "r": str(t.get("ref") or "")[:9], "p": p}
+        if k == "runway":
+            o["s"] = str(t.get("surface") or "")[:14]
+            try:
+                o["w"] = int(float(str(t.get("width") or "0").split()[0]))
+            except Exception:
+                o["w"] = 0
+        out.append(o)
     return out
 
 
 def fetch(a, tries=6):
-    q = "[out:json][timeout:60];(" + "".join('way["aeroway"="%s"](%s);' % (k, bbox(a)) for k in KINDS if k != "runway") + ");out geom qt;"
+    q = "[out:json][timeout:60];(" + "".join('way["aeroway"="%s"](%s);' % (k, bbox(a)) for k in KINDS) + ");out geom qt;"
     body = urllib.parse.urlencode({"data": q}).encode()
     last = ""
     for i in range(tries):

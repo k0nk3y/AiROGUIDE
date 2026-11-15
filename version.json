@@ -1,10 +1,10 @@
 {
-  "version": "v18",
-  "notes": "WT v18: alaprajz-letöltés: hibánál azonnal a következő szerver, \"újra\" gomb a hibaüzenet mellett",
+  "version": "v19",
+  "notes": "WT v19: az OpenStreetMapben szereplő, de az adatbázisból hiányzó kifutók (pl. Sandskeið) is megjelennek a rajzon",
   "files": [
     {
       "path": "app.py",
-      "sha256": "cd3f193524c32434fbdd14895743f6218fefa8317649af85703009f0c6e24420"
+      "sha256": "fe786b8f0fca43480f49c9326e50c06ee09afcd98daf5b0bf544d910914a87ec"
     },
     {
       "path": "lang/de.json",
@@ -44,7 +44,7 @@
     },
     {
       "path": "tools/build_layouts.py",
-      "sha256": "43874517eec685978b220ad4080a373368fa729ca9421c4b080fca1a97154159"
+      "sha256": "d265da9d7f63c86304ce0a9c68bc12dd10e0029f952d4db5c885479da405739e"
     }
   ]
 }
