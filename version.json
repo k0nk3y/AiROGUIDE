@@ -1,10 +1,10 @@
 {
- "version": "v379",
- "notes": "Javítás: a vezérlőablak követi a választott nyelvet (es, de, ru, pl, sk, it, zh, fr); tűzfal-szabály gomb a hálózati eléréshez",
+ "version": "v380",
+ "notes": "Javítás: a tűzfal-gomb csak akkor jelenik meg, ha még nincs AiROGUIDE tűzfal-szabály",
  "files": [
   {
    "path": "app.py",
-   "sha256": "923f0ebc1b1c367ddc58800907ab722ce93314deffacea3ea2bc4c7b2d03cee7"
+   "sha256": "5e2920c5881140be8eb0825791196ea2788020985416f191da4b5ab6ab542e91"
   },
   {
    "path": "lang/de.json",
