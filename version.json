@@ -1,10 +1,10 @@
 {
-  "version": "v13",
-  "notes": "WT v13: új túra űrlap (csak gép és indulás kötelező, túratípus és sablon gombok, + gombos pont/cél hozzáadás), alaprajz-letöltés hibaüzenettel és több tükörrel",
+  "version": "v14",
+  "notes": "WT v14: gyorsabb alaprajz-lekérdezés (téglalap-keresés, elemtípusonként)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "743c6e5c4e2fdb40936f3791c32d2d8c141a1ed6235a83ac16eb307c459b272a"
+      "sha256": "f73b9abdce33fcd78a6f404716d0f204c2fffbfd1b6c7e8663dadb0223d529b9"
     },
     {
       "path": "lang/de.json",
