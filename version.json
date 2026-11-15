@@ -1,10 +1,10 @@
 {
-  "version": "v15",
-  "notes": "WT v15: alaprajz-letöltés kisebb területtel és a három szerver egyszerre (kevesebb időtúllépés)",
+  "version": "v16",
+  "notes": "WT v16: a kijelölt repülőtér kiemelve a térképen és a listában, másodperc-számláló az alaprajz betöltéséhez",
   "files": [
     {
       "path": "app.py",
-      "sha256": "05cc34cd5e95c29da62b21aaba1853e2174c108f840241d68b7db73ff7a1be5c"
+      "sha256": "ceeac1e34a6b1273f59fe64dd6a69a99c6f591ac40e4dc569dc8a70e9478cf90"
     },
     {
       "path": "lang/de.json",
