@@ -1,10 +1,10 @@
 {
-  "version": "v39",
-  "notes": "WT v39: A WT fejléc pontosan megegyezik a fő program fejlécével (magasság, logó, gombméretek és térközök), így átváltáskor nem mozdul; info gomb a fejlécben",
+  "version": "v40",
+  "notes": "WT v40: Világkörüli út – a start melletti körzet (pl. Rióból Grönland) az út elejére kerül, így nincs zsákutcás visszatérés a kör végén",
   "files": [
     {
       "path": "app.py",
-      "sha256": "941308bd4a5493e0744d24bf0a686453e8a55455287af5c719aea50353636acd"
+      "sha256": "6d895bfa004b3e7e0bc91bf029677dc218227878cb5ae64a087f923693730a8d"
     },
     {
       "path": "lang/de.json",
