@@ -1,10 +1,10 @@
 {
-  "version": "v32",
-  "notes": "WT v32: a reptér-rajzról kimaradnak a másik repülőtérhez tartozó kifutók (pl. KOSH mellett a Pioneer Airport), és az azonos jelű, távoli kifutó sem kerül bele",
+  "version": "v33",
+  "notes": "WT v33: az AiROGUIDE World Tour logó megjelenik a túraszervező és a repülőtér-kereső oldal tetején",
   "files": [
     {
       "path": "app.py",
-      "sha256": "b1cee03c0ddb5c5eaa7a790cb1a49218a883a7e92691cd31c7809eca210b90d5"
+      "sha256": "91ff86b2500eb6c67285f5808e0c964f1633bd2325b9008f0849c08e0a0cc032"
     },
     {
       "path": "lang/de.json",
