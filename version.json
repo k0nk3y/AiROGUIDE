@@ -40,7 +40,8 @@
   }
  ],
  "release": {
-  "version": "1.0",
-  "url": "https://flightsim.to/addon/119104/airoguide-sightseeing-guide"
+  "version": "1.0.1",
+  "url": "https://flightsim.to/addon/119104/airoguide-sightseeing-guide",
+  "notes": "1.0.1: Fixed: the small control window now follows the selected language. New: an \"Open in firewall\" button for network access (phone/tablet) if the Windows Firewall prompt does not appear; \"What's new\" and \"Download\" buttons when an update is available. / Javítva: a vezérlőablak követi a választott nyelvet. Új: tűzfal-gomb a hálózati eléréshez; Újdonságok és Letöltés gomb új verziónál."
  }
 }
