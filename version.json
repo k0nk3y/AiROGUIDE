@@ -1,10 +1,10 @@
 {
- "version": "v381",
- "notes": "Vezérlőablak: a frissítés-sor követi a nyelvet; új verzió esetén Újdonságok és Letöltés (flightsim.to) gomb a kiadásban",
+ "version": "v382",
+ "notes": "Demó: az Újdonságok és Letöltés gomb megjelenítésének kipróbálása (airoguide_demo_update.txt)",
  "files": [
   {
    "path": "app.py",
-   "sha256": "3d917bcd65cd9fe0fcd6097aef3d883653de40f8ead521267db44246446458ae"
+   "sha256": "11d9894f8a34368ac5870b9f8f898412dcd14183a049190da0995df904fdce2f"
   },
   {
    "path": "lang/de.json",
