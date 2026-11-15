@@ -1,10 +1,10 @@
 {
-  "version": "v36",
-  "notes": "WT v36: Túratervező – a távoli (pl. dél-amerikai) indulóknál a keresés sokkal gyorsabb, a körzetek nem maradnak ki (Rio: 0 → teljes körút); Reptér rajz: koordináta nélküli adatbázis-kifutók párosítása (LHBS)",
+  "version": "v37",
+  "notes": "WT v37: Rögzített fejléc a fő program stílusában (világos/sötét téma), a gombok a fejlécben: ← AiROGUIDE, Túrák, Gépek, Repülőterek; Irány választó a világkörüli úthoz (automatikus / nyugat felé / kelet felé)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "28e5b87e867e6613c060e1d96f1c78eac31122a72f0815c7cf0d313cf92080b8"
+      "sha256": "c439c40e86be0d73c3b3a9a63c2f88512204a69e57b2c3af239dbb04c8ada407"
     },
     {
       "path": "lang/de.json",
