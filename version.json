@@ -1,10 +1,10 @@
 {
-  "version": "v28",
-  "notes": "WT v28: az automatikus világkörüli út csak 4 irányító körzetet használ (Grönland, Yellowknife, Nome, Csukcsföld); a tervező a többit választja, így sokkal kevesebb szakasz kell",
+  "version": "v29",
+  "notes": "WT v29: a reptér-rajzon a párosított adatbázis-kifutó az OSM pontosabb irányát követi (pl. EDRK párhuzamos kifutói)",
   "files": [
     {
       "path": "app.py",
-      "sha256": "100dbe915115ac90807f65ce7f54f11ac035e19f72acc7136fcb4ca6abbe51f7"
+      "sha256": "d35d2e20a111eed7e413954eef769507c7e118be7ace8ed24e29289e58902506"
     },
     {
       "path": "lang/de.json",
