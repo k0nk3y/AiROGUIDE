@@ -1,10 +1,10 @@
 {
-  "version": "v26",
-  "notes": "WT v26: útvonal-tervezés közben élő számláló és folyamatjelző sáv (hányadik pont, kész szakaszok, eltelt idő)",
+  "version": "v27",
+  "notes": "WT v27: az automatikus világkörüli út csak 3 irányító körzetet használ (Grönland, Nome, Csukcsföld), a többit a tervező választja",
   "files": [
     {
       "path": "app.py",
-      "sha256": "b28dcb086121f37ccc976771c8d1f5f70d7bcdb2b2445e2d8155ba1cf913236d"
+      "sha256": "9e4b252dcff618b026423cf9900505a5b254febd911e75cb09e43cf7b7b44873"
     },
     {
       "path": "lang/de.json",

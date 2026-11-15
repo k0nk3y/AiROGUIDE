@@ -1,0 +1,41 @@
+[
+ {
+  "id": "c172",
+  "name": "Cessna 172",
+  "type": "C172",
+  "cruise": 110,
+  "range": 450,
+  "fuel": 53,
+  "burn": 9.0,
+  "reserve": 30,
+  "minlen": 2000,
+  "surf": "HGV",
+  "note": ""
+ },
+ {
+  "id": "g36",
+  "name": "Beechcraft Bonanza G36",
+  "type": "BE36",
+  "cruise": 150,
+  "range": 650,
+  "fuel": 74,
+  "burn": 14.0,
+  "reserve": 30,
+  "minlen": 3000,
+  "surf": "H",
+  "note": ""
+ },
+ {
+  "id": "xcub",
+  "name": "CubCrafter X Cub",
+  "type": "CC11",
+  "cruise": 85,
+  "range": 300,
+  "fuel": 40,
+  "burn": 7.0,
+  "reserve": 30,
+  "minlen": 800,
+  "surf": "HGVD",
+  "note": ""
+ }
+]
