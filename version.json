@@ -1,10 +1,10 @@
 {
-  "version": "v53",
-  "notes": "Gép adatlap: üzemanyag mértékegység választó (gal, l, kg, lb); a szakasz-kártyán az üzemanyag a mértékegységgel jelenik meg.",
+  "version": "v54",
+  "notes": "Szakasz-kártya: a leghosszabb pálya adatnál az érkező reptér kódja is látszik.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "9bfde5e78942bae7b4a0533535ef3d8e80c7044afba17435666b43da948d6e03"
+      "sha256": "b7e820f6b23a0c9f6e490709e2a90f22cd965f09d96db1db1a71eb80af454722"
     },
     {
       "path": "lang/de.json",
