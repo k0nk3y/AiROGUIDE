@@ -1,10 +1,10 @@
 {
- "version": 397,
- "notes": "Repülési napló: a megnyitott repülés magasság és sebesség csempéje most Max. felirattal jelenik meg, és rákattintva átváltható átlagra (Átl.). A listában a Megjegyzés gomb ikonja és szövege egy sorban van, a kuka hover-kiemelése tiszta.",
+ "version": 398,
+ "notes": "Repülési napló lista: a Gép és a Látnivalók felirat helyett kis ikon (kék repülő, helyjelölő), a mentés és a kuka ikon között vékony elválasztóvonal.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "102ef7d4da9f33bc0b7bc041e616a7eeada3e84fd399628925f4dc1f9a61a6d4"
+   "sha256": "2fcff2f2add2fb0087552754b93ee0d21a6c816f937148983571b6211e4a0978"
   },
   {
    "path": "lang/de.json",
