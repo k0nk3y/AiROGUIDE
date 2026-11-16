@@ -1,10 +1,10 @@
 {
- "version": "v59",
- "notes": "Útlevél: minden országbélyeg egyedi megjelenést kapott (különböző formák: kör, ovális, nyolcszög, hatszög, pajzs, ív, jegy, postabélyeg stb.; változó keretvonal, szín, dőlés, kopott tintahatás).",
+ "version": "v60",
+ "notes": "Útlevél: a bélyegek zászlója mindig olvashatóan, a szöveg alatt vagy fölött jelenik meg (nincs halvány háttérzászló).",
  "files": [
   {
    "path": "app.py",
-   "sha256": "f1e942b740ee96497df522ca4ad8d694144708bbb25b8a0dbb040b4b5f1721d3"
+   "sha256": "ef11bdb2b32cc3a5571be3fe1a18490ef16dcbb169b2a363e7d8169df4c3a95a"
   },
   {
    "path": "lang/de.json",
