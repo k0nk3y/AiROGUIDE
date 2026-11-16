@@ -1,10 +1,10 @@
 {
-  "version": "v52",
-  "notes": "Az induló és érkező reptér mellett az ország (zászlóval és kóddal), a régi túrákban is.",
+  "version": "v53",
+  "notes": "Gép adatlap: üzemanyag mértékegység választó (gal, l, kg, lb); a szakasz-kártyán az üzemanyag a mértékegységgel jelenik meg.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "6aff1bd6601ffbb711e955e379239e01962aba6ab2b55b63c66072f67cf3e51a"
+      "sha256": "9bfde5e78942bae7b4a0533535ef3d8e80c7044afba17435666b43da948d6e03"
     },
     {
       "path": "lang/de.json",
