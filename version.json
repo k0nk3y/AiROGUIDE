@@ -1,10 +1,10 @@
 {
-  "version": "v47",
-  "notes": "Túranézet: állandó magasságú kártya (nem ugrál), nagyobb középre igazított repülő az állapotsávon, UI-hoz illesztett térkép-gombok és FIT gomb, gombszerű Teljesítve/Következő sorok, térkép-ikon a szakaszsoron (kijelölés nagyítás nélkül).",
+  "version": "v48",
+  "notes": "Túra átnevezése és gépcsere a cím melletti ceruza ikonnal (a szakasz max automatikusan frissül); a pálya kiemelése nem alapból zöld, hanem a pálya nevére kattintva; nagyobb, pontosan középre igazított repülő az állapotsávon.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "00e33e503896594a30d460133cb5f3fec982bb1c506cc626410a6b51ed6548b0"
+      "sha256": "79a8f44a4162b04e2e3afc73376816a1bc24480901e63b8ea8785491fbe537d9"
     },
     {
       "path": "lang/de.json",
