@@ -1,10 +1,10 @@
 {
-  "version": "v51",
-  "notes": "Szakasz-kártya: ceruza az érkezési reptéren (figyelmeztetéssel), repülő a reptér neve mellett, nagyobb nyíl-gomb, több adat ikonokkal (irány, üzemanyag, leghosszabb pálya), ország a reptér neve mellett.",
+  "version": "v52",
+  "notes": "Az induló és érkező reptér mellett az ország (zászlóval és kóddal), a régi túrákban is.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "9912884f3b015ea9991f7a1292d3093933296099a676bd5e6f8f6479760c1a9d"
+      "sha256": "6aff1bd6601ffbb711e955e379239e01962aba6ab2b55b63c66072f67cf3e51a"
     },
     {
       "path": "lang/de.json",
