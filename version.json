@@ -1,10 +1,10 @@
 {
-  "version": "v50",
-  "notes": "Állapotsáv: kör nélküli, világoskék repülő, a sáv nem fut át alatta.",
+  "version": "v51",
+  "notes": "Szakasz-kártya: ceruza az érkezési reptéren (figyelmeztetéssel), repülő a reptér neve mellett, nagyobb nyíl-gomb, több adat ikonokkal (irány, üzemanyag, leghosszabb pálya), ország a reptér neve mellett.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "0888a784f55044ee8694c6ece5b545f0fd62e8736dbb67864131f5e6ad6ece5d"
+      "sha256": "9912884f3b015ea9991f7a1292d3093933296099a676bd5e6f8f6479760c1a9d"
     },
     {
       "path": "lang/de.json",
