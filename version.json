@@ -1,10 +1,10 @@
 {
- "version": "v61",
- "notes": "Útlevél: a bélyegek formái szabályosak maradnak (kör, szabályos nyolc- és hatszög, jegy, postabélyeg stb.), nem torzulnak a cella méretével.",
+ "version": "v62",
+ "notes": "Útlevél: a bélyegek betűtípusa is változik (9 féle: talpas, írógép, vastag, keskeny, dőlt stb.).",
  "files": [
   {
    "path": "app.py",
-   "sha256": "e5a80a13a10541137a60a5e5d670a177a1f22d034cb6d0adf3b1a93f36a53a04"
+   "sha256": "a8c155db7743389ecf48e66e532cd75cf6d4a4e31b5a221103bfcf2fcd1110a6"
   },
   {
    "path": "lang/de.json",
