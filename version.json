@@ -1,10 +1,10 @@
 {
- "version": "v67",
- "notes": "Oklevél: fekvő (alap) és álló elrendezés közötti váltás, az OKLEVÉL felirat újra talpas betűvel, felül a szöveges World Tour felirat, a logó kicsiben alul, egységes betűméret a statisztikáknál.",
+ "version": "v68",
+ "notes": "Oklevél csiszolás: a START/CÉL címkék az útvonaltól elfordítva, hosszú túránál kisebb megállópontok, kiegyensúlyozott zászlósorok, a logó fekvő módban a bal oszlop alján.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "471ad745fa4cb0d2a6d3c6b5a0bf4412a73c96b55a4cffd04e9f4caf1b8bdd1e"
+   "sha256": "a695104154907dabcee01b9a39adaa2b08d2cb57f566b28b225221629cbcf721"
   },
   {
    "path": "lang/de.json",
