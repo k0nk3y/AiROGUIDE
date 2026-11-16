@@ -1,6 +1,6 @@
 {
-  "version": "v42",
-  "notes": "Nyugati irányú világkörüli út Afrikából, Indiából és Európából: az Atlanti-óceán átkelése Izlandon át (kötelező Izland-pont az első és az utolsó szakaszon), így nincs többé a hosszú keleti kerülő és az oda-vissza út.",
+  "version": "v43",
+  "notes": "Túra-előrehaladás: az aktuális szakasz automatikus, a teljesítettek lenyitható listában, a következők lenyithatók; a fel/le mozgatás, kihagyás és előre-pipálás megszűnt.",
   "files": [
     {
       "path": "app.py",
