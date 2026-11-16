@@ -1,10 +1,10 @@
 {
-  "version": "v43",
-  "notes": "Túra-előrehaladás: az aktuális szakasz automatikus, a teljesítettek lenyitható listában, a következők lenyithatók; a fel/le mozgatás, kihagyás és előre-pipálás megszűnt.",
+  "version": "v44",
+  "notes": "Túranézet: a tervezés alapból rejtett (újratervezéskor jelenik meg egyszerű cél-módosítással, a többi a Részletes tervezésben); kiemelt aktuális szakasz; a térképen a szakasz indulási vagy érkezési repterének rajza.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "aa39e0c44196b67acd1698f85dbb386e892bd5412e1744682266bdea3c90e510"
+      "sha256": "2502b30e4057b80deba3e2b40f765f4a49c40f79ca55ac8a435e9085972685f9"
     },
     {
       "path": "lang/de.json",
