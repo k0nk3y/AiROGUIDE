@@ -1,10 +1,10 @@
 {
- "version": "v68",
- "notes": "Oklevél csiszolás: a START/CÉL címkék az útvonaltól elfordítva, hosszú túránál kisebb megállópontok, kiegyensúlyozott zászlósorok, a logó fekvő módban a bal oszlop alján.",
+ "version": "v69",
+ "notes": "Oklevél: kis repülős dísz a cím alatt; a zászlók mérete a túra országainak számához igazodik (kb. 38 országig mind látszik).",
  "files": [
   {
    "path": "app.py",
-   "sha256": "a695104154907dabcee01b9a39adaa2b08d2cb57f566b28b225221629cbcf721"
+   "sha256": "a9e8d2170b8594b20527218a714dba6c26ed7093649858113acb4288a5be82f2"
   },
   {
    "path": "lang/de.json",
