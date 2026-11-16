@@ -1,10 +1,10 @@
 {
-  "version": "v41",
-  "notes": "Dél-atlanti start (pl. Rio) nyugati irányban: a Grönland-körzet az út végére került, így nincs oda-vissza zsákutca, és a keleti irányú kör is hibátlanul záródik.",
+  "version": "v42",
+  "notes": "Nyugati irányú világkörüli út Afrikából, Indiából és Európából: az Atlanti-óceán átkelése Izlandon át (kötelező Izland-pont az első és az utolsó szakaszon), így nincs többé a hosszú keleti kerülő és az oda-vissza út.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "7e37ed99c2af3ff0b5263bfa24a899b792798587f63db96338be6e4ec31e724d"
+      "sha256": "5a3170d6d23c3514d919aed9b7167779849115e786459308fd9f5c8a371475cc"
     },
     {
       "path": "lang/de.json",
