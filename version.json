@@ -1,10 +1,10 @@
 {
-  "version": "v48",
-  "notes": "Túra átnevezése és gépcsere a cím melletti ceruza ikonnal (a szakasz max automatikusan frissül); a pálya kiemelése nem alapból zöld, hanem a pálya nevére kattintva; nagyobb, pontosan középre igazított repülő az állapotsávon.",
+  "version": "v49",
+  "notes": "Állapotsáv: kisebb kör, a repülő pontosan középen és nagyobb; a pályalistában jelölés a gépnek megfelelő pályákon.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "79a8f44a4162b04e2e3afc73376816a1bc24480901e63b8ea8785491fbe537d9"
+      "sha256": "d822efa185f2286c2ce1c47026f0e8ed11e1d18f7a35925fbeeb9230b69f75ee"
     },
     {
       "path": "lang/de.json",
