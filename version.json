@@ -1,10 +1,10 @@
 {
- "version": "v64",
- "notes": "Túrák: az újraellenőrzés csak a kiválasztott túrával veti össze a naplókat, a visszavont szakaszokat újra igazolja, és ha nem talál párosítást, megmondja az okát.",
+ "version": "v65",
+ "notes": "Oklevél: teljesen új, díszes megjelenés: világtérkép-háttér ragyogó útvonallal, START/CÉL címkék, arany keret és pecsét, egy sávba rendezett statisztikák, landing pontszám körmérővel, nagyobb zászlók.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "6a0c0199900deeefc30a14af35d56967980d1d32874a2422121fb49be6cb9053"
+   "sha256": "ef2f5d3f2af7166e48fa1e6dca77d21d42fe2c5d4878c928ead5e8445b57d7da"
   },
   {
    "path": "lang/de.json",
