@@ -1,10 +1,10 @@
 {
- "version": 386,
+ "version": 387,
  "notes": "SimBrief import: az Útvonal betöltése oldalon az EFB szinkron kártya „Szinkron” lett két gombbal (EFB és SimBrief). A SimBrief gombra először a felhasználóneved vagy pilóta-azonosítód kell megadni (csak ezen a gépen tárolódik), majd megmutatja a legutóbbi terv előnézetét, és jóváhagyás után betölti.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "d50846dac1e5ab2b3c666662b82622b2b6492cb6404c23b1e2156dae75ef8da0"
+   "sha256": "a2f61770c3f64a931b2d7ab93d0b182ae7323f50ee2600c5a765b711f9daadce"
   },
   {
    "path": "lang/de.json",
