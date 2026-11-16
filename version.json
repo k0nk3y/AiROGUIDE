@@ -1,10 +1,10 @@
 {
- "version": "v65",
- "notes": "Oklevél: teljesen új, díszes megjelenés: világtérkép-háttér ragyogó útvonallal, START/CÉL címkék, arany keret és pecsét, egy sávba rendezett statisztikák, landing pontszám körmérővel, nagyobb zászlók.",
+ "version": "v66",
+ "notes": "Oklevél: az AiROGUIDE World Tour logóval, az alkalmazás betűtípusával; a sarokdíszek és a pecsét kikerültek, tisztább, lekerekített kialakítás.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "ef2f5d3f2af7166e48fa1e6dca77d21d42fe2c5d4878c928ead5e8445b57d7da"
+   "sha256": "084e20212163e410c8d8cda6ee977141453701c320e1319888aae93235e017d6"
   },
   {
    "path": "lang/de.json",
