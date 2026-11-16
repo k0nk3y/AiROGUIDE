@@ -40,8 +40,19 @@
   }
  ],
  "release": {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://flightsim.to/addon/119104/airoguide-sightseeing-guide",
-  "notes": "1.0.1: Fixed: the small control window now follows the selected language. New: an \"Open in firewall\" button for network access (phone/tablet) if the Windows Firewall prompt does not appear; \"What's new\" and \"Download\" buttons when an update is available. / Javítva: a vezérlőablak követi a választott nyelvet. Új: tűzfal-gomb a hálózati eléréshez; Újdonságok és Letöltés gomb új verziónál."
+  "notes": {
+   "hu": "• SimBrief szinkronizáció: a legutóbbi SimBrief repülési tervet a Pilot ID-ddel töltheted be (Útvonal betöltése › Szinkron)\n• Hálózati hibaelhárítás gomb (⚙): ha hálózati hiba van (tűzfal vagy engedély), egy kattintással javítható",
+   "en": "• SimBrief sync: load your latest SimBrief flight plan with your Pilot ID (Load route › Sync)\n• Network troubleshooting button (⚙): if there is a network problem (firewall or permissions), one click fixes it",
+   "es": "• Sincronización con SimBrief: carga tu último plan de vuelo de SimBrief con tu Pilot ID (Cargar ruta › Sincronizar)\n• Botón de solución de problemas de red (⚙): si hay un problema de red (firewall o permisos), se corrige con un clic",
+   "de": "• SimBrief-Sync: lade deinen letzten SimBrief-Flugplan mit deiner Pilot-ID (Route laden › Synchronisieren)\n• Schaltfläche zur Netzwerk-Fehlerbehebung (⚙): bei einem Netzwerkproblem (Firewall oder Berechtigung) genügt ein Klick",
+   "ru": "• Синхронизация с SimBrief: загрузите последний план полёта SimBrief по Pilot ID (Загрузить маршрут › Синхронизация)\n• Кнопка устранения сетевых неполадок (⚙): при проблеме с сетью (брандмауэр или разрешения) достаточно одного щелчка",
+   "pl": "• Synchronizacja z SimBrief: wczytaj ostatni plan lotu z SimBrief za pomocą Pilot ID (Wczytaj trasę › Synchronizacja)\n• Przycisk rozwiązywania problemów z siecią (⚙): przy problemie z siecią (zapora lub uprawnienia) wystarczy jedno kliknięcie",
+   "sk": "• Synchronizácia so SimBrief: načítajte posledný letový plán zo SimBrief pomocou Pilot ID (Načítať trasu › Synchronizácia)\n• Tlačidlo riešenia sieťových problémov (⚙): pri probléme so sieťou (firewall alebo oprávnenia) stačí jedno kliknutie",
+   "it": "• Sincronizzazione SimBrief: carica l'ultimo piano di volo SimBrief con il tuo Pilot ID (Carica percorso › Sincronizza)\n• Pulsante di risoluzione dei problemi di rete (⚙): in caso di problema di rete (firewall o autorizzazioni) basta un clic",
+   "zh": "• SimBrief 同步：使用 Pilot ID 载入最新的 SimBrief 飞行计划（加载航线 › 同步）\n• 网络故障排除按钮（⚙）：出现网络问题（防火墙或权限）时，一键即可修复",
+   "fr": "• Synchronisation SimBrief : chargez votre dernier plan de vol SimBrief avec votre Pilot ID (Charger un itinéraire › Synchroniser)\n• Bouton de dépannage réseau (⚙) : en cas de problème réseau (pare-feu ou autorisations), un clic suffit"
+  }
  }
 }
