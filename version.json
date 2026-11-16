@@ -1,10 +1,10 @@
 {
- "version": "v66",
- "notes": "Oklevél: az AiROGUIDE World Tour logóval, az alkalmazás betűtípusával; a sarokdíszek és a pecsét kikerültek, tisztább, lekerekített kialakítás.",
+ "version": "v67",
+ "notes": "Oklevél: fekvő (alap) és álló elrendezés közötti váltás, az OKLEVÉL felirat újra talpas betűvel, felül a szöveges World Tour felirat, a logó kicsiben alul, egységes betűméret a statisztikáknál.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "084e20212163e410c8d8cda6ee977141453701c320e1319888aae93235e017d6"
+   "sha256": "471ad745fa4cb0d2a6d3c6b5a0bf4412a73c96b55a4cffd04e9f4caf1b8bdd1e"
   },
   {
    "path": "lang/de.json",
