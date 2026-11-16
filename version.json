@@ -1,10 +1,10 @@
 {
- "version": 400,
- "notes": "Repülési napló lista: a megjegyzés előtt kis notesz ikon látszik, a gép és a látott helyek sora között.",
+ "version": 401,
+ "notes": "Megosztás képként: a kép szöveges része megkapta a repülés nézetének új megjelenését – ikonos adatcsempék (táv, idő, magasság, sebesség, helyek, üzemanyag, a Max./Átl. választást követve), keretes Megjegyzés, látott helyek, kék repülő ikon a gép neve előtt. Álló és fekvő formátumban is.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "d200be594b78b8cc34e1258ba70ed468b1cbe04668bdc7345512b11be98b2678"
+   "sha256": "f7609075ce8ea67cd4dd56c4937380571e17d2658d98639fcd357c1f0d99a303"
   },
   {
    "path": "lang/de.json",
