@@ -1,10 +1,10 @@
 {
- "version": 401,
- "notes": "Megosztás képként: a kép szöveges része megkapta a repülés nézetének új megjelenését – ikonos adatcsempék (táv, idő, magasság, sebesség, helyek, üzemanyag, a Max./Átl. választást követve), keretes Megjegyzés, látott helyek, kék repülő ikon a gép neve előtt. Álló és fekvő formátumban is.",
+ "version": 402,
+ "notes": "Repülési napló: a ceruza Szerkesztés lett – a repülés neve mellett a gép neve is átírható (ha az alaptípus kevés vagy rossz), a listában és a megnyitott repülésnél is. A gép neve rövid alaptípusként jelenik meg (pl. Beechcraft Bonanza). Megosztás képként: a Megjegyzés opcionális (alapból nincs a képen), a beállítások rendezett, kompakt sorba kerültek.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "f7609075ce8ea67cd4dd56c4937380571e17d2658d98639fcd357c1f0d99a303"
+   "sha256": "2a13b5bf03fd56eb3765a63cdca2ac2a7357a16938be5acdc46adcd181a3be69"
   },
   {
    "path": "lang/de.json",
