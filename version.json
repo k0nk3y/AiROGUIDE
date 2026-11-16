@@ -1,10 +1,10 @@
 {
- "version": "v63",
- "notes": "Túrák: „Flight Log újraellenőrzése\" gomb: a már elmentett repüléseket időrendben összeveti a túra szakaszaival, és az igazolhatóakat kipipálja.",
+ "version": "v64",
+ "notes": "Túrák: az újraellenőrzés csak a kiválasztott túrával veti össze a naplókat, a visszavont szakaszokat újra igazolja, és ha nem talál párosítást, megmondja az okát.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "23b83eedfce67a9601fefcb4bfdedd0be2ad577de84d4f40ee0ba65e15e8ab31"
+   "sha256": "6a0c0199900deeefc30a14af35d56967980d1d32874a2422121fb49be6cb9053"
   },
   {
    "path": "lang/de.json",
