@@ -1,10 +1,10 @@
 {
- "version": 394,
- "notes": "Repülési napló: a repülés részletező nézetében az adatok ikonos jelölőkként látszanak a térkép felett (dátum, idő, táv, magasság, sebesség, látott helyek, üzemanyag), az Üzemanyag jelölőre kattintva szerkeszthető, a Megjegyzés pedig itt is bármikor hozzáadható. A Landing kártyán 100-ból számolt pontszám is látszik.",
+ "version": 395,
+ "notes": "Repülési napló lista: letisztult sor – a repülés neve mellett ceruza ikon az átnevezéshez, jobb oldalt keskeny sávban mentés és kuka ikon (törlés második megerősítő kattintással), alul a Megnyitás és a Megjegyzés gomb. Az üzemanyag a repülés megnyitott nézetében szerkeszthető.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "bd914e953bc8a0942285b5a755ed0752ab252c5821543b80c0224c1c9e790149"
+   "sha256": "02ded96eafd422740367812f2e8ceb7923cc9821df0c020d2fcec5050298d41b"
   },
   {
    "path": "lang/de.json",
