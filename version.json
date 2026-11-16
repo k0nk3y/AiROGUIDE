@@ -1,10 +1,10 @@
 {
-  "version": "v54",
-  "notes": "Szakasz-kártya: a leghosszabb pálya adatnál az érkező reptér kódja is látszik.",
+  "version": "v55",
+  "notes": "Leszállás értékelés: 100-as pontszám (süllyedés, g-erő, szárnyállás, pattanás, orrmagasság), a csillagok ebből származnak.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "b7e820f6b23a0c9f6e490709e2a90f22cd965f09d96db1db1a71eb80af454722"
+      "sha256": "68d53d390232a2de2a3377c4450471278486938182c6f3c2d33c8993c734bddd"
     },
     {
       "path": "lang/de.json",
