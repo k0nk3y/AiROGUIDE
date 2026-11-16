@@ -1,10 +1,10 @@
 {
- "version": 393,
- "notes": "Repülési napló: a Landing kártya 100-ból számolt pontszámot is mutat (süllyedési sebesség, G-erő, dőlés, bólintás, pattogás súlyozva; a csillagok ebből jönnek). Minden repüléshez bármikor hozzáadható és szerkeszthető Megjegyzés, valamint Üzemanyag (érték és mértékegység: gal/l/kg/lb; üres érték esetén a gép és a megtett táv alapján becsült fogyasztás látszik).",
+ "version": 394,
+ "notes": "Repülési napló: a repülés részletező nézetében az adatok ikonos jelölőkként látszanak a térkép felett (dátum, idő, táv, magasság, sebesség, látott helyek, üzemanyag), az Üzemanyag jelölőre kattintva szerkeszthető, a Megjegyzés pedig itt is bármikor hozzáadható. A Landing kártyán 100-ból számolt pontszám is látszik.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "c5a5a14b07cd4c66bfe7ebed8f05a6c989fd30d689a8d46b4088f5de5ed873f9"
+   "sha256": "bd914e953bc8a0942285b5a755ed0752ab252c5821543b80c0224c1c9e790149"
   },
   {
    "path": "lang/de.json",
