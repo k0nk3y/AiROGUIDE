@@ -1,10 +1,10 @@
 {
-  "version": "v46",
-  "notes": "Túranézet finomítás: repülő-pötty az állapotsávon, elválasztók az aktuális szakasz kártyán, keret nélküli reptérrajz, gombszerű Túrák gomb, fit zoom, kattintható reptér-pontok a térképen, Mutasd térképen gomb a következő szakaszoknál.",
+  "version": "v47",
+  "notes": "Túranézet: állandó magasságú kártya (nem ugrál), nagyobb középre igazított repülő az állapotsávon, UI-hoz illesztett térkép-gombok és FIT gomb, gombszerű Teljesítve/Következő sorok, térkép-ikon a szakaszsoron (kijelölés nagyítás nélkül).",
   "files": [
     {
       "path": "app.py",
-      "sha256": "6d47ec909cc5c80ac33dc2d68ba21881b6239eba97b6135a53e1d453a3bd14b3"
+      "sha256": "00e33e503896594a30d460133cb5f3fec982bb1c506cc626410a6b51ed6548b0"
     },
     {
       "path": "lang/de.json",
