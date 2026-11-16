@@ -1,42 +1,42 @@
 {
- "version": 396,
- "notes": "Repülési napló: a megnyitott repülés adatai kártyán, ikonos csempékben látszanak (dátum, idő, táv, magasság, sebesség, helyek, üzemanyag – az üzemanyag szerkeszthető). A Megjegyzés a látott helyek listája fölé került keretben, ceruzával szerkeszthető. A listában a letöltés kék, a törlés piros kiemelést kap, a megjegyzés szerkesztője a teljes sor szélességét használja.",
+ "version": 397,
+ "notes": "Repülési napló: a megnyitott repülés magasság és sebesség csempéje most Max. felirattal jelenik meg, és rákattintva átváltható átlagra (Átl.). A listában a Megjegyzés gomb ikonja és szövege egy sorban van, a kuka hover-kiemelése tiszta.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "724e4c89297605d245eaf4b4ffb882b7ca6041af799dcdb49e79c274f26a2bea"
+   "sha256": "102ef7d4da9f33bc0b7bc041e616a7eeada3e84fd399628925f4dc1f9a61a6d4"
   },
   {
    "path": "lang/de.json",
-   "sha256": "478807a9ac011db76c68350931211f19661ece2e8fe67b8d52e5d9a25ee95e17"
+   "sha256": "3e1b9415aa9bec02b5c2a79fdf6a79a6641d440da91e0a7319b271498033ef1f"
   },
   {
    "path": "lang/es.json",
-   "sha256": "6d1b2318f6ab156a1ddf99c81cc88bd57d0d239f67a915e91c223b1e59ace7db"
+   "sha256": "eb76aeab71ec9339657959358405c97b84e1e8438cb33d209df59387e47f2844"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "c545b324a3a7af6b964dfe8448ef583c7a2966f390114e33fdefbd795a0bc7dc"
+   "sha256": "e717489bedb289e4219c46ccbd15460e34d761d26c7f3c2e101cf7cf8b02d4cb"
   },
   {
    "path": "lang/it.json",
-   "sha256": "f3ae175661fb0c9339bc77df32ed1f44896bab766d1fccb2a3bf548a44cadc15"
+   "sha256": "76a28f6610555728649c35b60ffa22fff830d5f4981cdc503d52efd3c5b2d98c"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "57815fbb58d3a24fabf535724777244e78ae571af0f048987bacca8358fb4d8d"
+   "sha256": "071448164bb591176cba507826f85fa4939e78fd3e2f489d6c6e8e9b57376c26"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "8acbaa6864af5f13f0b2de8d7df11836571e1ce35c5f40245c86bf56bd2868a1"
+   "sha256": "29b46684d035df51d274d52c3f644fe35e8d8902d4eadd14de9649f6905822e5"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "427dfb97993f83b520731eeedc1bdbd0d32432cb5c35897a81f77e6cf4e16f7e"
+   "sha256": "e3c076b283c395eb60a23c95c3e6f004a8982c0bfed6b06ee282cc6579a77362"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "5e2171a0ccd708690b8dbe7438e25890e637767e8397788c2bae9a2524db7e4c"
+   "sha256": "bb151dc109bbe929a4ddd0693689c0460fe90e087245b98963cf933c61428b5e"
   }
  ],
  "release": {
