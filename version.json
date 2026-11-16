@@ -1,10 +1,10 @@
 {
-  "version": "v44",
-  "notes": "Túranézet: a tervezés alapból rejtett (újratervezéskor jelenik meg egyszerű cél-módosítással, a többi a Részletes tervezésben); kiemelt aktuális szakasz; a térképen a szakasz indulási vagy érkezési repterének rajza.",
+  "version": "v45",
+  "notes": "Túranézet: cím- és állapotkártya repülő-jelzéssel, négyzetes szakasz-térkép a kártyán (reptérrajzra váltható), az érkezési reptér módosítható minimális újratervezéssel (javítószakasszal), gépcsere a Részletes tervezésben, gombszerű legördülők.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "2502b30e4057b80deba3e2b40f765f4a49c40f79ca55ac8a435e9085972685f9"
+      "sha256": "932e4a2533699d3167e63b2f2a80c19be0aaf74179e4f34de2d5923aa24f41a3"
     },
     {
       "path": "lang/de.json",
