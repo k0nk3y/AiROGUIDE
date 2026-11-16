@@ -1,10 +1,10 @@
 {
- "version": 399,
- "notes": "Repülési napló: a rögzítés a szimulátor üzemanyag-szintjéből számolja a tényleges fogyasztást (tankolás nem számít bele); ha nincs mért adat, a gép és a táv alapján becsült érték látszik. A mért/becsült érték a repülés nézetében kézzel javítható.",
+ "version": 400,
+ "notes": "Repülési napló lista: a megjegyzés előtt kis notesz ikon látszik, a gép és a látott helyek sora között.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "cd59e304492b4a146a683f2173c4b898a24f0a210ceb7e25779d6a8df8a8521b"
+   "sha256": "d200be594b78b8cc34e1258ba70ed468b1cbe04668bdc7345512b11be98b2678"
   },
   {
    "path": "lang/de.json",
