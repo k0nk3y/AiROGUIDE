@@ -1,10 +1,10 @@
 {
- "version": 402,
- "notes": "Repülési napló: a ceruza Szerkesztés lett – a repülés neve mellett a gép neve is átírható (ha az alaptípus kevés vagy rossz), a listában és a megnyitott repülésnél is. A gép neve rövid alaptípusként jelenik meg (pl. Beechcraft Bonanza). Megosztás képként: a Megjegyzés opcionális (alapból nincs a képen), a beállítások rendezett, kompakt sorba kerültek.",
+ "version": 403,
+ "notes": "Repülési napló: a megnyitott repülés címe külön sorba került a gombok alatt. Megosztás képként: rendezett beállítások (ikonos, összetartozó választók a térképhez és a tájoláshoz, Megjegyzés kapcsoló, kiemelt Mentés képként gomb, bezáró X a sarokban).",
  "files": [
   {
    "path": "app.py",
-   "sha256": "2a13b5bf03fd56eb3765a63cdca2ac2a7357a16938be5acdc46adcd181a3be69"
+   "sha256": "dcf2c523f6efbae8a91102e3844ce0b50a7bf2b1b127939295c7844dcd2a90d6"
   },
   {
    "path": "lang/de.json",
