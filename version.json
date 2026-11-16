@@ -1,10 +1,10 @@
 {
- "version": "v62",
- "notes": "Útlevél: a bélyegek betűtípusa is változik (9 féle: talpas, írógép, vastag, keskeny, dőlt stb.).",
+ "version": "v63",
+ "notes": "Túrák: „Flight Log újraellenőrzése\" gomb: a már elmentett repüléseket időrendben összeveti a túra szakaszaival, és az igazolhatóakat kipipálja.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "a8c155db7743389ecf48e66e532cd75cf6d4a4e31b5a221103bfcf2fcd1110a6"
+   "sha256": "23b83eedfce67a9601fefcb4bfdedd0be2ad577de84d4f40ee0ba65e15e8ab31"
   },
   {
    "path": "lang/de.json",
