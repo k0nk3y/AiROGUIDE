@@ -1,10 +1,10 @@
 {
- "version": "v58",
- "notes": "World Tour: országbélyegek (Útlevél a Flight Logban), a túraszakaszt a Flight Log automatikusan igazolja (a félig repült szakasz sosem pipálódik ki: rögzítés és folytatás a leszállás helyéről), Befejezés itt, megosztható oklevél (térkép, táv, idő, üzemanyag, országok, átlagos landing pontszám, bélyegek).",
+ "version": "v59",
+ "notes": "Útlevél: minden országbélyeg egyedi megjelenést kapott (különböző formák: kör, ovális, nyolcszög, hatszög, pajzs, ív, jegy, postabélyeg stb.; változó keretvonal, szín, dőlés, kopott tintahatás).",
  "files": [
   {
    "path": "app.py",
-   "sha256": "b7f8ea3920a1f539b496d9aa79a8fd92c32534034fd4f1838ba6f91919198b0f"
+   "sha256": "f1e942b740ee96497df522ca4ad8d694144708bbb25b8a0dbb040b4b5f1721d3"
   },
   {
    "path": "lang/de.json",
