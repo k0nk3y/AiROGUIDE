@@ -1,10 +1,10 @@
 {
-  "version": "v49",
-  "notes": "Állapotsáv: kisebb kör, a repülő pontosan középen és nagyobb; a pályalistában jelölés a gépnek megfelelő pályákon.",
+  "version": "v50",
+  "notes": "Állapotsáv: kör nélküli, világoskék repülő, a sáv nem fut át alatta.",
   "files": [
     {
       "path": "app.py",
-      "sha256": "d822efa185f2286c2ce1c47026f0e8ed11e1d18f7a35925fbeeb9230b69f75ee"
+      "sha256": "0888a784f55044ee8694c6ece5b545f0fd62e8736dbb67864131f5e6ad6ece5d"
     },
     {
       "path": "lang/de.json",
