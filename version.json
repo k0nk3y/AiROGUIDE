@@ -1,6 +1,6 @@
 {
  "version": 404,
- "notes": "Repülési napló: a megnyitott repülés címe külön sorba került a gombok alatt. Megosztás képként: rendezett beállítások (ikonos, összetartozó választók a térképhez és a tájoláshoz, Megjegyzés kapcsoló, kiemelt Mentés képként gomb, bezáró X a sarokban).",
+ "notes": "Flight Log: a repülőgép neve a megnyitott repülés címe mögé került (kompaktabb fejléc). Megosztás képként: új, opcionális „Leszállás\" elem (pontszám /100, csillagok, süllyedési sebesség, G-erő).",
  "files": [
   {
    "path": "app.py",
