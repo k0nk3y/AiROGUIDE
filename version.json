@@ -1,10 +1,10 @@
 {
- "version": "v89",
- "notes": "Útlevél: Mérföldkövek cím, minden mérföldkő jelvény látszik (a meg nem szerzettek szürkén, hoverre kiírja hány ország kell még).",
+ "version": "v90",
+ "notes": "Útlevél: ALL mérföldkő a sor végén (az összes ország), oklevéllel.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "26928723876959dca0b26a2c23b2ed58ca1366293044bcd3bbfb0621a17d8be9"
+   "sha256": "b715432a58f14877776b560cc33a5b689ba0667368b5fb9af0b45644f66ce19f"
   },
   {
    "path": "lang/de.json",
