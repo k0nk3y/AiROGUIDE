@@ -1,10 +1,10 @@
 {
- "version": 411,
- "notes": "Útlevél: pecsétért legalább 30 perces felvétel és ebből legalább 20 perc tényleges repülés (50 kt felett) kell; a reptéren üldögélés nem számít.",
+ "version": 412,
+ "notes": "Személyes adatok mentése és visszaállítása egyetlen zip-fájlban (Beállítások › Haladó): repülések (az útlevéllel), saját/kedvenc/elrejtett helyek, mentett útvonalak, beállítások (API-kulcsok nélkül). Visszaállításkor a meglévő adatot nem írja felül.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "b31925a76c4ca80635a516269b3de7b3d934693ac5dd285eeed9aa102da37027"
+   "sha256": "f383938b9ed16612582e6e976a11e1b3abc5e1973750ccb3f2c73a8ad3a2558c"
   },
   {
    "path": "lang/de.json",
