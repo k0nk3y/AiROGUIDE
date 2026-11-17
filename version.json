@@ -1,10 +1,10 @@
 {
- "version": 410,
- "notes": "Útlevél: 30 percnél rövidebb felvétel nem ad pecsétet.",
+ "version": 411,
+ "notes": "Útlevél: pecsétért legalább 30 perces felvétel és ebből legalább 20 perc tényleges repülés (50 kt felett) kell; a reptéren üldögélés nem számít.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "8cc55e12b3d7391b473d4f697bc9ef7850120a00a1defccedaa5945d27fc3537"
+   "sha256": "b31925a76c4ca80635a516269b3de7b3d934693ac5dd285eeed9aa102da37027"
   },
   {
    "path": "lang/de.json",
