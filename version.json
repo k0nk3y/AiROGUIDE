@@ -1,10 +1,10 @@
 {
- "version": "v80",
- "notes": "Útlevél: a nagyított pecsét világos háttérkártyán nyílik, a lista halványan látszik mögötte.",
+ "version": "v81",
+ "notes": "Útlevél: a nagyított pecsét lágy animációval, a pecsét színében izzó kártyán nyílik, bezáró gombbal.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "679aaaca369aaf4c488c3dfa4d5100bc31f67f74b1188c8085475aa19286ff63"
+   "sha256": "08a333b41fd91a82644f55035837fb200083aab0097dac724cc7a822cae6a7ee"
   },
   {
    "path": "lang/de.json",
