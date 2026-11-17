@@ -1,10 +1,10 @@
 {
- "version": "v83",
- "notes": "Útlevél: nagyobb, arányos oklevélkép; mérföldkő-oklevelek (első pecsét, 5, 10… pecsét) és kontinens-oklevelek (pl. Afrika 3 / 58); arányos térkép egységes jelöléssel és jelmagyarázattal.",
+ "version": "v84",
+ "notes": "Útlevél-oklevél: logó, finom arany vonalak a fejlécben, repülős elválasztó, kiegyensúlyozott pecsétek dátummal és repülőterekkel.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "139cadeb36ccd451faff40a51628a11c9ebe0c02ef33e0c289dd25aa057a60eb"
+   "sha256": "5d2f16413e05a07fbb5247c6d20146aeae92631c94dcdcf576e572f3a9e271e4"
   },
   {
    "path": "lang/de.json",
