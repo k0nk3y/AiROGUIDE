@@ -1,10 +1,10 @@
 {
- "version": 409,
- "notes": "Útlevél: a repülés közbeni érintés (touch and go) is pecsétet ad; ha a leszállás ICAO-kódja hiányzik az adatbázisból, a koordináta alapján keresi a repteret.",
+ "version": 410,
+ "notes": "Útlevél: 30 percnél rövidebb felvétel nem ad pecsétet.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "4303c2c2149ad345f95198adb79cc4d961c9b01a7a7950eaa563dad0949fa237"
+   "sha256": "8cc55e12b3d7391b473d4f697bc9ef7850120a00a1defccedaa5945d27fc3537"
   },
   {
    "path": "lang/de.json",
