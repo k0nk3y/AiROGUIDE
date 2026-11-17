@@ -1,10 +1,10 @@
 {
- "version": "v75",
- "notes": "Oklevél: a fejléc ikonja négyágú iránytű-csillag.",
+ "version": "v76",
+ "notes": "Oklevél: arany AiROGUIDE aláírás a pecsét alatt, a pecsét beljebb a kerettől.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "d5224ae8e46a7f2b647bc6f45204666f49aac45c580dfb2d02fa15b7e707befe"
+   "sha256": "035da7ac012c898cf0bb35a75368fef1d977024b3dff3d717b223a568d91b14a"
   },
   {
    "path": "lang/de.json",
