@@ -1,10 +1,10 @@
 {
- "version": "v97",
- "notes": "Útlevél: pecsétért legalább 30 perces felvétel és ebből legalább 20 perc tényleges repülés (50 kt felett) kell; a reptéren üldögélés nem számít.",
+ "version": "v98",
+ "notes": "Útlevél-oklevél: az ÚTLEVÉL cím is fordítódik (angolul PASSPORT).",
  "files": [
   {
    "path": "app.py",
-   "sha256": "30afe1dbf027a7487cfcbf9b2946f12bd9d1c5732fa8f92e7e7387559b74ad48"
+   "sha256": "43a4d3f2e119807fcc6badf88f0ee0ace3962922ff562897d9898f315a18974f"
   },
   {
    "path": "lang/de.json",
