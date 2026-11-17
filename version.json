@@ -1,10 +1,10 @@
 {
- "version": "v69",
- "notes": "Oklevél: kis repülős dísz a cím alatt; a zászlók mérete a túra országainak számához igazodik (kb. 38 országig mind látszik).",
+ "version": "v70",
+ "notes": "Oklevél: íves, műszeres sarokdíszek és kör alakú „TELJESÍTVE\" pecsét a térkép legüresebb sarkában.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "a9e8d2170b8594b20527218a714dba6c26ed7093649858113acb4288a5be82f2"
+   "sha256": "7a0f1c37b681d3ad21fe4615b025bba1135585c4e6914695c70b0a7cff0e5bf8"
   },
   {
    "path": "lang/de.json",
