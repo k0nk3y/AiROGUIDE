@@ -1,10 +1,10 @@
 {
- "version": "v76",
- "notes": "Oklevél: arany AiROGUIDE aláírás a pecsét alatt, a pecsét beljebb a kerettől.",
+ "version": "v77",
+ "notes": "Oklevél: kézírás-szerű AiROGUIDE aláírás és HITELESÍTVE felirat a pecsét alatt, a BÉLYEGEK fejléc a teljes szélességben.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "035da7ac012c898cf0bb35a75368fef1d977024b3dff3d717b223a568d91b14a"
+   "sha256": "e5c18025fe1feca9d2bc946ed2659ac38508bfdc9d8dde8cf6a4e7c28bede746"
   },
   {
    "path": "lang/de.json",
