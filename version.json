@@ -1,10 +1,10 @@
 {
- "version": 412,
- "notes": "Személyes adatok mentése és visszaállítása egyetlen zip-fájlban (Beállítások › Haladó): repülések (az útlevéllel), saját/kedvenc/elrejtett helyek, mentett útvonalak, beállítások (API-kulcsok nélkül). Visszaállításkor a meglévő adatot nem írja felül.",
+ "version": 413,
+ "notes": "Személyes adatok visszaállítása: kiválasztható, mit töltsön vissza (repülések, helyek, mentett útvonalak, beállítások); a mentés mindig mindent tartalmaz, és a fájl kiválasztása után látszik, miből mennyi van benne.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "f383938b9ed16612582e6e976a11e1b3abc5e1973750ccb3f2c73a8ad3a2558c"
+   "sha256": "6953b39deb3552d68d35cf7b1b1238172ebb1ea9caf7aaa761d446df66d7759e"
   },
   {
    "path": "lang/de.json",
