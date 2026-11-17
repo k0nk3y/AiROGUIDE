@@ -1,10 +1,10 @@
 {
- "version": "v78",
- "notes": "Oklevél: a START és CÉL címkék nem takarják egymást.",
+ "version": "v79",
+ "notes": "Útlevél: az összes ISO-ország szürke sablonpecséttel (ABC sorrendben), megszerzett/összes nézet, számláló és folyamatsáv, kattintásra nagyított részletes pecsét; a Flight Log gombjai ikont kaptak, a kereső az aktív nézetben keres.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "691116650eac33575ba251ed4171545210ed8877e48006ed8b1ddf2926a78840"
+   "sha256": "1815737b1c374c7d483a5ff90896954741ecf0f2868b9cd92ceffd48b5628f62"
   },
   {
    "path": "lang/de.json",
