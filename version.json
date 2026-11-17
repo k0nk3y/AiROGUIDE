@@ -1,5 +1,5 @@
 {
- "version": 430,
+ "version": 431,
  "notes": {
   "hu": "• Útlevél: Minden országhoz, ahol felszálltál vagy leszálltál, egyedi pecsét jár. Követheted kontinensenként és mérföldkövenként, megnézheted térképen, és oklevélként képbe mentheted. Pecsétet csak valódi, legalább 30 perces repülés ad olyan helyeken, ahol leszálltál (a touch and go is számít, és a repülőtér nélküli leszállás is: síelős, vízi vagy szabadtéri; ilyenkor a helyzeted adja az országot). Repülj, gyűjtsd, oszd meg!\n• Pilot Book: ikonos gombok, a keresés mindig az éppen nyitott nézetben keres, rendezettebb margók.\n• Beállítások › Haladó › Személyes adatok: a repüléseid, helyeid, útvonalaid és beállításaid mentése és visszaállítása egyetlen fájlból.\n• Statisztika: új, áttekinthető nézet 7 nap / hónap / év / összes időszakkal, lapozással, gép szerinti szűréssel, ikonos adatcsempékkel, diagrammal és a repülések listájával. A kiválasztott időszak képként is megosztható, kérésre a szerzett pecsétekkel.",
   "en": "• Passport: every country where you took off or landed earns its own stamp. Track your progress by continent and milestone, view it on a map and save it as a certificate image. A stamp is only earned by a real flight of at least 30 minutes, at places where you landed (touch and go counts too, and so do landings away from an airport, such as on skis, water or a bush strip: the country is determined from your position). Fly, collect, share!\n• Pilot Book: icon buttons, search always works in the view you have open, tidier margins.\n• Settings › Advanced › Personal data: back up and restore your flights, places, routes and settings from a single file.\n• Statistics: a new, clear view with 7 days / month / year / all-time periods, paging, filtering by aircraft, icon tiles, a chart and a list of flights. Share the selected period as an image, optionally with the stamps you earned."
@@ -7,39 +7,39 @@
  "files": [
   {
    "path": "app.py",
-   "sha256": "611aa4e06c7210462efdd10e6c52bd35b57e3c6f39665ba438fdf138e2ca18cc"
+   "sha256": "a3955f7b97878e97e9c299b0fff82af2712feb3278c6c820ae8847ac2fc69b5e"
   },
   {
    "path": "lang/de.json",
-   "sha256": "f90d985a25a476187fa67cb0a3b37eb345ba97e8f8d16b8b420a26e31501bbb7"
+   "sha256": "9ad93678fb9d2b15ef9fe14e36c7cb6376f83116933a4126d7e42fe7516bdc72"
   },
   {
    "path": "lang/es.json",
-   "sha256": "caea99e1a950f6b51ec4ddec6234040f4c792e594531c683da4fb62a16fad476"
+   "sha256": "246b6a132661f5f1b8a64b815061f4c3c3623d92fe6ea8eef8b3a93313431b91"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "b9f85f1be621dc39c820568a7476843a550ffb7bf5fdcbed6295a4ac7c8b8f8e"
+   "sha256": "ec8fca762ac9301b10254f70034b0c59a56412f31b3622deb4d3234d77b0bb16"
   },
   {
    "path": "lang/it.json",
-   "sha256": "cee2048b70fb716a2e18c1936c50446fa172aece32409642530d0c5ec784ce65"
+   "sha256": "d4c6630bcb90cf6b58619ad453c13d94008916bb64a93c021799afde03d72a4f"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "6703494cc9c96237baae589d6259ffc3139816f24029e38c62577971c928ea42"
+   "sha256": "04f71564b575583988ed3d2bec4c169e326bc1b3016dd32eb506e52bf6b67a16"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "08de7ffd1420133baa99587a846eb5a6e232af397bee4de44a8d62827269b190"
+   "sha256": "27d973e09cffe442e1d95dd712d10f98a9310f25155ddb09d6bf62053ebacb64"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "82fe48f160b2ef20b2b5304829d902ac002022dd034fd3f4e9ec3488579c1c71"
+   "sha256": "20afbf83676aadd174534cc23c87b13bde0913a390df72ec76ba2e1469112957"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "5018321da884e231f5343616137978007db51528c92f6ac51f238340d284f5f0"
+   "sha256": "ed25d45b2d328d99204db260fdc94e95510612277e19954ee2a8e84c09d61f5d"
   },
   {
    "path": "data/airports_rwy.tsv.gz",
