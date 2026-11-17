@@ -1,10 +1,10 @@
 {
- "version": "v86",
- "notes": "Útlevél: a térkép a program többi térképével azonos vetületű (nem torz), átrendezett vezérlők és szűrők.",
+ "version": "v87",
+ "notes": "Flight Log és a többi oldal: nagyobb bal és jobb margó (a kiemelés nem vágódik le, a görgetősáv nem takar), az Útlevél nem mozdul oldalra mobilon.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "5e9ac827d34b705131228edb98ecbf6e71834ef1e22b570f9f49f30a289c0600"
+   "sha256": "8ea4e4fd512044e225be13854e572584015e465dd37fc5ef19eb74b00c013166"
   },
   {
    "path": "lang/de.json",
