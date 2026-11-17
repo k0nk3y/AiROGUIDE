@@ -1,10 +1,10 @@
 {
- "version": 405,
- "notes": "Útlevél a Flight Log-ban: minden ország bélyeggel (teljes ISO-lista, a meg nem szerzettek szürke sablonként), nagyítható pecsét animációval, kontinensek és mérföldkövek, térkép, megosztható oklevél képként, új-pecsét jelzés, országszűrő a repülések között. Flight Log gombok ikonokkal, a keresés mindig az aktuális nézetben keres, jobb oldali margók javítva.",
+ "version": 406,
+ "notes": "Útlevél: a repülőtér-adatbázis (országok felismeréséhez) mostantól a frissítéssel érkezik.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "b90884027f61ef91245be1fa2e4d39a56f7fa3dcee02a170b11049d803fb3937"
+   "sha256": "6b02a3da3fbd0bf3254cffd1f6190399fd13bdb9a8a0944c652941eb950ef873"
   },
   {
    "path": "lang/de.json",
@@ -37,6 +37,10 @@
   {
    "path": "lang/zh.json",
    "sha256": "a0d8d482a1e1e4f181bee8baf8b869739917eb1a5598c05541ace040f012cd95"
+  },
+  {
+   "path": "data/airports_rwy.tsv.gz",
+   "sha256": "8f6b1709bc20be3f28e94e4ac86d9d752d592d272c85501d8eff29328c120b40"
   }
  ],
  "release": {
