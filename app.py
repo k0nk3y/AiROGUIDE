@@ -12297,6 +12297,29 @@ def run_launcher(lan, url, boot):
         updrow = tk.Frame(st, bg=CARD)
         updrow_on = {"v": False}
 
+        def _notes_text(parent, txt):
+            """Az ujdonsag-szoveg kattinthato linkekkel: [szoveg](https://...) vagy csupasz https:// cim."""
+            import webbrowser
+            t = tk.Text(parent, bg=BG, fg=TX, font=(FONT, 10), wrap="word", width=58, relief="flat", bd=0, highlightthickness=0, cursor="arrow", padx=0, pady=0)
+            t.tag_configure("lnk", foreground=ACC2, underline=True)
+            n = 0
+            pos = 0
+            for m in re.finditer(r"\[([^\]\n]+)\]\((https?://[^)\s]+)\)|(https?://[^\s)]+)", txt):
+                t.insert("end", txt[pos:m.start()])
+                label, url = (m.group(1), m.group(2)) if m.group(2) else (m.group(3), m.group(3))
+                tag = "l%d" % n
+                n += 1
+                t.insert("end", label, ("lnk", tag))
+                t.tag_bind(tag, "<Button-1>", lambda e, u=url: webbrowser.open(u))
+                t.tag_bind(tag, "<Enter>", lambda e: t.config(cursor="hand2"))
+                t.tag_bind(tag, "<Leave>", lambda e: t.config(cursor="arrow"))
+                pos = m.end()
+            t.insert("end", txt[pos:])
+            shown = t.get("1.0", "end-1c")
+            t.config(height=max(2, sum(max(1, -(-len(ln) // 54)) for ln in shown.split("\n"))))
+            t.config(state="disabled")
+            return t
+
         def upd_info():
             nt = notes_pick(UPD.get("notes_raw", UPD.get("notes", "")), "en" if S.get("lang_set") is False else S.get("lang", "hu")) or L("u_none")
             top = tk.Toplevel(root)
@@ -12304,7 +12327,7 @@ def run_launcher(lan, url, boot):
             top.configure(bg=BG)
             top.resizable(False, False)
             tk.Label(top, text=("%s" % UPD.get("latest", "")), bg=BG, fg=ACC2, font=(FONT, 11, "bold")).pack(anchor="w", padx=20, pady=(16, 4))
-            tk.Label(top, text=nt, bg=BG, fg=TX, font=(FONT, 10), justify="left", wraplength=460).pack(anchor="w", padx=20, pady=(0, 10))
+            _notes_text(top, nt).pack(anchor="w", padx=20, pady=(0, 10))
             btn(top, L("close"), top.destroy).pack(pady=(0, 16))
             top.bind("<Escape>", lambda e: top.destroy())
             try:
