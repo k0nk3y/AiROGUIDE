@@ -1,10 +1,10 @@
 {
- "version": 413,
- "notes": "Személyes adatok visszaállítása: kiválasztható, mit töltsön vissza (repülések, helyek, mentett útvonalak, beállítások); a mentés mindig mindent tartalmaz, és a fájl kiválasztása után látszik, miből mennyi van benne.",
+ "version": 414,
+ "notes": "Személyes adatok súgó pontosítva: a visszaállításnál választható, mit töltsön vissza; csak a beállítások felülírók.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "6953b39deb3552d68d35cf7b1b1238172ebb1ea9caf7aaa761d446df66d7759e"
+   "sha256": "ca31e01c2d474378022f55014d620181f418f8c1e6b169bcc7e7a0fbb100cc8d"
   },
   {
    "path": "lang/de.json",
