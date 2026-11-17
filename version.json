@@ -1,10 +1,10 @@
 {
- "version": 406,
- "notes": "Útlevél: a repülőtér-adatbázis (országok felismeréséhez) mostantól a frissítéssel érkezik.",
+ "version": 407,
+ "notes": "Útlevél: a pecsét csak valódi (ICAO) repülőtér-kódokat mutat, az oklevélen országonként egy repteret.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "6b02a3da3fbd0bf3254cffd1f6190399fd13bdb9a8a0944c652941eb950ef873"
+   "sha256": "8b8263cf1010af98ba57ab774231bcbfc0e7e79992463a433026244a5bc84648"
   },
   {
    "path": "lang/de.json",
