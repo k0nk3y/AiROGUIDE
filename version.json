@@ -1,10 +1,10 @@
 {
- "version": "v91",
- "notes": "Útlevél: pecsét-nagyítás animált lecsapódással (kattintásra újrajátszható), teljesített kontinens arany jelölés, mérföldkő/kontinens értesítés a felvétel végén oklevél-gombbal.",
+ "version": "v92",
+ "notes": "Javítás: a közeli repülőterek keresése (/api/ad_near) névütközés miatt nem működött; a legközelebbi repülőtér függvény átnevezve.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "a2008dd149b8c3d4a4898c9e2f971e25eb1b1560030e51b0eff589726436751c"
+   "sha256": "ab8326d96e20a8af2db981e36053f7f24e3a7961fa18d9ac444699738c3134ee"
   },
   {
    "path": "lang/de.json",
