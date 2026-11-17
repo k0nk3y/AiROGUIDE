@@ -1,10 +1,10 @@
 {
- "version": "v94",
- "notes": "Útlevél: csak a földön kezdődő vagy végződő felvétel (és a valódi leszállások) ad országpecsétet; a levegőben induló/végződő felvétel nem.",
+ "version": "v95",
+ "notes": "Útlevél: a repülés közbeni érintés (touch and go) is pecsétet ad; ha a leszállás ICAO-kódja hiányzik az adatbázisból, a koordináta alapján keresi a repteret.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "5a52def2e3d42d0923e782976279715d3dc091ba3c8ea1ce23bb4849d39b8949"
+   "sha256": "950423b1826d67099a4680142ba1105917b28409d23d5b4a4b9e4b36de383383"
   },
   {
    "path": "lang/de.json",
