@@ -1,6 +1,9 @@
 {
  "version": 414,
- "notes": "Személyes adatok súgó pontosítva: a visszaállításnál választható, mit töltsön vissza; csak a beállítások felülírók.",
+ "notes": {
+  "hu": "• Pilot Book: Útlevél. Minden országhoz, ahol felszálltál vagy leszálltál, egyedi pecsét jár; a hiányzók szürke sablonként látszanak. Követheted kontinensenként és mérföldkövenként, megnézheted térképen, és oklevélként képbe mentheted. Pecsétet csak valódi, legalább 30 perces repülés ad.\n• Pilot Book: ikonos gombok, a keresés mindig az éppen nyitott nézetben keres, rendezettebb margók.\n• Beállítások › Haladó › Személyes adatok: a repüléseid, helyeid, útvonalaid és beállításaid mentése és visszaállítása egyetlen fájlból.",
+  "en": "• Pilot Book: Passport. Every country where you took off or landed gets its own stamp; missing ones show as grey templates. Track your progress by continent and milestone, view it on a map and save it as a certificate image. Only a real flight of at least 30 minutes earns a stamp.\n• Pilot Book: icon buttons, search always works in the view you have open, tidier margins.\n• Settings › Advanced › Personal data: back up and restore your flights, places, routes and settings from a single file."
+ },
  "files": [
   {
    "path": "app.py",
