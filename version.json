@@ -1,10 +1,10 @@
 {
  "version": "v85",
- "notes": "Útlevél-oklevél: a sima AiROGUIDE logó szerepel, a fejléc felirata AiROGUIDE ✦ FLIGHT LOG.",
+ "notes": "Útlevél-oklevél: a fejléc felirata AiROGUIDE ✦ PECSÉTEK, sima AiROGUIDE logóval.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "bdf0f833b55187143cb788fee7a52918e2ed8c2b0fefd8f11dfcf2be00bdea4b"
+   "sha256": "347b3216a4943597344ac0983a5a837ec6f9a5f246a725757615dadb39a5730a"
   },
   {
    "path": "lang/de.json",
