@@ -1,42 +1,46 @@
 {
- "version": 404,
- "notes": "Flight Log: a repülőgép neve a megnyitott repülés címe mögé került (kompaktabb fejléc). Megosztás képként: új, opcionális „Leszállás\" elem (pontszám /100, csillagok, süllyedési sebesség, G-erő).",
+ "version": 405,
+ "notes": "Útlevél a Flight Log-ban: minden ország bélyeggel (teljes ISO-lista, a meg nem szerzettek szürke sablonként), nagyítható pecsét animációval, kontinensek és mérföldkövek, térkép, megosztható oklevél képként, új-pecsét jelzés, országszűrő a repülések között. Flight Log gombok ikonokkal, a keresés mindig az aktuális nézetben keres, jobb oldali margók javítva.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "15149cd2e0ce853091301d40699bf6043d03aefb4aee0e6ac38cce63e2ff3602"
+   "sha256": "b90884027f61ef91245be1fa2e4d39a56f7fa3dcee02a170b11049d803fb3937"
   },
   {
    "path": "lang/de.json",
-   "sha256": "ba9f3b8e5ecdea2027d757fd2b37628b5989137d892c183a00240ac1a50214f2"
+   "sha256": "09656dfeb63f4e0f7b0b545c5df3271ea42d600dd24ee5e25349620a4f7b0d2c"
   },
   {
    "path": "lang/es.json",
-   "sha256": "c93440ce1da32720aac9ae42870a394418dbfdccceaf1c0e8f77037bdd92c820"
+   "sha256": "5beedd807f9a0a8037247f54cfb73f70026a22a0c593adfd104ae8d8ea195a71"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "8317ddeb7794d28e930c32e4a5e150bb9e768ef4d4e66eb5bdc0f134aa6178ed"
+   "sha256": "3564b8311408ec73b6e98ad612338ec6b5fcc678d61559595b02f7cfc176577f"
   },
   {
    "path": "lang/it.json",
-   "sha256": "7c17ef72a2c670a3e8c23c2fc7921299205de9068b2362c67771ead332bcade5"
+   "sha256": "99c0694ac10a566b54e8cab7dfb2707e522fcc147da44f2786c2e3f8ed657e7e"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "19031bcae644a3716bccdaca780f121e3e2783ab6025719d5f6ecdf748c68008"
+   "sha256": "fab8e0646ae2610771b4fb1c61f7dace3dbab246be0a3462b9040ba51d188117"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "46482a8ff0a48d81d4f172458c7c826b5a3671fdef4269625c03de5c33b65927"
+   "sha256": "d7a3655bb417f98042e8b8203691e17d4acfc46848d43364aae48fe1befe918c"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "d40fe1b14190e3efa317f0f00565e06d66ed6457d5f369a1412d6cbf65a61398"
+   "sha256": "f86d39695ca4d38a535b47f1baffef7626dd04411257495b6572bbe53c4da106"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "c245c6649d2ef0407aa6e6138ae9aa2b5abe196209ad7e6a5b3430e78643976a"
+   "sha256": "a0d8d482a1e1e4f181bee8baf8b869739917eb1a5598c05541ace040f012cd95"
+  },
+  {
+   "path": "data/airports_rwy.tsv.gz",
+   "sha256": "8f6b1709bc20be3f28e94e4ac86d9d752d592d272c85501d8eff29328c120b40"
   }
  ],
  "release": {
