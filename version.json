@@ -1,10 +1,10 @@
 {
- "version": "v85",
- "notes": "Útlevél-oklevél: a fejléc felirata AiROGUIDE ✦ PECSÉTEK, sima AiROGUIDE logóval.",
+ "version": "v86",
+ "notes": "Útlevél: a térkép a program többi térképével azonos vetületű (nem torz), átrendezett vezérlők és szűrők.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "347b3216a4943597344ac0983a5a837ec6f9a5f246a725757615dadb39a5730a"
+   "sha256": "5e9ac827d34b705131228edb98ecbf6e71834ef1e22b570f9f49f30a289c0600"
   },
   {
    "path": "lang/de.json",
