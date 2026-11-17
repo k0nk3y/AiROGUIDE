@@ -1,10 +1,10 @@
 {
- "version": "v79",
- "notes": "Útlevél: az összes ISO-ország szürke sablonpecséttel (ABC sorrendben), megszerzett/összes nézet, számláló és folyamatsáv, kattintásra nagyított részletes pecsét; a Flight Log gombjai ikont kaptak, a kereső az aktív nézetben keres.",
+ "version": "v80",
+ "notes": "Útlevél: a nagyított pecsét világos háttérkártyán nyílik, a lista halványan látszik mögötte.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "1815737b1c374c7d483a5ff90896954741ecf0f2868b9cd92ceffd48b5628f62"
+   "sha256": "679aaaca369aaf4c488c3dfa4d5100bc31f67f74b1188c8085475aa19286ff63"
   },
   {
    "path": "lang/de.json",
