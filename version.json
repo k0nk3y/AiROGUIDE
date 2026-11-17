@@ -1,10 +1,10 @@
 {
- "version": "v71",
- "notes": "Oklevél: a pecsét a térkép helyett a kép alsó részére került, így nem takarja az útvonalat; a sarokdíszekhez igazítva.",
+ "version": "v72",
+ "notes": "Oklevél: nagy túrákhoz igazítva (ezres tagolású számok, akár több száz ország-zászló, világkörüli útvonal a térképen); a landing pontszám alapból rejtett és visszafogott, a Landing pontszám gombbal kapcsolható be.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "1dd8cd0f1814aebcf0c04a83a692785856dd086e79fc2b15243991b1779c4948"
+   "sha256": "a811ccd1a739ee440e2dfc69c93b3c580bab9dcb60407a0abdfcdda6e6faa533"
   },
   {
    "path": "lang/de.json",
