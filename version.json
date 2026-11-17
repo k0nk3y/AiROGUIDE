@@ -1,10 +1,10 @@
 {
- "version": "v74",
- "notes": "Oklevél: a bélyegek és a pecsét egymás mellett (nincs üres kék sáv), földgömb-vonalak a pecsét közepén, új fejléc ikon.",
+ "version": "v75",
+ "notes": "Oklevél: a fejléc ikonja négyágú iránytű-csillag.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "fd3e1920f06ef6e4df6020c2b4f0686cd48e0f908144c7c4095ed16ef97d47d7"
+   "sha256": "d5224ae8e46a7f2b647bc6f45204666f49aac45c580dfb2d02fa15b7e707befe"
   },
   {
    "path": "lang/de.json",
