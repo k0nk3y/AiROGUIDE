@@ -1,10 +1,10 @@
 {
- "version": 407,
- "notes": "Útlevél: a pecsét csak valódi (ICAO) repülőtér-kódokat mutat, az oklevélen országonként egy repteret.",
+ "version": 408,
+ "notes": "Útlevél: csak a földön kezdődő vagy végződő felvétel (és a valódi leszállások) ad országpecsétet; a levegőben induló/végződő felvétel nem.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "8b8263cf1010af98ba57ab774231bcbfc0e7e79992463a433026244a5bc84648"
+   "sha256": "9e9ef1689678acebd68e7d5019f2184d4d8e73c43f01ee0ff03858d4c4686870"
   },
   {
    "path": "lang/de.json",
