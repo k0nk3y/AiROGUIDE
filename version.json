@@ -1,10 +1,10 @@
 {
- "version": "v92",
- "notes": "Javítás: a közeli repülőterek keresése (/api/ad_near) névütközés miatt nem működött; a legközelebbi repülőtér függvény átnevezve.",
+ "version": "v93",
+ "notes": "Útlevél: a pecsét csak valódi (ICAO) repülőtér-kódokat mutat, az oklevélen országonként egy repteret.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "ab8326d96e20a8af2db981e36053f7f24e3a7961fa18d9ac444699738c3134ee"
+   "sha256": "7986f176ef6ddcbd6b28837562379f902c4384ec0f1aa016272e1a1def6f66a5"
   },
   {
    "path": "lang/de.json",
