@@ -1,69 +1,69 @@
 {
- "version": 439,
- "notes": {
-  "hu": "• Útlevél: Minden országhoz, ahol felszálltál vagy leszálltál, egyedi pecsét jár. Követheted kontinensenként és mérföldkövenként, megnézheted térképen, és oklevélként képbe mentheted. Pecsétet csak valódi, legalább 30 perces repülés ad olyan helyeken, ahol leszálltál (a touch and go is számít, és a repülőtér nélküli leszállás is: síelős, vízi vagy szabadtéri; ilyenkor a helyzeted adja az országot). Repülj, gyűjtsd, oszd meg!\n• Pilot Book: ikonos gombok, a keresés mindig az éppen nyitott nézetben keres, rendezettebb margók.\n• Beállítások › Haladó › Személyes adatok: a repüléseid, helyeid, útvonalaid és beállításaid mentése és visszaállítása egyetlen fájlból.\n• Statisztika: új, áttekinthető nézet 7 nap / hónap / év / összes időszakkal, lapozással, gép szerinti szűréssel, ikonos adatcsempékkel, diagrammal és a repülések listájával. A kiválasztott időszak képként is megosztható, kérésre a szerzett pecsétekkel.",
-  "en": "• Passport: every country where you took off or landed earns its own stamp. Track your progress by continent and milestone, view it on a map and save it as a certificate image. A stamp is only earned by a real flight of at least 30 minutes, at places where you landed (touch and go counts too, and so do landings away from an airport, such as on skis, water or a bush strip: the country is determined from your position). Fly, collect, share!\n• Pilot Book: icon buttons, search always works in the view you have open, tidier margins.\n• Settings › Advanced › Personal data: back up and restore your flights, places, routes and settings from a single file.\n• Statistics: a new, clear view with 7 days / month / year / all-time periods, paging, filtering by aircraft, icon tiles, a chart and a list of flights. Share the selected period as an image, optionally with the stamps you earned."
- },
- "files": [
-  {
-   "path": "app.py",
-   "sha256": "2735383066bd991e36d507a56b8c54d6bf23b1f1549bebabc8c580a1ef50b8bd"
-  },
-  {
-   "path": "lang/de.json",
-   "sha256": "6897e1964224020a15a99c74d285995991d72e12113bfaa57262d3f5ca8c7313"
-  },
-  {
-   "path": "lang/es.json",
-   "sha256": "2f882d43b8bc2d587819fc2d57786c68eada30c15739e2f5154dd17f09783dc7"
-  },
-  {
-   "path": "lang/fr.json",
-   "sha256": "8fd80ac385249103316a08969290ef3f81369e37a2ddca73a4ee3a24a0e847b1"
-  },
-  {
-   "path": "lang/it.json",
-   "sha256": "8eb10dda0b1cbae640614d33bf894ad08d545ee2451bacf5387bcecb54b17ae1"
-  },
-  {
-   "path": "lang/pl.json",
-   "sha256": "96031a4147bf5c44c01498e6cd9012b36e1f63317ce8c8d9159cfbeefee56020"
-  },
-  {
-   "path": "lang/ru.json",
-   "sha256": "9fd790b21bdc04bfa12b65102e44596ceb68b027bc2ce7509708b1db18f37d9d"
-  },
-  {
-   "path": "lang/sk.json",
-   "sha256": "213376e6b5fe6eb81661d518b659268eb4e3fe627da1195b3ef302e097936af0"
-  },
-  {
-   "path": "lang/zh.json",
-   "sha256": "7e27c5e80f03be8e6428bdda130b1bfa4783638fde1b383cadd64bb4671aded7"
-  },
-  {
-   "path": "data/airports_rwy.tsv.gz",
-   "sha256": "8f6b1709bc20be3f28e94e4ac86d9d752d592d272c85501d8eff29328c120b40"
-  },
-  {
-   "path": "data/countries.tsv.gz",
-   "sha256": "a55529294f7394384f4fc10a7644fbda39587c8e3bde0144ef7683dbb8e0dd16"
-  }
- ],
- "release": {
-  "version": "1.0.2",
-  "url": "https://flightsim.to/addon/119104/airoguide-sightseeing-guide",
+  "version": 440,
   "notes": {
-   "hu": "• SimBrief szinkronizáció: a legutóbbi SimBrief repülési tervet a Pilot ID-ddel töltheted be (Útvonal betöltése › Szinkron)\n• Hálózati hibaelhárítás gomb (⚙): ha hálózati hiba van (tűzfal vagy engedély), egy kattintással javítható",
-   "en": "• SimBrief sync: load your latest SimBrief flight plan with your Pilot ID (Load route › Sync)\n• Network troubleshooting button (⚙): if there is a network problem (firewall or permissions), one click fixes it",
-   "es": "• Sincronización con SimBrief: carga tu último plan de vuelo de SimBrief con tu Pilot ID (Cargar ruta › Sincronizar)\n• Botón de solución de problemas de red (⚙): si hay un problema de red (firewall o permisos), se corrige con un clic",
-   "de": "• SimBrief-Sync: lade deinen letzten SimBrief-Flugplan mit deiner Pilot-ID (Route laden › Synchronisieren)\n• Schaltfläche zur Netzwerk-Fehlerbehebung (⚙): bei einem Netzwerkproblem (Firewall oder Berechtigung) genügt ein Klick",
-   "ru": "• Синхронизация с SimBrief: загрузите последний план полёта SimBrief по Pilot ID (Загрузить маршрут › Синхронизация)\n• Кнопка устранения сетевых неполадок (⚙): при проблеме с сетью (брандмауэр или разрешения) достаточно одного щелчка",
-   "pl": "• Synchronizacja z SimBrief: wczytaj ostatni plan lotu z SimBrief za pomocą Pilot ID (Wczytaj trasę › Synchronizacja)\n• Przycisk rozwiązywania problemów z siecią (⚙): przy problemie z siecią (zapora lub uprawnienia) wystarczy jedno kliknięcie",
-   "sk": "• Synchronizácia so SimBrief: načítajte posledný letový plán zo SimBrief pomocou Pilot ID (Načítať trasu › Synchronizácia)\n• Tlačidlo riešenia sieťových problémov (⚙): pri probléme so sieťou (firewall alebo oprávnenia) stačí jedno kliknutie",
-   "it": "• Sincronizzazione SimBrief: carica l'ultimo piano di volo SimBrief con il tuo Pilot ID (Carica percorso › Sincronizza)\n• Pulsante di risoluzione dei problemi di rete (⚙): in caso di problema di rete (firewall o autorizzazioni) basta un clic",
-   "zh": "• SimBrief 同步：使用 Pilot ID 载入最新的 SimBrief 飞行计划（加载航线 › 同步）\n• 网络故障排除按钮（⚙）：出现网络问题（防火墙或权限）时，一键即可修复",
-   "fr": "• Synchronisation SimBrief : chargez votre dernier plan de vol SimBrief avec votre Pilot ID (Charger un itinéraire › Synchroniser)\n• Bouton de dépannage réseau (⚙) : en cas de problème réseau (pare-feu ou autorisations), un clic suffit"
+    "hu": "• Útlevél: Minden országhoz, ahol felszálltál vagy leszálltál, egyedi pecsét jár. Követheted kontinensenként és mérföldkövenként, megnézheted térképen, és oklevélként képbe mentheted. Pecsétet csak valódi, legalább 30 perces repülés ad olyan helyeken, ahol leszálltál (a touch and go is számít, és a repülőtér nélküli leszállás is: síelős, vízi vagy szabadtéri; ilyenkor a helyzeted adja az országot). Repülj, gyűjtsd, oszd meg!\n• Pilot Book: ikonos gombok, a keresés mindig az éppen nyitott nézetben keres, rendezettebb margók.\n• Beállítások › Haladó › Személyes adatok: a repüléseid, helyeid, útvonalaid és beállításaid mentése és visszaállítása egyetlen fájlból.\n• Statisztika: új, áttekinthető nézet 7 nap / hónap / év / összes időszakkal, lapozással, gép szerinti szűréssel, ikonos adatcsempékkel, diagrammal és a repülések listájával. A kiválasztott időszak képként is megosztható, kérésre a szerzett pecsétekkel.",
+    "en": "• Passport: every country where you took off or landed earns its own stamp. Track your progress by continent and milestone, view it on a map and save it as a certificate image. A stamp is only earned by a real flight of at least 30 minutes, at places where you landed (touch and go counts too, and so do landings away from an airport, such as on skis, water or a bush strip: the country is determined from your position). Fly, collect, share!\n• Pilot Book: icon buttons, search always works in the view you have open, tidier margins.\n• Settings › Advanced › Personal data: back up and restore your flights, places, routes and settings from a single file.\n• Statistics: a new, clear view with 7 days / month / year / all-time periods, paging, filtering by aircraft, icon tiles, a chart and a list of flights. Share the selected period as an image, optionally with the stamps you earned."
+  },
+  "files": [
+    {
+      "path": "app.py",
+      "sha256": "9dfa8bf0c0e2a945fb98f6c77818dd74b65b8ed95cf63e5019e20f5bcd00c769"
+    },
+    {
+      "path": "lang/de.json",
+      "sha256": "c1e1a10c265b26bf615e317cd217db7b565e74fe80d450ed723187e59d0c5179"
+    },
+    {
+      "path": "lang/es.json",
+      "sha256": "40916773bacb2808d4f5d164fab905d9c102fe5e8ff8f41db5f9406678847804"
+    },
+    {
+      "path": "lang/fr.json",
+      "sha256": "a8c0c235289d3a20a5a9b46c820d41b2fb0f5b0ee8153fb715f33cbdb9521105"
+    },
+    {
+      "path": "lang/it.json",
+      "sha256": "37bf881b9145d4348cb105d0afd3d0bc5426b9bfa1b7840433521c245e2384f9"
+    },
+    {
+      "path": "lang/pl.json",
+      "sha256": "36ce77cd43a2c10d81c8e7e47ed071ae898bf5d86974c03f97fcc27bc797dd88"
+    },
+    {
+      "path": "lang/ru.json",
+      "sha256": "133a403e296e88b02a84c53a86d66bb7781e3457cbe2323fc1d0386bd6b12c80"
+    },
+    {
+      "path": "lang/sk.json",
+      "sha256": "7baa344f38e0f45817b9ee389458b0f0e8ce2b822ce56a86b0f5c72b1091b2b7"
+    },
+    {
+      "path": "lang/zh.json",
+      "sha256": "cb2c635411b8be1e6afc81ce3496a809229cba03181179ab753afff580fb6a65"
+    },
+    {
+      "path": "data/airports_rwy.tsv.gz",
+      "sha256": "8f6b1709bc20be3f28e94e4ac86d9d752d592d272c85501d8eff29328c120b40"
+    },
+    {
+      "path": "data/countries.tsv.gz",
+      "sha256": "a55529294f7394384f4fc10a7644fbda39587c8e3bde0144ef7683dbb8e0dd16"
+    }
+  ],
+  "release": {
+    "version": "1.0.2",
+    "url": "https://flightsim.to/addon/119104/airoguide-sightseeing-guide",
+    "notes": {
+      "hu": "• SimBrief szinkronizáció: a legutóbbi SimBrief repülési tervet a Pilot ID-ddel töltheted be (Útvonal betöltése › Szinkron)\n• Hálózati hibaelhárítás gomb (⚙): ha hálózati hiba van (tűzfal vagy engedély), egy kattintással javítható",
+      "en": "• SimBrief sync: load your latest SimBrief flight plan with your Pilot ID (Load route › Sync)\n• Network troubleshooting button (⚙): if there is a network problem (firewall or permissions), one click fixes it",
+      "es": "• Sincronización con SimBrief: carga tu último plan de vuelo de SimBrief con tu Pilot ID (Cargar ruta › Sincronizar)\n• Botón de solución de problemas de red (⚙): si hay un problema de red (firewall o permisos), se corrige con un clic",
+      "de": "• SimBrief-Sync: lade deinen letzten SimBrief-Flugplan mit deiner Pilot-ID (Route laden › Synchronisieren)\n• Schaltfläche zur Netzwerk-Fehlerbehebung (⚙): bei einem Netzwerkproblem (Firewall oder Berechtigung) genügt ein Klick",
+      "ru": "• Синхронизация с SimBrief: загрузите последний план полёта SimBrief по Pilot ID (Загрузить маршрут › Синхронизация)\n• Кнопка устранения сетевых неполадок (⚙): при проблеме с сетью (брандмауэр или разрешения) достаточно одного щелчка",
+      "pl": "• Synchronizacja z SimBrief: wczytaj ostatni plan lotu z SimBrief za pomocą Pilot ID (Wczytaj trasę › Synchronizacja)\n• Przycisk rozwiązywania problemów z siecią (⚙): przy problemie z siecią (zapora lub uprawnienia) wystarczy jedno kliknięcie",
+      "sk": "• Synchronizácia so SimBrief: načítajte posledný letový plán zo SimBrief pomocou Pilot ID (Načítať trasu › Synchronizácia)\n• Tlačidlo riešenia sieťových problémov (⚙): pri probléme so sieťou (firewall alebo oprávnenia) stačí jedno kliknutie",
+      "it": "• Sincronizzazione SimBrief: carica l'ultimo piano di volo SimBrief con il tuo Pilot ID (Carica percorso › Sincronizza)\n• Pulsante di risoluzione dei problemi di rete (⚙): in caso di problema di rete (firewall o autorizzazioni) basta un clic",
+      "zh": "• SimBrief 同步：使用 Pilot ID 载入最新的 SimBrief 飞行计划（加载航线 › 同步）\n• 网络故障排除按钮（⚙）：出现网络问题（防火墙或权限）时，一键即可修复",
+      "fr": "• Synchronisation SimBrief : chargez votre dernier plan de vol SimBrief avec votre Pilot ID (Charger un itinéraire › Synchroniser)\n• Bouton de dépannage réseau (⚙) : en cas de problème réseau (pare-feu ou autorisations), un clic suffit"
+    }
   }
- }
 }
