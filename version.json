@@ -1,10 +1,10 @@
 {
- "version": "v81",
- "notes": "Útlevél: a nagyított pecsét lágy animációval, a pecsét színében izzó kártyán nyílik, bezáró gombbal.",
+ "version": "v82",
+ "notes": "Útlevél: kontinens-szűrők számlálóval, mérföldkő-jelvények, világtérkép a látogatott repülőterekkel, rendezés, új pecsét animáció és jelzés, ország szerinti szűrés a naplóban, megosztható útlevélkép.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "08a333b41fd91a82644f55035837fb200083aab0097dac724cc7a822cae6a7ee"
+   "sha256": "193125e531cd90a153144371abdfc9fc8c8c120b2ddb37bcdb9c0c8eb9532b62"
   },
   {
    "path": "lang/de.json",
