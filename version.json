@@ -1,10 +1,10 @@
 {
- "version": "v77",
- "notes": "Oklevél: kézírás-szerű AiROGUIDE aláírás és HITELESÍTVE felirat a pecsét alatt, a BÉLYEGEK fejléc a teljes szélességben.",
+ "version": "v78",
+ "notes": "Oklevél: a START és CÉL címkék nem takarják egymást.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "e5c18025fe1feca9d2bc946ed2659ac38508bfdc9d8dde8cf6a4e7c28bede746"
+   "sha256": "691116650eac33575ba251ed4171545210ed8877e48006ed8b1ddf2926a78840"
   },
   {
    "path": "lang/de.json",
