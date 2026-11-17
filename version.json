@@ -1,10 +1,10 @@
 {
- "version": "v90",
- "notes": "Útlevél: ALL mérföldkő a sor végén (az összes ország), oklevéllel.",
+ "version": "v91",
+ "notes": "Útlevél: pecsét-nagyítás animált lecsapódással (kattintásra újrajátszható), teljesített kontinens arany jelölés, mérföldkő/kontinens értesítés a felvétel végén oklevél-gombbal.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "b715432a58f14877776b560cc33a5b689ba0667368b5fb9af0b45644f66ce19f"
+   "sha256": "a2008dd149b8c3d4a4898c9e2f971e25eb1b1560030e51b0eff589726436751c"
   },
   {
    "path": "lang/de.json",
