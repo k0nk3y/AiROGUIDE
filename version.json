@@ -1,42 +1,45 @@
 {
- "version": "v98",
- "notes": "Útlevél-oklevél: az ÚTLEVÉL cím is fordítódik (angolul PASSPORT).",
+ "version": "v99",
+ "notes": {
+  "hu": "Statisztika: új, áttekinthető nézet 7 nap / hónap / év / összes időszakkal, lapozással és gép szerinti szűréssel, ikonos adatcsempékkel, diagrammal és a repülések listájával. A kiválasztott időszak statisztikája képként is megosztható, kérésre a szerzett pecsétekkel együtt. A látnivaló-statisztika lenyitható részbe került.",
+  "en": "Statistics: a new, clear view with 7 days / month / year / all-time periods, paging, filtering by aircraft, icon tiles, a chart and a list of flights. The statistics of the selected period can be shared as an image, optionally with the stamps you earned. The sights statistics moved into a collapsible section."
+ },
  "files": [
   {
    "path": "app.py",
-   "sha256": "43a4d3f2e119807fcc6badf88f0ee0ace3962922ff562897d9898f315a18974f"
+   "sha256": "c43e9bc30f75e9190dc9cfc4bcbc4f38461e6a5d6a2d61a08a5fd5785fce00a8"
   },
   {
    "path": "lang/de.json",
-   "sha256": "09656dfeb63f4e0f7b0b545c5df3271ea42d600dd24ee5e25349620a4f7b0d2c"
+   "sha256": "39304f2cc405e153c8072d255c249204c45e0a9f6a6454f35285ba2ae6eb150e"
   },
   {
    "path": "lang/es.json",
-   "sha256": "5beedd807f9a0a8037247f54cfb73f70026a22a0c593adfd104ae8d8ea195a71"
+   "sha256": "067746a7c1627d441b8098659ae0a1c3f8cc1fb306dfb9c83a912c1654a071cc"
   },
   {
    "path": "lang/fr.json",
-   "sha256": "3564b8311408ec73b6e98ad612338ec6b5fcc678d61559595b02f7cfc176577f"
+   "sha256": "2d2989e50e1f9d28a47bc633df6f396ffa33920bc233f205f4eae92e84198c14"
   },
   {
    "path": "lang/it.json",
-   "sha256": "99c0694ac10a566b54e8cab7dfb2707e522fcc147da44f2786c2e3f8ed657e7e"
+   "sha256": "7234faa69be9fd4045f3f7aa350dbd69f91d3fe4b8f78d474e81cd76440216fe"
   },
   {
    "path": "lang/pl.json",
-   "sha256": "fab8e0646ae2610771b4fb1c61f7dace3dbab246be0a3462b9040ba51d188117"
+   "sha256": "70a9832bb971540103dde8e7ae30d583584a886e1d02e2536cb928c8d9d5b2d9"
   },
   {
    "path": "lang/ru.json",
-   "sha256": "d7a3655bb417f98042e8b8203691e17d4acfc46848d43364aae48fe1befe918c"
+   "sha256": "8af75c7b3f7ae9ad063d3fd61a0d1fa2018ab683eaaf9dd1737fb4316f6af047"
   },
   {
    "path": "lang/sk.json",
-   "sha256": "f86d39695ca4d38a535b47f1baffef7626dd04411257495b6572bbe53c4da106"
+   "sha256": "c22f621414304ca68be49ebc90abd397e2aad033eae89aed73894948b1c38ac0"
   },
   {
    "path": "lang/zh.json",
-   "sha256": "a0d8d482a1e1e4f181bee8baf8b869739917eb1a5598c05541ace040f012cd95"
+   "sha256": "edd904d048f0318e98ade31e93b459d973b53ae19fb37db15430ee9a69c76ad0"
   },
   {
    "path": "data/airports_rwy.tsv.gz",
