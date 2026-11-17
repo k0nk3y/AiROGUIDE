@@ -1,10 +1,10 @@
 {
- "version": "v84",
- "notes": "Útlevél-oklevél: logó, finom arany vonalak a fejlécben, repülős elválasztó, kiegyensúlyozott pecsétek dátummal és repülőterekkel.",
+ "version": "v85",
+ "notes": "Útlevél-oklevél: a sima AiROGUIDE logó szerepel, a fejléc felirata AiROGUIDE ✦ FLIGHT LOG.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "5d2f16413e05a07fbb5247c6d20146aeae92631c94dcdcf576e572f3a9e271e4"
+   "sha256": "bdf0f833b55187143cb788fee7a52918e2ed8c2b0fefd8f11dfcf2be00bdea4b"
   },
   {
    "path": "lang/de.json",
