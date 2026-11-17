@@ -1,10 +1,10 @@
 {
- "version": "v73",
- "notes": "Oklevél: arany átmenetes ikonok az adatoknál, két adatsáv (fő adatok a térkép felett, további adatok alatta, landing az adatsávban), földgömb ikon a fejlécben, átmenetes túracím, gép- és dátumikon, új lábléc (vonal – logó + szlogen – vonal).",
+ "version": "v74",
+ "notes": "Oklevél: a bélyegek és a pecsét egymás mellett (nincs üres kék sáv), földgömb-vonalak a pecsét közepén, új fejléc ikon.",
  "files": [
   {
    "path": "app.py",
-   "sha256": "aee63fa1b8ddd5a245334dc36207c86ed28309268f37b84ec61de46987376f69"
+   "sha256": "fd3e1920f06ef6e4df6020c2b4f0686cd48e0f908144c7c4095ed16ef97d47d7"
   },
   {
    "path": "lang/de.json",
