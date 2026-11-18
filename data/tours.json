@@ -1,0 +1,514 @@
+{
+ "version": 1,
+ "tours": [
+  {
+   "id": "agra-taj",
+   "continent": "AS",
+   "country": {
+    "en": "India",
+    "hu": "India"
+   },
+   "name": {
+    "en": "Taj Mahal and the Golden Triangle",
+    "hu": "Taj Mahal és az Aranyháromszög"
+   },
+   "main": {
+    "en": "Taj Mahal",
+    "hu": "Taj Mahal",
+    "lat": 27.1751,
+    "lon": 78.0421
+   },
+   "tags": [
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Agra's Mughal monuments from the air: the Taj Mahal on the Yamuna river, Agra Fort, Akbar's tomb and the ghost city of Fatehpur Sikri, with a longer one-way flight on to the pink city of Jaipur.",
+    "hu": "Agra mogul emlékei a levegőből: a Taj Mahal a Yamuna partján, az agrai erőd, Akbar síremléke és a szellemváros Fatehpur Sikri, hosszabb változatban egyirányú repüléssel a rózsaszín városba, Jaipurba."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Taj Mahal loop",
+      "hu": "Taj Mahal-kör"
+     },
+     "desc": {
+      "en": "Short loop from Agra: Akbar's tomb at Sikandra, the river monuments of Agra, the Taj Mahal and the gardens opposite on the far bank.",
+      "hu": "Rövid kör Agrából: Akbar síremléke Sikandrában, Agra folyóparti emlékei, a Taj Mahal és a túlparti kertek."
+     },
+     "pts": [
+      "VIAG",
+      [
+       "Sikandra (Akbar's tomb)",
+       27.2205,
+       77.9515
+      ],
+      [
+       "Itimad-ud-Daulah",
+       27.1925,
+       78.0307
+      ],
+      [
+       "Agra Fort",
+       27.1795,
+       78.0211
+      ],
+      [
+       "Taj Mahal",
+       27.1751,
+       78.0421
+      ],
+      [
+       "Mehtab Bagh",
+       27.179,
+       78.045
+      ],
+      "VIAG"
+     ]
+    },
+    {
+     "id": "mid",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Agra and Fatehpur Sikri",
+      "hu": "Agra és Fatehpur Sikri"
+     },
+     "desc": {
+      "en": "The Agra monuments plus the abandoned Mughal capital Fatehpur Sikri.",
+      "hu": "Az agrai emlékek, kiegészítve az elhagyott mogul fővárossal, Fatehpur Sikrivel."
+     },
+     "pts": [
+      "VIAG",
+      [
+       "Sikandra (Akbar's tomb)",
+       27.2205,
+       77.9515
+      ],
+      [
+       "Itimad-ud-Daulah",
+       27.1925,
+       78.0307
+      ],
+      [
+       "Agra Fort",
+       27.1795,
+       78.0211
+      ],
+      [
+       "Taj Mahal",
+       27.1751,
+       78.0421
+      ],
+      [
+       "Mehtab Bagh",
+       27.179,
+       78.045
+      ],
+      [
+       "Fatehpur Sikri",
+       27.0945,
+       77.6679
+      ],
+      "VIAG"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "ab",
+     "kt": 120,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Agra to Jaipur",
+      "hu": "Agra – Jaipur"
+     },
+     "desc": {
+      "en": "One-way flight along the Golden Triangle: Taj Mahal, Fatehpur Sikri, the Keoladeo bird sanctuary, Amber Fort and the City Palace of Jaipur.",
+      "hu": "Egyirányú repülés az Aranyháromszögön: Taj Mahal, Fatehpur Sikri, a Keoladeo madárrezervátum, az Amber-erőd és Jaipur városi palotája."
+     },
+     "pts": [
+      "VIAG",
+      [
+       "Taj Mahal",
+       27.1751,
+       78.0421
+      ],
+      [
+       "Fatehpur Sikri",
+       27.0945,
+       77.6679
+      ],
+      [
+       "Keoladeo National Park",
+       27.159,
+       77.5226
+      ],
+      [
+       "Amber Fort",
+       26.9855,
+       75.8513
+      ],
+      [
+       "City Palace, Jaipur",
+       26.9255,
+       75.8236
+      ],
+      "VIJP"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "everest",
+   "continent": "AS",
+   "country": {
+    "en": "Nepal",
+    "hu": "Nepál"
+   },
+   "name": {
+    "en": "Mount Everest and Lukla",
+    "hu": "Mount Everest és Lukla"
+   },
+   "main": {
+    "en": "Mount Everest",
+    "hu": "Mount Everest",
+    "lat": 27.9881,
+    "lon": 86.925
+   },
+   "tags": [
+    "mountain",
+    "unesco",
+    "stol"
+   ],
+   "desc": {
+    "en": "The Khumbu Himalaya around the world's highest mountain, flown from Lukla's famous sloping 530 m runway. Extreme terrain: peaks rise far above the route altitude, so keep to the valleys.",
+    "hu": "A Khumbu-Himalája a világ legmagasabb hegye körül, a híres, lejtős, 530 m-es lukla pályáról indulva. Extrém terep: a csúcsok messze az útvonal magassága fölé nyúlnak, ezért a völgyekben maradj."
+   },
+   "variants": [
+    {
+     "id": "lukla-loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 19500,
+     "stol": true,
+     "label": {
+      "en": "Everest from Lukla (STOL)",
+      "hu": "Everest Lukláról (STOL)"
+     },
+     "desc": {
+      "en": "Short-field loop: Namche Bazaar, Tengboche, the Ama Dablam valley, Everest Base Camp and Kala Patthar with Everest ahead, the Gokyo lakes and back down the Dudh Kosi to Lukla. Needs a STOL-capable aircraft.",
+      "hu": "Rövid pályás kör: Namche Bazaar, Tengboche, az Ama Dablam völgye, az Everest alaptábor és a Kala Patthar az Everesttel szemben, a Gokyo-tavak, majd a Dudh Kosi mentén vissza Luklába. STOL-képes gép kell hozzá."
+     },
+     "pts": [
+      "VNLK",
+      [
+       "Namche Bazaar",
+       27.8069,
+       86.714
+      ],
+      [
+       "Tengboche",
+       27.836,
+       86.764
+      ],
+      [
+       "Dingboche (Ama Dablam)",
+       27.8918,
+       86.831
+      ],
+      [
+       "Everest Base Camp",
+       28.0026,
+       86.8528
+      ],
+      [
+       "Kala Patthar",
+       27.9961,
+       86.8283
+      ],
+      [
+       "Gokyo Lakes",
+       27.954,
+       86.695
+      ],
+      [
+       "Phakding",
+       27.744,
+       86.712
+      ],
+      "VNLK"
+     ]
+    },
+    {
+     "id": "ktm-lukla",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 14500,
+     "stol": true,
+     "label": {
+      "en": "Kathmandu to Lukla",
+      "hu": "Katmandu – Lukla"
+     },
+     "desc": {
+      "en": "The classic mountain approach: east from Kathmandu over the Middle Hills and the Likhu valley to the short, sloping runway at Lukla. Terrain tops 12,000 ft on the way.",
+      "hu": "A klasszikus hegyi megközelítés: Katmandutól keletre a Közép-dombvidék és a Likhu-völgy felett az lukla rövid, lejtős pályájára. Az útvonalon a terep 12 000 láb fölé is emelkedik."
+     },
+     "pts": [
+      "VNKT",
+      [
+       "Dolalghat",
+       27.636,
+       85.716
+      ],
+      [
+       "Charikot",
+       27.659,
+       86.065
+      ],
+      [
+       "Likhu valley",
+       27.67,
+       86.3
+      ],
+      [
+       "Phaplu",
+       27.5167,
+       86.5833
+      ],
+      "VNLK"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "angkor",
+   "continent": "AS",
+   "country": {
+    "en": "Cambodia",
+    "hu": "Kambodzsa"
+   },
+   "name": {
+    "en": "Angkor temples",
+    "hu": "Angkor templomai"
+   },
+   "main": {
+    "en": "Angkor Wat",
+    "hu": "Angkor Wat",
+    "lat": 13.4125,
+    "lon": 103.867
+   },
+   "tags": [
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Khmer temple city of Angkor from the air: Angkor Wat, the faces of the Bayon, the jungle-wrapped Ta Prohm, and farther out the carved Banteay Srei and the holy mountain Phnom Kulen.",
+    "hu": "A khmer templomváros, Angkor a levegőből: Angkor Wat, a Bayon arcai, a dzsungel ölelte Ta Prohm, távolabb a faragott Banteay Srei és a szent hegy, Phnom Kulen."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Angkor Wat and Bayon",
+      "hu": "Angkor Wat és Bayon"
+     },
+     "desc": {
+      "en": "Compact loop over the main temples: Ta Prohm, the Bayon of Angkor Thom and Angkor Wat.",
+      "hu": "Kompakt kör a fő templomok felett: Ta Prohm, az Angkor Thom Bayonja és Angkor Wat."
+     },
+     "pts": [
+      "VDSA",
+      [
+       "Ta Prohm",
+       13.435,
+       103.889
+      ],
+      [
+       "Bayon (Angkor Thom)",
+       13.4413,
+       103.859
+      ],
+      [
+       "Angkor Wat",
+       13.4125,
+       103.867
+      ],
+      "VDSA"
+     ]
+    },
+    {
+     "id": "mid",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Angkor and Phnom Kulen",
+      "hu": "Angkor és Phnom Kulen"
+     },
+     "desc": {
+      "en": "Adds Banteay Srei and the Phnom Kulen plateau, then the main temples and the shore of the Tonle Sap lake.",
+      "hu": "Kiegészítve Banteay Sreivel és a Phnom Kulen fennsíkkal, majd a fő templomokkal és a Tonle Sap-tó partjával."
+     },
+     "pts": [
+      "VDSA",
+      [
+       "Banteay Srei",
+       13.599,
+       103.9625
+      ],
+      [
+       "Phnom Kulen",
+       13.57,
+       104.06
+      ],
+      [
+       "Ta Prohm",
+       13.435,
+       103.889
+      ],
+      [
+       "Bayon (Angkor Thom)",
+       13.4413,
+       103.859
+      ],
+      [
+       "Angkor Wat",
+       13.4125,
+       103.867
+      ],
+      [
+       "Tonle Sap shore",
+       13.25,
+       103.85
+      ],
+      "VDSA"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bagan",
+   "continent": "AS",
+   "country": {
+    "en": "Myanmar",
+    "hu": "Mianmar"
+   },
+   "name": {
+    "en": "Bagan temple plain",
+    "hu": "Bagan templomsíksága"
+   },
+   "main": {
+    "en": "Bagan",
+    "hu": "Bagan",
+    "lat": 21.1717,
+    "lon": 94.8678
+   },
+   "tags": [
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Thousands of brick temples scattered across the Irrawaddy plain, best at low level around sunrise, with an optional run out to the volcanic plug of Mount Popa.",
+    "hu": "Az Irawadi-síkságon szétszórt ezernyi téglatemplom, napkelte körül alacsonyan a legszebb. Opcionálisan kitérővel a Popa-hegy vulkáni dugójához."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 1500,
+     "stol": false,
+     "label": {
+      "en": "Temples of Bagan",
+      "hu": "Bagan templomai"
+     },
+     "desc": {
+      "en": "Low loop over Shwezigon, Ananda, Dhammayangyi, Sulamani and the Minnanthu temple fields.",
+      "hu": "Alacsony kör a Shwezigon, az Ananda, a Dhammayangyi, a Sulamani és a minnanthui templommezők felett."
+     },
+     "pts": [
+      "VYBG",
+      [
+       "Shwezigon Pagoda",
+       21.1985,
+       94.8897
+      ],
+      [
+       "Ananda Temple",
+       21.1717,
+       94.8678
+      ],
+      [
+       "Dhammayangyi Temple",
+       21.1667,
+       94.875
+      ],
+      [
+       "Sulamani Temple",
+       21.1578,
+       94.8869
+      ],
+      [
+       "Minnanthu temples",
+       21.148,
+       94.918
+      ],
+      "VYBG"
+     ]
+    },
+    {
+     "id": "mid",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Bagan and Mount Popa",
+      "hu": "Bagan és a Popa-hegy"
+     },
+     "desc": {
+      "en": "Out to Mount Popa and its hilltop monastery, then back over the temple plain.",
+      "hu": "Ki a Popa-hegyhez és a csúcson álló kolostorhoz, majd vissza a templomsík felett."
+     },
+     "pts": [
+      "VYBG",
+      [
+       "Mount Popa",
+       20.919,
+       95.257
+      ],
+      [
+       "Dhammayangyi Temple",
+       21.1667,
+       94.875
+      ],
+      [
+       "Ananda Temple",
+       21.1717,
+       94.8678
+      ],
+      [
+       "Shwezigon Pagoda",
+       21.1985,
+       94.8897
+      ],
+      "VYBG"
+     ]
+    }
+   ]
+  }
+ ]
+}
