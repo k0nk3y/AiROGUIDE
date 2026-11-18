@@ -7,6 +7,9 @@ ISO = {"Hungary": "HU", "Italy": "IT", "Switzerland": "CH", "Austria": "AT", "Fr
        "Germany": "DE", "Spain": "ES", "Portugal": "PT", "United Kingdom": "GB", "Ireland": "IE", "Norway": "NO", "Greece": "GR", "Croatia": "HR", "Czechia": "CZ", "Poland": "PL", "Turkey": "TR"}
 
 
+MIN_MIN, MIN_KM = 15, 20
+
+
 def hav(a, b, c, d):
     p = math.pi / 180
     x = math.sin((c - a) * p / 2) ** 2 + math.cos(a * p) * math.cos(c * p) * math.sin((d - b) * p / 2) ** 2
@@ -88,7 +91,9 @@ def main():
                 if dd < 0.8:
                     W("%s: majdnem azonos pontok %s / %s" % (v["id"], a[0], b[0])); warn += 1
             mins = tot / 1.852 / v["kt"] * 60
-            if not (12 <= mins <= 150):
+            if mins < MIN_MIN or tot < MIN_KM:
+                E("%s: tul rovid (%.0f perc, %.0f km; minimum %d perc es %d km)" % (v["id"], mins, tot, MIN_MIN, MIN_KM)); bad += 1
+            elif mins > 150:
                 W("%s: idotartam %.0f perc (%.0f km, %d kt)" % (v["id"], mins, tot, v["kt"])); warn += 1
             if v["kind"] == "loop" and hav(pts[0][1], pts[0][2], pts[-1][1], pts[-1][2]) > 3:
                 E("%s: koruton a kezdo es a vegpont nem azonos" % v["id"]); bad += 1
