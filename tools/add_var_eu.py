@@ -45,16 +45,18 @@ v("everest", "short", 90, 17000, ("Namche loop", "Namche-kör"), ("Short loop fr
   ["VNLK", "@Namche Bazaar", "@Tengboche", "@Dingboche", "VNLK"])
 v("balaton", "west", 100, 2200, ("West Balaton", "Nyugati Balaton"), ("Short loop: Hévíz, Keszthely and Badacsony.", "Rövid kör: Hévíz, Keszthely, Badacsony."),
   ["LHSM", "@Hévíz Lake", "@Festetics Palace, Keszthely", "@Badacsony", "LHSM"])
-v("amalfi", "short", 100, 4500, ("Vesuvius and Capri", "Vezúv és Capri"), ("Short loop: Vesuvius, Pompeii and Capri.", "Rövid kör: Vezúv, Pompeji, Capri."),
-  ["LIRN", "@Mount Vesuvius", "@Pompeii", "@Capri", "LIRN"])
 v("tuscany", "short", 100, 3000, ("Florence and San Gimignano", "Firenze és San Gimignano"), ("Short loop: Florence and the towers of San Gimignano.", "Rövid kör: Firenze és San Gimignano tornyai."),
   ["LIRQ", "@Florence Cathedral", "@San Gimignano", "@Monteriggioni", "LIRQ"])
 v("cinque-terre", "loop", 100, 4500, ("Cinque Terre loop", "Cinque Terre kör"), ("Loop from Pisa: Portovenere and Vernazza.", "Kör Pisából: Portovenere és Vernazza."),
   ["LIRP", "@Portovenere", "@Vernazza", "LIRP"])
 v("matterhorn", "short", 100, 15000, ("Matterhorn from Sion", "Matterhorn Sionból"), ("Short loop: Matterhorn and Zermatt.", "Rövid kör: Matterhorn és Zermatt."),
   ["LSGS", "@Matterhorn", "@Zermatt", "LSGS"])
-v("salzkammergut", "short", 100, 10500, ("Salzburg lakes", "Salzburgi tavak"), ("Short loop: Hohensalzburg, Mondsee, St. Wolfgang.", "Rövid kör: Hohensalzburg, Mondsee, St. Wolfgang."),
-  ["LOWS", "@Hohensalzburg Fortress", "@Mondsee", "@St. Wolfgang", "LOWS"])
+v("salzkammergut", "berchtesgaden", 100, 10500, ("Berchtesgaden", "Berchtesgaden"), ("South-west of Salzburg: Königssee, Watzmann and the Eagle's Nest.", "Salzburgtól délnyugatra: Königssee, Watzmann és a Kehlsteinhaus."),
+  ["LOWS", "@Hohensalzburg Fortress", ["Königssee", 47.5547, 12.9720], ["Watzmann", 47.5545, 12.9226], ["Kehlsteinhaus", 47.6139, 13.0372], "LOWS"])
+v("salzkammergut", "chiemsee", 100, 4500, ("Chiemsee", "Chiemsee"), ("West of Salzburg: Herrenchiemsee palace and the Kampenwand.", "Salzburgtól nyugatra: a herrenchiemsee-i kastély és a Kampenwand."),
+  ["LOWS", ["Herrenchiemsee Palace", 47.8575, 12.4167], ["Kampenwand", 47.7490, 12.3430], "@Hohensalzburg Fortress", "LOWS"])
+v("salzkammergut", "tauern", 105, 14000, ("Hohe Tauern", "Magas-Tauern"), ("About an hour south: Eisriesenwelt, the Grossglockner and Zell am See.", "Kb. egy óra délre: Eisriesenwelt, a Grossglockner és Zell am See."),
+  ["LOWS", ["Eisriesenwelt", 47.5083, 13.1906], ["Grossglockner", 47.0745, 12.6940], ["Zell am See", 47.3250, 12.7940], "LOWS"])
 v("loire", "paris", 100, 2500, ("Paris and Versailles", "Párizs és Versailles"), ("Short loop: Versailles, Eiffel Tower, Sacré-Cœur, Notre-Dame.", "Rövid kör: Versailles, Eiffel-torony, Sacré-Cœur, Notre-Dame."),
   ["LFPO", "@Versailles", "@Eiffel Tower", ["Sacré-Cœur", 48.8867, 2.3431], "@Notre-Dame de Paris", "LFPO"])
 v("golden-circle", "short", 100, 3500, ("Reykjanes and Reykjavík", "Reykjanes és Reykjavík"), ("Short loop: Blue Lagoon and Hallgrímskirkja.", "Rövid kör: Kék-lagúna és Hallgrímskirkja."),
@@ -73,8 +75,6 @@ v("provence-riviera", "marseille", 110, 3500, ("Marseille and the Calanques", "M
   ["LFML", ["Notre-Dame de la Garde", 43.2840, 5.3711], ["Cap Canaille", 43.2064, 5.5417], "LFML"])
 v("provence-riviera", "provence", 120, 3500, ("Provence loop", "Provence-kör"), ("About an hour: Les Baux, Avignon, Pont du Gard, Arles.", "Kb. egy óra: Les Baux, Avignon, Pont du Gard, Arles."),
   ["LFML", ["Les Baux-de-Provence", 43.7435, 4.7953], "@Palais des Papes, Avignon", "@Pont du Gard", ["Arles Amphitheatre", 43.6777, 4.6311], "LFML"])
-v("normandy", "short", 110, 2500, ("Honfleur and Pegasus Bridge", "Honfleur és Pegasus-híd"), ("Short loop from Deauville.", "Rövid kör Deauville-ből."),
-  ["LFRG", "@Honfleur", ["Pegasus Bridge", 49.2447, -0.2755], "LFRG"])
 v("normandy", "beaches", 120, 2500, ("D-Day beaches", "A partraszállás partjai"), ("About an hour: Pegasus Bridge, Arromanches, Omaha, Pointe du Hoc.", "Kb. egy óra: Pegasus-híd, Arromanches, Omaha, Pointe du Hoc."),
   ["LFRG", ["Pegasus Bridge", 49.2447, -0.2755], "@Arromanches", "@Omaha Beach", "@Pointe du Hoc", "LFRG"])
 v("andalusia", "cordoba", 120, 5000, ("Seville and Córdoba", "Sevilla és Córdoba"), ("About an hour: Seville and the Mezquita.", "Kb. egy óra: Sevilla és a córdobai Mezquita."),
@@ -89,8 +89,6 @@ v("scottish-highlands", "loch-lomond", 110, 4500, ("Loch Lomond and Stirling", "
   ["EGPF", ["Loch Lomond (Luss)", 56.1017, -4.6358], ["Stirling Castle", 56.1239, -3.9475], "EGPF"])
 v("cornwall", "short", 100, 1800, ("North Cornwall", "Észak-Cornwall"), ("Short loop: Tintagel and the Eden Project.", "Rövid kör: Tintagel és az Eden Project."),
   ["EGHQ", "@Tintagel Castle", "@Eden Project", "EGHQ"])
-v("edinburgh", "short", 100, 2500, ("Forth and Falkirk", "Forth és Falkirk"), ("Short loop: Castle, Forth Bridge, Kelpies, Falkirk Wheel.", "Rövid kör: vár, Forth-híd, Kelpies, Falkirk Wheel."),
-  ["EGPH", "@Edinburgh Castle", "@Forth Bridge", "@The Kelpies", "@Falkirk Wheel", "EGPH"])
 v("norway-fjords", "loop", 110, 7500, ("Ålesund loop", "Ålesund-kör"), ("About an hour: Trollstigen and Geirangerfjord.", "Kb. egy óra: Trollstigen és Geiranger-fjord."),
   ["ENAL", "@Trollstigen", "@Geirangerfjord", "ENAL"])
 v("cyclades", "mykonos-naxos", 110, 3000, ("Mykonos, Delos, Naxos", "Mykonos, Délosz, Náxosz"), ("Loop from Mykonos.", "Kör Mykonosról."),

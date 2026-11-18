@@ -1227,45 +1227,6 @@
       ],
       "LIRN"
      ]
-    },
-    {
-     "id": "short",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 4500,
-     "stol": false,
-     "label": {
-      "en": "Vesuvius and Capri",
-      "hu": "Vezúv és Capri"
-     },
-     "desc": {
-      "en": "Short loop: Vesuvius, Pompeii and Capri.",
-      "hu": "Rövid kör: Vezúv, Pompeji, Capri."
-     },
-     "pts": [
-      "LIRN",
-      [
-       "Mount Vesuvius",
-       40.8213,
-       14.4262
-      ],
-      [
-       "Pompeii",
-       40.7511,
-       14.4869
-      ],
-      [
-       "Capri",
-       40.5528,
-       14.2417
-      ],
-      [
-       "~",
-       40.5813,
-       14.1605
-      ],
-      "LIRN"
-     ]
     }
    ],
    "pois": [
@@ -1962,40 +1923,123 @@
      ]
     },
     {
-     "id": "short",
+     "id": "berchtesgaden",
      "kind": "loop",
      "kt": 100,
      "alt_ft": 10500,
      "stol": false,
      "label": {
-      "en": "Salzburg lakes",
-      "hu": "Salzburgi tavak"
+      "en": "Berchtesgaden",
+      "hu": "Berchtesgaden"
      },
      "desc": {
-      "en": "Short loop: Hohensalzburg, Mondsee, St. Wolfgang.",
-      "hu": "Rövid kör: Hohensalzburg, Mondsee, St. Wolfgang."
+      "en": "South-west of Salzburg: Königssee, Watzmann and the Eagle's Nest.",
+      "hu": "Salzburgtól délnyugatra: Königssee, Watzmann és a Kehlsteinhaus."
      },
      "pts": [
       "LOWS",
       [
-       "St. Wolfgang",
-       47.7397,
-       13.4469
+       "Hohensalzburg Fortress",
+       47.7948,
+       13.0475
       ],
       [
-       "~",
-       47.7684,
-       13.4791
+       "Kehlsteinhaus",
+       47.6139,
+       13.0372
       ],
       [
-       "Mondsee",
-       47.8467,
-       13.3687
+       "Königssee",
+       47.5547,
+       12.972
       ],
+      [
+       "Watzmann",
+       47.5545,
+       12.9226
+      ],
+      "LOWS"
+     ]
+    },
+    {
+     "id": "chiemsee",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Chiemsee",
+      "hu": "Chiemsee"
+     },
+     "desc": {
+      "en": "West of Salzburg: Herrenchiemsee palace and the Kampenwand.",
+      "hu": "Salzburgtól nyugatra: a herrenchiemsee-i kastély és a Kampenwand."
+     },
+     "pts": [
+      "LOWS",
       [
        "Hohensalzburg Fortress",
        47.7948,
        13.0475
+      ],
+      [
+       "~",
+       47.8307,
+       13.0502
+      ],
+      [
+       "Herrenchiemsee Palace",
+       47.8575,
+       12.4167
+      ],
+      [
+       "Kampenwand",
+       47.749,
+       12.343
+      ],
+      [
+       "~",
+       47.7198,
+       12.3742
+      ],
+      "LOWS"
+     ]
+    },
+    {
+     "id": "tauern",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 14000,
+     "stol": false,
+     "label": {
+      "en": "Hohe Tauern",
+      "hu": "Magas-Tauern"
+     },
+     "desc": {
+      "en": "About an hour south: Eisriesenwelt, the Grossglockner and Zell am See.",
+      "hu": "Kb. egy óra délre: Eisriesenwelt, a Grossglockner és Zell am See."
+     },
+     "pts": [
+      "LOWS",
+      [
+       "Eisriesenwelt",
+       47.5083,
+       13.1906
+      ],
+      [
+       "Grossglockner",
+       47.0745,
+       12.694
+      ],
+      [
+       "~",
+       47.1035,
+       12.6087
+      ],
+      [
+       "Zell am See",
+       47.325,
+       12.794
       ],
       "LOWS"
      ]
@@ -3236,45 +3280,6 @@
      ]
     },
     {
-     "id": "short",
-     "kind": "loop",
-     "kt": 110,
-     "alt_ft": 2500,
-     "stol": false,
-     "label": {
-      "en": "Honfleur and Pegasus Bridge",
-      "hu": "Honfleur és Pegasus-híd"
-     },
-     "desc": {
-      "en": "Short loop from Deauville.",
-      "hu": "Rövid kör Deauville-ből."
-     },
-     "pts": [
-      "LFRG",
-      [
-       "Pegasus Bridge",
-       49.2447,
-       -0.2755
-      ],
-      [
-       "~",
-       49.312,
-       -0.3306
-      ],
-      [
-       "Honfleur",
-       49.4193,
-       0.2327
-      ],
-      [
-       "~",
-       49.3887,
-       0.2617
-      ],
-      "LFRG"
-     ]
-    },
-    {
      "id": "beaches",
      "kind": "loop",
      "kt": 120,
@@ -4046,55 +4051,6 @@
        "~",
        56.1492,
        -3.9032
-      ],
-      [
-       "Forth Bridge",
-       56.0003,
-       -3.3887
-      ],
-      [
-       "Edinburgh Castle",
-       55.9486,
-       -3.1999
-      ],
-      [
-       "~",
-       55.9136,
-       -3.2149
-      ],
-      "EGPH"
-     ]
-    },
-    {
-     "id": "short",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 2500,
-     "stol": false,
-     "label": {
-      "en": "Forth and Falkirk",
-      "hu": "Forth és Falkirk"
-     },
-     "desc": {
-      "en": "Short loop: Castle, Forth Bridge, Kelpies, Falkirk Wheel.",
-      "hu": "Rövid kör: vár, Forth-híd, Kelpies, Falkirk Wheel."
-     },
-     "pts": [
-      "EGPH",
-      [
-       "Falkirk Wheel",
-       55.999,
-       -3.845
-      ],
-      [
-       "~",
-       56.0348,
-       -3.8504
-      ],
-      [
-       "The Kelpies",
-       56.0185,
-       -3.75
       ],
       [
        "Forth Bridge",
