@@ -649,6 +649,1044 @@
      95.2497
     ]
    ]
+  },
+  {
+   "id": "budapest",
+   "continent": "EU",
+   "country": {
+    "en": "Hungary",
+    "hu": "Magyarország"
+   },
+   "name": {
+    "en": "Budapest and the Danube Bend",
+    "hu": "Budapest és a Dunakanyar"
+   },
+   "main": {
+    "en": "Hungarian Parliament",
+    "hu": "Országház",
+    "lat": 47.5072,
+    "lon": 19.0456
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Danube through the Hungarian capital, then north to the river's great bend with Szentendre, the Visegrád citadel and Esztergom Basilica.",
+    "hu": "A Duna Budapesten át, majd északra a folyó nagy kanyarjáig: Szentendre, a visegrádi fellegvár és az esztergomi bazilika."
+   },
+   "variants": [
+    {
+     "id": "city",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Budapest city loop",
+      "hu": "Budapesti városkör"
+     },
+     "desc": {
+      "en": "Short loop over the Budapest landmarks: Gellért Hill, Buda Castle, Parliament and Margaret Island.",
+      "hu": "Rövid kör Budapest nevezetességei felett: a Gellért-hegy, a budai vár, az Országház és a Margitsziget."
+     },
+     "pts": [
+      "LHBP",
+      [
+       "Gellért Hill",
+       47.4862,
+       19.046
+      ],
+      [
+       "Buda Castle",
+       47.4961,
+       19.0396
+      ],
+      [
+       "Hungarian Parliament",
+       47.5072,
+       19.0456
+      ],
+      [
+       "Margaret Island",
+       47.526,
+       19.048
+      ],
+      "LHBP"
+     ]
+    },
+    {
+     "id": "bend",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Danube Bend",
+      "hu": "Dunakanyar"
+     },
+     "desc": {
+      "en": "The city landmarks plus the Danube Bend: Szentendre, the Visegrád citadel and Esztergom Basilica.",
+      "hu": "A városi látnivalók és a Dunakanyar: Szentendre, a visegrádi fellegvár és az esztergomi bazilika."
+     },
+     "pts": [
+      "LHBP",
+      [
+       "Gellért Hill",
+       47.4862,
+       19.046
+      ],
+      [
+       "Buda Castle",
+       47.4961,
+       19.0396
+      ],
+      [
+       "Hungarian Parliament",
+       47.5072,
+       19.0456
+      ],
+      [
+       "Szentendre",
+       47.6694,
+       19.0756
+      ],
+      [
+       "Visegrád Citadel",
+       47.7889,
+       18.9686
+      ],
+      [
+       "Esztergom Basilica",
+       47.7993,
+       18.739
+      ],
+      "LHBP"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Heroes' Square",
+     47.5149,
+     19.078
+    ],
+    [
+     "Fisherman's Bastion",
+     47.502,
+     19.0347
+    ],
+    [
+     "Margaret Bridge",
+     47.5155,
+     19.0452
+    ]
+   ]
+  },
+  {
+   "id": "balaton",
+   "continent": "EU",
+   "country": {
+    "en": "Hungary",
+    "hu": "Magyarország"
+   },
+   "name": {
+    "en": "Lake Balaton",
+    "hu": "Balaton"
+   },
+   "main": {
+    "en": "Tihany Abbey",
+    "hu": "Tihanyi apátság",
+    "lat": 46.9136,
+    "lon": 17.8885
+   },
+   "tags": [
+    "coast",
+    "culture"
+   ],
+   "desc": {
+    "en": "Central Europe's largest lake from the air: the Hévíz thermal lake, Keszthely palace, the volcanic hills of Badacsony and the Tihany peninsula.",
+    "hu": "Közép-Európa legnagyobb tava a levegőből: a hévízi tó, a keszthelyi kastély, a badacsonyi vulkáni hegyek és a Tihanyi-félsziget."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2200,
+     "stol": false,
+     "label": {
+      "en": "Balaton circuit",
+      "hu": "Balaton-kör"
+     },
+     "desc": {
+      "en": "From Hévíz-Balaton Airport over Keszthely and Badacsony to Tihany and Siófok, and back.",
+      "hu": "A Hévíz–Balaton repülőtérről Keszthely és Badacsony felett Tihanyba és Siófokra, majd vissza."
+     },
+     "pts": [
+      "LHSM",
+      [
+       "Hévíz Lake",
+       46.7894,
+       17.1927
+      ],
+      [
+       "Festetics Palace, Keszthely",
+       46.7655,
+       17.2458
+      ],
+      [
+       "Badacsony",
+       46.7993,
+       17.5
+      ],
+      [
+       "Tihany Abbey",
+       46.9136,
+       17.8885
+      ],
+      [
+       "Siófok",
+       46.906,
+       18.057
+      ],
+      "LHSM"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Balatonfüred",
+     46.956,
+     17.89
+    ],
+    [
+     "Szigliget Castle",
+     46.8,
+     17.43
+    ]
+   ]
+  },
+  {
+   "id": "rome-naples",
+   "continent": "EU",
+   "country": {
+    "en": "Italy",
+    "hu": "Olaszország"
+   },
+   "name": {
+    "en": "Rome to Naples classics",
+    "hu": "Róma – Nápoly klasszikusok"
+   },
+   "main": {
+    "en": "Colosseum",
+    "hu": "Colosseum",
+    "lat": 41.8902,
+    "lon": 12.4922
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco",
+    "volcano"
+   ],
+   "desc": {
+    "en": "Ancient Rome, the Vatican, then south to Pompeii, Mount Vesuvius and the island of Capri.",
+    "hu": "Az ókori Róma, a Vatikán, majd délre Pompeji, a Vezúv és Capri szigete."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 120,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Rome to Naples",
+      "hu": "Rómától Nápolyig"
+     },
+     "desc": {
+      "en": "One-way flight from Ciampino over the Colosseum and St Peter's, then Pompeii, Vesuvius and Capri to Naples.",
+      "hu": "Egyirányú repülés Ciampinóból a Colosseum és a Szent Péter-bazilika felett Pompejibe, a Vezúvhoz és Capriba, Nápolyba."
+     },
+     "pts": [
+      "LIRA",
+      [
+       "Colosseum",
+       41.8902,
+       12.4922
+      ],
+      [
+       "St Peter's Basilica",
+       41.9022,
+       12.4539
+      ],
+      [
+       "Pompeii",
+       40.7511,
+       14.4869
+      ],
+      [
+       "Mount Vesuvius",
+       40.8213,
+       14.4262
+      ],
+      [
+       "Capri",
+       40.5528,
+       14.2417
+      ],
+      "LIRN"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Roman Forum",
+     41.8925,
+     12.4853
+    ],
+    [
+     "Trevi Fountain",
+     41.9009,
+     12.4833
+    ]
+   ]
+  },
+  {
+   "id": "amalfi",
+   "continent": "EU",
+   "country": {
+    "en": "Italy",
+    "hu": "Olaszország"
+   },
+   "name": {
+    "en": "Amalfi Coast and Capri",
+    "hu": "Amalfi-part és Capri"
+   },
+   "main": {
+    "en": "Positano",
+    "hu": "Positano",
+    "lat": 40.6281,
+    "lon": 14.485
+   },
+   "tags": [
+    "coast",
+    "island",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The cliffs of the Amalfi Coast: Ravello, Amalfi, Positano and Sorrento, with Capri and Vesuvius on either side.",
+    "hu": "Az Amalfi-part sziklái: Ravello, Amalfi, Positano és Sorrento, Capri és a Vezúv két oldalán."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Amalfi loop",
+      "hu": "Amalfi-kör"
+     },
+     "desc": {
+      "en": "From Naples over Vesuvius and Pompeii to Amalfi, Positano, Sorrento and Capri, back to Naples.",
+      "hu": "Nápolyból a Vezúv és Pompeji felett Amalfiba, Positanóba, Sorrentóba és Capriba, majd vissza."
+     },
+     "pts": [
+      "LIRN",
+      [
+       "Mount Vesuvius",
+       40.8213,
+       14.4262
+      ],
+      [
+       "Pompeii",
+       40.7511,
+       14.4869
+      ],
+      [
+       "Amalfi",
+       40.634,
+       14.6027
+      ],
+      [
+       "Positano",
+       40.6281,
+       14.485
+      ],
+      [
+       "Sorrento",
+       40.6263,
+       14.3758
+      ],
+      [
+       "Capri",
+       40.5528,
+       14.2417
+      ],
+      "LIRN"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Villa Rufolo, Ravello",
+     40.649,
+     14.6119
+    ],
+    [
+     "Marina Piccola, Capri",
+     40.5437,
+     14.243
+    ]
+   ]
+  },
+  {
+   "id": "tuscany",
+   "continent": "EU",
+   "country": {
+    "en": "Italy",
+    "hu": "Olaszország"
+   },
+   "name": {
+    "en": "Tuscany hill towns",
+    "hu": "Toszkána dombvárosai"
+   },
+   "main": {
+    "en": "Florence Cathedral",
+    "hu": "A firenzei dóm",
+    "lat": 43.7731,
+    "lon": 11.256
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "city"
+   ],
+   "desc": {
+    "en": "Florence, the Leaning Tower of Pisa and the medieval towers of San Gimignano, Siena and Pienza in the Val d'Orcia.",
+    "hu": "Firenze, a pisai ferde torony, San Gimignano és Siena középkori tornyai, valamint Pienza az Orcia-völgyben."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Florence to the Maremma",
+      "hu": "Firenzétől a Maremmáig"
+     },
+     "desc": {
+      "en": "One-way flight from Florence via Pisa, San Gimignano and Siena to the Val d'Orcia and Grosseto.",
+      "hu": "Egyirányú repülés Firenzéből Pisán, San Gimignanón és Sienán át az Orcia-völgyig és Grossetóig."
+     },
+     "pts": [
+      "LIRQ",
+      [
+       "Florence Cathedral",
+       43.7731,
+       11.256
+      ],
+      [
+       "Leaning Tower of Pisa",
+       43.723,
+       10.3966
+      ],
+      [
+       "San Gimignano",
+       43.4677,
+       11.0432
+      ],
+      [
+       "Siena",
+       43.3186,
+       11.3306
+      ],
+      [
+       "Pienza",
+       43.0766,
+       11.6793
+      ],
+      "LIRS"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Monteriggioni",
+     43.3908,
+     11.2243
+    ],
+    [
+     "Pienza",
+     43.0766,
+     11.6793
+    ]
+   ]
+  },
+  {
+   "id": "dolomites",
+   "continent": "EU",
+   "country": {
+    "en": "Italy",
+    "hu": "Olaszország"
+   },
+   "name": {
+    "en": "Venice and the Dolomites",
+    "hu": "Velence és a Dolomitok"
+   },
+   "main": {
+    "en": "Tre Cime di Lavaredo",
+    "hu": "Tre Cime di Lavaredo",
+    "lat": 46.6186,
+    "lon": 12.3028
+   },
+   "tags": [
+    "mountain",
+    "unesco",
+    "city"
+   ],
+   "desc": {
+    "en": "From the lagoon of Venice to the pale rock towers of the Dolomites: Cortina, the Tre Cime and the Marmolada glacier.",
+    "hu": "A velencei lagúnától a Dolomitok világos sziklatornyaiig: Cortina, a Tre Cime és a Marmolada-gleccser."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 130,
+     "alt_ft": 11000,
+     "stol": false,
+     "label": {
+      "en": "Venice to Bolzano",
+      "hu": "Velencétől Bolzanóig"
+     },
+     "desc": {
+      "en": "A one-way climb from Venice over the Dolomites to Bolzano; keep terrain clearance in mind.",
+      "hu": "Egyirányú repülés Velencéből a Dolomitok felett Bolzanóba; figyelj a terep feletti magasságra."
+     },
+     "pts": [
+      "LIPZ",
+      [
+       "St Mark's Basilica",
+       45.4343,
+       12.3388
+      ],
+      [
+       "Cortina d'Ampezzo",
+       46.5405,
+       12.1357
+      ],
+      [
+       "Tre Cime di Lavaredo",
+       46.6186,
+       12.3028
+      ],
+      [
+       "Marmolada",
+       46.4342,
+       11.8559
+      ],
+      "LIPB"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Cortina d'Ampezzo",
+     46.5405,
+     12.1357
+    ]
+   ]
+  },
+  {
+   "id": "cinque-terre",
+   "continent": "EU",
+   "country": {
+    "en": "Italy",
+    "hu": "Olaszország"
+   },
+   "name": {
+    "en": "Cinque Terre and the Ligurian coast",
+    "hu": "Cinque Terre és a ligur tengerpart"
+   },
+   "main": {
+    "en": "Vernazza",
+    "hu": "Vernazza",
+    "lat": 44.135,
+    "lon": 9.6836
+   },
+   "tags": [
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The colourful cliff villages of the Cinque Terre, Portovenere and Portofino on the way to Genoa.",
+    "hu": "A Cinque Terre színes sziklafalu, Portovenere és Portofino, Genova felé."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 2200,
+     "stol": false,
+     "label": {
+      "en": "Pisa to Genoa",
+      "hu": "Pisától Genováig"
+     },
+     "desc": {
+      "en": "Along the Ligurian coast from Pisa over the Cinque Terre and Portovenere to Portofino and Genoa.",
+      "hu": "A ligur partvonal mentén Pisától a Cinque Terre és Portovenere felett Portofinóba és Genovába."
+     },
+     "pts": [
+      "LIRP",
+      [
+       "Portovenere",
+       44.0525,
+       9.8344
+      ],
+      [
+       "Vernazza",
+       44.135,
+       9.6836
+      ],
+      [
+       "Portofino",
+       44.3033,
+       9.2095
+      ],
+      "LIMJ"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Monterosso al Mare",
+     44.146,
+     9.654
+    ],
+    [
+     "Riomaggiore",
+     44.099,
+     9.738
+    ]
+   ]
+  },
+  {
+   "id": "matterhorn",
+   "continent": "EU",
+   "country": {
+    "en": "Switzerland",
+    "hu": "Svájc"
+   },
+   "name": {
+    "en": "Matterhorn and the Bernese Alps",
+    "hu": "Matterhorn és a Berni-Alpok"
+   },
+   "main": {
+    "en": "Matterhorn",
+    "hu": "Matterhorn",
+    "lat": 45.9766,
+    "lon": 7.6585
+   },
+   "tags": [
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "From the Rhône valley past the Matterhorn to the Aletsch glacier, the Jungfrau and the Eiger, ending at Bern.",
+    "hu": "A Rhône-völgyből a Matterhorn mellett az Aletsch-gleccserhez, a Jungfrauhoz és az Eigerhez, Bernbe."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 12500,
+     "stol": false,
+     "label": {
+      "en": "Sion to Bern",
+      "hu": "Sion – Bern"
+     },
+     "desc": {
+      "en": "A high-altitude one-way flight along the Valais Alps to the Bernese Oberland. High terrain: needs a capable aircraft.",
+      "hu": "Magaslati egyirányú repülés a Wallisi-Alpok mentén a Berni-Oberlandig. Magas terep: megfelelő gép kell hozzá."
+     },
+     "pts": [
+      "LSGS",
+      [
+       "Matterhorn",
+       45.9766,
+       7.6585
+      ],
+      [
+       "Zermatt",
+       46.0207,
+       7.7491
+      ],
+      [
+       "Aletsch Glacier",
+       46.4375,
+       8.0539
+      ],
+      [
+       "Jungfrau",
+       46.5368,
+       7.9626
+      ],
+      [
+       "Eiger",
+       46.5775,
+       8.0053
+      ],
+      [
+       "Interlaken",
+       46.6863,
+       7.8632
+      ],
+      "LSZB"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Zermatt",
+     46.0207,
+     7.7491
+    ],
+    [
+     "Interlaken",
+     46.6863,
+     7.8632
+    ]
+   ]
+  },
+  {
+   "id": "lucerne",
+   "continent": "EU",
+   "country": {
+    "en": "Switzerland",
+    "hu": "Svájc"
+   },
+   "name": {
+    "en": "Lake Lucerne and the Rigi",
+    "hu": "Luzerni-tó és a Rigi"
+   },
+   "main": {
+    "en": "Chapel Bridge, Lucerne",
+    "hu": "Luzerni fedett híd",
+    "lat": 47.0516,
+    "lon": 8.3075
+   },
+   "tags": [
+    "mountain",
+    "city",
+    "coast"
+   ],
+   "desc": {
+    "en": "A loop around Lake Lucerne: the Rigi, the old town of Lucerne with its Chapel Bridge, Mount Pilatus and Titlis.",
+    "hu": "Kör a Luzerni-tó körül: a Rigi, Luzern óvárosa a fedett híddal, a Pilatus és a Titlis."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 8500,
+     "stol": false,
+     "label": {
+      "en": "Lucerne loop",
+      "hu": "Luzerni kör"
+     },
+     "desc": {
+      "en": "From Buochs over the Rigi, Lucerne, Pilatus and Titlis, back to the lake.",
+      "hu": "Buochsból a Rigi, Luzern, a Pilatus és a Titlis felett vissza a tóhoz."
+     },
+     "pts": [
+      "LSZC",
+      [
+       "Rigi Kulm",
+       47.0564,
+       8.4855
+      ],
+      [
+       "Chapel Bridge, Lucerne",
+       47.0516,
+       8.3075
+      ],
+      [
+       "Pilatus",
+       46.9788,
+       8.2527
+      ],
+      [
+       "Titlis",
+       46.7712,
+       8.4378
+      ],
+      "LSZC"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Rütli Meadow",
+     46.9772,
+     8.5906
+    ]
+   ]
+  },
+  {
+   "id": "salzkammergut",
+   "continent": "EU",
+   "country": {
+    "en": "Austria",
+    "hu": "Ausztria"
+   },
+   "name": {
+    "en": "Salzburg and the Salzkammergut",
+    "hu": "Salzburg és a Salzkammergut"
+   },
+   "main": {
+    "en": "Hallstatt",
+    "hu": "Hallstatt",
+    "lat": 47.5622,
+    "lon": 13.6493
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "unesco",
+    "city"
+   ],
+   "desc": {
+    "en": "Salzburg's fortress, then the lakes of the Salzkammergut: Mondsee, St Wolfgang and the UNESCO village of Hallstatt below the Dachstein.",
+    "hu": "Salzburg erődje, majd a Salzkammergut tavai: a Mondsee, St. Wolfgang és a Dachstein alatti UNESCO-falu, Hallstatt."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Salzburg and the lakes",
+      "hu": "Salzburg és a tavak"
+     },
+     "desc": {
+      "en": "From Salzburg over the lakes to Hallstatt and the Dachstein, and back.",
+      "hu": "Salzburgból a tavak felett Hallstattba és a Dachsteinhez, majd vissza."
+     },
+     "pts": [
+      "LOWS",
+      [
+       "Hohensalzburg Fortress",
+       47.7948,
+       13.0475
+      ],
+      [
+       "Mondsee",
+       47.8467,
+       13.3687
+      ],
+      [
+       "St. Wolfgang",
+       47.7397,
+       13.4469
+      ],
+      [
+       "Hallstatt",
+       47.5622,
+       13.6493
+      ],
+      [
+       "Dachstein",
+       47.4755,
+       13.606
+      ],
+      "LOWS"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Wolfgangsee",
+     47.75,
+     13.45
+    ]
+   ]
+  },
+  {
+   "id": "loire",
+   "continent": "EU",
+   "country": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "name": {
+    "en": "Paris and the Loire châteaux",
+    "hu": "Párizs és a Loire menti kastélyok"
+   },
+   "main": {
+    "en": "Chambord Château",
+    "hu": "Chambord-i kastély",
+    "lat": 47.6161,
+    "lon": 1.517
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "city"
+   ],
+   "desc": {
+    "en": "The Eiffel Tower and Versailles, then south-west to the great Renaissance châteaux of the Loire.",
+    "hu": "Az Eiffel-torony és Versailles, majd délnyugatra a Loire nagy reneszánsz kastélyaihoz."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 120,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Paris to Tours",
+      "hu": "Párizstól Tours-ig"
+     },
+     "desc": {
+      "en": "One-way flight from Paris-Orly over the Eiffel Tower and Versailles to Chambord, Chenonceau and Amboise.",
+      "hu": "Egyirányú repülés Párizs-Orlyből az Eiffel-torony és Versailles felett Chambordba, Chenonceau-ba és Amboise-ba."
+     },
+     "pts": [
+      "LFPO",
+      [
+       "Eiffel Tower",
+       48.8584,
+       2.2945
+      ],
+      [
+       "Versailles",
+       48.8049,
+       2.1204
+      ],
+      [
+       "Château de Chambord",
+       47.6161,
+       1.517
+      ],
+      [
+       "Château de Chenonceau",
+       47.3249,
+       1.0701
+      ],
+      [
+       "Château d'Amboise",
+       47.4129,
+       0.9843
+      ],
+      "LFOT"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Notre-Dame de Paris",
+     48.853,
+     2.3499
+    ],
+    [
+     "Château d'Amboise",
+     47.4129,
+     0.9843
+    ]
+   ]
+  },
+  {
+   "id": "golden-circle",
+   "continent": "EU",
+   "country": {
+    "en": "Iceland",
+    "hu": "Izland"
+   },
+   "name": {
+    "en": "Reykjavik and the Golden Circle",
+    "hu": "Reykjavík és az Aranykör"
+   },
+   "main": {
+    "en": "Gullfoss",
+    "hu": "Gullfoss",
+    "lat": 64.3271,
+    "lon": -20.1199
+   },
+   "tags": [
+    "volcano",
+    "unesco",
+    "coast"
+   ],
+   "desc": {
+    "en": "Iceland's classic circuit: the rift valley at Þingvellir, the Geysir geothermal field, the Gullfoss waterfall and the Blue Lagoon.",
+    "hu": "Izland klasszikus körútja: a þingvellíri hasadékvölgy, a Geysir gejzírmező, a Gullfoss-vízesés és a Kék-lagúna."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Golden Circle",
+      "hu": "Aranykör"
+     },
+     "desc": {
+      "en": "From Reykjavik over Þingvellir, Geysir and Gullfoss to Kerið and the Blue Lagoon.",
+      "hu": "Reykjavíkból Þingvellir, Geysir és Gullfoss felett a Kerið-kráterhez és a Kék-lagúnához."
+     },
+     "pts": [
+      "BIRK",
+      [
+       "Þingvellir",
+       64.2559,
+       -21.1299
+      ],
+      [
+       "Geysir",
+       64.3104,
+       -20.3024
+      ],
+      [
+       "Gullfoss",
+       64.3271,
+       -20.1199
+      ],
+      [
+       "Kerið",
+       64.0411,
+       -20.8853
+      ],
+      [
+       "Blue Lagoon",
+       63.8803,
+       -22.4495
+      ],
+      "BIRK"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Hallgrímskirkja",
+     64.1417,
+     -21.9266
+    ]
+   ]
   }
  ]
 }
