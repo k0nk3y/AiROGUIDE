@@ -164,6 +164,53 @@
       "VIJP"
      ]
     }
+   ],
+   "pois": [
+    [
+     "Taj Mahal",
+     27.1751,
+     78.0421
+    ],
+    [
+     "Agra Fort",
+     27.1795,
+     78.0211
+    ],
+    [
+     "Itimad-ud-Daulah",
+     27.1929,
+     78.0301
+    ],
+    [
+     "Akbar's tomb (Sikandra)",
+     27.2208,
+     77.9487
+    ],
+    [
+     "Mehtab Bagh",
+     27.183,
+     78.0435
+    ],
+    [
+     "Fatehpur Sikri",
+     27.094,
+     77.6679
+    ],
+    [
+     "Keoladeo National Park",
+     27.159,
+     77.523
+    ],
+    [
+     "Amber Fort",
+     26.9855,
+     75.8513
+    ],
+    [
+     "City Palace, Jaipur",
+     26.9258,
+     75.8237
+    ]
    ]
   },
   {
@@ -286,6 +333,43 @@
       "VNLK"
      ]
     }
+   ],
+   "pois": [
+    [
+     "Mount Everest",
+     27.9881,
+     86.925
+    ],
+    [
+     "Ama Dablam",
+     27.8617,
+     86.8614
+    ],
+    [
+     "Everest Base Camp",
+     28.0026,
+     86.8528
+    ],
+    [
+     "Kala Patthar",
+     27.9959,
+     86.8279
+    ],
+    [
+     "Gokyo Lakes",
+     27.9569,
+     86.6948
+    ],
+    [
+     "Tengboche Monastery",
+     27.8361,
+     86.7644
+    ],
+    [
+     "Namche Bazaar",
+     27.8069,
+     86.714
+    ]
    ]
   },
   {
@@ -398,6 +482,33 @@
       "VDSA"
      ]
     }
+   ],
+   "pois": [
+    [
+     "Angkor Wat",
+     13.4125,
+     103.867
+    ],
+    [
+     "Bayon",
+     13.4412,
+     103.8589
+    ],
+    [
+     "Ta Prohm",
+     13.435,
+     103.889
+    ],
+    [
+     "Banteay Srei",
+     13.599,
+     103.963
+    ],
+    [
+     "Phnom Kulen",
+     13.575,
+     104.1
+    ]
    ]
   },
   {
@@ -510,6 +621,33 @@
       "VYBG"
      ]
     }
+   ],
+   "pois": [
+    [
+     "Shwezigon Pagoda",
+     21.176,
+     94.8947
+    ],
+    [
+     "Ananda Temple",
+     21.1719,
+     94.8678
+    ],
+    [
+     "Dhammayangyi Temple",
+     21.1668,
+     94.8774
+    ],
+    [
+     "Sulamani Temple",
+     21.156,
+     94.889
+    ],
+    [
+     "Mount Popa",
+     20.921,
+     95.251
+    ]
    ]
   }
  ]
