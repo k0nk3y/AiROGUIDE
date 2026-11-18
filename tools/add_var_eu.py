@@ -122,4 +122,7 @@ for t in d["tours"]:
     for w in t["variants"]:
         if (t["id"], w["id"]) in ALT:
             w["alt_ft"] = ALT[(t["id"], w["id"])]
+for t in d["tours"]:
+    if t["id"] == "amalfi" and "volcano" not in t["tags"]:
+        t["tags"].append("volcano")                       # Vezuv
 json.dump(d, open(tourlib.P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
