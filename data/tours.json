@@ -5231,45 +5231,6 @@
    },
    "variants": [
     {
-     "id": "city",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 2500,
-     "stol": false,
-     "label": {
-      "en": "Stockholm city",
-      "hu": "Stockholm belváros"
-     },
-     "desc": {
-      "en": "Short loop: Drottningholm, Gamla Stan, the Vasa Museum and Vaxholm.",
-      "hu": "Rövid kör: Drottningholm, Gamla Stan, a Vasa Múzeum és Vaxholm."
-     },
-     "pts": [
-      "ESSA",
-      [
-       "Drottningholm Palace",
-       59.3215,
-       17.886
-      ],
-      [
-       "Gamla Stan",
-       59.3252,
-       18.0711
-      ],
-      [
-       "Vasa Museum",
-       59.328,
-       18.0914
-      ],
-      [
-       "Vaxholm Fortress",
-       59.402,
-       18.355
-      ],
-      "ESSA"
-     ]
-    },
-    {
      "id": "archipelago",
      "kind": "loop",
      "kt": 105,
@@ -5798,45 +5759,6 @@
     "hu": "Valletta bástyái, a csendes Mdina, Comino Kék-lagúnája és Gozo templomai."
    },
    "variants": [
-    {
-     "id": "short",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 2000,
-     "stol": false,
-     "label": {
-      "en": "Malta short",
-      "hu": "Málta rövid"
-     },
-     "desc": {
-      "en": "Short loop: Valletta, the Blue Lagoon and Mdina.",
-      "hu": "Rövid kör: Valletta, a Kék-lagúna és Mdina."
-     },
-     "pts": [
-      "LMML",
-      [
-       "Mdina",
-       35.886,
-       14.4025
-      ],
-      [
-       "Blue Lagoon, Comino",
-       36.0147,
-       14.3322
-      ],
-      [
-       "~",
-       36.0368,
-       14.3673
-      ],
-      [
-       "Valletta",
-       35.8997,
-       14.5147
-      ],
-      "LMML"
-     ]
-    },
     {
      "id": "gozo",
      "kind": "loop",
@@ -6629,45 +6551,6 @@
     "hu": "Pula római amfiteátruma, a Brioni-szigetek, Rovinj óvárosa és a hegyi város, Motovun."
    },
    "variants": [
-    {
-     "id": "short",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 2500,
-     "stol": false,
-     "label": {
-      "en": "Pula and Rovinj",
-      "hu": "Pula és Rovinj"
-     },
-     "desc": {
-      "en": "Short loop: Brijuni, Pula Arena and Rovinj.",
-      "hu": "Rövid kör: Brioni, Pulai amfiteátrum és Rovinj."
-     },
-     "pts": [
-      "LDPL",
-      [
-       "Pula Arena",
-       44.8733,
-       13.85
-      ],
-      [
-       "Brijuni",
-       44.915,
-       13.765
-      ],
-      [
-       "Rovinj",
-       45.0811,
-       13.6387
-      ],
-      [
-       "~",
-       45.1099,
-       13.6916
-      ],
-      "LDPL"
-     ]
-    },
     {
      "id": "full",
      "kind": "loop",

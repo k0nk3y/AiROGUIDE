@@ -17,9 +17,7 @@ tour("krakow-tatras", PL, ("Kraków and the Tatras", "Krakkó és a Tátra"), ("
 tour("stockholm", SE, ("Stockholm archipelago", "Stockholmi szigetvilág"), ("Gamla Stan", "Gamla Stan", 59.3252, 18.0711), ["city", "culture", "island", "coast"],
      ("The royal capital on its islands: the Old Town, the Vasa Museum, Drottningholm and the skerries out to Sandhamn.", "A királyi főváros szigetein: az Óváros, a Vasa Múzeum, Drottningholm és a szigetvilág Sandhamnig."),
      [["Drottningholm Palace", 59.3215, 17.8860]],
-     [("city", "loop", 100, 2500, ("Stockholm city", "Stockholm belváros"), ("Short loop: Drottningholm, Gamla Stan, the Vasa Museum and Vaxholm.", "Rövid kör: Drottningholm, Gamla Stan, a Vasa Múzeum és Vaxholm."),
-       ["ESSA", ["Drottningholm Palace", 59.3215, 17.8860], ["Gamla Stan", 59.3252, 18.0711], ["Vasa Museum", 59.3280, 18.0914], ["Vaxholm Fortress", 59.4020, 18.3550], "ESSA"]),
-      ("archipelago", "loop", 105, 2500, ("Out to the skerries", "A szigetvilágba"), ("The city and then the archipelago out to Sandhamn.", "A város, majd a szigetvilág Sandhamnig."),
+     [("archipelago", "loop", 105, 2500, ("Out to the skerries", "A szigetvilágba"), ("The city and then the archipelago out to Sandhamn.", "A város, majd a szigetvilág Sandhamnig."),
        ["ESSA", ["Gamla Stan", 59.3252, 18.0711], ["Vasa Museum", 59.3280, 18.0914], ["Sandhamn", 59.2880, 18.9170], ["Vaxholm Fortress", 59.4020, 18.3550], "ESSA"])])
 tour("copenhagen", DK, ("Copenhagen and Zealand", "Koppenhága és Zéland"), ("The Little Mermaid", "A kis hableány", 55.6929, 12.5993), ["city", "culture", "coast"],
      ("Copenhagen's harbour, Hamlet's Kronborg, the Øresund Bridge, Roskilde and the white chalk cliffs of Møn.", "Koppenhága kikötője, Hamlet Kronborg-ja, az Øresund-híd, Roskilde és Møn fehér krétasziklái."),
@@ -50,9 +48,7 @@ tour("slovenia", SI, ("Julian Alps and Lake Bled", "Júliai-Alpok és a Bled-tó
 tour("malta", MT, ("Malta and Gozo", "Málta és Gozo"), ("Valletta", "Valletta", 35.8997, 14.5147), ["city", "culture", "island", "unesco"],
      ("Valletta's bastions, silent Mdina, the Blue Lagoon of Comino and the temples of Gozo.", "Valletta bástyái, a csendes Mdina, Comino Kék-lagúnája és Gozo templomai."),
      [["Mdina", 35.8860, 14.4025]],
-     [("short", "loop", 100, 2000, ("Malta short", "Málta rövid"), ("Short loop: Valletta, the Blue Lagoon and Mdina.", "Rövid kör: Valletta, a Kék-lagúna és Mdina."),
-       ["LMML", ["Valletta", 35.8997, 14.5147], ["Blue Lagoon, Comino", 36.0147, 14.3322], ["Mdina", 35.8860, 14.4025], "LMML"]),
-      ("gozo", "loop", 105, 2000, ("Malta and Gozo", "Málta és Gozo"), ("Valletta, Gozo's Ġgantija temples, the Dwejra coast and the Dingli cliffs.", "Valletta, Gozo Ġgantija templomai, a Dwejra part és a Dingli-szirtek."),
+     [("gozo", "loop", 105, 2000, ("Malta and Gozo", "Málta és Gozo"), ("Valletta, Gozo's Ġgantija temples, the Dwejra coast and the Dingli cliffs.", "Valletta, Gozo Ġgantija templomai, a Dwejra part és a Dingli-szirtek."),
        ["LMML", ["Valletta", 35.8997, 14.5147], ["Ġgantija Temples", 36.0463, 14.2696], ["Dwejra", 36.0526, 14.1887], ["Dingli Cliffs", 35.8590, 14.3870], "LMML"])])
 tour("transylvania", RO, ("Transylvania", "Erdély"), ("Bran Castle", "Törcsvári vár", 45.5150, 25.3672), ["mountain", "culture", "city"],
      ("Sibiu's old town, the Transfăgărășan high road at Bâlea Lake and the castles of Peleș and Bran.", "Nagyszeben óvárosa, a Transzfogarasi hegyi út a Bâlea-tónál, valamint a Peleș és Törcsvári vár."),
@@ -99,9 +95,7 @@ tour("bulgaria", BG, ("Sofia, Rila and Vitosha", "Szófia, Rila és Vitosa"), ("
 tour("istria", HR, ("Istria", "Isztria"), ("Pula Arena", "Pulai amfiteátrum", 44.8733, 13.8500), ["culture", "coast", "city"],
      ("Pula's Roman arena, the Brijuni islands, Rovinj's old town and the hill town of Motovun.", "Pula római amfiteátruma, a Brioni-szigetek, Rovinj óvárosa és a hegyi város, Motovun."),
      [["Brijuni", 44.9150, 13.7650]],
-     [("short", "loop", 100, 2500, ("Pula and Rovinj", "Pula és Rovinj"), ("Short loop: Brijuni, Pula Arena and Rovinj.", "Rövid kör: Brioni, Pulai amfiteátrum és Rovinj."),
-       ["LDPL", ["Brijuni", 44.9150, 13.7650], ["Pula Arena", 44.8733, 13.8500], ["Rovinj", 45.0811, 13.6387], "LDPL"]),
-      ("full", "loop", 105, 2500, ("Istria loop", "Isztria-kör"), ("About an hour: Rovinj, Motovun, Pula Arena and Brijuni.", "Kb. egy óra: Rovinj, Motovun, Pulai amfiteátrum és Brioni."),
+     [("full", "loop", 105, 2500, ("Istria loop", "Isztria-kör"), ("About an hour: Rovinj, Motovun, Pula Arena and Brijuni.", "Kb. egy óra: Rovinj, Motovun, Pulai amfiteátrum és Brioni."),
        ["LDPL", ["Rovinj", 45.0811, 13.6387], ["Motovun", 45.3378, 13.8283], ["Pula Arena", 44.8733, 13.8500], ["Brijuni", 44.9150, 13.7650], "LDPL"])])
 tour("ireland-west", IE, ("Cliffs of Moher and the Burren", "A Moher-szirtek és a Burren"), ("Cliffs of Moher", "Moher-szirtek", 52.9715, -9.4309), ["coast", "culture", "island"],
      ("Ireland's Atlantic cliffs, the Burren's stone plateau, the Aran Islands' Dún Aonghasa and Bunratty Castle.", "Írország atlanti szirtjei, a Burren köves fennsíkja, az Aran-szigetek Dún Aonghasa erődje és a Bunratty-kastély."),
