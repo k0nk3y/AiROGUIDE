@@ -1923,45 +1923,6 @@
      ]
     },
     {
-     "id": "berchtesgaden",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 10500,
-     "stol": false,
-     "label": {
-      "en": "Berchtesgaden",
-      "hu": "Berchtesgaden"
-     },
-     "desc": {
-      "en": "South-west of Salzburg: Königssee, Watzmann and the Eagle's Nest.",
-      "hu": "Salzburgtól délnyugatra: Königssee, Watzmann és a Kehlsteinhaus."
-     },
-     "pts": [
-      "LOWS",
-      [
-       "Hohensalzburg Fortress",
-       47.7948,
-       13.0475
-      ],
-      [
-       "Kehlsteinhaus",
-       47.6139,
-       13.0372
-      ],
-      [
-       "Königssee",
-       47.5547,
-       12.972
-      ],
-      [
-       "Watzmann",
-       47.5545,
-       12.9226
-      ],
-      "LOWS"
-     ]
-    },
-    {
      "id": "chiemsee",
      "kind": "loop",
      "kt": 100,
