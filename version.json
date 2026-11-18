@@ -1,5 +1,5 @@
 {
-  "version": 479,
+  "version": 480,
   "notes": {
     "hu": "• Útlevél: minden országhoz, ahol felszálltál vagy leszálltál, egyedi pecsét jár, összesen 250. Követheted kontinensenként és mérföldkövenként, megnézheted térképen, és oklevélként képbe mentheted. Pecsétet csak valódi, legalább 30 perces repülés ad olyan helyeken, ahol leszálltál (a touch and go is számít, és a repülőtér nélküli leszállás is: síelős, vízi vagy szabadtéri; ilyenkor a helyzeted adja az országot). Repülj, gyűjtsd, oszd meg!\n• Pilot Book: ikonos gombok, a keresés mindig az éppen nyitott nézetben keres, rendezettebb margók. A repülés részleteinél feliratos gombbal megoszthatod képként, vagy elmentheted .pln útvonalként.\n• Az automatikus felolvasás a Beállítások › Megjelenés › Radar sugara szerint olvas (NM-ben és km-ben is látszik).\n• EFB: a Pilot Book és az Útlevél a szimulátor beépített EFB-jében is használható (a fájlt mentő vagy betöltő funkciók ott rejtve vannak).\n• Beállítások › Haladó › Személyes adatok: a repüléseid, helyeid, útvonalaid és beállításaid mentése és visszaállítása egyetlen fájlból.\n• Statisztika: áttekinthető nézet 7 nap / hónap / év / összes időszakkal, lapozással, gép szerinti szűréssel, ikonos adatcsempékkel, diagrammal és a repülések listájával. A kiválasztott időszak képként is megosztható, kérésre a szerzett pecsétekkel.",
     "en": "• Passport: every country where you took off or landed earns its own stamp, 250 in total. Track your progress by continent and milestone, view it on a map and save it as a certificate image. A stamp is only earned by a real flight of at least 30 minutes, at places where you landed (touch and go counts too, and so do landings away from an airport, such as on skis, water or a bush strip: the country is determined from your position). Fly, collect, share!\n• Pilot Book: icon buttons, search always works in the view you have open, tidier margins. In the flight details, labelled buttons share the flight as an image or save it as a .pln route.\n• Auto-read follows the radius set in Settings › Appearance › Radar (shown in NM and km).\n• EFB: the Pilot Book and Passport also work in the in-sim EFB (functions that save or load files are hidden there).\n• Settings › Advanced › Personal data: back up and restore your flights, places, routes and settings from a single file.\n• Statistics: a clear view with 7 days / month / year / all-time periods, paging, filtering by aircraft, icon tiles, a chart and a list of flights. Share the selected period as an image, optionally with the stamps you earned.",
@@ -15,39 +15,39 @@
   "files": [
     {
       "path": "app.py",
-      "sha256": "b10bada1a0ea40507dd62344bf17f7307050a9cf715199d1f66faa75c289fb30"
+      "sha256": "0261d4e8922d62852e58863ad1eae96bdbb0c909b3ae8012dcf12344e5b31f1d"
     },
     {
       "path": "lang/de.json",
-      "sha256": "5f1d1b0936746b75c53bc7dbe86ed52929d5da08b50db68786e622a2ac26c673"
+      "sha256": "a72040d7ee873eb7d14da0f7cbd9ce3b4aa083400f0b1d4fc0c2ef940ff4c97e"
     },
     {
       "path": "lang/es.json",
-      "sha256": "29b45493ffed7fb9c2916682f88f3ddfb0069d272ac083e060423f49ec5df91e"
+      "sha256": "ffe031cbe13f262aefdc03c2a694ab02c8a23b763b3c9937e812c4adb050dd6c"
     },
     {
       "path": "lang/fr.json",
-      "sha256": "d05f681ef4b9e298fb34feccd2c79589a113c20a14c1cd0ebc31b77d60ca2ef0"
+      "sha256": "3e2754ab1e5aa4b45298f97da6bcbbbd241bc72f843acd59c73795d774214289"
     },
     {
       "path": "lang/it.json",
-      "sha256": "9061f67536773a3c38c1914ba331864dc1ba9f6f088546fd34ba508d02cbce39"
+      "sha256": "6aeec80a88fe804ec10ae025de035febaa798a0d3c11a3ae8988fdcf712585c6"
     },
     {
       "path": "lang/pl.json",
-      "sha256": "29e75da7417a3f5a1ab6134cabbcaecd2210c10e9f2541ec1b643c800178f33b"
+      "sha256": "33186d14776c35fc3c33f94090754087f03af3b6557d34c3a4de02b0e9ccd922"
     },
     {
       "path": "lang/ru.json",
-      "sha256": "d769a76eae314de5fa715f85e314799745b4b3ec0e06b6c856866be86a9280b2"
+      "sha256": "705dec45c6ec93ec6a2bab8862fea7b6655c7fc2590817ed519647a3c71bfdb6"
     },
     {
       "path": "lang/sk.json",
-      "sha256": "7d1cb547e161d5693329c2e665ceb783ab5e37258e01f89fc73d4e49f699b1b6"
+      "sha256": "024d21b74ea20075e5fe91c49ea7a6ca44c66d7214f86944820f86e865c15e51"
     },
     {
       "path": "lang/zh.json",
-      "sha256": "ea1424bad3c7421b47e32b0766a9d8112a351696f71832ee7ae60e4c60ef7729"
+      "sha256": "ff3e7a66d192dcb89ea5156ce53c4026dbbd3cc37c945cc2350920a1b22dcc7f"
     },
     {
       "path": "data/airports_rwy.tsv.gz",
