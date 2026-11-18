@@ -16,6 +16,13 @@ def hav(a, b, c, d):
     return 12742 * math.asin(math.sqrt(x))
 
 
+def brg(a, b):
+    p = math.pi / 180
+    y = math.sin((b[2] - a[2]) * p) * math.cos(b[1] * p)
+    x = math.cos(a[1] * p) * math.sin(b[1] * p) - math.sin(a[1] * p) * math.cos(b[1] * p) * math.cos((b[2] - a[2]) * p)
+    return (math.atan2(y, x) / p) % 360
+
+
 def load_rings():
     out = []
     for ln in gzip.open(os.path.join(ROOT, "data", "countries.tsv.gz"), "rt", encoding="utf-8"):
@@ -90,6 +97,13 @@ def main():
                     W("%s: hosszu szakasz %s -> %s: %.0f km" % (v["id"], a[0], b[0], dd)); warn += 1
                 if dd < 0.8:
                     W("%s: majdnem azonos pontok %s / %s" % (v["id"], a[0], b[0])); warn += 1
+            for a, b, c in zip(pts, pts[1:], pts[2:]):             # hajtukanyar / szoros cikcakk: repulovel nem repulheto
+                tn = abs((brg(b, c) - brg(a, b) + 180) % 360 - 180)
+                dm_ = min(hav(a[1], a[2], b[1], b[2]), hav(b[1], b[2], c[1], c[2]))
+                if tn > 120:
+                    E("%s: hajtukanyar (%.0f fok) a(z) %s pontnal" % (v["id"], tn, b[0])); bad += 1
+                elif tn > 90 and dm_ < 8:
+                    W("%s: szoros fordulo (%.0f fok, %.1f km szakasz) a(z) %s pontnal" % (v["id"], tn, dm_, b[0])); warn += 1
             mins = tot / 1.852 / v["kt"] * 60
             if mins < MIN_MIN or tot < MIN_KM:
                 E("%s: tul rovid (%.0f perc, %.0f km; minimum %d perc es %d km)" % (v["id"], mins, tot, MIN_MIN, MIN_KM)); bad += 1
@@ -99,7 +113,7 @@ def main():
                 E("%s: koruton a kezdo es a vegpont nem azonos" % v["id"]); bad += 1
             if iso:
                 for n, la, lo in pts:
-                    if n in ap:
+                    if n in ap or n.startswith("~"):
                         continue
                     c = country_at(R, la, lo)
                     if c and c != iso:

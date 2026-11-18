@@ -127,6 +127,13 @@ for t in d["tours"]:
             known.update({p[0]: p for p in t.get("pois") or []})
             w["pts"] = [w["pts"][0] if p is None and i == 0 else (w["pts"][-1] if p is None else (known[p[1:]] if isinstance(p, str) else p)) for i, p in enumerate(pl)]
 for t in d["tours"]:
+    if t["id"] == "andalusia":                          # a Gibraltari-szikla a LXGB repter mellett van: eleg 'pois'-kent
+        for w in t["variants"]:
+            if w["id"] == "ab":
+                rock = [p for p in w["pts"] if isinstance(p, list) and p[0] == "Rock of Gibraltar"]
+                w["pts"] = [p for p in w["pts"] if not (isinstance(p, list) and p[0] == "Rock of Gibraltar")]
+                if rock and not any(q[0] == "Rock of Gibraltar" for q in t.get("pois") or []):
+                    t.setdefault("pois", []).append(rock[0])
     if t["id"] == "bagan":
         t["variants"] = [w for w in t["variants"] if w["id"] != "short"]       # a templomsik tul kicsi egy onallo rovid korhoz
     if t["id"] == "amalfi" and "volcano" not in t["tags"]:
