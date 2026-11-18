@@ -116,6 +116,17 @@ for t in d["tours"]:
     for w in t["variants"]:
         if (t["id"], w["id"]) in ALT:
             w["alt_ft"] = ALT[(t["id"], w["id"])]
+# ---------- a tul rovid valtozatok kicsit hosszabbra rajzolva ----------
+LONGER = {("agra-taj", "short"): [None, ["Sur Sarovar (Keetham Lake)", 27.4350, 77.9150], "@Akbar's Tomb", "@Itimad-ud-Daulah", "@Agra Fort", "@Taj Mahal", "@Mehtab Bagh", None],
+          ("budapest", "city"): [None, "@Gellért Hill", ["János Hill Lookout", 47.5170, 18.9618], "@Buda Castle", "@Hungarian Parliament", "@Margaret Island", None],
+          ("bagan", "short"): [None, "@Shwezigon Pagoda", ["Bupaya Pagoda", 21.1747, 94.8508], "@Ananda Temple", "@Dhammayangyi Temple", "@Sulamani Temple", ["Dhammayazika Pagoda", 21.1425, 94.9010], "@Minnanthu", ["Pakokku", 21.3333, 95.0833], None]}
+for t in d["tours"]:
+    for w in t["variants"]:
+        pl = LONGER.get((t["id"], w["id"]))
+        if pl:
+            known = {p[0]: p for x in t["variants"] for p in x["pts"] if isinstance(p, list)}
+            known.update({p[0]: p for p in t.get("pois") or []})
+            w["pts"] = [w["pts"][0] if p is None and i == 0 else (w["pts"][-1] if p is None else (known[p[1:]] if isinstance(p, str) else p)) for i, p in enumerate(pl)]
 for t in d["tours"]:
     if t["id"] == "amalfi" and "volcano" not in t["tags"]:
         t["tags"].append("volcano")                       # Vezuv

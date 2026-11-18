@@ -44,14 +44,19 @@
      "pts": [
       "VIAG",
       [
+       "Sur Sarovar (Keetham Lake)",
+       27.435,
+       77.915
+      ],
+      [
        "Akbar's Tomb",
-       27.2205,
-       77.9515
+       27.2208,
+       77.9487
       ],
       [
        "Itimad-ud-Daulah",
-       27.1925,
-       78.0307
+       27.1929,
+       78.0301
       ],
       [
        "Agra Fort",
@@ -590,28 +595,43 @@
       "VYBG",
       [
        "Shwezigon Pagoda",
-       21.1985,
-       94.8897
+       21.176,
+       94.8947
+      ],
+      [
+       "Bupaya Pagoda",
+       21.1747,
+       94.8508
       ],
       [
        "Ananda Temple",
-       21.1717,
+       21.1719,
        94.8678
       ],
       [
        "Dhammayangyi Temple",
-       21.1667,
-       94.875
+       21.1668,
+       94.8774
       ],
       [
        "Sulamani Temple",
-       21.1578,
-       94.8869
+       21.156,
+       94.889
+      ],
+      [
+       "Dhammayazika Pagoda",
+       21.1425,
+       94.901
       ],
       [
        "Minnanthu",
        21.148,
        94.918
+      ],
+      [
+       "Pakokku",
+       21.3333,
+       95.0833
       ],
       "VYBG"
      ]
@@ -731,6 +751,11 @@
        "Gellért Hill",
        47.4862,
        19.046
+      ],
+      [
+       "János Hill Lookout",
+       47.517,
+       18.9618
       ],
       [
        "Buda Castle",
