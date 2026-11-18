@@ -4613,35 +4613,6 @@
    },
    "variants": [
     {
-     "id": "short",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 3500,
-     "stol": false,
-     "label": {
-      "en": "South Garda",
-      "hu": "Déli Garda"
-     },
-     "desc": {
-      "en": "Short loop: Sirmione and Malcesine.",
-      "hu": "Rövid kör: Sirmione és Malcesine."
-     },
-     "pts": [
-      "LIPX",
-      [
-       "Sirmione",
-       45.4918,
-       10.6086
-      ],
-      [
-       "Malcesine Castle",
-       45.7646,
-       10.8097
-      ],
-      "LIPX"
-     ]
-    },
-    {
      "id": "full",
      "kind": "loop",
      "kt": 110,

@@ -26,9 +26,7 @@ tour("garda", IT, ("Lake Garda", "Garda-tó"), ("Lake Garda", "Garda-tó", 45.6,
      ["culture", "coast", "mountain"],
      ("Italy's biggest lake: Sirmione, Malcesine, Riva and Monte Baldo, from Verona.", "Olaszország legnagyobb tava: Sirmione, Malcesine, Riva és a Monte Baldo, Veronából."),
      [["Scaliger Castle, Sirmione", 45.4918, 10.6086], ["Salò", 45.6064, 10.5226]],
-     [("short", "loop", 100, 3500, ("South Garda", "Déli Garda"), ("Short loop: Sirmione and Malcesine.", "Rövid kör: Sirmione és Malcesine."),
-       ["LIPX", ["Sirmione", 45.4918, 10.6086], ["Malcesine Castle", 45.7646, 10.8097], "LIPX"]),
-      ("full", "loop", 110, 8500, ("Around the lake", "A tó körül"), ("About an hour: Sirmione, Salò, Riva, Monte Baldo and Verona's Arena.", "Kb. egy óra: Sirmione, Salò, Riva, Monte Baldo és a veronai Aréna."),
+     [("full", "loop", 110, 8500, ("Around the lake", "A tó körül"), ("About an hour: Sirmione, Salò, Riva, Monte Baldo and Verona's Arena.", "Kb. egy óra: Sirmione, Salò, Riva, Monte Baldo és a veronai Aréna."),
        ["LIPX", ["Sirmione", 45.4918, 10.6086], ["Salò", 45.6064, 10.5226], ["Riva del Garda", 45.8854, 10.8425], ["Monte Baldo", 45.7667, 10.8100], ["Verona Arena", 45.4390, 10.9944], "LIPX"])])
 save()
 
