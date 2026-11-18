@@ -2908,35 +2908,6 @@
       ],
       "LFLP"
      ]
-    },
-    {
-     "id": "short",
-     "kind": "loop",
-     "kt": 110,
-     "alt_ft": 17000,
-     "stol": false,
-     "label": {
-      "en": "Chamonix short",
-      "hu": "Chamonix rövid"
-     },
-     "desc": {
-      "en": "Short loop: Chamonix and Mont Blanc.",
-      "hu": "Rövid kör: Chamonix és Mont Blanc."
-     },
-     "pts": [
-      "LFLP",
-      [
-       "Chamonix",
-       45.9237,
-       6.8694
-      ],
-      [
-       "Mont Blanc",
-       45.8326,
-       6.8652
-      ],
-      "LFLP"
-     ]
     }
    ],
    "pois": [
@@ -3974,35 +3945,6 @@
        25.3289
       ],
       "LGMK"
-     ]
-    },
-    {
-     "id": "santorini-naxos",
-     "kind": "loop",
-     "kt": 110,
-     "alt_ft": 3000,
-     "stol": false,
-     "label": {
-      "en": "Santorini and Naxos",
-      "hu": "Santorini és Naxos"
-     },
-     "desc": {
-      "en": "Loop from Santorini.",
-      "hu": "Kör Santorini-ről."
-     },
-     "pts": [
-      "LGSR",
-      [
-       "Santorini caldera",
-       36.415,
-       25.435
-      ],
-      [
-       "Portara, Naxos",
-       37.106,
-       25.372
-      ],
-      "LGSR"
      ]
     },
     {

@@ -75,8 +75,6 @@ v("provence-riviera", "marseille", 110, 3500, ("Marseille and the Calanques", "M
   ["LFML", ["Notre-Dame de la Garde", 43.2840, 5.3711], ["Cap Canaille", 43.2064, 5.5417], "LFML"])
 v("provence-riviera", "provence", 120, 3500, ("Provence loop", "Provence-kör"), ("About an hour: Les Baux, Avignon, Pont du Gard, Arles.", "Kb. egy óra: Les Baux, Avignon, Pont du Gard, Arles."),
   ["LFML", ["Les Baux-de-Provence", 43.7435, 4.7953], "@Palais des Papes, Avignon", "@Pont du Gard", ["Arles Amphitheatre", 43.6777, 4.6311], "LFML"])
-v("mont-blanc", "short", 110, 17000, ("Chamonix short", "Chamonix rövid"), ("Short loop: Chamonix and Mont Blanc.", "Rövid kör: Chamonix és Mont Blanc."),
-  ["LFLP", "@Chamonix", "@Mont Blanc", "LFLP"])
 v("normandy", "short", 110, 2500, ("Honfleur and Pegasus Bridge", "Honfleur és Pegasus-híd"), ("Short loop from Deauville.", "Rövid kör Deauville-ből."),
   ["LFRG", "@Honfleur", ["Pegasus Bridge", 49.2447, -0.2755], "LFRG"])
 v("normandy", "beaches", 120, 2500, ("D-Day beaches", "A partraszállás partjai"), ("About an hour: Pegasus Bridge, Arromanches, Omaha, Pointe du Hoc.", "Kb. egy óra: Pegasus-híd, Arromanches, Omaha, Pointe du Hoc."),
@@ -97,8 +95,6 @@ v("edinburgh", "short", 100, 2500, ("Forth and Falkirk", "Forth és Falkirk"), (
   ["EGPH", "@Edinburgh Castle", "@Forth Bridge", "@The Kelpies", "@Falkirk Wheel", "EGPH"])
 v("norway-fjords", "loop", 110, 7500, ("Ålesund loop", "Ålesund-kör"), ("About an hour: Trollstigen and Geirangerfjord.", "Kb. egy óra: Trollstigen és Geiranger-fjord."),
   ["ENAL", "@Trollstigen", "@Geirangerfjord", "ENAL"])
-v("cyclades", "santorini-naxos", 110, 3000, ("Santorini and Naxos", "Santorini és Naxos"), ("Loop from Santorini.", "Kör Santorini-ről."),
-  ["LGSR", "@Santorini caldera", "@Portara, Naxos", "LGSR"])
 v("cyclades", "mykonos-naxos", 110, 3000, ("Mykonos, Delos, Naxos", "Mykonos, Délosz, Náxosz"), ("Loop from Mykonos.", "Kör Mykonosról."),
   ["LGMK", "@Delos", "@Portara, Naxos", "@Mykonos Town", "LGMK"])
 v("peloponnese", "short", 100, 3000, ("Athens and Sounion", "Athén és Szunion"), ("Short loop: Acropolis and the Temple of Poseidon.", "Rövid kör: Akropolisz és Poszeidón-templom."),
