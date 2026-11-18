@@ -332,6 +332,40 @@
       ],
       "VNLK"
      ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 17000,
+     "stol": false,
+     "label": {
+      "en": "Namche loop",
+      "hu": "Namche-kör"
+     },
+     "desc": {
+      "en": "Short loop from Lukla: Namche Bazaar, Tengboche, Dingboche.",
+      "hu": "Rövid kör Luklából: Namche Bazaar, Tengboche, Dingboche."
+     },
+     "pts": [
+      "VNLK",
+      [
+       "Namche Bazaar",
+       27.8069,
+       86.714
+      ],
+      [
+       "Tengboche",
+       27.836,
+       86.764
+      ],
+      [
+       "Dingboche",
+       27.8918,
+       86.831
+      ],
+      "VNLK"
+     ]
     }
    ],
    "pois": [
@@ -853,6 +887,40 @@
       ],
       "LHSM"
      ]
+    },
+    {
+     "id": "west",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2200,
+     "stol": false,
+     "label": {
+      "en": "West Balaton",
+      "hu": "Nyugati Balaton"
+     },
+     "desc": {
+      "en": "Short loop: Hévíz, Keszthely and Badacsony.",
+      "hu": "Rövid kör: Hévíz, Keszthely, Badacsony."
+     },
+     "pts": [
+      "LHSM",
+      [
+       "Hévíz Lake",
+       46.7894,
+       17.1927
+      ],
+      [
+       "Festetics Palace, Keszthely",
+       46.7655,
+       17.2458
+      ],
+      [
+       "Badacsony",
+       46.7993,
+       17.5
+      ],
+      "LHSM"
+     ]
     }
    ],
    "pois": [
@@ -939,6 +1007,79 @@
       ],
       "LIRN"
      ]
+    },
+    {
+     "id": "rome-a",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Rome classic",
+      "hu": "Róma klasszikus"
+     },
+     "desc": {
+      "en": "Short loop: Aqueduct Park, Colosseum, St Peter's and Castel Gandolfo.",
+      "hu": "Rövid kör: Acquedotti-park, Colosseum, Szent Péter és Castel Gandolfo."
+     },
+     "pts": [
+      "LIRA",
+      [
+       "Parco degli Acquedotti",
+       41.8408,
+       12.5667
+      ],
+      [
+       "Colosseum",
+       41.8902,
+       12.4922
+      ],
+      [
+       "St Peter's Basilica",
+       41.9022,
+       12.4539
+      ],
+      [
+       "Castel Gandolfo",
+       41.747,
+       12.649
+      ],
+      "LIRA"
+     ]
+    },
+    {
+     "id": "rome-b",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Rome, Ostia and Tivoli",
+      "hu": "Róma, Ostia és Tivoli"
+     },
+     "desc": {
+      "en": "Ostia Antica, the Vatican and Villa d'Este in Tivoli.",
+      "hu": "Ostia Antica, a Vatikán és a tivoli Villa d'Este."
+     },
+     "pts": [
+      "LIRA",
+      [
+       "Ostia Antica",
+       41.7554,
+       12.2915
+      ],
+      [
+       "St Peter's Basilica",
+       41.9022,
+       12.4539
+      ],
+      [
+       "Villa d'Este, Tivoli",
+       41.9632,
+       12.7966
+      ],
+      "LIRA"
+     ]
     }
    ],
    "pois": [
@@ -985,7 +1126,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 2500,
+     "alt_ft": 4500,
      "stol": false,
      "label": {
       "en": "Amalfi loop",
@@ -1021,6 +1162,40 @@
        "Sorrento",
        40.6263,
        14.3758
+      ],
+      [
+       "Capri",
+       40.5528,
+       14.2417
+      ],
+      "LIRN"
+     ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Vesuvius and Capri",
+      "hu": "Vezúv és Capri"
+     },
+     "desc": {
+      "en": "Short loop: Vesuvius, Pompeii and Capri.",
+      "hu": "Rövid kör: Vezúv, Pompeji, Capri."
+     },
+     "pts": [
+      "LIRN",
+      [
+       "Mount Vesuvius",
+       40.8213,
+       14.4262
+      ],
+      [
+       "Pompeii",
+       40.7511,
+       14.4869
       ],
       [
        "Capri",
@@ -1114,6 +1289,40 @@
       ],
       "LIRS"
      ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Florence and San Gimignano",
+      "hu": "Firenze és San Gimignano"
+     },
+     "desc": {
+      "en": "Short loop: Florence and the towers of San Gimignano.",
+      "hu": "Rövid kör: Firenze és San Gimignano tornyai."
+     },
+     "pts": [
+      "LIRQ",
+      [
+       "Florence Cathedral",
+       43.7731,
+       11.256
+      ],
+      [
+       "San Gimignano",
+       43.4677,
+       11.0432
+      ],
+      [
+       "Monteriggioni",
+       43.3908,
+       11.2243
+      ],
+      "LIRQ"
+     ]
     }
    ],
    "pois": [
@@ -1160,7 +1369,7 @@
      "id": "ab",
      "kind": "ab",
      "kt": 130,
-     "alt_ft": 11000,
+     "alt_ft": 12500,
      "stol": false,
      "label": {
       "en": "Venice to Bolzano",
@@ -1191,6 +1400,84 @@
        "Marmolada",
        46.4342,
        11.8559
+      ],
+      "LIPB"
+     ]
+    },
+    {
+     "id": "bz-short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 12500,
+     "stol": false,
+     "label": {
+      "en": "Dolomites short",
+      "hu": "Dolomitok rövid"
+     },
+     "desc": {
+      "en": "From Bolzano: Rosengarten, Sassolungo and Seceda.",
+      "hu": "Bolzanóból: Catinaccio, Sassolungo és Seceda."
+     },
+     "pts": [
+      "LIPB",
+      [
+       "Catinaccio / Rosengarten",
+       46.465,
+       11.633
+      ],
+      [
+       "Sassolungo",
+       46.5106,
+       11.7286
+      ],
+      [
+       "Seceda",
+       46.6046,
+       11.7202
+      ],
+      "LIPB"
+     ]
+    },
+    {
+     "id": "bz-loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 12500,
+     "stol": false,
+     "label": {
+      "en": "Dolomites loop",
+      "hu": "Dolomitok kör"
+     },
+     "desc": {
+      "en": "About an hour from Bolzano: Rosengarten, Marmolada, Tre Cime, Lago di Braies, Seceda.",
+      "hu": "Kb. egy óra Bolzanóból: Catinaccio, Marmolada, Tre Cime, Braies-tó, Seceda."
+     },
+     "pts": [
+      "LIPB",
+      [
+       "Catinaccio / Rosengarten",
+       46.465,
+       11.633
+      ],
+      [
+       "Marmolada",
+       46.4342,
+       11.8559
+      ],
+      [
+       "Tre Cime di Lavaredo",
+       46.6186,
+       12.3028
+      ],
+      [
+       "Lago di Braies",
+       46.6944,
+       12.0855
+      ],
+      [
+       "Seceda",
+       46.6046,
+       11.7202
       ],
       "LIPB"
      ]
@@ -1234,7 +1521,7 @@
      "id": "ab",
      "kind": "ab",
      "kt": 110,
-     "alt_ft": 2200,
+     "alt_ft": 4500,
      "stol": false,
      "label": {
       "en": "Pisa to Genoa",
@@ -1262,6 +1549,35 @@
        9.2095
       ],
       "LIMJ"
+     ]
+    },
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Cinque Terre loop",
+      "hu": "Cinque Terre kör"
+     },
+     "desc": {
+      "en": "Loop from Pisa: Portovenere and Vernazza.",
+      "hu": "Kör Pisából: Portovenere és Vernazza."
+     },
+     "pts": [
+      "LIRP",
+      [
+       "Portovenere",
+       44.0525,
+       9.8344
+      ],
+      [
+       "Vernazza",
+       44.135,
+       9.6836
+      ],
+      "LIRP"
      ]
     }
    ],
@@ -1308,7 +1624,7 @@
      "id": "ab",
      "kind": "ab",
      "kt": 110,
-     "alt_ft": 12500,
+     "alt_ft": 15000,
      "stol": false,
      "label": {
       "en": "Sion to Bern",
@@ -1351,6 +1667,35 @@
        7.8632
       ],
       "LSZB"
+     ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 15000,
+     "stol": false,
+     "label": {
+      "en": "Matterhorn from Sion",
+      "hu": "Matterhorn Sionból"
+     },
+     "desc": {
+      "en": "Short loop: Matterhorn and Zermatt.",
+      "hu": "Rövid kör: Matterhorn és Zermatt."
+     },
+     "pts": [
+      "LSGS",
+      [
+       "Matterhorn",
+       45.9766,
+       7.6585
+      ],
+      [
+       "Zermatt",
+       46.0207,
+       7.7491
+      ],
+      "LSGS"
      ]
     }
    ],
@@ -1398,7 +1743,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 8500,
+     "alt_ft": 11500,
      "stol": false,
      "label": {
       "en": "Lucerne loop",
@@ -1474,7 +1819,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 6500,
+     "alt_ft": 10500,
      "stol": false,
      "label": {
       "en": "Salzburg and the lakes",
@@ -1510,6 +1855,40 @@
        "Dachstein",
        47.4755,
        13.606
+      ],
+      "LOWS"
+     ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 10500,
+     "stol": false,
+     "label": {
+      "en": "Salzburg lakes",
+      "hu": "Salzburgi tavak"
+     },
+     "desc": {
+      "en": "Short loop: Hohensalzburg, Mondsee, St. Wolfgang.",
+      "hu": "Rövid kör: Hohensalzburg, Mondsee, St. Wolfgang."
+     },
+     "pts": [
+      "LOWS",
+      [
+       "Hohensalzburg Fortress",
+       47.7948,
+       13.0475
+      ],
+      [
+       "Mondsee",
+       47.8467,
+       13.3687
+      ],
+      [
+       "St. Wolfgang",
+       47.7397,
+       13.4469
       ],
       "LOWS"
      ]
@@ -1593,6 +1972,45 @@
       ],
       "LFOT"
      ]
+    },
+    {
+     "id": "paris",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Paris and Versailles",
+      "hu": "Párizs és Versailles"
+     },
+     "desc": {
+      "en": "Short loop: Versailles, Eiffel Tower, Sacré-Cœur, Notre-Dame.",
+      "hu": "Rövid kör: Versailles, Eiffel-torony, Sacré-Cœur, Notre-Dame."
+     },
+     "pts": [
+      "LFPO",
+      [
+       "Versailles",
+       48.8049,
+       2.1204
+      ],
+      [
+       "Eiffel Tower",
+       48.8584,
+       2.2945
+      ],
+      [
+       "Sacré-Cœur",
+       48.8867,
+       2.3431
+      ],
+      [
+       "Notre-Dame de Paris",
+       48.853,
+       2.3499
+      ],
+      "LFPO"
+     ]
     }
    ],
    "pois": [
@@ -1639,7 +2057,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 2500,
+     "alt_ft": 3500,
      "stol": false,
      "label": {
       "en": "Golden Circle",
@@ -1675,6 +2093,35 @@
        "Blue Lagoon",
        63.8803,
        -22.4495
+      ],
+      "BIRK"
+     ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Reykjanes and Reykjavík",
+      "hu": "Reykjanes és Reykjavík"
+     },
+     "desc": {
+      "en": "Short loop: Blue Lagoon and Hallgrímskirkja.",
+      "hu": "Rövid kör: Kék-lagúna és Hallgrímskirkja."
+     },
+     "pts": [
+      "BIRK",
+      [
+       "Blue Lagoon",
+       63.8803,
+       -22.4495
+      ],
+      [
+       "Hallgrímskirkja",
+       64.1417,
+       -21.9266
       ],
       "BIRK"
      ]
@@ -1719,7 +2166,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 3500,
+     "alt_ft": 6500,
      "stol": false,
      "label": {
       "en": "Lakes loop",
@@ -1755,6 +2202,35 @@
        "Isola San Giulio",
        45.7973,
        8.4143
+      ],
+      "LIML"
+     ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Milan and Lake Como",
+      "hu": "Milánó és a Comói-tó"
+     },
+     "desc": {
+      "en": "Short loop: Milan Cathedral and Bellagio.",
+      "hu": "Rövid kör: milánói dóm és Bellagio."
+     },
+     "pts": [
+      "LIML",
+      [
+       "Milan Cathedral",
+       45.4642,
+       9.1916
+      ],
+      [
+       "Bellagio",
+       45.9855,
+       9.2605
       ],
       "LIML"
      ]
@@ -1800,7 +2276,7 @@
      "id": "ab",
      "kind": "ab",
      "kt": 125,
-     "alt_ft": 6500,
+     "alt_ft": 12000,
      "stol": false,
      "label": {
       "en": "Catania to Palermo",
@@ -1838,6 +2314,35 @@
        13.3562
       ],
       "LICJ"
+     ]
+    },
+    {
+     "id": "etna",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 12000,
+     "stol": false,
+     "label": {
+      "en": "Etna and Taormina",
+      "hu": "Etna és Taormina"
+     },
+     "desc": {
+      "en": "Loop from Catania: Mount Etna and Taormina.",
+      "hu": "Kör Catániából: Etna és Taormina."
+     },
+     "pts": [
+      "LICC",
+      [
+       "Mount Etna",
+       37.751,
+       14.9934
+      ],
+      [
+       "Taormina",
+       37.8524,
+       15.2926
+      ],
+      "LICC"
      ]
     }
    ],
@@ -1914,6 +2419,40 @@
       ],
       "LOWL"
      ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Vienna",
+      "hu": "Bécs"
+     },
+     "desc": {
+      "en": "Short loop: Schönbrunn, the Stephansdom, Kahlenberg.",
+      "hu": "Rövid kör: Schönbrunn, Stephansdom, Kahlenberg."
+     },
+     "pts": [
+      "LOWW",
+      [
+       "Schönbrunn Palace",
+       48.1845,
+       16.3122
+      ],
+      [
+       "St. Stephen's Cathedral",
+       48.2086,
+       16.3733
+      ],
+      [
+       "Kahlenberg",
+       48.2754,
+       16.3319
+      ],
+      "LOWW"
+     ]
     }
    ],
    "pois": [
@@ -1954,7 +2493,7 @@
      "id": "ab",
      "kind": "ab",
      "kt": 110,
-     "alt_ft": 7500,
+     "alt_ft": 10500,
      "stol": false,
      "label": {
       "en": "Memmingen to Munich",
@@ -1992,6 +2531,35 @@
        11.5736
       ],
       "EDDM"
+     ]
+    },
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 10500,
+     "stol": false,
+     "label": {
+      "en": "Allgäu loop",
+      "hu": "Allgäu-kör"
+     },
+     "desc": {
+      "en": "About an hour from Memmingen: Neuschwanstein and Linderhof.",
+      "hu": "Kb. egy óra Memmingenből: Neuschwanstein és Linderhof."
+     },
+     "pts": [
+      "EDJA",
+      [
+       "Neuschwanstein Castle",
+       47.5576,
+       10.7498
+      ],
+      [
+       "Linderhof Palace",
+       47.5714,
+       10.9606
+      ],
+      "EDJA"
      ]
     }
    ],
@@ -2078,6 +2646,35 @@
       ],
       "EDDF"
      ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Cologne and Drachenfels",
+      "hu": "Köln és Drachenfels"
+     },
+     "desc": {
+      "en": "Short loop: Cologne Cathedral and Drachenfels.",
+      "hu": "Rövid kör: kölni dóm és Drachenfels."
+     },
+     "pts": [
+      "EDDK",
+      [
+       "Cologne Cathedral",
+       50.9413,
+       6.9583
+      ],
+      [
+       "Drachenfels",
+       50.6657,
+       7.2096
+      ],
+      "EDDK"
+     ]
     }
    ],
    "pois": [
@@ -2157,6 +2754,74 @@
        7.4246
       ],
       "LFMN"
+     ]
+    },
+    {
+     "id": "marseille",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Marseille and the Calanques",
+      "hu": "Marseille és a Calanques"
+     },
+     "desc": {
+      "en": "Short loop: Notre-Dame de la Garde and Cap Canaille.",
+      "hu": "Rövid kör: Notre-Dame de la Garde és Cap Canaille."
+     },
+     "pts": [
+      "LFML",
+      [
+       "Notre-Dame de la Garde",
+       43.284,
+       5.3711
+      ],
+      [
+       "Cap Canaille",
+       43.2064,
+       5.5417
+      ],
+      "LFML"
+     ]
+    },
+    {
+     "id": "provence",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Provence loop",
+      "hu": "Provence-kör"
+     },
+     "desc": {
+      "en": "About an hour: Les Baux, Avignon, Pont du Gard, Arles.",
+      "hu": "Kb. egy óra: Les Baux, Avignon, Pont du Gard, Arles."
+     },
+     "pts": [
+      "LFML",
+      [
+       "Les Baux-de-Provence",
+       43.7435,
+       4.7953
+      ],
+      [
+       "Palais des Papes, Avignon",
+       43.9508,
+       4.8075
+      ],
+      [
+       "Pont du Gard",
+       43.9475,
+       4.5352
+      ],
+      [
+       "Arles Amphitheatre",
+       43.6777,
+       4.6311
+      ],
+      "LFML"
      ]
     }
    ],
@@ -2242,6 +2907,35 @@
       ],
       "LFLP"
      ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 17000,
+     "stol": false,
+     "label": {
+      "en": "Chamonix short",
+      "hu": "Chamonix rövid"
+     },
+     "desc": {
+      "en": "Short loop: Chamonix and Mont Blanc.",
+      "hu": "Rövid kör: Chamonix és Mont Blanc."
+     },
+     "pts": [
+      "LFLP",
+      [
+       "Chamonix",
+       45.9237,
+       6.8694
+      ],
+      [
+       "Mont Blanc",
+       45.8326,
+       6.8652
+      ],
+      "LFLP"
+     ]
     }
    ],
    "pois": [
@@ -2321,6 +3015,74 @@
        -1.5115
       ],
       "LFRD"
+     ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Honfleur and Pegasus Bridge",
+      "hu": "Honfleur és Pegasus-híd"
+     },
+     "desc": {
+      "en": "Short loop from Deauville.",
+      "hu": "Rövid kör Deauville-ből."
+     },
+     "pts": [
+      "LFRG",
+      [
+       "Honfleur",
+       49.4193,
+       0.2327
+      ],
+      [
+       "Pegasus Bridge",
+       49.2447,
+       -0.2755
+      ],
+      "LFRG"
+     ]
+    },
+    {
+     "id": "beaches",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "D-Day beaches",
+      "hu": "A partraszállás partjai"
+     },
+     "desc": {
+      "en": "About an hour: Pegasus Bridge, Arromanches, Omaha, Pointe du Hoc.",
+      "hu": "Kb. egy óra: Pegasus-híd, Arromanches, Omaha, Pointe du Hoc."
+     },
+     "pts": [
+      "LFRG",
+      [
+       "Pegasus Bridge",
+       49.2447,
+       -0.2755
+      ],
+      [
+       "Arromanches",
+       49.3397,
+       -0.6224
+      ],
+      [
+       "Omaha Beach",
+       49.372,
+       -0.883
+      ],
+      [
+       "Pointe du Hoc",
+       49.3955,
+       -0.9889
+      ],
+      "LFRG"
      ]
     }
    ],
@@ -2402,6 +3164,64 @@
       ],
       "LXGB"
      ]
+    },
+    {
+     "id": "cordoba",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Seville and Córdoba",
+      "hu": "Sevilla és Córdoba"
+     },
+     "desc": {
+      "en": "About an hour: Seville and the Mezquita.",
+      "hu": "Kb. egy óra: Sevilla és a córdobai Mezquita."
+     },
+     "pts": [
+      "LEZL",
+      [
+       "Seville Cathedral",
+       37.3861,
+       -5.9926
+      ],
+      [
+       "Mezquita, Córdoba",
+       37.8789,
+       -4.7794
+      ],
+      "LEZL"
+     ]
+    },
+    {
+     "id": "costa",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Costa del Sol",
+      "hu": "Costa del Sol"
+     },
+     "desc": {
+      "en": "From Málaga: Ronda and the Rock of Gibraltar.",
+      "hu": "Málagából: Ronda és a Gibraltári-szikla."
+     },
+     "pts": [
+      "LEMG",
+      [
+       "Ronda",
+       36.7413,
+       -5.1673
+      ],
+      [
+       "Rock of Gibraltar",
+       36.1408,
+       -5.3536
+      ],
+      "LEMG"
+     ]
     }
    ],
    "pois": [
@@ -2443,7 +3263,7 @@
      "id": "ab",
      "kind": "ab",
      "kt": 110,
-     "alt_ft": 3000,
+     "alt_ft": 5000,
      "stol": false,
      "label": {
       "en": "Barcelona to Girona",
@@ -2481,6 +3301,35 @@
        2.826
       ],
       "LEGE"
+     ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Barcelona and Montserrat",
+      "hu": "Barcelona és Montserrat"
+     },
+     "desc": {
+      "en": "Short loop: Sagrada Família and Montserrat.",
+      "hu": "Rövid kör: Sagrada Família és Montserrat."
+     },
+     "pts": [
+      "LEBL",
+      [
+       "Sagrada Família",
+       41.4036,
+       2.1744
+      ],
+      [
+       "Montserrat",
+       41.5933,
+       1.8112
+      ],
+      "LEBL"
      ]
     }
    ],
@@ -2558,6 +3407,50 @@
        "Windsor Castle",
        51.4839,
        -0.6044
+      ],
+      "EGLC"
+     ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "London short",
+      "hu": "London rövid"
+     },
+     "desc": {
+      "en": "Short loop: Tower Bridge, St Paul's, Parliament, Wembley, Greenwich.",
+      "hu": "Rövid kör: Tower Bridge, St Paul's, Parlament, Wembley, Greenwich."
+     },
+     "pts": [
+      "EGLC",
+      [
+       "Tower Bridge",
+       51.5055,
+       -0.0754
+      ],
+      [
+       "St Paul's Cathedral",
+       51.5138,
+       -0.0984
+      ],
+      [
+       "Houses of Parliament",
+       51.4995,
+       -0.1248
+      ],
+      [
+       "Wembley Stadium",
+       51.556,
+       -0.2795
+      ],
+      [
+       "Royal Observatory Greenwich",
+       51.4769,
+       -0.0005
       ],
       "EGLC"
      ]
@@ -2646,6 +3539,35 @@
       ],
       "EGPE"
      ]
+    },
+    {
+     "id": "loch-lomond",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Loch Lomond and Stirling",
+      "hu": "Loch Lomond és Stirling"
+     },
+     "desc": {
+      "en": "Loop from Glasgow.",
+      "hu": "Kör Glasgow-ból."
+     },
+     "pts": [
+      "EGPF",
+      [
+       "Loch Lomond (Luss)",
+       56.1017,
+       -4.6358
+      ],
+      [
+       "Stirling Castle",
+       56.1239,
+       -3.9475
+      ],
+      "EGPF"
+     ]
     }
    ],
    "pois": [
@@ -2722,6 +3644,35 @@
        "Tintagel Castle",
        50.668,
        -4.751
+      ],
+      "EGHQ"
+     ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "North Cornwall",
+      "hu": "Észak-Cornwall"
+     },
+     "desc": {
+      "en": "Short loop: Tintagel and the Eden Project.",
+      "hu": "Rövid kör: Tintagel és az Eden Project."
+     },
+     "pts": [
+      "EGHQ",
+      [
+       "Tintagel Castle",
+       50.668,
+       -4.751
+      ],
+      [
+       "Eden Project",
+       50.3602,
+       -4.7447
       ],
       "EGHQ"
      ]
@@ -2805,6 +3756,45 @@
       ],
       "EGPH"
      ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Forth and Falkirk",
+      "hu": "Forth és Falkirk"
+     },
+     "desc": {
+      "en": "Short loop: Castle, Forth Bridge, Kelpies, Falkirk Wheel.",
+      "hu": "Rövid kör: vár, Forth-híd, Kelpies, Falkirk Wheel."
+     },
+     "pts": [
+      "EGPH",
+      [
+       "Edinburgh Castle",
+       55.9486,
+       -3.1999
+      ],
+      [
+       "Forth Bridge",
+       56.0003,
+       -3.3887
+      ],
+      [
+       "The Kelpies",
+       56.0185,
+       -3.75
+      ],
+      [
+       "Falkirk Wheel",
+       55.999,
+       -3.845
+      ],
+      "EGPH"
+     ]
     }
    ],
    "pois": [
@@ -2846,7 +3836,7 @@
      "id": "ab",
      "kind": "ab",
      "kt": 110,
-     "alt_ft": 5500,
+     "alt_ft": 7500,
      "stol": false,
      "label": {
       "en": "Ålesund to Bergen",
@@ -2879,6 +3869,35 @@
        7.1138
       ],
       "ENBR"
+     ]
+    },
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 7500,
+     "stol": false,
+     "label": {
+      "en": "Ålesund loop",
+      "hu": "Ålesund-kör"
+     },
+     "desc": {
+      "en": "About an hour: Trollstigen and Geirangerfjord.",
+      "hu": "Kb. egy óra: Trollstigen és Geiranger-fjord."
+     },
+     "pts": [
+      "ENAL",
+      [
+       "Trollstigen",
+       62.4553,
+       7.6694
+      ],
+      [
+       "Geirangerfjord",
+       62.1049,
+       7.206
+      ],
+      "ENAL"
      ]
     }
    ],
@@ -2947,6 +3966,69 @@
        "Delos",
        37.3959,
        25.2693
+      ],
+      [
+       "Mykonos Town",
+       37.4467,
+       25.3289
+      ],
+      "LGMK"
+     ]
+    },
+    {
+     "id": "santorini-naxos",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Santorini and Naxos",
+      "hu": "Santorini és Naxos"
+     },
+     "desc": {
+      "en": "Loop from Santorini.",
+      "hu": "Kör Santorini-ről."
+     },
+     "pts": [
+      "LGSR",
+      [
+       "Santorini caldera",
+       36.415,
+       25.435
+      ],
+      [
+       "Portara, Naxos",
+       37.106,
+       25.372
+      ],
+      "LGSR"
+     ]
+    },
+    {
+     "id": "mykonos-naxos",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Mykonos, Delos, Naxos",
+      "hu": "Mykonos, Délosz, Náxosz"
+     },
+     "desc": {
+      "en": "Loop from Mykonos.",
+      "hu": "Kör Mykonosról."
+     },
+     "pts": [
+      "LGMK",
+      [
+       "Delos",
+       37.3959,
+       25.2693
+      ],
+      [
+       "Portara, Naxos",
+       37.106,
+       25.372
       ],
       [
        "Mykonos Town",
@@ -3035,6 +4117,35 @@
       ],
       "LGAV"
      ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Athens and Sounion",
+      "hu": "Athén és Szunion"
+     },
+     "desc": {
+      "en": "Short loop: Acropolis and the Temple of Poseidon.",
+      "hu": "Rövid kör: Akropolisz és Poszeidón-templom."
+     },
+     "pts": [
+      "LGAV",
+      [
+       "Acropolis",
+       37.9715,
+       23.7257
+      ],
+      [
+       "Temple of Poseidon, Sounion",
+       37.6497,
+       24.0247
+      ],
+      "LGAV"
+     ]
     }
    ],
    "pois": [
@@ -3076,7 +4187,7 @@
      "id": "ab",
      "kind": "ab",
      "kt": 120,
-     "alt_ft": 3500,
+     "alt_ft": 5000,
      "stol": false,
      "label": {
       "en": "Dubrovnik to Zadar",
@@ -3109,6 +4220,69 @@
        15.971
       ],
       "LDZD"
+     ]
+    },
+    {
+     "id": "dubrovnik",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Dubrovnik and Mljet",
+      "hu": "Dubrovnik és Mljet"
+     },
+     "desc": {
+      "en": "Short loop.",
+      "hu": "Rövid kör."
+     },
+     "pts": [
+      "LDDU",
+      [
+       "Dubrovnik Old Town",
+       42.641,
+       18.11
+      ],
+      [
+       "Mljet National Park",
+       42.7667,
+       17.5333
+      ],
+      "LDDU"
+     ]
+    },
+    {
+     "id": "split",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Split, Hvar and Brač",
+      "hu": "Split, Hvar és Brač"
+     },
+     "desc": {
+      "en": "Loop from Split.",
+      "hu": "Kör Splitből."
+     },
+     "pts": [
+      "LDSP",
+      [
+       "Diocletian's Palace, Split",
+       43.5081,
+       16.4402
+      ],
+      [
+       "Hvar Town",
+       43.1729,
+       16.4411
+      ],
+      [
+       "Zlatni Rat, Brač",
+       43.2569,
+       16.635
+      ],
+      "LDSP"
      ]
     }
    ],
@@ -3185,6 +4359,45 @@
       ],
       "LKPR"
      ]
+    },
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Prague and Karlštejn",
+      "hu": "Prága és Karlštejn"
+     },
+     "desc": {
+      "en": "Short loop.",
+      "hu": "Rövid kör."
+     },
+     "pts": [
+      "LKPR",
+      [
+       "Karlštejn Castle",
+       49.9393,
+       14.1881
+      ],
+      [
+       "Prague Castle",
+       50.0909,
+       14.4004
+      ],
+      [
+       "Charles Bridge",
+       50.0865,
+       14.4114
+      ],
+      [
+       "Vyšehrad",
+       50.0642,
+       14.4197
+      ],
+      "LKPR"
+     ]
     }
    ],
    "pois": [
@@ -3226,7 +4439,7 @@
      "id": "ab",
      "kind": "ab",
      "kt": 110,
-     "alt_ft": 6500,
+     "alt_ft": 9500,
      "stol": false,
      "label": {
       "en": "Zurich to Altenrhein",
@@ -3260,6 +4473,40 @@
       ],
       "LSZR"
      ]
+    },
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Zurich and Lake Constance loop",
+      "hu": "Zürich és Boden-tó kör"
+     },
+     "desc": {
+      "en": "Loop from Zurich.",
+      "hu": "Kör Zürichből."
+     },
+     "pts": [
+      "LSZH",
+      [
+       "Grossmünster, Zurich",
+       47.37,
+       8.544
+      ],
+      [
+       "Rhine Falls",
+       47.6779,
+       8.615
+      ],
+      [
+       "Mainau Island",
+       47.7054,
+       9.1954
+      ],
+      "LSZH"
+     ]
     }
    ],
    "pois": [
@@ -3267,6 +4514,245 @@
      "Säntis",
      47.2494,
      9.343
+    ]
+   ]
+  },
+  {
+   "id": "venice",
+   "continent": "EU",
+   "country": {
+    "en": "Italy",
+    "hu": "Olaszország"
+   },
+   "name": {
+    "en": "Venice and the lagoon",
+    "hu": "Velence és a lagúna"
+   },
+   "main": {
+    "en": "Venice",
+    "hu": "Velence",
+    "lat": 45.4408,
+    "lon": 12.3155
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "city",
+    "coast"
+   ],
+   "desc": {
+    "en": "Venice from above: the lagoon islands, St Mark's and the Brenta Riviera.",
+    "hu": "Velence fentről: a lagúna szigetei, a Szent Márk-bazilika és a padovai környék."
+   },
+   "variants": [
+    {
+     "id": "lagoon",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Lagoon loop",
+      "hu": "Lagúna-kör"
+     },
+     "desc": {
+      "en": "A short loop over Torcello, Burano, St Mark's and the Lido.",
+      "hu": "Rövid kör Torcello, Burano, a Szent Márk tér és a Lido felett."
+     },
+     "pts": [
+      "LIPZ",
+      [
+       "Torcello",
+       45.4975,
+       12.4177
+      ],
+      [
+       "Burano",
+       45.485,
+       12.417
+      ],
+      [
+       "St Mark's Basilica",
+       45.434,
+       12.3397
+      ],
+      [
+       "Lido di Venezia",
+       45.4033,
+       12.367
+      ],
+      [
+       "Chioggia",
+       45.219,
+       12.278
+      ],
+      "LIPZ"
+     ]
+    },
+    {
+     "id": "padua",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Lagoon, Chioggia and Padua",
+      "hu": "Lagúna, Chioggia és Padova"
+     },
+     "desc": {
+      "en": "About an hour: the lagoon, Chioggia and the Scrovegni city of Padua.",
+      "hu": "Kb. egy óra: lagúna, Chioggia és Padova."
+     },
+     "pts": [
+      "LIPZ",
+      [
+       "Torcello",
+       45.4975,
+       12.4177
+      ],
+      [
+       "St Mark's Basilica",
+       45.434,
+       12.3397
+      ],
+      [
+       "Chioggia",
+       45.219,
+       12.278
+      ],
+      [
+       "Prato della Valle, Padua",
+       45.3985,
+       11.8774
+      ],
+      "LIPZ"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Rialto Bridge",
+     45.438,
+     12.3359
+    ],
+    [
+     "Murano",
+     45.459,
+     12.353
+    ]
+   ]
+  },
+  {
+   "id": "garda",
+   "continent": "EU",
+   "country": {
+    "en": "Italy",
+    "hu": "Olaszország"
+   },
+   "name": {
+    "en": "Lake Garda",
+    "hu": "Garda-tó"
+   },
+   "main": {
+    "en": "Lake Garda",
+    "hu": "Garda-tó",
+    "lat": 45.6,
+    "lon": 10.7
+   },
+   "tags": [
+    "culture",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Italy's biggest lake: Sirmione, Malcesine, Riva and Monte Baldo, from Verona.",
+    "hu": "Olaszország legnagyobb tava: Sirmione, Malcesine, Riva és a Monte Baldo, Veronából."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "South Garda",
+      "hu": "Déli Garda"
+     },
+     "desc": {
+      "en": "Short loop: Sirmione and Malcesine.",
+      "hu": "Rövid kör: Sirmione és Malcesine."
+     },
+     "pts": [
+      "LIPX",
+      [
+       "Sirmione",
+       45.4918,
+       10.6086
+      ],
+      [
+       "Malcesine Castle",
+       45.7646,
+       10.8097
+      ],
+      "LIPX"
+     ]
+    },
+    {
+     "id": "full",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 8500,
+     "stol": false,
+     "label": {
+      "en": "Around the lake",
+      "hu": "A tó körül"
+     },
+     "desc": {
+      "en": "About an hour: Sirmione, Salò, Riva, Monte Baldo and Verona's Arena.",
+      "hu": "Kb. egy óra: Sirmione, Salò, Riva, Monte Baldo és a veronai Aréna."
+     },
+     "pts": [
+      "LIPX",
+      [
+       "Sirmione",
+       45.4918,
+       10.6086
+      ],
+      [
+       "Salò",
+       45.6064,
+       10.5226
+      ],
+      [
+       "Riva del Garda",
+       45.8854,
+       10.8425
+      ],
+      [
+       "Monte Baldo",
+       45.7667,
+       10.81
+      ],
+      [
+       "Verona Arena",
+       45.439,
+       10.9944
+      ],
+      "LIPX"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Scaliger Castle, Sirmione",
+     45.4918,
+     10.6086
+    ],
+    [
+     "Salò",
+     45.6064,
+     10.5226
     ]
    ]
   }

@@ -14,6 +14,44 @@ def tour(id, country, name, main, tags, desc, pois, variants, cont="EU"):
 
 
 
+V = []
+
+
+def addvar(tid, vid, kind, kt, alt, label, desc, pts):
+    """Uj / frissitett valtozat egy meglevo turahoz. pts: ICAO, ["nev", lat, lon] vagy "@Nev" (a tura mar ismert pontja)."""
+    V.append((tid, dict(id=vid, kind=kind, kt=kt, alt_ft=alt, stol=False, label={"en": label[0], "hu": label[1]}, desc={"en": desc[0], "hu": desc[1]}, pts=pts)))
+
+
+def save_vars():
+    d = json.load(open(P, encoding="utf-8"))
+    idx = {t["id"]: t for t in d["tours"]}
+    for tid, v in V:
+        t = idx[tid]
+        known = {}
+        for w in t["variants"]:
+            for p in w["pts"]:
+                if isinstance(p, list):
+                    known[p[0]] = p
+        known.update({p[0]: p for p in t.get("pois") or []})
+        pts = []
+        for p in v["pts"]:
+            if isinstance(p, str) and p.startswith("@"):
+                if p[1:] not in known:
+                    raise SystemExit("ismeretlen pont: %s (%s)" % (p, tid))
+                pts.append(list(known[p[1:]]))
+            else:
+                pts.append(p)
+        v = dict(v, pts=pts)
+        for i, w in enumerate(t["variants"]):
+            if w["id"] == v["id"]:
+                t["variants"][i] = v
+                break
+        else:
+            t["variants"].append(v)
+    json.dump(d, open(P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(len(V), "valtozat")
+
+
 def save():
     d = json.load(open(P, encoding="utf-8"))
     have = {t["id"]: i for i, t in enumerate(d["tours"])}
