@@ -4,7 +4,7 @@ Hasznalat: python3 tools/tours_check.py [tura-id ...]   (alapbol az osszes)"""
 import gzip, json, math, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ISO = {"Hungary": "HU", "Italy": "IT", "Switzerland": "CH", "Austria": "AT", "France": "FR", "Iceland": "IS", "India": "IN", "Nepal": "NP", "Cambodia": "KH", "Myanmar": "MM",
-       "Germany": "DE", "Spain": "ES", "Portugal": "PT", "United Kingdom": "GB", "Ireland": "IE", "Norway": "NO", "Greece": "GR", "Croatia": "HR", "Czechia": "CZ", "Poland": "PL", "Turkey": "TR"}
+       "Germany": "DE", "Spain": "ES", "Portugal": "PT", "United Kingdom": "GB", "Ireland": "IE", "Norway": "NO", "Greece": "GR", "Croatia": "HR", "Czechia": "CZ", "Poland": "PL", "Turkey": "TR", "Sweden": "SE", "Denmark": "DK", "Finland": "FI", "Slovenia": "SI", "Malta": "MT", "Romania": "RO", "Montenegro": "ME", "Netherlands": "NL", "Belgium": "BE", "Slovakia": "SK", "Bulgaria": "BG", "Cyprus": "CY"}
 
 
 MIN_MIN, MIN_KM = 15, 20

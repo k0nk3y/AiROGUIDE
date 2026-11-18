@@ -72,6 +72,12 @@ def main():
             v["pts"] = [x[0] for x in P2]
             if len(P2) != len(P):
                 print("  atmeneti pont:", t["id"], v["id"], len(P2) - len(P))
+    rev = set(open(os.path.join(ROOT, "tools", "reviewed.txt"), encoding="utf-8").read().split())      # mar atnezett turak; a tobbi "Uj" jelolest kap
+    for t in d["tours"]:
+        if t["id"] in rev:
+            t.pop("new", None)
+        else:
+            t["new"] = True
     json.dump(d, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(ch, "valtozat atrendezve")
 

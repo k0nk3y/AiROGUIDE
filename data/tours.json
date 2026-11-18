@@ -5080,6 +5080,1892 @@
      10.5226
     ]
    ]
+  },
+  {
+   "id": "krakow-tatras",
+   "continent": "EU",
+   "country": {
+    "en": "Poland",
+    "hu": "Lengyelország"
+   },
+   "name": {
+    "en": "Kraków and the Tatras",
+    "hu": "Krakkó és a Tátra"
+   },
+   "main": {
+    "en": "Wawel Castle",
+    "hu": "Wawel",
+    "lat": 50.0541,
+    "lon": 19.9354
+   },
+   "tags": [
+    "city",
+    "culture",
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Royal Kraków, the salt cathedral of Wieliczka and Poland's highest mountains, the Tatras above Zakopane.",
+    "hu": "A királyi Krakkó, a wieliczkai sóbánya és Lengyelország legmagasabb hegyei, a Tátra Zakopane felett."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Kraków short",
+      "hu": "Krakkó rövid"
+     },
+     "desc": {
+      "en": "Short loop over the Wawel and the Wieliczka salt mine.",
+      "hu": "Rövid kör a Wawel és a wieliczkai sóbánya felett."
+     },
+     "pts": [
+      "EPKK",
+      [
+       "Wawel Castle",
+       50.0541,
+       19.9354
+      ],
+      [
+       "Wieliczka Salt Mine",
+       49.9833,
+       20.055
+      ],
+      [
+       "Niepołomice Castle",
+       50.035,
+       20.22
+      ],
+      [
+       "~",
+       50.0706,
+       20.2116
+      ],
+      "EPKK"
+     ]
+    },
+    {
+     "id": "tatras",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 10500,
+     "stol": false,
+     "label": {
+      "en": "Kraków and the Tatras",
+      "hu": "Krakkó és a Tátra"
+     },
+     "desc": {
+      "en": "About an hour: Wieliczka, Zakopane and Giewont, back over the Wawel.",
+      "hu": "Kb. egy óra: Wieliczka, Zakopane és Giewont, vissza a Wawel felett."
+     },
+     "pts": [
+      "EPKK",
+      [
+       "Giewont",
+       49.2511,
+       19.9339
+      ],
+      [
+       "~",
+       49.2494,
+       19.9889
+      ],
+      [
+       "Zakopane",
+       49.2992,
+       19.9496
+      ],
+      [
+       "Wieliczka Salt Mine",
+       49.9833,
+       20.055
+      ],
+      [
+       "Wawel Castle",
+       50.0541,
+       19.9354
+      ],
+      "EPKK"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Wieliczka Salt Mine",
+     49.9833,
+     20.055
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "stockholm",
+   "continent": "EU",
+   "country": {
+    "en": "Sweden",
+    "hu": "Svédország"
+   },
+   "name": {
+    "en": "Stockholm archipelago",
+    "hu": "Stockholmi szigetvilág"
+   },
+   "main": {
+    "en": "Gamla Stan",
+    "hu": "Gamla Stan",
+    "lat": 59.3252,
+    "lon": 18.0711
+   },
+   "tags": [
+    "city",
+    "culture",
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "The royal capital on its islands: the Old Town, the Vasa Museum, Drottningholm and the skerries out to Sandhamn.",
+    "hu": "A királyi főváros szigetein: az Óváros, a Vasa Múzeum, Drottningholm és a szigetvilág Sandhamnig."
+   },
+   "variants": [
+    {
+     "id": "city",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Stockholm city",
+      "hu": "Stockholm belváros"
+     },
+     "desc": {
+      "en": "Short loop: Drottningholm, Gamla Stan, the Vasa Museum and Vaxholm.",
+      "hu": "Rövid kör: Drottningholm, Gamla Stan, a Vasa Múzeum és Vaxholm."
+     },
+     "pts": [
+      "ESSA",
+      [
+       "Drottningholm Palace",
+       59.3215,
+       17.886
+      ],
+      [
+       "Gamla Stan",
+       59.3252,
+       18.0711
+      ],
+      [
+       "Vasa Museum",
+       59.328,
+       18.0914
+      ],
+      [
+       "Vaxholm Fortress",
+       59.402,
+       18.355
+      ],
+      "ESSA"
+     ]
+    },
+    {
+     "id": "archipelago",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Out to the skerries",
+      "hu": "A szigetvilágba"
+     },
+     "desc": {
+      "en": "The city and then the archipelago out to Sandhamn.",
+      "hu": "A város, majd a szigetvilág Sandhamnig."
+     },
+     "pts": [
+      "ESSA",
+      [
+       "Gamla Stan",
+       59.3252,
+       18.0711
+      ],
+      [
+       "Vasa Museum",
+       59.328,
+       18.0914
+      ],
+      [
+       "Sandhamn",
+       59.288,
+       18.917
+      ],
+      [
+       "~",
+       59.363,
+       18.9523
+      ],
+      [
+       "Vaxholm Fortress",
+       59.402,
+       18.355
+      ],
+      "ESSA"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Drottningholm Palace",
+     59.3215,
+     17.886
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "copenhagen",
+   "continent": "EU",
+   "country": {
+    "en": "Denmark",
+    "hu": "Dánia"
+   },
+   "name": {
+    "en": "Copenhagen and Zealand",
+    "hu": "Koppenhága és Zéland"
+   },
+   "main": {
+    "en": "The Little Mermaid",
+    "hu": "A kis hableány",
+    "lat": 55.6929,
+    "lon": 12.5993
+   },
+   "tags": [
+    "city",
+    "culture",
+    "coast"
+   ],
+   "desc": {
+    "en": "Copenhagen's harbour, Hamlet's Kronborg, the Øresund Bridge, Roskilde and the white chalk cliffs of Møn.",
+    "hu": "Koppenhága kikötője, Hamlet Kronborg-ja, az Øresund-híd, Roskilde és Møn fehér krétasziklái."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Copenhagen short",
+      "hu": "Koppenhága rövid"
+     },
+     "desc": {
+      "en": "Short loop: the Øresund Bridge, the Little Mermaid and Kronborg.",
+      "hu": "Rövid kör: Øresund-híd, A kis hableány és Kronborg."
+     },
+     "pts": [
+      "EKCH",
+      [
+       "Øresund Bridge",
+       55.57,
+       12.83
+      ],
+      [
+       "~",
+       55.5926,
+       12.8794
+      ],
+      [
+       "Kronborg Castle",
+       56.039,
+       12.621
+      ],
+      [
+       "~",
+       56.0269,
+       12.4676
+      ],
+      [
+       "The Little Mermaid",
+       55.6929,
+       12.5993
+      ],
+      "EKCH"
+     ]
+    },
+    {
+     "id": "zealand",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Zealand loop",
+      "hu": "Zéland-kör"
+     },
+     "desc": {
+      "en": "About an hour: Roskilde Cathedral, Møns Klint, the Øresund Bridge and the Little Mermaid.",
+      "hu": "Kb. egy óra: roskildei székesegyház, Møns Klint, Øresund-híd és A kis hableány."
+     },
+     "pts": [
+      "EKCH",
+      [
+       "Øresund Bridge",
+       55.57,
+       12.83
+      ],
+      [
+       "Møns Klint",
+       54.9733,
+       12.5483
+      ],
+      [
+       "~",
+       54.9672,
+       12.3606
+      ],
+      [
+       "Roskilde Cathedral",
+       55.643,
+       12.0804
+      ],
+      [
+       "The Little Mermaid",
+       55.6929,
+       12.5993
+      ],
+      "EKCH"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Nyhavn",
+     55.6798,
+     12.5911
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "helsinki",
+   "continent": "EU",
+   "country": {
+    "en": "Finland",
+    "hu": "Finnország"
+   },
+   "name": {
+    "en": "Helsinki and the Finnish coast",
+    "hu": "Helsinki és a finn tengerpart"
+   },
+   "main": {
+    "en": "Helsinki Cathedral",
+    "hu": "Helsinki székesegyház",
+    "lat": 60.17,
+    "lon": 24.9522
+   },
+   "tags": [
+    "city",
+    "culture",
+    "coast",
+    "island"
+   ],
+   "desc": {
+    "en": "Helsinki's white cathedral, the sea fortress of Suomenlinna and the old wooden town of Porvoo.",
+    "hu": "Helsinki fehér székesegyháza, a Suomenlinna tengeri erőd és Porvoo régi fa óvárosa."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Helsinki loop",
+      "hu": "Helsinki-kör"
+     },
+     "desc": {
+      "en": "Helsinki Cathedral, Suomenlinna and Porvoo.",
+      "hu": "Helsinki székesegyház, Suomenlinna és Porvoo."
+     },
+     "pts": [
+      "EFHK",
+      [
+       "Helsinki Cathedral",
+       60.17,
+       24.9522
+      ],
+      [
+       "Suomenlinna",
+       60.1451,
+       24.988
+      ],
+      [
+       "Porvoo Old Town",
+       60.3933,
+       25.665
+      ],
+      [
+       "~",
+       60.4742,
+       25.5908
+      ],
+      "EFHK"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Temppeliaukio Church",
+     60.1731,
+     24.9255
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "lofoten",
+   "continent": "EU",
+   "country": {
+    "en": "Norway",
+    "hu": "Norvégia"
+   },
+   "name": {
+    "en": "Lofoten islands",
+    "hu": "Lofoten-szigetek"
+   },
+   "main": {
+    "en": "Reine",
+    "hu": "Reine",
+    "lat": 67.933,
+    "lon": 13.089
+   },
+   "tags": [
+    "mountain",
+    "coast",
+    "island"
+   ],
+   "desc": {
+    "en": "Sharp peaks rising straight out of the Arctic sea: Reine, Hamnøy, Henningsvær and Svolvær.",
+    "hu": "Az északi-sarki tengerből közvetlenül kiemelkedő, éles csúcsok: Reine, Hamnøy, Henningsvær és Svolvær."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Reine and Å",
+      "hu": "Reine és Å"
+     },
+     "desc": {
+      "en": "Short loop from Leknes down the island chain.",
+      "hu": "Rövid kör Leknesből a szigetlánc déli végéig."
+     },
+     "pts": [
+      "ENLK",
+      [
+       "Å",
+       67.88,
+       12.985
+      ],
+      [
+       "~",
+       67.9011,
+       12.9076
+      ],
+      [
+       "Reine",
+       67.933,
+       13.089
+      ],
+      [
+       "Hamnøy",
+       67.946,
+       13.133
+      ],
+      "ENLK"
+     ]
+    },
+    {
+     "id": "full",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Lofoten loop",
+      "hu": "Lofoten-kör"
+     },
+     "desc": {
+      "en": "About an hour: Reine, Å, Henningsvær and Svolvær.",
+      "hu": "Kb. egy óra: Reine, Å, Henningsvær és Svolvær."
+     },
+     "pts": [
+      "ENLK",
+      [
+       "Reine",
+       67.933,
+       13.089
+      ],
+      [
+       "Å",
+       67.88,
+       12.985
+      ],
+      [
+       "~",
+       67.8534,
+       13.0493
+      ],
+      [
+       "Henningsvær",
+       68.15,
+       14.2
+      ],
+      [
+       "Svolvær",
+       68.234,
+       14.568
+      ],
+      [
+       "~",
+       68.2712,
+       14.5272
+      ],
+      "ENLK"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Hamnøy",
+     67.946,
+     13.133
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "slovenia",
+   "continent": "EU",
+   "country": {
+    "en": "Slovenia",
+    "hu": "Szlovénia"
+   },
+   "name": {
+    "en": "Julian Alps and Lake Bled",
+    "hu": "Júliai-Alpok és a Bled-tó"
+   },
+   "main": {
+    "en": "Lake Bled",
+    "hu": "Bled-tó",
+    "lat": 46.3625,
+    "lon": 14.0939
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "coast"
+   ],
+   "desc": {
+    "en": "Ljubljana's castle, the island church on Lake Bled and Triglav, the highest peak of the Julian Alps.",
+    "hu": "A ljubljanai vár, a Bled-tó szigeti temploma és a Triglav, a Júliai-Alpok legmagasabb csúcsa."
+   },
+   "variants": [
+    {
+     "id": "bled",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Ljubljana and Bled",
+      "hu": "Ljubljana és Bled"
+     },
+     "desc": {
+      "en": "Short loop: Ljubljana Castle and Lake Bled.",
+      "hu": "Rövid kör: ljubljanai vár és a Bled-tó."
+     },
+     "pts": [
+      "LJLJ",
+      [
+       "Ljubljana Castle",
+       46.0489,
+       14.5086
+      ],
+      [
+       "~",
+       46.0287,
+       14.4513
+      ],
+      [
+       "Lake Bled",
+       46.3625,
+       14.0939
+      ],
+      [
+       "~",
+       46.4019,
+       14.149
+      ],
+      [
+       "Kranj",
+       46.2389,
+       14.3556
+      ],
+      "LJLJ"
+     ]
+    },
+    {
+     "id": "triglav",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 11000,
+     "stol": false,
+     "label": {
+      "en": "Triglav loop",
+      "hu": "Triglav-kör"
+     },
+     "desc": {
+      "en": "About an hour: Predjama Castle, Triglav and Lake Bled.",
+      "hu": "Kb. egy óra: Predjama vár, Triglav és a Bled-tó."
+     },
+     "pts": [
+      "LJLJ",
+      [
+       "Predjama Castle",
+       45.8157,
+       14.1265
+      ],
+      [
+       "~",
+       45.825,
+       13.9722
+      ],
+      [
+       "Triglav",
+       46.3786,
+       13.8366
+      ],
+      [
+       "Lake Bled",
+       46.3625,
+       14.0939
+      ],
+      "LJLJ"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Ljubljana Castle",
+     46.0489,
+     14.5086
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "malta",
+   "continent": "EU",
+   "country": {
+    "en": "Malta",
+    "hu": "Málta"
+   },
+   "name": {
+    "en": "Malta and Gozo",
+    "hu": "Málta és Gozo"
+   },
+   "main": {
+    "en": "Valletta",
+    "hu": "Valletta",
+    "lat": 35.8997,
+    "lon": 14.5147
+   },
+   "tags": [
+    "city",
+    "culture",
+    "island",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Valletta's bastions, silent Mdina, the Blue Lagoon of Comino and the temples of Gozo.",
+    "hu": "Valletta bástyái, a csendes Mdina, Comino Kék-lagúnája és Gozo templomai."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Malta short",
+      "hu": "Málta rövid"
+     },
+     "desc": {
+      "en": "Short loop: Valletta, the Blue Lagoon and Mdina.",
+      "hu": "Rövid kör: Valletta, a Kék-lagúna és Mdina."
+     },
+     "pts": [
+      "LMML",
+      [
+       "Mdina",
+       35.886,
+       14.4025
+      ],
+      [
+       "Blue Lagoon, Comino",
+       36.0147,
+       14.3322
+      ],
+      [
+       "~",
+       36.0368,
+       14.3673
+      ],
+      [
+       "Valletta",
+       35.8997,
+       14.5147
+      ],
+      "LMML"
+     ]
+    },
+    {
+     "id": "gozo",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Malta and Gozo",
+      "hu": "Málta és Gozo"
+     },
+     "desc": {
+      "en": "Valletta, Gozo's Ġgantija temples, the Dwejra coast and the Dingli cliffs.",
+      "hu": "Valletta, Gozo Ġgantija templomai, a Dwejra part és a Dingli-szirtek."
+     },
+     "pts": [
+      "LMML",
+      [
+       "Dingli Cliffs",
+       35.859,
+       14.387
+      ],
+      [
+       "Dwejra",
+       36.0526,
+       14.1887
+      ],
+      [
+       "~",
+       36.0844,
+       14.2096
+      ],
+      [
+       "Ġgantija Temples",
+       36.0463,
+       14.2696
+      ],
+      [
+       "Valletta",
+       35.8997,
+       14.5147
+      ],
+      "LMML"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Mdina",
+     35.886,
+     14.4025
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "transylvania",
+   "continent": "EU",
+   "country": {
+    "en": "Romania",
+    "hu": "Románia"
+   },
+   "name": {
+    "en": "Transylvania",
+    "hu": "Erdély"
+   },
+   "main": {
+    "en": "Bran Castle",
+    "hu": "Törcsvári vár",
+    "lat": 45.515,
+    "lon": 25.3672
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "city"
+   ],
+   "desc": {
+    "en": "Sibiu's old town, the Transfăgărășan high road at Bâlea Lake and the castles of Peleș and Bran.",
+    "hu": "Nagyszeben óvárosa, a Transzfogarasi hegyi út a Bâlea-tónál, valamint a Peleș és Törcsvári vár."
+   },
+   "variants": [
+    {
+     "id": "balea",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Sibiu and Bâlea Lake",
+      "hu": "Nagyszeben és a Bâlea-tó"
+     },
+     "desc": {
+      "en": "Short loop over Sibiu and the Transfăgărășan.",
+      "hu": "Rövid kör Nagyszeben és a Transzfogarasi felett."
+     },
+     "pts": [
+      "LRSB",
+      [
+       "Cisnădie",
+       45.7106,
+       24.1519
+      ],
+      [
+       "Bâlea Lake",
+       45.602,
+       24.617
+      ],
+      [
+       "~",
+       45.6798,
+       24.6685
+      ],
+      [
+       "Sibiu Council Tower",
+       45.7983,
+       24.1519
+      ],
+      "LRSB"
+     ]
+    },
+    {
+     "id": "castles",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Carpathian castles",
+      "hu": "Kárpáti várak"
+     },
+     "desc": {
+      "en": "Bâlea Lake, Peleș, Bran and Brașov's Black Church.",
+      "hu": "Bâlea-tó, Peleș, Törcsvár és Brassó Fekete temploma."
+     },
+     "pts": [
+      "LRSB",
+      [
+       "Bâlea Lake",
+       45.602,
+       24.617
+      ],
+      [
+       "Bran Castle",
+       45.515,
+       25.3672
+      ],
+      [
+       "Peleș Castle",
+       45.3599,
+       25.5429
+      ],
+      [
+       "~",
+       45.3736,
+       25.6107
+      ],
+      [
+       "Black Church, Brașov",
+       45.6403,
+       25.5886
+      ],
+      "LRSB"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Sibiu Council Tower",
+     45.7983,
+     24.1519
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "montenegro",
+   "continent": "EU",
+   "country": {
+    "en": "Montenegro",
+    "hu": "Montenegró"
+   },
+   "name": {
+    "en": "Bay of Kotor and Durmitor",
+    "hu": "Kotori-öböl és Durmitor"
+   },
+   "main": {
+    "en": "Bay of Kotor",
+    "hu": "Kotori-öböl",
+    "lat": 42.4247,
+    "lon": 18.7712
+   },
+   "tags": [
+    "coast",
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Europe's southernmost fjord-like bay, the islet of Sveti Stefan, Lake Skadar and the Tara canyon below Durmitor.",
+    "hu": "Európa legdélibb fjordszerű öble, a Sveti Stefan szigetfalu, a Shkodrai-tó és a Tara-kanyon a Durmitor alatt."
+   },
+   "variants": [
+    {
+     "id": "coast",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Kotor and the coast",
+      "hu": "Kotor és a tengerpart"
+     },
+     "desc": {
+      "en": "Lake Skadar, Sveti Stefan and the Bay of Kotor.",
+      "hu": "Shkodrai-tó, Sveti Stefan és a Kotori-öböl."
+     },
+     "pts": [
+      "LYPG",
+      [
+       "Skadar Lake",
+       42.2,
+       19.28
+      ],
+      [
+       "Sveti Stefan",
+       42.2554,
+       18.8912
+      ],
+      [
+       "Bay of Kotor",
+       42.4247,
+       18.7712
+      ],
+      [
+       "~",
+       42.4632,
+       18.8096
+      ],
+      "LYPG"
+     ]
+    },
+    {
+     "id": "durmitor",
+     "kind": "loop",
+     "kt": 115,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Coast and Durmitor",
+      "hu": "Tenger és Durmitor"
+     },
+     "desc": {
+      "en": "Kotor, Durmitor and the Tara canyon bridge.",
+      "hu": "Kotor, Durmitor és a Tara-híd."
+     },
+     "pts": [
+      "LYPG",
+      [
+       "Bay of Kotor",
+       42.4247,
+       18.7712
+      ],
+      [
+       "Durmitor (Bobotov Kuk)",
+       43.128,
+       19.03
+      ],
+      [
+       "Đurđevića Tara Bridge",
+       43.1425,
+       19.2944
+      ],
+      "LYPG"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Sveti Stefan",
+     42.2554,
+     18.8912
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "netherlands",
+   "continent": "EU",
+   "country": {
+    "en": "Netherlands",
+    "hu": "Hollandia"
+   },
+   "name": {
+    "en": "Netherlands: tulips and canals",
+    "hu": "Hollandia: tulipánok és csatornák"
+   },
+   "main": {
+    "en": "Keukenhof",
+    "hu": "Keukenhof",
+    "lat": 52.2697,
+    "lon": 4.546
+   },
+   "tags": [
+    "city",
+    "culture",
+    "coast"
+   ],
+   "desc": {
+    "en": "Amsterdam's canal ring, the Keukenhof bulb fields, Kinderdijk's windmills and the Delta Works.",
+    "hu": "Amszterdam csatornagyűrűje, a Keukenhof hagymamezői, a Kinderdijk szélmalmai és a Delta-művek."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Amsterdam and Keukenhof",
+      "hu": "Amszterdam és Keukenhof"
+     },
+     "desc": {
+      "en": "Short loop: the canal ring and the bulb fields.",
+      "hu": "Rövid kör: a csatornagyűrű és a hagymamezők."
+     },
+     "pts": [
+      "EHAM",
+      [
+       "Amsterdam Canal Ring",
+       52.37,
+       4.89
+      ],
+      [
+       "~",
+       52.404,
+       4.8708
+      ],
+      [
+       "Zandvoort Beach",
+       52.372,
+       4.53
+      ],
+      [
+       "Keukenhof",
+       52.2697,
+       4.546
+      ],
+      "EHAM"
+     ]
+    },
+    {
+     "id": "delta",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Windmills and Delta Works",
+      "hu": "Szélmalmok és Delta-művek"
+     },
+     "desc": {
+      "en": "About an hour: Keukenhof, Kinderdijk and the Oosterschelde barrier.",
+      "hu": "Kb. egy óra: Keukenhof, Kinderdijk és az Oosterschelde-gát."
+     },
+     "pts": [
+      "EHAM",
+      [
+       "Amsterdam Canal Ring",
+       52.37,
+       4.89
+      ],
+      [
+       "~",
+       52.3496,
+       4.9385
+      ],
+      [
+       "Kinderdijk",
+       51.883,
+       4.637
+      ],
+      [
+       "Oosterschelde Barrier",
+       51.635,
+       3.7
+      ],
+      [
+       "~",
+       51.7213,
+       3.5955
+      ],
+      [
+       "Keukenhof",
+       52.2697,
+       4.546
+      ],
+      "EHAM"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Amsterdam Canal Ring",
+     52.37,
+     4.89
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "belgium",
+   "continent": "EU",
+   "country": {
+    "en": "Belgium",
+    "hu": "Belgium"
+   },
+   "name": {
+    "en": "Flanders and Brussels",
+    "hu": "Flandria és Brüsszel"
+   },
+   "main": {
+    "en": "Brussels Grand-Place",
+    "hu": "Brüsszel Grand-Place",
+    "lat": 50.8467,
+    "lon": 4.3525
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Atomium and Grand-Place, Ghent's castle, medieval Bruges and the battlefield memorials of Flanders.",
+    "hu": "Az Atomium és a Grand-Place, Gent vára, a középkori Brugge és a flandriai csatamezők emlékművei."
+   },
+   "variants": [
+    {
+     "id": "brussels",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Brussels short",
+      "hu": "Brüsszel rövid"
+     },
+     "desc": {
+      "en": "Short loop: Atomium, Grand-Place and the Waterloo battlefield.",
+      "hu": "Rövid kör: Atomium, Grand-Place és a waterlooi csatatér."
+     },
+     "pts": [
+      "EBBR",
+      [
+       "Lion's Mound, Waterloo",
+       50.6788,
+       4.4121
+      ],
+      [
+       "~",
+       50.6784,
+       4.3442
+      ],
+      [
+       "Brussels Grand-Place",
+       50.8467,
+       4.3525
+      ],
+      [
+       "Atomium",
+       50.8947,
+       4.3415
+      ],
+      "EBBR"
+     ]
+    },
+    {
+     "id": "flanders",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Ghent, Bruges, Ypres",
+      "hu": "Gent, Brugge, Ypres"
+     },
+     "desc": {
+      "en": "About an hour: Ghent, Bruges and Ypres.",
+      "hu": "Kb. egy óra: Gent, Brugge és Ypres."
+     },
+     "pts": [
+      "EBBR",
+      [
+       "Brussels Grand-Place",
+       50.8467,
+       4.3525
+      ],
+      [
+       "Menin Gate, Ypres",
+       50.8515,
+       2.878
+      ],
+      [
+       "~",
+       50.943,
+       2.7977
+      ],
+      [
+       "Belfry of Bruges",
+       51.2085,
+       3.225
+      ],
+      [
+       "Gravensteen, Ghent",
+       51.0571,
+       3.721
+      ],
+      "EBBR"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Atomium",
+     50.8947,
+     4.3415
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "tatras-slovakia",
+   "continent": "EU",
+   "country": {
+    "en": "Slovakia",
+    "hu": "Szlovákia"
+   },
+   "name": {
+    "en": "High Tatras and Spiš",
+    "hu": "Magas-Tátra és Szepes"
+   },
+   "main": {
+    "en": "Gerlach Peak",
+    "hu": "Gerlachfalvi-csúcs",
+    "lat": 49.164,
+    "lon": 20.1328
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Slovakia's alpine peaks above Štrbské Pleso and the vast ruin of Spiš Castle.",
+    "hu": "Szlovákia alpesi csúcsai a Csorbai-tó felett és a hatalmas szepesi vár romja."
+   },
+   "variants": [
+    {
+     "id": "peaks",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 10500,
+     "stol": false,
+     "label": {
+      "en": "Tatra peaks",
+      "hu": "Tátra-csúcsok"
+     },
+     "desc": {
+      "en": "Short loop: Štrbské Pleso, Gerlach and Lomnický štít.",
+      "hu": "Rövid kör: Csorbai-tó, Gerlach és Lomnici-csúcs."
+     },
+     "pts": [
+      "LZTT",
+      [
+       "Kežmarok Castle",
+       49.1383,
+       20.4281
+      ],
+      [
+       "~",
+       49.1742,
+       20.4248
+      ],
+      [
+       "Lomnický štít",
+       49.195,
+       20.213
+      ],
+      [
+       "Gerlach Peak",
+       49.164,
+       20.1328
+      ],
+      [
+       "Štrbské Pleso",
+       49.119,
+       20.06
+      ],
+      "LZTT"
+     ]
+    },
+    {
+     "id": "spis",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 10500,
+     "stol": false,
+     "label": {
+      "en": "Tatras and Spiš Castle",
+      "hu": "Tátra és szepesi vár"
+     },
+     "desc": {
+      "en": "About an hour: the peaks and Spiš Castle.",
+      "hu": "Kb. egy óra: a csúcsok és a szepesi vár."
+     },
+     "pts": [
+      "LZTT",
+      [
+       "Spiš Castle",
+       48.9999,
+       20.7681
+      ],
+      [
+       "~",
+       49.0827,
+       20.814
+      ],
+      [
+       "Lomnický štít",
+       49.195,
+       20.213
+      ],
+      [
+       "Gerlach Peak",
+       49.164,
+       20.1328
+      ],
+      [
+       "Štrbské Pleso",
+       49.119,
+       20.06
+      ],
+      "LZTT"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Štrbské Pleso",
+     49.119,
+     20.06
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "bulgaria",
+   "continent": "EU",
+   "country": {
+    "en": "Bulgaria",
+    "hu": "Bulgária"
+   },
+   "name": {
+    "en": "Sofia, Rila and Vitosha",
+    "hu": "Szófia, Rila és Vitosa"
+   },
+   "main": {
+    "en": "Rila Monastery",
+    "hu": "Rilai kolostor",
+    "lat": 42.1334,
+    "lon": 23.3401
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "unesco",
+    "city"
+   ],
+   "desc": {
+    "en": "The golden domes of Sofia, the lonely Boyana church, Vitosha and the Rila Monastery below Musala, the highest peak of the Balkans.",
+    "hu": "Szófia aranykupolái, a Bojanai templom, a Vitosa és a Rilai kolostor a Balkán legmagasabb csúcsa, a Musala alatt."
+   },
+   "variants": [
+    {
+     "id": "sofia",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Sofia and Vitosha",
+      "hu": "Szófia és Vitosa"
+     },
+     "desc": {
+      "en": "Short loop: Boyana Church, Cherni Vrah and Alexander Nevsky.",
+      "hu": "Rövid kör: Bojanai templom, Cserni Vrah és az Alekszandr Nyevszkij-székesegyház."
+     },
+     "pts": [
+      "LBSF",
+      [
+       "Pancharevo Lake",
+       42.6,
+       23.4167
+      ],
+      [
+       "Cherni Vrah",
+       42.5636,
+       23.2784
+      ],
+      [
+       "Boyana Church",
+       42.6445,
+       23.2686
+      ],
+      [
+       "Alexander Nevsky Cathedral",
+       42.6958,
+       23.3328
+      ],
+      "LBSF"
+     ]
+    },
+    {
+     "id": "rila",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 11500,
+     "stol": false,
+     "label": {
+      "en": "Rila loop",
+      "hu": "Rila-kör"
+     },
+     "desc": {
+      "en": "About an hour: Sofia, Rila Monastery and Musala.",
+      "hu": "Kb. egy óra: Szófia, a Rilai kolostor és a Musala."
+     },
+     "pts": [
+      "LBSF",
+      [
+       "Musala",
+       42.18,
+       23.585
+      ],
+      [
+       "Rila Monastery",
+       42.1334,
+       23.3401
+      ],
+      [
+       "Alexander Nevsky Cathedral",
+       42.6958,
+       23.3328
+      ],
+      "LBSF"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Alexander Nevsky Cathedral",
+     42.6958,
+     23.3328
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "istria",
+   "continent": "EU",
+   "country": {
+    "en": "Croatia",
+    "hu": "Horvátország"
+   },
+   "name": {
+    "en": "Istria",
+    "hu": "Isztria"
+   },
+   "main": {
+    "en": "Pula Arena",
+    "hu": "Pulai amfiteátrum",
+    "lat": 44.8733,
+    "lon": 13.85
+   },
+   "tags": [
+    "culture",
+    "coast",
+    "city"
+   ],
+   "desc": {
+    "en": "Pula's Roman arena, the Brijuni islands, Rovinj's old town and the hill town of Motovun.",
+    "hu": "Pula római amfiteátruma, a Brioni-szigetek, Rovinj óvárosa és a hegyi város, Motovun."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Pula and Rovinj",
+      "hu": "Pula és Rovinj"
+     },
+     "desc": {
+      "en": "Short loop: Brijuni, Pula Arena and Rovinj.",
+      "hu": "Rövid kör: Brioni, Pulai amfiteátrum és Rovinj."
+     },
+     "pts": [
+      "LDPL",
+      [
+       "Pula Arena",
+       44.8733,
+       13.85
+      ],
+      [
+       "Brijuni",
+       44.915,
+       13.765
+      ],
+      [
+       "Rovinj",
+       45.0811,
+       13.6387
+      ],
+      [
+       "~",
+       45.1099,
+       13.6916
+      ],
+      "LDPL"
+     ]
+    },
+    {
+     "id": "full",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Istria loop",
+      "hu": "Isztria-kör"
+     },
+     "desc": {
+      "en": "About an hour: Rovinj, Motovun, Pula Arena and Brijuni.",
+      "hu": "Kb. egy óra: Rovinj, Motovun, Pulai amfiteátrum és Brioni."
+     },
+     "pts": [
+      "LDPL",
+      [
+       "Motovun",
+       45.3378,
+       13.8283
+      ],
+      [
+       "~",
+       45.3498,
+       13.7268
+      ],
+      [
+       "Rovinj",
+       45.0811,
+       13.6387
+      ],
+      [
+       "Brijuni",
+       44.915,
+       13.765
+      ],
+      [
+       "Pula Arena",
+       44.8733,
+       13.85
+      ],
+      "LDPL"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Brijuni",
+     44.915,
+     13.765
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "ireland-west",
+   "continent": "EU",
+   "country": {
+    "en": "Ireland",
+    "hu": "Írország"
+   },
+   "name": {
+    "en": "Cliffs of Moher and the Burren",
+    "hu": "A Moher-szirtek és a Burren"
+   },
+   "main": {
+    "en": "Cliffs of Moher",
+    "hu": "Moher-szirtek",
+    "lat": 52.9715,
+    "lon": -9.4309
+   },
+   "tags": [
+    "coast",
+    "culture",
+    "island"
+   ],
+   "desc": {
+    "en": "Ireland's Atlantic cliffs, the Burren's stone plateau, the Aran Islands' Dún Aonghasa and Bunratty Castle.",
+    "hu": "Írország atlanti szirtjei, a Burren köves fennsíkja, az Aran-szigetek Dún Aonghasa erődje és a Bunratty-kastély."
+   },
+   "variants": [
+    {
+     "id": "cliffs",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Cliffs of Moher",
+      "hu": "Moher-szirtek"
+     },
+     "desc": {
+      "en": "Short loop from Shannon: Bunratty and the cliffs.",
+      "hu": "Rövid kör Shannonból: Bunratty és a szirtek."
+     },
+     "pts": [
+      "EINN",
+      [
+       "Bunratty Castle",
+       52.7011,
+       -8.8115
+      ],
+      [
+       "~",
+       52.7352,
+       -8.7927
+      ],
+      [
+       "Cliffs of Moher",
+       52.9715,
+       -9.4309
+      ],
+      [
+       "Kilrush Marina",
+       52.638,
+       -9.483
+      ],
+      "EINN"
+     ]
+    },
+    {
+     "id": "aran",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Burren and Aran Islands",
+      "hu": "Burren és Aran-szigetek"
+     },
+     "desc": {
+      "en": "About an hour: the cliffs, Dún Aonghasa and the Burren.",
+      "hu": "Kb. egy óra: a szirtek, Dún Aonghasa és a Burren."
+     },
+     "pts": [
+      "EINN",
+      [
+       "Cliffs of Moher",
+       52.9715,
+       -9.4309
+      ],
+      [
+       "Dún Aonghasa",
+       53.1225,
+       -9.766
+      ],
+      [
+       "~",
+       53.18,
+       -9.7234
+      ],
+      [
+       "Poulnabrone Dolmen",
+       53.0488,
+       -9.1396
+      ],
+      [
+       "Bunratty Castle",
+       52.7011,
+       -8.8115
+      ],
+      [
+       "~",
+       52.6701,
+       -8.8416
+      ],
+      "EINN"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Bunratty Castle",
+     52.7011,
+     -8.8115
+    ]
+   ],
+   "new": true
+  },
+  {
+   "id": "cyprus",
+   "continent": "EU",
+   "country": {
+    "en": "Cyprus",
+    "hu": "Ciprus"
+   },
+   "name": {
+    "en": "Cyprus: island of Aphrodite",
+    "hu": "Ciprus: Aphrodité szigete"
+   },
+   "main": {
+    "en": "Petra tou Romiou",
+    "hu": "Petra tou Romiou",
+    "lat": 34.663,
+    "lon": 32.627
+   },
+   "tags": [
+    "culture",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Aphrodite's rock, the Roman theatre of Kourion, the Troodos mountains and the wild Akamas peninsula.",
+    "hu": "Aphrodité sziklája, a kuriói római színház, a Troodos-hegység és a vad Akamas-félsziget."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Paphos coast",
+      "hu": "Páfosz partja"
+     },
+     "desc": {
+      "en": "Short loop: Tombs of the Kings, Petra tou Romiou and Kourion.",
+      "hu": "Rövid kör: Királysírok, Petra tou Romiou és Kourion."
+     },
+     "pts": [
+      "LCPH",
+      [
+       "Petra tou Romiou",
+       34.663,
+       32.627
+      ],
+      [
+       "Kourion",
+       34.664,
+       32.887
+      ],
+      [
+       "~",
+       34.7169,
+       32.896
+      ],
+      [
+       "Tombs of the Kings, Paphos",
+       34.7783,
+       32.407
+      ],
+      [
+       "~",
+       34.7459,
+       32.3879
+      ],
+      "LCPH"
+     ]
+    },
+    {
+     "id": "troodos",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Troodos and Akamas",
+      "hu": "Troodos és Akamas"
+     },
+     "desc": {
+      "en": "About an hour: Kourion, Mount Olympus and the Akamas peninsula.",
+      "hu": "Kb. egy óra: Kourion, az Olümposz-hegy és az Akamas-félsziget."
+     },
+     "pts": [
+      "LCPH",
+      [
+       "Blue Lagoon, Akamas",
+       35.083,
+       32.318
+      ],
+      [
+       "~",
+       35.1535,
+       32.4003
+      ],
+      [
+       "Mount Olympus (Troodos)",
+       34.937,
+       32.864
+      ],
+      [
+       "Kourion",
+       34.664,
+       32.887
+      ],
+      "LCPH"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Tombs of the Kings, Paphos",
+     34.7783,
+     32.407
+    ]
+   ],
+   "new": true
   }
  ]
 }
