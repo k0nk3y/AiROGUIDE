@@ -578,65 +578,6 @@
    },
    "variants": [
     {
-     "id": "short",
-     "kind": "loop",
-     "kt": 90,
-     "alt_ft": 1500,
-     "stol": false,
-     "label": {
-      "en": "Temples of Bagan",
-      "hu": "Bagan templomai"
-     },
-     "desc": {
-      "en": "Low loop over Shwezigon, Ananda, Dhammayangyi, Sulamani and the Minnanthu temple fields.",
-      "hu": "Alacsony kör a Shwezigon, az Ananda, a Dhammayangyi, a Sulamani és a minnanthui templommezők felett."
-     },
-     "pts": [
-      "VYBG",
-      [
-       "Shwezigon Pagoda",
-       21.176,
-       94.8947
-      ],
-      [
-       "Bupaya Pagoda",
-       21.1747,
-       94.8508
-      ],
-      [
-       "Ananda Temple",
-       21.1719,
-       94.8678
-      ],
-      [
-       "Dhammayangyi Temple",
-       21.1668,
-       94.8774
-      ],
-      [
-       "Sulamani Temple",
-       21.156,
-       94.889
-      ],
-      [
-       "Dhammayazika Pagoda",
-       21.1425,
-       94.901
-      ],
-      [
-       "Minnanthu",
-       21.148,
-       94.918
-      ],
-      [
-       "Pakokku",
-       21.3333,
-       95.0833
-      ],
-      "VYBG"
-     ]
-    },
-    {
      "id": "mid",
      "kind": "loop",
      "kt": 100,

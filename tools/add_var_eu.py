@@ -118,8 +118,7 @@ for t in d["tours"]:
             w["alt_ft"] = ALT[(t["id"], w["id"])]
 # ---------- a tul rovid valtozatok kicsit hosszabbra rajzolva ----------
 LONGER = {("agra-taj", "short"): [None, ["Sur Sarovar (Keetham Lake)", 27.4350, 77.9150], "@Akbar's Tomb", "@Itimad-ud-Daulah", "@Agra Fort", "@Taj Mahal", "@Mehtab Bagh", None],
-          ("budapest", "city"): [None, "@Gellért Hill", ["János Hill Lookout", 47.5170, 18.9618], "@Buda Castle", "@Hungarian Parliament", "@Margaret Island", None],
-          ("bagan", "short"): [None, "@Shwezigon Pagoda", ["Bupaya Pagoda", 21.1747, 94.8508], "@Ananda Temple", "@Dhammayangyi Temple", "@Sulamani Temple", ["Dhammayazika Pagoda", 21.1425, 94.9010], "@Minnanthu", ["Pakokku", 21.3333, 95.0833], None]}
+          ("budapest", "city"): [None, "@Gellért Hill", ["János Hill Lookout", 47.5170, 18.9618], "@Buda Castle", "@Hungarian Parliament", "@Margaret Island", None]}
 for t in d["tours"]:
     for w in t["variants"]:
         pl = LONGER.get((t["id"], w["id"]))
@@ -128,6 +127,8 @@ for t in d["tours"]:
             known.update({p[0]: p for p in t.get("pois") or []})
             w["pts"] = [w["pts"][0] if p is None and i == 0 else (w["pts"][-1] if p is None else (known[p[1:]] if isinstance(p, str) else p)) for i, p in enumerate(pl)]
 for t in d["tours"]:
+    if t["id"] == "bagan":
+        t["variants"] = [w for w in t["variants"] if w["id"] != "short"]       # a templomsik tul kicsi egy onallo rovid korhoz
     if t["id"] == "amalfi" and "volcano" not in t["tags"]:
         t["tags"].append("volcano")                       # Vezuv
 json.dump(d, open(tourlib.P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
