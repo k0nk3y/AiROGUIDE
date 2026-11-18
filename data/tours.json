@@ -1687,6 +1687,1588 @@
      -21.9266
     ]
    ]
+  },
+  {
+   "id": "italian-lakes",
+   "continent": "EU",
+   "country": {
+    "en": "Italy",
+    "hu": "Olaszország"
+   },
+   "name": {
+    "en": "Lake Como and Lake Maggiore",
+    "hu": "Comói- és Maggiore-tó"
+   },
+   "main": {
+    "en": "Bellagio",
+    "hu": "Bellagio",
+    "lat": 45.9855,
+    "lon": 9.2605
+   },
+   "tags": [
+    "coast",
+    "culture",
+    "city"
+   ],
+   "desc": {
+    "en": "Milan's cathedral, then the Italian lakes: the villas of Lake Como, the Borromean islands on Lake Maggiore and little Lake Orta.",
+    "hu": "Milánó dómja, majd az olasz tavak: a Comói-tó villái, a Maggiore-tó Borromei-szigetei és a kis Orta-tó."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Lakes loop",
+      "hu": "Tókör"
+     },
+     "desc": {
+      "en": "From Linate over Milan Cathedral and Lake Como to Lake Maggiore and Lake Orta, then back.",
+      "hu": "Linatéból a milánói dóm és a Comói-tó felett a Maggiore- és az Orta-tóhoz, majd vissza."
+     },
+     "pts": [
+      "LIML",
+      [
+       "Milan Cathedral",
+       45.4642,
+       9.1916
+      ],
+      [
+       "Bellagio",
+       45.9855,
+       9.2605
+      ],
+      [
+       "Villa del Balbianello",
+       45.9644,
+       9.2166
+      ],
+      [
+       "Isola Bella",
+       45.9033,
+       8.5278
+      ],
+      [
+       "Isola San Giulio",
+       45.7973,
+       8.4143
+      ],
+      "LIML"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Stresa",
+     45.8856,
+     8.5333
+    ]
+   ]
+  },
+  {
+   "id": "sicily",
+   "continent": "EU",
+   "country": {
+    "en": "Italy",
+    "hu": "Olaszország"
+   },
+   "name": {
+    "en": "Sicily: Etna to Agrigento",
+    "hu": "Szicília: az Etnától Agrigentóig"
+   },
+   "main": {
+    "en": "Mount Etna",
+    "hu": "Etna",
+    "lat": 37.751,
+    "lon": 14.9934
+   },
+   "tags": [
+    "volcano",
+    "culture",
+    "unesco",
+    "coast"
+   ],
+   "desc": {
+    "en": "Europe's most active volcano, the Greek theatre of Taormina, Syracuse and the Temples of Agrigento, ending in Palermo.",
+    "hu": "Európa legaktívabb vulkánja, a taorminai görög színház, Szirakúza és az agrigentói templomok, Palermóban végződve."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 125,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Catania to Palermo",
+      "hu": "Catania – Palermo"
+     },
+     "desc": {
+      "en": "A long one-way flight across Sicily. Keep clear of Etna's summit plume.",
+      "hu": "Hosszú egyirányú repülés Szicílián át. Az Etna csúcsának füstfelhőjét kerüld."
+     },
+     "pts": [
+      "LICC",
+      [
+       "Mount Etna",
+       37.751,
+       14.9934
+      ],
+      [
+       "Taormina",
+       37.8524,
+       15.2926
+      ],
+      [
+       "Ortygia, Syracuse",
+       37.0613,
+       15.294
+      ],
+      [
+       "Valley of the Temples, Agrigento",
+       37.2905,
+       13.5911
+      ],
+      [
+       "Palermo Cathedral",
+       38.114,
+       13.3562
+      ],
+      "LICJ"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Greek Theatre, Syracuse",
+     37.0764,
+     15.279
+    ]
+   ]
+  },
+  {
+   "id": "vienna-wachau",
+   "continent": "EU",
+   "country": {
+    "en": "Austria",
+    "hu": "Ausztria"
+   },
+   "name": {
+    "en": "Vienna and the Wachau valley",
+    "hu": "Bécs és a Wachau-völgy"
+   },
+   "main": {
+    "en": "Schönbrunn Palace",
+    "hu": "Schönbrunn",
+    "lat": 48.1845,
+    "lon": 16.3122
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Imperial Vienna from the air, then up the Danube through the vineyards of the Wachau to Melk Abbey.",
+    "hu": "A császári Bécs a levegőből, majd a Duna mentén a Wachau szőlői között a melki apátsághoz."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Vienna to Linz",
+      "hu": "Bécs – Linz"
+     },
+     "desc": {
+      "en": "One-way along the Danube from Vienna's palaces through the Wachau to Linz.",
+      "hu": "Egyirányú repülés a Duna mentén Bécs palotáitól a Wachau-n át Linzig."
+     },
+     "pts": [
+      "LOWW",
+      [
+       "Schönbrunn Palace",
+       48.1845,
+       16.3122
+      ],
+      [
+       "St. Stephen's Cathedral",
+       48.2086,
+       16.3733
+      ],
+      [
+       "Dürnstein",
+       48.3938,
+       15.5192
+      ],
+      [
+       "Melk Abbey",
+       48.2278,
+       15.3306
+      ],
+      "LOWL"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Hofburg",
+     48.2065,
+     16.3656
+    ]
+   ]
+  },
+  {
+   "id": "bavaria",
+   "continent": "EU",
+   "country": {
+    "en": "Germany",
+    "hu": "Németország"
+   },
+   "name": {
+    "en": "Bavarian castles and the Alps",
+    "hu": "Bajor kastélyok és az Alpok"
+   },
+   "main": {
+    "en": "Neuschwanstein Castle",
+    "hu": "Neuschwansteini kastély",
+    "lat": 47.5576,
+    "lon": 10.7498
+   },
+   "tags": [
+    "mountain",
+    "culture"
+   ],
+   "desc": {
+    "en": "King Ludwig's fairytale castles below the Alps, the Wieskirche and Germany's highest peak, the Zugspitze, ending in Munich.",
+    "hu": "Lajos király mesebeli kastélyai az Alpok alatt, a Wieskirche és Németország legmagasabb csúcsa, a Zugspitze, Münchenben végződve."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 7500,
+     "stol": false,
+     "label": {
+      "en": "Memmingen to Munich",
+      "hu": "Memmingen – München"
+     },
+     "desc": {
+      "en": "From the Allgäu over Neuschwanstein, Linderhof and the Zugspitze to Munich.",
+      "hu": "Az Allgäu felől Neuschwanstein, Linderhof és a Zugspitze felett Münchenbe."
+     },
+     "pts": [
+      "EDJA",
+      [
+       "Neuschwanstein Castle",
+       47.5576,
+       10.7498
+      ],
+      [
+       "Wieskirche",
+       47.6808,
+       10.9006
+      ],
+      [
+       "Linderhof Palace",
+       47.5714,
+       10.9606
+      ],
+      [
+       "Zugspitze",
+       47.4211,
+       10.9863
+      ],
+      [
+       "Munich Frauenkirche",
+       48.1386,
+       11.5736
+      ],
+      "EDDM"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Hohenschwangau Castle",
+     47.5543,
+     10.7355
+    ]
+   ]
+  },
+  {
+   "id": "rhine",
+   "continent": "EU",
+   "country": {
+    "en": "Germany",
+    "hu": "Németország"
+   },
+   "name": {
+    "en": "Rhine Valley castles",
+    "hu": "A Rajna-völgy kastélyai"
+   },
+   "main": {
+    "en": "Loreley",
+    "hu": "Loreley",
+    "lat": 50.1397,
+    "lon": 7.7289
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "city"
+   ],
+   "desc": {
+    "en": "Cologne Cathedral and then the romantic Middle Rhine: Koblenz, Marksburg, the Loreley rock and Rüdesheim, ending at Mainz.",
+    "hu": "A kölni dóm, majd a romantikus Közép-Rajna: Koblenz, a Marksburg, a Loreley-szikla és Rüdesheim, Mainzban végződve."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Cologne to Frankfurt",
+      "hu": "Kölntől Frankfurtig"
+     },
+     "desc": {
+      "en": "Follow the Rhine upstream from Cologne to the castle-lined gorge and on to Frankfurt.",
+      "hu": "Kövesd a Rajnát felfelé Kölntől a várakkal szegélyezett szorosig, majd Frankfurtig."
+     },
+     "pts": [
+      "EDDK",
+      [
+       "Cologne Cathedral",
+       50.9413,
+       6.9583
+      ],
+      [
+       "Deutsches Eck, Koblenz",
+       50.3639,
+       7.6061
+      ],
+      [
+       "Marksburg",
+       50.2742,
+       7.6342
+      ],
+      [
+       "Loreley",
+       50.1397,
+       7.7289
+      ],
+      [
+       "Rüdesheim am Rhein",
+       49.9809,
+       7.9215
+      ],
+      [
+       "Mainz Cathedral",
+       50.0005,
+       8.2735
+      ],
+      "EDDF"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Rüdesheim am Rhein",
+     49.9809,
+     7.9215
+    ]
+   ]
+  },
+  {
+   "id": "provence-riviera",
+   "continent": "EU",
+   "country": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "name": {
+    "en": "Provence and the Riviera",
+    "hu": "Provence és a Riviéra"
+   },
+   "main": {
+    "en": "Pont du Gard",
+    "hu": "Pont du Gard",
+    "lat": 43.9475,
+    "lon": 4.5352
+   },
+   "tags": [
+    "culture",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Roman aqueducts and papal Avignon, the Verdon gorge, then the glamour of Cannes, Monaco and Nice.",
+    "hu": "Római vízvezetékek és a pápai Avignon, a Verdon-szoros, majd Cannes, Monaco és Nizza csillogása."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 120,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Marseille to Nice",
+      "hu": "Marseille – Nizza"
+     },
+     "desc": {
+      "en": "One-way from Marseille over Pont du Gard and Avignon, the Verdon gorge and the Riviera to Nice.",
+      "hu": "Egyirányú repülés Marseille-ből a Pont du Gard és Avignon, a Verdon-szoros és a Riviéra felett Nizzába."
+     },
+     "pts": [
+      "LFML",
+      [
+       "Pont du Gard",
+       43.9475,
+       4.5352
+      ],
+      [
+       "Palais des Papes, Avignon",
+       43.9508,
+       4.8075
+      ],
+      [
+       "Gorges du Verdon",
+       43.75,
+       6.33
+      ],
+      [
+       "Cannes",
+       43.5513,
+       7.0128
+      ],
+      [
+       "Monaco",
+       43.7384,
+       7.4246
+      ],
+      "LFMN"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Cannes",
+     43.5513,
+     7.0128
+    ],
+    [
+     "Palais des Papes, Avignon",
+     43.9508,
+     4.8075
+    ]
+   ]
+  },
+  {
+   "id": "mont-blanc",
+   "continent": "EU",
+   "country": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "name": {
+    "en": "Mont Blanc and Lake Annecy",
+    "hu": "Mont Blanc és az Annecy-tó"
+   },
+   "main": {
+    "en": "Mont Blanc",
+    "hu": "Mont Blanc",
+    "lat": 45.8326,
+    "lon": 6.8652
+   },
+   "tags": [
+    "mountain",
+    "coast"
+   ],
+   "desc": {
+    "en": "Lake Annecy and the Alps' highest peak: Chamonix, the Aiguille du Midi and the Mer de Glace. Needs a high-altitude capable aircraft.",
+    "hu": "Az Annecy-tó és az Alpok legmagasabb csúcsa: Chamonix, az Aiguille du Midi és a Mer de Glace. Magaslati repülésre alkalmas gép kell hozzá."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 17000,
+     "stol": false,
+     "label": {
+      "en": "Mont Blanc loop",
+      "hu": "Mont Blanc-kör"
+     },
+     "desc": {
+      "en": "From Annecy over the lake to Chamonix, around Mont Blanc and back.",
+      "hu": "Annecyból a tó felett Chamonix-ba, a Mont Blanc körül, majd vissza."
+     },
+     "pts": [
+      "LFLP",
+      [
+       "Lake Annecy",
+       45.8992,
+       6.1294
+      ],
+      [
+       "Chamonix",
+       45.9237,
+       6.8694
+      ],
+      [
+       "Mont Blanc",
+       45.8326,
+       6.8652
+      ],
+      [
+       "Aiguille du Midi",
+       45.8786,
+       6.8873
+      ],
+      [
+       "Mer de Glace",
+       45.93,
+       6.93
+      ],
+      "LFLP"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Chamonix",
+     45.9237,
+     6.8694
+    ]
+   ]
+  },
+  {
+   "id": "normandy",
+   "continent": "EU",
+   "country": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "name": {
+    "en": "Normandy and Mont-Saint-Michel",
+    "hu": "Normandia és a Mont-Saint-Michel"
+   },
+   "main": {
+    "en": "Mont-Saint-Michel",
+    "hu": "Mont-Saint-Michel",
+    "lat": 48.6361,
+    "lon": -1.5115
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "coast"
+   ],
+   "desc": {
+    "en": "The D-Day beaches of Normandy and the tidal abbey of Mont-Saint-Michel.",
+    "hu": "Normandia partraszállási partjai és az apály-dagály szigetén álló Mont-Saint-Michel apátság."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 120,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Deauville to Dinard",
+      "hu": "Deauville – Dinard"
+     },
+     "desc": {
+      "en": "Along the invasion coast over Arromanches, Omaha Beach and Pointe du Hoc to Mont-Saint-Michel.",
+      "hu": "A partraszállás partvonala mentén Arromanches, Omaha Beach és Pointe du Hoc felett a Mont-Saint-Michelhez."
+     },
+     "pts": [
+      "LFRG",
+      [
+       "Honfleur",
+       49.4193,
+       0.2327
+      ],
+      [
+       "Arromanches",
+       49.3397,
+       -0.6224
+      ],
+      [
+       "Omaha Beach",
+       49.372,
+       -0.883
+      ],
+      [
+       "Pointe du Hoc",
+       49.3955,
+       -0.9889
+      ],
+      [
+       "Mont-Saint-Michel",
+       48.6361,
+       -1.5115
+      ],
+      "LFRD"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Honfleur",
+     49.4193,
+     0.2327
+    ]
+   ]
+  },
+  {
+   "id": "andalusia",
+   "continent": "EU",
+   "country": {
+    "en": "Spain",
+    "hu": "Spanyolország"
+   },
+   "name": {
+    "en": "Andalusia: Seville to Gibraltar",
+    "hu": "Andalúzia: Sevillától Gibraltárig"
+   },
+   "main": {
+    "en": "Alhambra",
+    "hu": "Alhambra",
+    "lat": 37.177,
+    "lon": -3.5881
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "city"
+   ],
+   "desc": {
+    "en": "The Moorish heart of Spain: Seville, the Mezquita of Córdoba, the Alhambra, Ronda's gorge and the Rock of Gibraltar.",
+    "hu": "Spanyolország mór szíve: Sevilla, a córdobai Mezquita, az Alhambra, Ronda szurdoka és a gibraltári szikla."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 120,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Seville to Gibraltar",
+      "hu": "Sevilla – Gibraltár"
+     },
+     "desc": {
+      "en": "One-way through Andalusia's white towns and cities to the Rock of Gibraltar.",
+      "hu": "Egyirányú repülés Andalúzia fehér városai felett a gibraltári sziklához."
+     },
+     "pts": [
+      "LEZL",
+      [
+       "Seville Cathedral",
+       37.3861,
+       -5.9926
+      ],
+      [
+       "Mezquita, Córdoba",
+       37.8789,
+       -4.7794
+      ],
+      [
+       "Alhambra",
+       37.177,
+       -3.5881
+      ],
+      [
+       "Ronda",
+       36.7413,
+       -5.1673
+      ],
+      [
+       "Rock of Gibraltar",
+       36.1408,
+       -5.3536
+      ],
+      "LXGB"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Giralda, Seville",
+     37.386,
+     -5.9926
+    ]
+   ]
+  },
+  {
+   "id": "barcelona",
+   "continent": "EU",
+   "country": {
+    "en": "Spain",
+    "hu": "Spanyolország"
+   },
+   "name": {
+    "en": "Barcelona and the Costa Brava",
+    "hu": "Barcelona és a Costa Brava"
+   },
+   "main": {
+    "en": "Sagrada Família",
+    "hu": "Sagrada Família",
+    "lat": 41.4036,
+    "lon": 2.1744
+   },
+   "tags": [
+    "city",
+    "culture",
+    "coast"
+   ],
+   "desc": {
+    "en": "Gaudí's Barcelona, the serrated mountain of Montserrat, Dalí's Figueres and the wild cape of Cap de Creus.",
+    "hu": "Gaudí Barcelonája, a fogazott Montserrat-hegy, Dalí Figueres-e és a Cap de Creus vad foka."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Barcelona to Girona",
+      "hu": "Barcelona – Girona"
+     },
+     "desc": {
+      "en": "One-way from Barcelona over Montserrat and Figueres to the Cap de Creus and Girona.",
+      "hu": "Egyirányú repülés Barcelonából a Montserrat és Figueres felett a Cap de Creushoz és Gironába."
+     },
+     "pts": [
+      "LEBL",
+      [
+       "Sagrada Família",
+       41.4036,
+       2.1744
+      ],
+      [
+       "Montserrat",
+       41.5933,
+       1.8112
+      ],
+      [
+       "Dalí Theatre-Museum, Figueres",
+       42.2672,
+       2.9617
+      ],
+      [
+       "Cap de Creus",
+       42.319,
+       3.316
+      ],
+      [
+       "Girona Cathedral",
+       41.9877,
+       2.826
+      ],
+      "LEGE"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Park Güell",
+     41.4145,
+     2.1527
+    ]
+   ]
+  },
+  {
+   "id": "london",
+   "continent": "EU",
+   "country": {
+    "en": "United Kingdom",
+    "hu": "Egyesült Királyság"
+   },
+   "name": {
+    "en": "London landmarks",
+    "hu": "London nevezetességei"
+   },
+   "main": {
+    "en": "Tower Bridge",
+    "hu": "Tower Bridge",
+    "lat": 51.5055,
+    "lon": -0.0754
+   },
+   "tags": [
+    "city",
+    "culture"
+   ],
+   "desc": {
+    "en": "The Thames through the capital: Tower Bridge, St Paul's, the Houses of Parliament and Big Ben, with Wembley and Windsor Castle.",
+    "hu": "A Temze a fővároson át: Tower Bridge, a Szent Pál-székesegyház, a Parlament és a London Eye, Wembley és a Windsori-kastély."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "London loop",
+      "hu": "Londoni kör"
+     },
+     "desc": {
+      "en": "A loop from London City over the Thames bridges and Westminster to Wembley and Windsor.",
+      "hu": "Kör a London City repülőtérről a Temze hídjai és Westminster felett Wembley-be és Windsorba."
+     },
+     "pts": [
+      "EGLC",
+      [
+       "Tower Bridge",
+       51.5055,
+       -0.0754
+      ],
+      [
+       "St Paul's Cathedral",
+       51.5138,
+       -0.0984
+      ],
+      [
+       "Houses of Parliament",
+       51.4995,
+       -0.1248
+      ],
+      [
+       "Wembley Stadium",
+       51.556,
+       -0.2795
+      ],
+      [
+       "Windsor Castle",
+       51.4839,
+       -0.6044
+      ],
+      "EGLC"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "London Eye",
+     51.5033,
+     -0.1196
+    ],
+    [
+     "Buckingham Palace",
+     51.5014,
+     -0.1419
+    ]
+   ]
+  },
+  {
+   "id": "scottish-highlands",
+   "continent": "EU",
+   "country": {
+    "en": "United Kingdom",
+    "hu": "Egyesült Királyság"
+   },
+   "name": {
+    "en": "Scottish Highlands",
+    "hu": "Skót felföld"
+   },
+   "main": {
+    "en": "Ben Nevis",
+    "hu": "Ben Nevis",
+    "lat": 56.7969,
+    "lon": -5.0036
+   },
+   "tags": [
+    "mountain",
+    "coast",
+    "culture"
+   ],
+   "desc": {
+    "en": "Glencoe, Britain's highest mountain Ben Nevis, the Glenfinnan Viaduct, Eilean Donan Castle and Loch Ness.",
+    "hu": "Glencoe, Nagy-Britannia legmagasabb hegye, a Ben Nevis, a glenfinnani viadukt, az Eilean Donan-kastély és a Loch Ness."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 120,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Glasgow to Inverness",
+      "hu": "Glasgow – Inverness"
+     },
+     "desc": {
+      "en": "A one-way flight north through the Highlands to Inverness.",
+      "hu": "Egyirányú repülés északra a Felföldön át Invernessbe."
+     },
+     "pts": [
+      "EGPF",
+      [
+       "Glencoe",
+       56.6827,
+       -5.0833
+      ],
+      [
+       "Ben Nevis",
+       56.7969,
+       -5.0036
+      ],
+      [
+       "Glenfinnan Viaduct",
+       56.8763,
+       -5.4322
+      ],
+      [
+       "Eilean Donan Castle",
+       57.2742,
+       -5.5161
+      ],
+      [
+       "Urquhart Castle, Loch Ness",
+       57.3243,
+       -4.4421
+      ],
+      "EGPE"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Glencoe",
+     56.6827,
+     -5.0833
+    ]
+   ]
+  },
+  {
+   "id": "cornwall",
+   "continent": "EU",
+   "country": {
+    "en": "United Kingdom",
+    "hu": "Egyesült Királyság"
+   },
+   "name": {
+    "en": "Cornwall coast",
+    "hu": "Cornwall partvidéke"
+   },
+   "main": {
+    "en": "Land's End",
+    "hu": "Land's End",
+    "lat": 50.0657,
+    "lon": -5.7132
+   },
+   "tags": [
+    "coast",
+    "culture"
+   ],
+   "desc": {
+    "en": "The rugged Cornish coast: the Eden Project, St Michael's Mount, Land's End, St Ives and Tintagel.",
+    "hu": "A zord cornwalli tengerpart: az Eden Project, a St Michael's Mount, a Land's End, St Ives és Tintagel."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Cornwall loop",
+      "hu": "Cornwalli kör"
+     },
+     "desc": {
+      "en": "From Newquay to the Eden Project, round Land's End and back along the north coast via Tintagel.",
+      "hu": "Newquay-ből az Eden Projecthez, a Land's End körül, majd Tintagelen át az északi parton vissza."
+     },
+     "pts": [
+      "EGHQ",
+      [
+       "Eden Project",
+       50.3602,
+       -4.7447
+      ],
+      [
+       "St Michael's Mount",
+       50.1161,
+       -5.4775
+      ],
+      [
+       "Land's End",
+       50.0657,
+       -5.7132
+      ],
+      [
+       "St Ives",
+       50.2111,
+       -5.48
+      ],
+      [
+       "Tintagel Castle",
+       50.668,
+       -4.751
+      ],
+      "EGHQ"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Minack Theatre",
+     50.0425,
+     -5.6501
+    ]
+   ]
+  },
+  {
+   "id": "edinburgh",
+   "continent": "EU",
+   "country": {
+    "en": "United Kingdom",
+    "hu": "Egyesült Királyság"
+   },
+   "name": {
+    "en": "Edinburgh and the Forth",
+    "hu": "Edinburgh és a Forth"
+   },
+   "main": {
+    "en": "Edinburgh Castle",
+    "hu": "Edinburgh-i kastély",
+    "lat": 55.9486,
+    "lon": -3.1999
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Edinburgh Castle, the Forth bridges, the Kelpies and the Falkirk Wheel, ending at Stirling Castle.",
+    "hu": "Az edinburgh-i kastély, a Forth hídjai, a Kelpies szobrok és a Falkirk-kerék, a stirlingi kastélynál végződve."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Edinburgh loop",
+      "hu": "Edinburgh-i kör"
+     },
+     "desc": {
+      "en": "From Edinburgh Airport over the castle and the Forth Bridge to the Kelpies, the Falkirk Wheel and Stirling.",
+      "hu": "Az edinburgh-i repülőtérről a kastély és a Forth-híd felett a Kelpieshez, a Falkirk-kerékhez és Stirlingbe."
+     },
+     "pts": [
+      "EGPH",
+      [
+       "Edinburgh Castle",
+       55.9486,
+       -3.1999
+      ],
+      [
+       "Forth Bridge",
+       56.0003,
+       -3.3887
+      ],
+      [
+       "The Kelpies",
+       56.0185,
+       -3.75
+      ],
+      [
+       "Falkirk Wheel",
+       55.999,
+       -3.845
+      ],
+      [
+       "Stirling Castle",
+       56.123,
+       -3.9475
+      ],
+      "EGPH"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Arthur's Seat",
+     55.9441,
+     -3.1618
+    ]
+   ]
+  },
+  {
+   "id": "norway-fjords",
+   "continent": "EU",
+   "country": {
+    "en": "Norway",
+    "hu": "Norvégia"
+   },
+   "name": {
+    "en": "Fjords of western Norway",
+    "hu": "Nyugat-Norvégia fjordjai"
+   },
+   "main": {
+    "en": "Geirangerfjord",
+    "hu": "Geirangerfjord",
+    "lat": 62.1049,
+    "lon": 7.206
+   },
+   "tags": [
+    "mountain",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Trollstigen road, the Geirangerfjord, the Briksdal glacier and the Flåm valley, ending in Bergen.",
+    "hu": "A Trollstigen út, a Geirangerfjord, a briksdali gleccser és a Flåm-völgy, Bergenben végződve."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Ålesund to Bergen",
+      "hu": "Ålesund – Bergen"
+     },
+     "desc": {
+      "en": "A one-way flight through the fjord country from Ålesund to Bergen.",
+      "hu": "Egyirányú repülés a fjordvidéken át Ålesundtól Bergenig."
+     },
+     "pts": [
+      "ENAL",
+      [
+       "Trollstigen",
+       62.4553,
+       7.6694
+      ],
+      [
+       "Geirangerfjord",
+       62.1049,
+       7.206
+      ],
+      [
+       "Briksdalsbreen",
+       61.658,
+       6.84
+      ],
+      [
+       "Flåm",
+       60.8627,
+       7.1138
+      ],
+      "ENBR"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Flåm",
+     60.8627,
+     7.1138
+    ]
+   ]
+  },
+  {
+   "id": "cyclades",
+   "continent": "EU",
+   "country": {
+    "en": "Greece",
+    "hu": "Görögország"
+   },
+   "name": {
+    "en": "Cyclades island hopping",
+    "hu": "Ciklád-szigetek"
+   },
+   "main": {
+    "en": "Santorini caldera",
+    "hu": "Santorini kaldera",
+    "lat": 36.415,
+    "lon": 25.435
+   },
+   "tags": [
+    "island",
+    "coast",
+    "volcano"
+   ],
+   "desc": {
+    "en": "The flooded caldera of Santorini, Naxos with its marble gate, sacred Delos and cosmopolitan Mykonos.",
+    "hu": "Santorini elárasztott kalderája, Naxos márványkapuja, a szent Délosz és a világvárosias Mykonos."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Santorini to Mykonos",
+      "hu": "Santorinitől Mykonosig"
+     },
+     "desc": {
+      "en": "Island hopping from Santorini via Naxos and Delos to Mykonos.",
+      "hu": "Szigetugrálás Santorinitől Naxoson és Délosz-on át Mykonosig."
+     },
+     "pts": [
+      "LGSR",
+      [
+       "Santorini caldera",
+       36.415,
+       25.435
+      ],
+      [
+       "Portara, Naxos",
+       37.106,
+       25.372
+      ],
+      [
+       "Delos",
+       37.3959,
+       25.2693
+      ],
+      [
+       "Mykonos Town",
+       37.4467,
+       25.3289
+      ],
+      "LGMK"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Delos",
+     37.3959,
+     25.2693
+    ]
+   ]
+  },
+  {
+   "id": "peloponnese",
+   "continent": "EU",
+   "country": {
+    "en": "Greece",
+    "hu": "Görögország"
+   },
+   "name": {
+    "en": "Athens and the Peloponnese",
+    "hu": "Athén és a Peloponnészosz"
+   },
+   "main": {
+    "en": "Acropolis",
+    "hu": "Akropolisz",
+    "lat": 37.9715,
+    "lon": 23.7257
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "city"
+   ],
+   "desc": {
+    "en": "The Acropolis, the Corinth Canal, Mycenae and the theatre of Epidaurus, plus Cape Sounion.",
+    "hu": "Az Akropolisz, a Korinthoszi-csatorna, Mükéné és az epidauroszi színház, valamint a Szuniono-fok."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Athens and Peloponnese loop",
+      "hu": "Athén és Peloponnészosz kör"
+     },
+     "desc": {
+      "en": "From Athens over Cape Sounion and the Acropolis to Corinth, Mycenae and Epidaurus.",
+      "hu": "Athénból a Szuniono-fok és az Akropolisz felett Korinthoszba, Mükénébe és Epidauroszba."
+     },
+     "pts": [
+      "LGAV",
+      [
+       "Temple of Poseidon, Sounion",
+       37.6497,
+       24.0247
+      ],
+      [
+       "Acropolis",
+       37.9715,
+       23.7257
+      ],
+      [
+       "Corinth Canal",
+       37.9328,
+       22.981
+      ],
+      [
+       "Mycenae",
+       37.7308,
+       22.7564
+      ],
+      [
+       "Epidaurus",
+       37.5964,
+       23.0793
+      ],
+      "LGAV"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Temple of Poseidon, Sounion",
+     37.6497,
+     24.0247
+    ]
+   ]
+  },
+  {
+   "id": "dalmatia",
+   "continent": "EU",
+   "country": {
+    "en": "Croatia",
+    "hu": "Horvátország"
+   },
+   "name": {
+    "en": "Dalmatian coast",
+    "hu": "Dalmát tengerpart"
+   },
+   "main": {
+    "en": "Diocletian's Palace, Split",
+    "hu": "Diocletianus-palota, Split",
+    "lat": 43.5081,
+    "lon": 16.4402
+   },
+   "tags": [
+    "coast",
+    "island",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The walled city of Dubrovnik, the island of Hvar, Diocletian's Palace in Split and the Krka waterfalls.",
+    "hu": "A fallal körülvett Dubrovnik, Hvar szigete, a spliti Diocletianus-palota és a Krka-vízesések."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 120,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Dubrovnik to Zadar",
+      "hu": "Dubrovniktól Zadarig"
+     },
+     "desc": {
+      "en": "A one-way coastal flight over islands and old towns from Dubrovnik to Zadar.",
+      "hu": "Egyirányú tengerparti repülés szigetek és óvárosok felett Dubrovniktól Zadarig."
+     },
+     "pts": [
+      "LDDU",
+      [
+       "Dubrovnik Old Town",
+       42.641,
+       18.11
+      ],
+      [
+       "Hvar Town",
+       43.1729,
+       16.4411
+      ],
+      [
+       "Diocletian's Palace, Split",
+       43.5081,
+       16.4402
+      ],
+      [
+       "Krka Waterfalls",
+       43.803,
+       15.971
+      ],
+      "LDZD"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Hvar Town",
+     43.1729,
+     16.4411
+    ]
+   ]
+  },
+  {
+   "id": "prague",
+   "continent": "EU",
+   "country": {
+    "en": "Czechia",
+    "hu": "Csehország"
+   },
+   "name": {
+    "en": "Prague and Bohemia",
+    "hu": "Prága és Csehország"
+   },
+   "main": {
+    "en": "Prague Castle",
+    "hu": "Prágai vár",
+    "lat": 50.0909,
+    "lon": 14.4004
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Hradčany castle and Charles Bridge in Prague, Karlštejn castle and the bone church of Kutná Hora.",
+    "hu": "A Hradzsin és a Károly-híd Prágában, a Karlštejn-vár és a kutnahorai csontkápolna."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Prague loop",
+      "hu": "Prágai kör"
+     },
+     "desc": {
+      "en": "From Prague over Karlštejn Castle and the city to Kutná Hora and back.",
+      "hu": "Prágából a Karlštejn-vár és a város felett Kutná Horába és vissza."
+     },
+     "pts": [
+      "LKPR",
+      [
+       "Karlštejn Castle",
+       49.9393,
+       14.1881
+      ],
+      [
+       "Prague Castle",
+       50.0909,
+       14.4004
+      ],
+      [
+       "Charles Bridge",
+       50.0865,
+       14.4114
+      ],
+      [
+       "St Barbara's Church, Kutná Hora",
+       49.9503,
+       15.2622
+      ],
+      "LKPR"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Charles Bridge",
+     50.0865,
+     14.4114
+    ]
+   ]
+  },
+  {
+   "id": "zurich-constance",
+   "continent": "EU",
+   "country": {
+    "en": "Switzerland",
+    "hu": "Svájc"
+   },
+   "name": {
+    "en": "Zurich to Lake Constance",
+    "hu": "Zürichtől a Boden-tóig"
+   },
+   "main": {
+    "en": "Rhine Falls",
+    "hu": "Rajnai-vízesés",
+    "lat": 47.6779,
+    "lon": 8.615
+   },
+   "tags": [
+    "mountain",
+    "coast",
+    "city"
+   ],
+   "desc": {
+    "en": "Zurich's old town, the Rhine Falls (Europe's largest waterfall), the island of Mainau and the Säntis massif.",
+    "hu": "Zürich óvárosa, a Rajnai-vízesés (Európa legnagyobb vízesése), Mainau szigete és a Säntis-hegység."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Zurich to Altenrhein",
+      "hu": "Zürich – Altenrhein"
+     },
+     "desc": {
+      "en": "One-way from Zurich over the Rhine Falls and Mainau to the Säntis and Altenrhein.",
+      "hu": "Egyirányú repülés Zürichből a Rajnai-vízesés és Mainau felett a Säntishez és Altenrheinbe."
+     },
+     "pts": [
+      "LSZH",
+      [
+       "Grossmünster, Zurich",
+       47.37,
+       8.544
+      ],
+      [
+       "Rhine Falls",
+       47.6779,
+       8.615
+      ],
+      [
+       "Mainau Island",
+       47.7054,
+       9.1954
+      ],
+      [
+       "Säntis",
+       47.2494,
+       9.343
+      ],
+      "LSZR"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Säntis",
+     47.2494,
+     9.343
+    ]
+   ]
   }
  ]
 }
