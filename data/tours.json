@@ -9565,6 +9565,1855 @@
     }
    ],
    "pois": []
+  },
+  {
+   "id": "yellowstone",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Yellowstone and the Tetons",
+    "hu": "Yellowstone és a Teton-hegység"
+   },
+   "main": {
+    "en": "Old Faithful",
+    "hu": "Old Faithful",
+    "lat": 44.4605,
+    "lon": -110.8281
+   },
+   "tags": [
+    "mountain",
+    "volcano",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Geysers, hot springs and the jagged Teton Range: America's first national park from above.",
+    "hu": "Gejzírek, forró források és a csipkézett Teton-hegység: Amerika első nemzeti parkja felülről."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 12500,
+     "stol": false,
+     "label": {
+      "en": "Tetons short",
+      "hu": "Teton rövid"
+     },
+     "desc": {
+      "en": "Short loop from Jackson Hole: the Grand Teton, Jackson Lake and the Snake River.",
+      "hu": "Rövid kör Jackson Hole-ból: a Grand Teton, a Jackson-tó és a Snake River."
+     },
+     "pts": [
+      "KJAC",
+      [
+       "Oxbow Bend",
+       43.865,
+       -110.52
+      ],
+      [
+       "~",
+       43.8939,
+       -110.5498
+      ],
+      [
+       "Jackson Lake",
+       43.85,
+       -110.6
+      ],
+      [
+       "Jenny Lake",
+       43.755,
+       -110.723
+      ],
+      [
+       "Grand Teton",
+       43.741,
+       -110.8024
+      ],
+      "KJAC"
+     ]
+    },
+    {
+     "id": "full",
+     "kind": "loop",
+     "kt": 115,
+     "alt_ft": 12500,
+     "stol": false,
+     "label": {
+      "en": "Yellowstone loop",
+      "hu": "Yellowstone-kör"
+     },
+     "desc": {
+      "en": "About an hour and a half: the Tetons, Old Faithful, Grand Prismatic Spring and the Grand Canyon of the Yellowstone.",
+      "hu": "Kb. másfél óra: a Tetonok, Old Faithful, a Grand Prismatic Spring és a Yellowstone Grand Canyonja."
+     },
+     "pts": [
+      "KJAC",
+      [
+       "Jackson Lake",
+       43.85,
+       -110.6
+      ],
+      [
+       "Yellowstone Lake",
+       44.45,
+       -110.37
+      ],
+      [
+       "Yellowstone Falls",
+       44.7183,
+       -110.4962
+      ],
+      [
+       "Grand Prismatic Spring",
+       44.5251,
+       -110.8383
+      ],
+      [
+       "Old Faithful",
+       44.4605,
+       -110.8281
+      ],
+      [
+       "Grand Teton",
+       43.741,
+       -110.8024
+      ],
+      "KJAC"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "las-vegas",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Las Vegas and Hoover Dam",
+    "hu": "Las Vegas és a Hoover-gát"
+   },
+   "main": {
+    "en": "Las Vegas Strip",
+    "hu": "Las Vegas Strip",
+    "lat": 36.1147,
+    "lon": -115.1728
+   },
+   "tags": [
+    "city",
+    "culture",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The neon Strip, the Red Rock canyons, the Hoover Dam and the red sandstone of the Valley of Fire.",
+    "hu": "A neonfényes Strip, a Red Rock-kanyon, a Hoover-gát és a Valley of Fire vörös homokköve."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Vegas short",
+      "hu": "Vegas rövid"
+     },
+     "desc": {
+      "en": "Short loop: the Strip, Red Rock Canyon and the Hoover Dam.",
+      "hu": "Rövid kör: a Strip, a Red Rock-kanyon és a Hoover-gát."
+     },
+     "pts": [
+      "KLAS",
+      [
+       "Hoover Dam",
+       36.016,
+       -114.7377
+      ],
+      [
+       "~",
+       36.098,
+       -114.7081
+      ],
+      [
+       "Las Vegas Strip",
+       36.1147,
+       -115.1728
+      ],
+      [
+       "Red Rock Canyon",
+       36.135,
+       -115.427
+      ],
+      [
+       "~",
+       36.0843,
+       -115.4389
+      ],
+      "KLAS"
+     ]
+    },
+    {
+     "id": "full",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Vegas loop",
+      "hu": "Vegas-kör"
+     },
+     "desc": {
+      "en": "About an hour: the Strip, Red Rock, Hoover Dam, Lake Mead and the Valley of Fire.",
+      "hu": "Kb. egy óra: a Strip, Red Rock, Hoover-gát, a Mead-tó és a Valley of Fire."
+     },
+     "pts": [
+      "KLAS",
+      [
+       "Las Vegas Strip",
+       36.1147,
+       -115.1728
+      ],
+      [
+       "Red Rock Canyon",
+       36.135,
+       -115.427
+      ],
+      [
+       "~",
+       36.186,
+       -115.4363
+      ],
+      [
+       "Valley of Fire",
+       36.435,
+       -114.516
+      ],
+      [
+       "Lake Mead",
+       36.2,
+       -114.35
+      ],
+      [
+       "Hoover Dam",
+       36.016,
+       -114.7377
+      ],
+      "KLAS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "yosemite",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Yosemite",
+    "hu": "Yosemite"
+   },
+   "main": {
+    "en": "Half Dome",
+    "hu": "Half Dome",
+    "lat": 37.7459,
+    "lon": -119.5332
+   },
+   "tags": [
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Granite walls and waterfalls: Half Dome, El Capitan, Yosemite Falls and the high country of Tuolumne.",
+    "hu": "Gránitfalak és vízesések: a Half Dome, az El Capitan, a Yosemite-vízesés és Tuolumne magasföldje."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 11500,
+     "stol": false,
+     "label": {
+      "en": "Yosemite loop",
+      "hu": "Yosemite-kör"
+     },
+     "desc": {
+      "en": "Yosemite Valley with El Capitan and Half Dome, Glacier Point and Tuolumne Meadows.",
+      "hu": "A Yosemite-völgy az El Capitannal és a Half Dome-mal, Glacier Point és Tuolumne Meadows."
+     },
+     "pts": [
+      "KMPI",
+      [
+       "Glacier Point",
+       37.7305,
+       -119.574
+      ],
+      [
+       "Half Dome",
+       37.7459,
+       -119.5332
+      ],
+      [
+       "Tuolumne Meadows",
+       37.873,
+       -119.35
+      ],
+      [
+       "~",
+       37.9119,
+       -119.3859
+      ],
+      [
+       "Yosemite Falls",
+       37.7565,
+       -119.5968
+      ],
+      [
+       "El Capitan",
+       37.734,
+       -119.6377
+      ],
+      "KMPI"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "banff",
+   "continent": "NA",
+   "country": {
+    "en": "Canada",
+    "hu": "Kanada"
+   },
+   "name": {
+    "en": "Banff and Lake Louise",
+    "hu": "Banff és a Lake Louise"
+   },
+   "main": {
+    "en": "Lake Louise",
+    "hu": "Lake Louise",
+    "lat": 51.4254,
+    "lon": -116.1773
+   },
+   "tags": [
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Turquoise lakes under the Canadian Rockies: Lake Louise, Moraine Lake, Peyto Lake and the Bow Valley.",
+    "hu": "Türkiz tavak a Kanadai-Sziklás-hegység alatt: Lake Louise, Moraine Lake, Peyto Lake és a Bow-völgy."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 10500,
+     "stol": false,
+     "label": {
+      "en": "Banff short",
+      "hu": "Banff rövid"
+     },
+     "desc": {
+      "en": "From Springbank: Banff, Lake Louise and Moraine Lake.",
+      "hu": "Springbankból: Banff, Lake Louise és Moraine Lake."
+     },
+     "pts": [
+      "CYBW",
+      [
+       "Mount Rundle",
+       51.15,
+       -115.55
+      ],
+      [
+       "Banff",
+       51.1784,
+       -115.5708
+      ],
+      [
+       "Moraine Lake",
+       51.3217,
+       -116.186
+      ],
+      [
+       "Lake Louise",
+       51.4254,
+       -116.1773
+      ],
+      "CYBW"
+     ]
+    },
+    {
+     "id": "full",
+     "kind": "loop",
+     "kt": 115,
+     "alt_ft": 11500,
+     "stol": false,
+     "label": {
+      "en": "Lakes loop",
+      "hu": "Tó-kör"
+     },
+     "desc": {
+      "en": "About an hour: Banff, Lake Louise, Moraine Lake and Peyto Lake on the Icefields Parkway.",
+      "hu": "Kb. egy óra: Banff, Lake Louise, Moraine Lake és a Peyto-tó a Jégmező-úton."
+     },
+     "pts": [
+      "CYBW",
+      [
+       "Banff",
+       51.1784,
+       -115.5708
+      ],
+      [
+       "Moraine Lake",
+       51.3217,
+       -116.186
+      ],
+      [
+       "Lake Louise",
+       51.4254,
+       -116.1773
+      ],
+      [
+       "Peyto Lake",
+       51.724,
+       -116.517
+      ],
+      [
+       "~",
+       51.7946,
+       -116.4231
+      ],
+      "CYBW"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "yucatan",
+   "continent": "NA",
+   "country": {
+    "en": "Mexico",
+    "hu": "Mexikó"
+   },
+   "name": {
+    "en": "Cancún and the Maya coast",
+    "hu": "Cancún és a maja part"
+   },
+   "main": {
+    "en": "Chichén Itzá",
+    "hu": "Chichén Itzá",
+    "lat": 20.6843,
+    "lon": -88.5678
+   },
+   "tags": [
+    "culture",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "White beaches and Maya pyramids: Isla Mujeres, Tulum above the sea and the great pyramid of Chichén Itzá.",
+    "hu": "Fehér strandok és maja piramisok: Isla Mujeres, a tenger felett álló Tulum és a chichén itzái nagy piramis."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Cancún short",
+      "hu": "Cancún rövid"
+     },
+     "desc": {
+      "en": "Short loop: Isla Mujeres, the hotel zone and Tulum.",
+      "hu": "Rövid kör: Isla Mujeres, a szállodasor és Tulum."
+     },
+     "pts": [
+      "MMUN",
+      [
+       "Isla Mujeres",
+       21.231,
+       -86.73
+      ],
+      [
+       "~",
+       21.2172,
+       -86.6944
+      ],
+      [
+       "Cancún Hotel Zone",
+       21.125,
+       -86.75
+      ],
+      [
+       "Tulum",
+       20.2114,
+       -87.4654
+      ],
+      [
+       "~",
+       20.2675,
+       -87.5636
+      ],
+      "MMUN"
+     ]
+    },
+    {
+     "id": "maya",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Maya ruins",
+      "hu": "Maja romok"
+     },
+     "desc": {
+      "en": "About an hour: Tulum, Cobá and Chichén Itzá.",
+      "hu": "Kb. egy óra: Tulum, Cobá és Chichén Itzá."
+     },
+     "pts": [
+      "MMUN",
+      [
+       "Tulum",
+       20.2114,
+       -87.4654
+      ],
+      [
+       "Cobá",
+       20.495,
+       -87.736
+      ],
+      [
+       "Chichén Itzá",
+       20.6843,
+       -88.5678
+      ],
+      [
+       "~",
+       20.7921,
+       -88.572
+      ],
+      [
+       "Isla Mujeres",
+       21.231,
+       -86.73
+      ],
+      [
+       "~",
+       21.1832,
+       -86.6945
+      ],
+      "MMUN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "torres-del-paine",
+   "continent": "SA",
+   "country": {
+    "en": "Chile",
+    "hu": "Chile"
+   },
+   "name": {
+    "en": "Torres del Paine",
+    "hu": "Torres del Paine"
+   },
+   "main": {
+    "en": "Torres del Paine",
+    "hu": "Torres del Paine",
+    "lat": -50.9423,
+    "lon": -73.4068
+   },
+   "tags": [
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Granite towers, blue glaciers and turquoise lakes at the end of the world.",
+    "hu": "Gránittornyok, kék gleccserek és türkiz tavak a világ végén."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 7500,
+     "stol": false,
+     "label": {
+      "en": "Paine loop",
+      "hu": "Paine-kör"
+     },
+     "desc": {
+      "en": "From Puerto Natales: the Torres, the Cuernos, Lake Pehoé and the Grey Glacier.",
+      "hu": "Puerto Natalesből: a Torres, a Cuernos, a Pehoé-tó és a Grey-gleccser."
+     },
+     "pts": [
+      "SCNT",
+      [
+       "Lake Pehoé",
+       -51.064,
+       -73.07
+      ],
+      [
+       "Cuernos del Paine",
+       -50.954,
+       -73.064
+      ],
+      [
+       "Grey Glacier",
+       -50.9625,
+       -73.2
+      ],
+      [
+       "Torres del Paine",
+       -50.9423,
+       -73.4068
+      ],
+      [
+       "~",
+       -50.9731,
+       -73.4363
+      ],
+      "SCNT"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "perito-moreno",
+   "continent": "SA",
+   "country": {
+    "en": "Argentina",
+    "hu": "Argentína"
+   },
+   "name": {
+    "en": "Perito Moreno and Fitz Roy",
+    "hu": "Perito Moreno és a Fitz Roy"
+   },
+   "main": {
+    "en": "Perito Moreno Glacier",
+    "hu": "Perito Moreno-gleccser",
+    "lat": -50.4967,
+    "lon": -73.137
+   },
+   "tags": [
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "A glacier that calves into Lago Argentino and the sharp spires of Fitz Roy and Cerro Torre.",
+    "hu": "A Lago Argentinóba törő gleccser, valamint a Fitz Roy és a Cerro Torre éles tornyai."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Glacier short",
+      "hu": "Gleccser rövid"
+     },
+     "desc": {
+      "en": "Short loop from El Calafate: Lago Argentino and the Perito Moreno Glacier.",
+      "hu": "Rövid kör El Calafatéból: a Lago Argentino és a Perito Moreno-gleccser."
+     },
+     "pts": [
+      "SAWC",
+      [
+       "Upsala Glacier",
+       -50.0,
+       -73.2
+      ],
+      [
+       "Perito Moreno Glacier",
+       -50.4967,
+       -73.137
+      ],
+      [
+       "Lago Argentino",
+       -50.35,
+       -72.8
+      ],
+      "SAWC"
+     ]
+    },
+    {
+     "id": "fitzroy",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Fitz Roy loop",
+      "hu": "Fitz Roy-kör"
+     },
+     "desc": {
+      "en": "About an hour and a half: the glacier, Cerro Torre, Fitz Roy and Lake Viedma.",
+      "hu": "Kb. másfél óra: a gleccser, a Cerro Torre, a Fitz Roy és a Viedma-tó."
+     },
+     "pts": [
+      "SAWC",
+      [
+       "Lake Viedma",
+       -49.6,
+       -72.6
+      ],
+      [
+       "Fitz Roy",
+       -49.2715,
+       -72.998
+      ],
+      [
+       "Cerro Torre",
+       -49.2928,
+       -73.098
+      ],
+      [
+       "Perito Moreno Glacier",
+       -50.4967,
+       -73.137
+      ],
+      "SAWC"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "galapagos",
+   "continent": "SA",
+   "country": {
+    "en": "Ecuador",
+    "hu": "Ecuador"
+   },
+   "name": {
+    "en": "Galápagos Islands",
+    "hu": "Galápagos-szigetek"
+   },
+   "main": {
+    "en": "Pinnacle Rock",
+    "hu": "Pinnacle Rock",
+    "lat": -0.2866,
+    "lon": -90.5469
+   },
+   "tags": [
+    "island",
+    "volcano",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Darwin's islands: volcanic cones, black lava coasts and the pinnacle of Bartolomé.",
+    "hu": "Darwin szigetei: vulkáni kúpok, fekete lávapartok és a bartoloméi Pinnacle Rock."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Galápagos loop",
+      "hu": "Galápagos-kör"
+     },
+     "desc": {
+      "en": "From Baltra: Daphne Major, Bartolomé, Sullivan Bay and Puerto Ayora.",
+      "hu": "Baltráról: Daphne Major, Bartolomé, Sullivan Bay és Puerto Ayora."
+     },
+     "pts": [
+      "SEGS",
+      [
+       "Daphne Major",
+       -0.418,
+       -90.35
+      ],
+      [
+       "Sullivan Bay",
+       -0.229,
+       -90.578
+      ],
+      [
+       "~",
+       -0.2518,
+       -90.6058
+      ],
+      [
+       "Pinnacle Rock",
+       -0.2866,
+       -90.5469
+      ],
+      [
+       "Puerto Ayora",
+       -0.743,
+       -90.313
+      ],
+      [
+       "~",
+       -0.7316,
+       -90.2406
+      ],
+      "SEGS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "buenos-aires",
+   "continent": "SA",
+   "country": {
+    "en": "Argentina",
+    "hu": "Argentína"
+   },
+   "name": {
+    "en": "Buenos Aires and the Río de la Plata",
+    "hu": "Buenos Aires és a Río de la Plata"
+   },
+   "main": {
+    "en": "Obelisco",
+    "hu": "Obeliszk",
+    "lat": -34.6037,
+    "lon": -58.3816
+   },
+   "tags": [
+    "city",
+    "culture",
+    "coast"
+   ],
+   "desc": {
+    "en": "The tango capital: Puerto Madero, La Boca, Recoleta and the brown Río de la Plata.",
+    "hu": "A tangó fővárosa: Puerto Madero, La Boca, Recoleta és a barna Río de la Plata."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Buenos Aires loop",
+      "hu": "Buenos Aires-kör"
+     },
+     "desc": {
+      "en": "The Obelisco, Puerto Madero, La Boca, Recoleta and Isla Martín García in the river.",
+      "hu": "Az Obeliszk, Puerto Madero, La Boca, Recoleta és az Isla Martín García a folyón."
+     },
+     "pts": [
+      "SABE",
+      [
+       "Isla Martín García",
+       -34.187,
+       -58.254
+      ],
+      [
+       "~",
+       -34.2121,
+       -58.1384
+      ],
+      [
+       "Recoleta Cemetery",
+       -34.5875,
+       -58.393
+      ],
+      [
+       "Obelisco",
+       -34.6037,
+       -58.3816
+      ],
+      [
+       "Puerto Madero",
+       -34.6118,
+       -58.3636
+      ],
+      [
+       "La Boca",
+       -34.6356,
+       -58.3647
+      ],
+      [
+       "~",
+       -34.6439,
+       -58.4073
+      ],
+      "SABE"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "marrakech-atlas",
+   "continent": "AF",
+   "country": {
+    "en": "Morocco",
+    "hu": "Marokkó"
+   },
+   "name": {
+    "en": "Marrakech and the Atlas",
+    "hu": "Marrakesh és az Atlasz"
+   },
+   "main": {
+    "en": "Koutoubia Mosque",
+    "hu": "Koutoubia-mecset",
+    "lat": 31.624,
+    "lon": -7.9937
+   },
+   "tags": [
+    "city",
+    "culture",
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The red city of Marrakech, the High Atlas around Toubkal and the mud-brick fortress of Aït Benhaddou.",
+    "hu": "A vörös Marrakesh, a Magas-Atlasz a Toubkal körül és az Aït Benhaddou vályogerődje."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Marrakech short",
+      "hu": "Marrakesh rövid"
+     },
+     "desc": {
+      "en": "Short loop: Marrakech, Oukaïmeden and the foothills of the Atlas.",
+      "hu": "Rövid kör: Marrakesh, Oukaïmeden és az Atlasz előhegyei."
+     },
+     "pts": [
+      "GMMX",
+      [
+       "Koutoubia Mosque",
+       31.624,
+       -7.9937
+      ],
+      [
+       "Oukaïmeden",
+       31.206,
+       -7.864
+      ],
+      [
+       "Imlil",
+       31.136,
+       -7.919
+      ],
+      [
+       "~",
+       31.1428,
+       -7.9603
+      ],
+      "GMMX"
+     ]
+    },
+    {
+     "id": "atlas",
+     "kind": "loop",
+     "kt": 115,
+     "alt_ft": 14500,
+     "stol": false,
+     "label": {
+      "en": "High Atlas and Aït Benhaddou",
+      "hu": "Magas-Atlasz és Aït Benhaddou"
+     },
+     "desc": {
+      "en": "About an hour and a half: Toubkal, the Tizi n'Tichka pass and Aït Benhaddou.",
+      "hu": "Kb. másfél óra: a Toubkal, a Tizi n'Tichka-hágó és Aït Benhaddou."
+     },
+     "pts": [
+      "GMMX",
+      [
+       "Oukaïmeden",
+       31.206,
+       -7.864
+      ],
+      [
+       "Imlil",
+       31.136,
+       -7.919
+      ],
+      [
+       "Toubkal",
+       31.0597,
+       -7.9156
+      ],
+      [
+       "Aït Benhaddou",
+       31.0472,
+       -7.1292
+      ],
+      [
+       "~",
+       31.1489,
+       -7.087
+      ],
+      [
+       "Koutoubia Mosque",
+       31.624,
+       -7.9937
+      ],
+      "GMMX"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "victoria-falls",
+   "continent": "AF",
+   "country": {
+    "en": "Zimbabwe",
+    "hu": "Zimbabwe"
+   },
+   "name": {
+    "en": "Victoria Falls",
+    "hu": "Victoria-vízesés"
+   },
+   "main": {
+    "en": "Victoria Falls",
+    "hu": "Victoria-vízesés",
+    "lat": -17.9243,
+    "lon": 25.8572
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "jungle"
+   ],
+   "desc": {
+    "en": "The smoke that thunders: the Zambezi plunging into the Batoka Gorge on the border of Zimbabwe and Zambia.",
+    "hu": "A mennydörgő füst: a Zambezi zuhan a Batoka-szurdokba Zimbabwe és Zambia határán."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Falls loop",
+      "hu": "Vízesés-kör"
+     },
+     "desc": {
+      "en": "The Zambezi above the falls, Victoria Falls and the Batoka Gorge.",
+      "hu": "A Zambezi a vízesés felett, a Victoria-vízesés és a Batoka-szurdok."
+     },
+     "pts": [
+      "FVFA",
+      [
+       "Batoka Gorge",
+       -17.98,
+       25.9
+      ],
+      [
+       "Victoria Falls",
+       -17.9243,
+       25.8572
+      ],
+      [
+       "Zambezi River Islands",
+       -17.87,
+       25.75
+      ],
+      [
+       "~",
+       -17.8936,
+       25.7215
+      ],
+      "FVFA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "luxor",
+   "continent": "AF",
+   "country": {
+    "en": "Egypt",
+    "hu": "Egyiptom"
+   },
+   "name": {
+    "en": "Luxor and the Nile",
+    "hu": "Luxor és a Nílus"
+   },
+   "main": {
+    "en": "Valley of the Kings",
+    "hu": "Királyok völgye",
+    "lat": 25.7402,
+    "lon": 32.6014
+   },
+   "tags": [
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Ancient Thebes on the Nile: Karnak, Luxor Temple, the Colossi of Memnon and the Valley of the Kings.",
+    "hu": "Az ókori Théba a Nílus partján: Karnak, a luxori templom, a Memnón-kolosszusok és a Királyok völgye."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Thebes and Dendera",
+      "hu": "Théba és Dendera"
+     },
+     "desc": {
+      "en": "About 45 minutes: Karnak, the temple of Dendera and the Valley of the Kings.",
+      "hu": "Kb. 45 perc: Karnak, a denderai templom és a Királyok völgye."
+     },
+     "pts": [
+      "HELX",
+      [
+       "Dendera Temple",
+       26.1417,
+       32.67
+      ],
+      [
+       "~",
+       26.1459,
+       32.557
+      ],
+      [
+       "Valley of the Kings",
+       25.7402,
+       32.6014
+      ],
+      [
+       "Karnak Temple",
+       25.7188,
+       32.6573
+      ],
+      "HELX"
+     ]
+    },
+    {
+     "id": "dendera",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Thebes, Dendera and Abydos",
+      "hu": "Théba, Dendera és Abüdosz"
+     },
+     "desc": {
+      "en": "About an hour and a half: the temples of Luxor, then north along the Nile to Dendera and Abydos.",
+      "hu": "Kb. másfél óra: a luxori templomok, majd észak felé a Nílus mentén Dendera és Abüdosz."
+     },
+     "pts": [
+      "HELX",
+      [
+       "Karnak Temple",
+       25.7188,
+       32.6573
+      ],
+      [
+       "Colossi of Memnon",
+       25.7207,
+       32.6102
+      ],
+      [
+       "Valley of the Kings",
+       25.7402,
+       32.6014
+      ],
+      [
+       "Abydos",
+       26.185,
+       31.919
+      ],
+      [
+       "~",
+       26.2865,
+       31.9598
+      ],
+      [
+       "Dendera Temple",
+       26.1417,
+       32.67
+      ],
+      "HELX"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "ngorongoro",
+   "continent": "AF",
+   "country": {
+    "en": "Tanzania",
+    "hu": "Tanzánia"
+   },
+   "name": {
+    "en": "Ngorongoro and Lake Manyara",
+    "hu": "Ngorongoro és a Manyara-tó"
+   },
+   "main": {
+    "en": "Ngorongoro Crater",
+    "hu": "Ngorongoro-kráter",
+    "lat": -3.1694,
+    "lon": 35.5878
+   },
+   "tags": [
+    "volcano",
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The largest intact caldera on Earth, the flamingos of Lake Manyara and the sacred volcano Ol Doinyo Lengai.",
+    "hu": "A Föld legnagyobb ép kalderája, a Manyara-tó flamingói és a szent vulkán, az Ol Doinyo Lengai."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Rift Valley loop",
+      "hu": "Hasadékvölgy-kör"
+     },
+     "desc": {
+      "en": "From Arusha: Mount Meru, Lake Manyara, Ngorongoro and Ol Doinyo Lengai.",
+      "hu": "Arushából: a Meru-hegy, a Manyara-tó, Ngorongoro és az Ol Doinyo Lengai."
+     },
+     "pts": [
+      "HTAR",
+      [
+       "Lake Manyara",
+       -3.587,
+       35.8
+      ],
+      [
+       "Ngorongoro Crater",
+       -3.1694,
+       35.5878
+      ],
+      [
+       "Ol Doinyo Lengai",
+       -2.764,
+       35.914
+      ],
+      [
+       "Mount Meru",
+       -3.2427,
+       36.7478
+      ],
+      "HTAR"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "uluru",
+   "continent": "OC",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "Uluru and Kata Tjuta",
+    "hu": "Uluru és Kata Tjuta"
+   },
+   "main": {
+    "en": "Uluru",
+    "hu": "Uluru",
+    "lat": -25.3444,
+    "lon": 131.0369
+   },
+   "tags": [
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The red heart of Australia: Uluru, the domes of Kata Tjuta and the flat-topped Mount Conner.",
+    "hu": "Ausztrália vörös szíve: az Uluru, a Kata Tjuta kupolái és a lapos tetejű Conner-hegy."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Uluru short",
+      "hu": "Uluru rövid"
+     },
+     "desc": {
+      "en": "Short loop: Uluru and the domes of Kata Tjuta.",
+      "hu": "Rövid kör: az Uluru és a Kata Tjuta kupolái."
+     },
+     "pts": [
+      "YAYE",
+      [
+       "Kata Tjuta",
+       -25.3047,
+       130.7233
+      ],
+      [
+       "~",
+       -25.3406,
+       130.7258
+      ],
+      [
+       "Mount Olga Lookout",
+       -25.34,
+       130.83
+      ],
+      [
+       "Uluru",
+       -25.3444,
+       131.0369
+      ],
+      "YAYE"
+     ]
+    },
+    {
+     "id": "full",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Red Centre loop",
+      "hu": "Vörös Központ-kör"
+     },
+     "desc": {
+      "en": "About an hour and a half: Kata Tjuta, Uluru, Mount Conner and Kings Canyon.",
+      "hu": "Kb. másfél óra: Kata Tjuta, Uluru, a Conner-hegy és a Kings Canyon."
+     },
+     "pts": [
+      "YAYE",
+      [
+       "Uluru",
+       -25.3444,
+       131.0369
+      ],
+      [
+       "Kata Tjuta",
+       -25.3047,
+       130.7233
+      ],
+      [
+       "Kings Canyon",
+       -24.2594,
+       131.5547
+      ],
+      [
+       "~",
+       -24.2842,
+       131.6699
+      ],
+      [
+       "Mount Conner",
+       -25.438,
+       131.77
+      ],
+      "YAYE"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "great-ocean-road",
+   "continent": "OC",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "Great Ocean Road",
+    "hu": "Great Ocean Road"
+   },
+   "main": {
+    "en": "Twelve Apostles",
+    "hu": "Tizenkét Apostol",
+    "lat": -38.6624,
+    "lon": 143.1049
+   },
+   "tags": [
+    "coast"
+   ],
+   "desc": {
+    "en": "Limestone stacks rising from the Southern Ocean: the Twelve Apostles, Loch Ard Gorge and Cape Otway.",
+    "hu": "A Déli-óceánból kiemelkedő mészkőtornyok: a Tizenkét Apostol, a Loch Ard-szurdok és a Cape Otway."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Ocean Road loop",
+      "hu": "Ocean Road-kör"
+     },
+     "desc": {
+      "en": "From Avalon: Bells Beach, Cape Otway lighthouse and the Twelve Apostles.",
+      "hu": "Avalonból: Bells Beach, a Cape Otway világítótornya és a Tizenkét Apostol."
+     },
+     "pts": [
+      "YMAV",
+      [
+       "Loch Ard Gorge",
+       -38.65,
+       143.067
+      ],
+      [
+       "~",
+       -38.6859,
+       143.0697
+      ],
+      [
+       "~",
+       -38.7,
+       143.1121
+      ],
+      [
+       "~",
+       -38.678,
+       143.1486
+      ],
+      [
+       "Twelve Apostles",
+       -38.6624,
+       143.1049
+      ],
+      [
+       "~",
+       -38.6265,
+       143.1013
+      ],
+      [
+       "~",
+       -38.6063,
+       143.1394
+      ],
+      [
+       "~",
+       -38.6425,
+       143.1433
+      ],
+      [
+       "Cape Otway Lighthouse",
+       -38.855,
+       143.512
+      ],
+      [
+       "Bells Beach",
+       -38.37,
+       144.28
+      ],
+      "YMAV"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "aoraki",
+   "continent": "OC",
+   "country": {
+    "en": "New Zealand",
+    "hu": "Új-Zéland"
+   },
+   "name": {
+    "en": "Aoraki / Mount Cook",
+    "hu": "Aoraki / Mount Cook"
+   },
+   "main": {
+    "en": "Aoraki / Mount Cook",
+    "hu": "Aoraki / Mount Cook",
+    "lat": -43.595,
+    "lon": 170.1418
+   },
+   "tags": [
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "New Zealand's highest peak, the Tasman Glacier and the milky blue Lake Pukaki.",
+    "hu": "Új-Zéland legmagasabb csúcsa, a Tasman-gleccser és a tejkék Pukaki-tó."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 10500,
+     "stol": false,
+     "label": {
+      "en": "Aoraki loop",
+      "hu": "Aoraki-kör"
+     },
+     "desc": {
+      "en": "From Mount Cook: Aoraki, the Tasman Glacier and Lake Pukaki.",
+      "hu": "Mount Cookból: az Aoraki, a Tasman-gleccser és a Pukaki-tó."
+     },
+     "pts": [
+      "NZGT",
+      [
+       "Lake Pukaki",
+       -44.1,
+       170.15
+      ],
+      [
+       "~",
+       -44.1003,
+       170.2175
+      ],
+      [
+       "Tasman Glacier",
+       -43.65,
+       170.2
+      ],
+      [
+       "Aoraki / Mount Cook",
+       -43.595,
+       170.1418
+      ],
+      [
+       "Hooker Glacier",
+       -43.66,
+       170.03
+      ],
+      "NZGT"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "bora-bora",
+   "continent": "OC",
+   "country": {
+    "en": "French Polynesia",
+    "hu": "Francia Polinézia"
+   },
+   "name": {
+    "en": "Bora Bora and the Leeward Islands",
+    "hu": "Bora Bora és a Szél felőli-szigetek"
+   },
+   "main": {
+    "en": "Mount Otemanu",
+    "hu": "Otemanu-hegy",
+    "lat": -16.5,
+    "lon": -151.748
+   },
+   "tags": [
+    "island",
+    "coast",
+    "volcano"
+   ],
+   "desc": {
+    "en": "A volcanic peak inside a turquoise lagoon: Bora Bora, Maupiti and the sacred marae of Raiatea.",
+    "hu": "Vulkáni csúcs egy türkiz lagúnában: Bora Bora, Maupiti és Raiatea szent marae-ja."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Bora Bora loop",
+      "hu": "Bora Bora-kör"
+     },
+     "desc": {
+      "en": "Mount Otemanu, Matira Point, Maupiti and Raiatea.",
+      "hu": "Az Otemanu-hegy, Matira Point, Maupiti és Raiatea."
+     },
+     "pts": [
+      "NTTB",
+      [
+       "Mount Otemanu",
+       -16.5,
+       -151.748
+      ],
+      [
+       "Matira Point",
+       -16.532,
+       -151.747
+      ],
+      [
+       "Taputapuatea Marae",
+       -16.833,
+       -151.347
+      ],
+      [
+       "~",
+       -16.9252,
+       -151.4055
+      ],
+      [
+       "Maupiti",
+       -16.44,
+       -152.25
+      ],
+      [
+       "~",
+       -16.3361,
+       -152.2195
+      ],
+      "NTTB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "bali",
+   "continent": "AS",
+   "country": {
+    "en": "Indonesia",
+    "hu": "Indonézia"
+   },
+   "name": {
+    "en": "Bali",
+    "hu": "Bali"
+   },
+   "main": {
+    "en": "Mount Batur",
+    "hu": "Batur-hegy",
+    "lat": -8.242,
+    "lon": 115.375
+   },
+   "tags": [
+    "island",
+    "culture",
+    "volcano",
+    "coast"
+   ],
+   "desc": {
+    "en": "Volcanoes, rice terraces and sea temples: Mount Batur, Tegallalang, Tanah Lot and the cliffs of Uluwatu.",
+    "hu": "Vulkánok, rizsteraszok és tengeri templomok: a Batur, Tegallalang, Tanah Lot és az uluwatui sziklák."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Bali south",
+      "hu": "Dél-Bali"
+     },
+     "desc": {
+      "en": "Short loop: Tanah Lot, Uluwatu and the south coast.",
+      "hu": "Rövid kör: Tanah Lot, Uluwatu és a déli part."
+     },
+     "pts": [
+      "WADD",
+      [
+       "Uluwatu Temple",
+       -8.8291,
+       115.0849
+      ],
+      [
+       "~",
+       -8.8151,
+       115.0514
+      ],
+      [
+       "Tanah Lot",
+       -8.6212,
+       115.0868
+      ],
+      [
+       "Nusa Penida",
+       -8.732,
+       115.475
+      ],
+      [
+       "~",
+       -8.8077,
+       115.4663
+      ],
+      "WADD"
+     ]
+    },
+    {
+     "id": "full",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Bali loop",
+      "hu": "Bali-kör"
+     },
+     "desc": {
+      "en": "About an hour: Uluwatu, Tegallalang rice terraces, Mount Batur and Mount Agung.",
+      "hu": "Kb. egy óra: Uluwatu, Tegallalang rizsteraszai, a Batur és az Agung."
+     },
+     "pts": [
+      "WADD",
+      [
+       "Uluwatu Temple",
+       -8.8291,
+       115.0849
+      ],
+      [
+       "~",
+       -8.8151,
+       115.0514
+      ],
+      [
+       "Tanah Lot",
+       -8.6212,
+       115.0868
+      ],
+      [
+       "Tegallalang Rice Terraces",
+       -8.4312,
+       115.2793
+      ],
+      [
+       "Mount Batur",
+       -8.242,
+       115.375
+      ],
+      [
+       "Mount Agung",
+       -8.343,
+       115.508
+      ],
+      "WADD"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "singapore",
+   "continent": "AS",
+   "country": {
+    "en": "Singapore",
+    "hu": "Szingapúr"
+   },
+   "name": {
+    "en": "Singapore",
+    "hu": "Szingapúr"
+   },
+   "main": {
+    "en": "Marina Bay Sands",
+    "hu": "Marina Bay Sands",
+    "lat": 1.2834,
+    "lon": 103.8607
+   },
+   "tags": [
+    "city",
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "A garden city on an island: Marina Bay Sands, Sentosa and the green island of Pulau Ubin.",
+    "hu": "Kertváros egy szigeten: a Marina Bay Sands, Sentosa és a zöld Pulau Ubin."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Singapore loop",
+      "hu": "Szingapúr-kör"
+     },
+     "desc": {
+      "en": "Marina Bay Sands, Sentosa and Pulau Ubin.",
+      "hu": "Marina Bay Sands, Sentosa és Pulau Ubin."
+     },
+     "pts": [
+      "WSSS",
+      [
+       "Marina Bay Sands",
+       1.2834,
+       103.8607
+      ],
+      [
+       "Sentosa",
+       1.2494,
+       103.8303
+      ],
+      [
+       "Jurong Lake Gardens",
+       1.338,
+       103.73
+      ],
+      [
+       "~",
+       1.3731,
+       103.738
+      ],
+      [
+       "Pulau Ubin",
+       1.404,
+       103.966
+      ],
+      "WSSS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
   }
  ]
 }
