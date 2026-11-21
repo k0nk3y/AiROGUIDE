@@ -44,7 +44,9 @@ tour("crete", GR, ("Crete", "Kréta"), ("Knossos Palace", "Knósszoszi palota", 
      [("short", "loop", 100, 3000, ("Crete short", "Kréta rövid"), ("Short loop from Heraklion: Knossos, Mount Ida and the south coast at Matala.", "Rövid kör Iráklióból: Knósszosz, az Ida-hegy és a déli part Matalánál."),
        ["LGIR", ["Knossos Palace", 35.2980, 25.1630], ["Mount Ida", 35.2280, 24.7740], ["Matala", 34.9940, 24.7490], ["Phaistos", 35.0510, 24.8140], "LGIR"]),
       ("west", "loop", 115, 5000, ("Western Crete", "Nyugat-Kréta"), ("About an hour from Chania: Samaria Gorge, Elafonisi and Balos lagoon.", "Kb. egy óra Haniából: Szamaria-szurdok, Elafonisi és a Balosz-lagúna."),
-       ["LGSA", ["Balos Lagoon", 35.5880, 23.5880], ["Elafonisi Beach", 35.2740, 23.5420], ["Samaria Gorge", 35.2780, 23.9560], ["Chania Old Port", 35.5176, 24.0180], "LGSA"])])
+       ["LGSA", ["Balos Lagoon", 35.5880, 23.5880], ["Elafonisi Beach", 35.2740, 23.5420], ["Samaria Gorge", 35.2780, 23.9560], ["Chania Old Port", 35.5176, 24.0180], "LGSA"]),
+      ("grand", "loop", 115, 4000, ("Crete grand loop", "Kréta nagy kör"), ("The east and south of the island: Spinalonga, Vai palm beach, Zakros, Chrissi island, Matala and Mount Ida.", "A sziget keleti és déli fele: Spinalonga, a Vai pálmaliget, Zakrosz, Chrissi-sziget, Matala és az Ida-hegy."),
+       ["LGIR", ["Spinalonga", 35.2989, 25.7390], ["Vai Palm Beach", 35.2520, 26.2610], ["Zakros", 35.0980, 26.2610], ["Chrissi Island", 34.8830, 25.7050], ["Matala", 34.9940, 24.7490], ["Mount Ida", 35.2280, 24.7740], ["Knossos Palace", 35.2980, 25.1630], "LGIR"])])
 tour("berlin", DE, ("Berlin and Potsdam", "Berlin és Potsdam"), ("Brandenburg Gate", "Brandenburgi kapu", 52.5163, 13.3777), ["city", "culture", "unesco"],
      ("The Reichstag, the Brandenburg Gate, the TV Tower and Sanssouci, the Prussian kings' summer palace in Potsdam.", "A Reichstag, a Brandenburgi kapu, a tévétorony és a potsdami Sanssouci, a porosz királyok nyári palotája."), [],
      [("short", "loop", 90, 2500, ("Berlin short", "Berlin rövid"), ("Short loop over the centre: TV Tower, Reichstag and the Brandenburg Gate.", "Rövid kör a belváros felett: tévétorony, Reichstag és Brandenburgi kapu."),
@@ -77,10 +79,18 @@ tour("sf-bay", US, ("San Francisco Bay", "San Francisco-öböl"), ("Golden Gate 
      ("The Golden Gate, Alcatraz and the Bay Bridge, with the fog rolling in from the Pacific.", "A Golden Gate, Alcatraz és a Bay Bridge, miközben a köd gördül be a Csendes-óceán felől."), [],
      [("loop", "loop", 95, 1800, ("Bay loop", "Öböl-kör"), ("Ocean Beach, the Golden Gate Bridge, Alcatraz and the Bay Bridge.", "Ocean Beach, Golden Gate híd, Alcatraz és a Bay Bridge."),
        ["KSFO", ["Ocean Beach", 37.7600, -122.5100], ["Golden Gate Bridge", 37.8199, -122.4783], ["Alcatraz Island", 37.8267, -122.4230], ["Bay Bridge", 37.7983, -122.3778], "KSFO"])])
-tour("oahu", US, ("Oahu, Hawaii", "Oahu, Hawaii"), ("Diamond Head", "Diamond Head", 21.2619, -157.8058), ["island", "coast", "volcano"],
-     ("Diamond Head crater, Hanauma Bay, Kualoa and Pearl Harbor: the island of Oahu from above.", "A Diamond Head kráter, a Hanauma-öböl, Kualoa és Pearl Harbor: Oahu szigete felülről."), [],
+tour("oahu", US, ("Hawaiian Islands", "Hawaii szigetei"), ("Diamond Head", "Diamond Head", 21.2619, -157.8058), ["island", "coast", "volcano"],
+     ("Oahu's Diamond Head and Pearl Harbor, the Na Pali cliffs of Kauai, Maui's Haleakala crater and the volcanoes of the Big Island.", "Oahu Diamond Head-je és Pearl Harbor, Kauai Na Pali-sziklái, Maui Haleakala-kráterje és a Nagy-sziget vulkánjai."), [],
      [("loop", "loop", 100, 2000, ("Oahu loop", "Oahu-kör"), ("Diamond Head, Hanauma Bay, Kualoa and Pearl Harbor.", "Diamond Head, Hanauma-öböl, Kualoa és Pearl Harbor."),
-       ["PHNL", ["Diamond Head", 21.2619, -157.8058], ["Hanauma Bay", 21.2690, -157.6940], ["Makapuu Point Lighthouse", 21.3103, -157.6490], ["Kualoa Ranch", 21.5222, -157.8369], ["Pearl Harbor", 21.3649, -157.9500], "PHNL"])])
+       ["PHNL", ["Diamond Head", 21.2619, -157.8058], ["Hanauma Bay", 21.2690, -157.6940], ["Makapuu Point Lighthouse", 21.3103, -157.6490], ["Kualoa Ranch", 21.5222, -157.8369], ["Pearl Harbor", 21.3649, -157.9500], "PHNL"]),
+      ("kauai", "loop", 100, 4500, ("Kauai: Na Pali and Waimea", "Kauai: Na Pali és Waimea"), ("From Lihue: Wailua Falls, Waimea Canyon, the Na Pali coast and Hanalei Bay.", "Lihue felől: Wailua-vízesés, Waimea-kanyon, a Na Pali-part és a Hanalei-öböl."),
+       ["PHLI", ["Wailua Falls", 22.0467, -159.3786], ["Waimea Canyon", 22.0714, -159.6638], ["Kalalau Valley", 22.1700, -159.6400], ["Hanalei Bay", 22.2035, -159.5013], "PHLI"]),
+      ("maui", "loop", 105, 11000, ("Maui: Haleakala and Hana", "Maui: Haleakala és Hana"), ("From Kahului: Iao Valley, Lahaina, Molokini and the Haleakala crater, back over the Hana coast.", "Kahuluiból: Iao-völgy, Lahaina, Molokini és a Haleakala-kráter, vissza a Hana-part felett."),
+       ["PHOG", ["Iao Valley", 20.8830, -156.5460], ["Lahaina", 20.8783, -156.6825], ["Molokini Crater", 20.6300, -156.4960], ["Haleakala Crater", 20.7097, -156.2533], ["Hana", 20.7580, -155.9890], "PHOG"]),
+      ("bigisland", "loop", 110, 14500, ("Big Island volcanoes", "A Nagy-sziget vulkánjai"), ("From Hilo: Akaka Falls, Mauna Kea and the Kilauea crater.", "Hilóból: Akaka-vízesés, Mauna Kea és a Kilauea-kráter."),
+       ["PHTO", ["Akaka Falls", 19.8550, -155.1530], ["Mauna Kea", 19.8206, -155.4681], ["Kilauea Crater", 19.4069, -155.2834], ["Rainbow Falls", 19.7220, -155.1100], "PHTO"]),
+      ("hop", "ab", 110, 5500, ("Island hop: Oahu to Maui", "Szigetugrás: Oahutól Mauiig"), ("A one-way hop over the channel islands: Diamond Head, Molokai's sea cliffs, Lanai and Molokini.", "Egyirányú szigetugrás: Diamond Head, Molokai tengeri sziklái, Lanai és Molokini."),
+       ["PHNL", ["Diamond Head", 21.2619, -157.8058], ["Kalaupapa", 21.1888, -156.9830], ["Lanai City", 20.8270, -156.9200], ["Molokini Crater", 20.6300, -156.4960], "PHOG"])])
 
 # ---------------- Del-Amerika ----------------
 tour("machu-picchu", PE, ("Machu Picchu and the Sacred Valley", "Machu Picchu és a Szent-völgy"), ("Machu Picchu", "Machu Picchu", -13.1631, -72.5450), ["mountain", "culture", "unesco"],
@@ -108,7 +118,9 @@ tour("cape-town", ZA, ("Cape Town and the Cape Peninsula", "Fokváros és a Fok-
 tour("giza", EG, ("Cairo and the Pyramids", "Kairó és a piramisok"), ("Pyramids of Giza", "Gízai piramisok", 29.9792, 31.1342), ["culture", "unesco", "city"],
      ("The Pyramids of Giza, the step pyramid of Saqqara and the Nile cutting through Cairo.", "A gízai piramisok, a szakkarai lépcsős piramis és a Kairón átfolyó Nílus."), [],
      [("loop", "loop", 100, 3500, ("Pyramids loop", "Piramis-kör"), ("The Cairo Citadel, the Pyramids of Giza, Saqqara and Dahshur.", "A kairói fellegvár, a gízai piramisok, Szakkara és Dahsúr."),
-       ["HECA", ["Cairo Citadel", 30.0287, 31.2612], ["Pyramids of Giza", 29.9792, 31.1342], ["Step Pyramid of Djoser", 29.8713, 31.2165], ["Red Pyramid", 29.8089, 31.2062], "HECA"])])
+       ["HECA", ["Cairo Citadel", 30.0287, 31.2612], ["Pyramids of Giza", 29.9792, 31.1342], ["Step Pyramid of Djoser", 29.8713, 31.2165], ["Red Pyramid", 29.8089, 31.2062], "HECA"]),
+      ("fayum", "loop", 110, 4000, ("Pyramids and the Fayum", "Piramisok és a Fajjúm"), ("About an hour and a half: Giza, Saqqara, Dahshur, the Meidum pyramid and Lake Qarun in the Fayum oasis.", "Kb. másfél óra: Gíza, Szakkara, Dahsúr, a meidumi piramis és a Qarún-tó a Fajjúm-oázisban."),
+       ["HECA", ["Cairo Citadel", 30.0287, 31.2612], ["Pyramids of Giza", 29.9792, 31.1342], ["Step Pyramid of Djoser", 29.8713, 31.2165], ["Red Pyramid", 29.8089, 31.2062], ["Meidum Pyramid", 29.3881, 31.1572], ["Lake Qarun", 29.4700, 30.6700], "HECA"])])
 tour("kilimanjaro", TZ, ("Kilimanjaro and Amboseli", "Kilimandzsáró és Amboseli"), ("Mount Kilimanjaro", "Kilimandzsáró", -3.0674, 37.3556), ["mountain", "volcano"],
      ("Africa's highest peak above the savanna: Kilimanjaro, Mount Meru and the elephants of Amboseli.", "Afrika legmagasabb csúcsa a szavanna felett: a Kilimandzsáró, a Meru-hegy és Amboseli elefántjai."), [],
      [("loop", "loop", 110, 10500, ("Kilimanjaro loop", "Kilimandzsáró-kör"), ("Mount Meru, Amboseli and the summit of Kilimanjaro.", "A Meru-hegy, Amboseli és a Kilimandzsáró csúcsa."),
@@ -144,6 +156,11 @@ tour("hong-kong", HK, ("Hong Kong", "Hongkong"), ("Victoria Peak", "Victoria-cs�
      [("loop", "loop", 110, 2500, ("Harbour loop", "Kikötő-kör"), ("The Tsing Ma Bridge, Victoria Harbour, Victoria Peak and the Tian Tan Buddha.", "A Tsing Ma híd, a Victoria-kikötő, a Victoria-csúcs és a Tian Tan Buddha."),
        ["VHHH", ["Tsing Ma Bridge", 22.3500, 114.0430], ["Victoria Harbour", 22.2900, 114.1700], ["Victoria Peak", 22.2759, 114.1455], ["Tian Tan Buddha", 22.2540, 113.9047], ["~", 22.2900, 113.8700], "VHHH"])])
 
+CONT = {"new-york": "NA", "grand-canyon": "NA", "sf-bay": "NA", "oahu": "NA", "machu-picchu": "SA", "rio": "SA", "iguazu": "SA",
+        "cape-town": "AF", "giza": "AF", "kilimanjaro": "AF", "sydney": "OC", "whitsundays": "OC", "milford-sound": "OC",
+        "tokyo-fuji": "AS", "dubai": "AS", "hong-kong": "AS"}
+for t in T:
+    t["continent"] = CONT.get(t["id"], "EU")
 NEW = [t["id"] for t in T]
 save()
 d = json.load(open(P, encoding="utf-8"))

@@ -1481,8 +1481,7 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "cinque-terre",
@@ -4876,8 +4875,7 @@
      45.459,
      12.353
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "garda",
@@ -5087,8 +5085,7 @@
      49.9833,
      20.055
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "stockholm",
@@ -5169,8 +5166,7 @@
      59.3215,
      17.886
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "copenhagen",
@@ -5294,8 +5290,7 @@
      55.6798,
      12.5911
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "helsinki",
@@ -5371,8 +5366,7 @@
      60.1731,
      24.9255
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "lofoten",
@@ -5496,8 +5490,7 @@
      67.946,
      13.133
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "slovenia",
@@ -5616,8 +5609,7 @@
      46.0489,
      14.5086
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "malta",
@@ -5698,8 +5690,7 @@
      35.886,
      14.4025
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "transylvania",
@@ -5818,8 +5809,7 @@
      45.7983,
      24.1519
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "montenegro",
@@ -5928,8 +5918,7 @@
      42.2554,
      18.8912
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "netherlands",
@@ -6053,8 +6042,7 @@
      52.37,
      4.89
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "belgium",
@@ -6173,8 +6161,7 @@
      50.8947,
      4.3415
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "tatras-slovakia",
@@ -6298,8 +6285,7 @@
      49.119,
      20.06
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "bulgaria",
@@ -6409,8 +6395,7 @@
      42.6958,
      23.3328
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "istria",
@@ -6490,8 +6475,7 @@
      44.915,
      13.765
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "ireland-west",
@@ -6615,8 +6599,7 @@
      52.7011,
      -8.8115
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "cyprus",
@@ -6735,8 +6718,7 @@
      34.7783,
      32.407
     ]
-   ],
-   "new": true
+   ]
   },
   {
    "id": "lisbon-sintra",
@@ -6875,8 +6857,7 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "algarve",
@@ -7003,8 +6984,7 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "istanbul",
@@ -7133,8 +7113,7 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "cappadocia",
@@ -7257,8 +7236,7 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "mallorca",
@@ -7381,8 +7359,7 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "crete",
@@ -7493,6 +7470,60 @@
        24.018
       ],
       "LGSA"
+     ]
+    },
+    {
+     "id": "grand",
+     "kind": "loop",
+     "kt": 115,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Crete grand loop",
+      "hu": "Kréta nagy kör"
+     },
+     "desc": {
+      "en": "The east and south of the island: Spinalonga, Vai palm beach, Zakros, Chrissi island, Matala and Mount Ida.",
+      "hu": "A sziget keleti és déli fele: Spinalonga, a Vai pálmaliget, Zakrosz, Chrissi-sziget, Matala és az Ida-hegy."
+     },
+     "pts": [
+      "LGIR",
+      [
+       "Spinalonga",
+       35.2989,
+       25.739
+      ],
+      [
+       "Vai Palm Beach",
+       35.252,
+       26.261
+      ],
+      [
+       "Zakros",
+       35.098,
+       26.261
+      ],
+      [
+       "Chrissi Island",
+       34.883,
+       25.705
+      ],
+      [
+       "Matala",
+       34.994,
+       24.749
+      ],
+      [
+       "Mount Ida",
+       35.228,
+       24.774
+      ],
+      [
+       "Knossos Palace",
+       35.298,
+       25.163
+      ],
+      "LGIR"
      ]
     }
    ],
@@ -7620,8 +7651,7 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "faroe",
@@ -7744,8 +7774,7 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "brittany",
@@ -7878,12 +7907,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "new-york",
-   "continent": "EU",
+   "continent": "NA",
    "country": {
     "en": "United States",
     "hu": "Egyesült Államok"
@@ -7968,12 +7996,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "grand-canyon",
-   "continent": "EU",
+   "continent": "NA",
    "country": {
     "en": "United States",
     "hu": "Egyesült Államok"
@@ -8038,12 +8065,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "sf-bay",
-   "continent": "EU",
+   "continent": "NA",
    "country": {
     "en": "United States",
     "hu": "Egyesült Államok"
@@ -8108,19 +8134,18 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "oahu",
-   "continent": "EU",
+   "continent": "NA",
    "country": {
     "en": "United States",
     "hu": "Egyesült Államok"
    },
    "name": {
-    "en": "Oahu, Hawaii",
-    "hu": "Oahu, Hawaii"
+    "en": "Hawaiian Islands",
+    "hu": "Hawaii szigetei"
    },
    "main": {
     "en": "Diamond Head",
@@ -8134,8 +8159,8 @@
     "volcano"
    ],
    "desc": {
-    "en": "Diamond Head crater, Hanauma Bay, Kualoa and Pearl Harbor: the island of Oahu from above.",
-    "hu": "A Diamond Head kráter, a Hanauma-öböl, Kualoa és Pearl Harbor: Oahu szigete felülről."
+    "en": "Oahu's Diamond Head and Pearl Harbor, the Na Pali cliffs of Kauai, Maui's Haleakala crater and the volcanoes of the Big Island.",
+    "hu": "Oahu Diamond Head-je és Pearl Harbor, Kauai Na Pali-sziklái, Maui Haleakala-kráterje és a Nagy-sziget vulkánjai."
    },
    "variants": [
     {
@@ -8181,6 +8206,182 @@
       ],
       "PHNL"
      ]
+    },
+    {
+     "id": "kauai",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Kauai: Na Pali and Waimea",
+      "hu": "Kauai: Na Pali és Waimea"
+     },
+     "desc": {
+      "en": "From Lihue: Wailua Falls, Waimea Canyon, the Na Pali coast and Hanalei Bay.",
+      "hu": "Lihue felől: Wailua-vízesés, Waimea-kanyon, a Na Pali-part és a Hanalei-öböl."
+     },
+     "pts": [
+      "PHLI",
+      [
+       "Waimea Canyon",
+       22.0714,
+       -159.6638
+      ],
+      [
+       "Kalalau Valley",
+       22.17,
+       -159.64
+      ],
+      [
+       "Hanalei Bay",
+       22.2035,
+       -159.5013
+      ],
+      [
+       "Wailua Falls",
+       22.0467,
+       -159.3786
+      ],
+      "PHLI"
+     ]
+    },
+    {
+     "id": "maui",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 11000,
+     "stol": false,
+     "label": {
+      "en": "Maui: Haleakala and Hana",
+      "hu": "Maui: Haleakala és Hana"
+     },
+     "desc": {
+      "en": "From Kahului: Iao Valley, Lahaina, Molokini and the Haleakala crater, back over the Hana coast.",
+      "hu": "Kahuluiból: Iao-völgy, Lahaina, Molokini és a Haleakala-kráter, vissza a Hana-part felett."
+     },
+     "pts": [
+      "PHOG",
+      [
+       "Iao Valley",
+       20.883,
+       -156.546
+      ],
+      [
+       "Lahaina",
+       20.8783,
+       -156.6825
+      ],
+      [
+       "~",
+       20.8461,
+       -156.6996
+      ],
+      [
+       "Molokini Crater",
+       20.63,
+       -156.496
+      ],
+      [
+       "Haleakala Crater",
+       20.7097,
+       -156.2533
+      ],
+      [
+       "Hana",
+       20.758,
+       -155.989
+      ],
+      [
+       "~",
+       20.8208,
+       -155.9846
+      ],
+      "PHOG"
+     ]
+    },
+    {
+     "id": "bigisland",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 14500,
+     "stol": false,
+     "label": {
+      "en": "Big Island volcanoes",
+      "hu": "A Nagy-sziget vulkánjai"
+     },
+     "desc": {
+      "en": "From Hilo: Akaka Falls, Mauna Kea and the Kilauea crater.",
+      "hu": "Hilóból: Akaka-vízesés, Mauna Kea és a Kilauea-kráter."
+     },
+     "pts": [
+      "PHTO",
+      [
+       "Kilauea Crater",
+       19.4069,
+       -155.2834
+      ],
+      [
+       "~",
+       19.4176,
+       -155.3851
+      ],
+      [
+       "Mauna Kea",
+       19.8206,
+       -155.4681
+      ],
+      [
+       "Akaka Falls",
+       19.855,
+       -155.153
+      ],
+      [
+       "Rainbow Falls",
+       19.722,
+       -155.11
+      ],
+      "PHTO"
+     ]
+    },
+    {
+     "id": "hop",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Island hop: Oahu to Maui",
+      "hu": "Szigetugrás: Oahutól Mauiig"
+     },
+     "desc": {
+      "en": "A one-way hop over the channel islands: Diamond Head, Molokai's sea cliffs, Lanai and Molokini.",
+      "hu": "Egyirányú szigetugrás: Diamond Head, Molokai tengeri sziklái, Lanai és Molokini."
+     },
+     "pts": [
+      "PHNL",
+      [
+       "Diamond Head",
+       21.2619,
+       -157.8058
+      ],
+      [
+       "Kalaupapa",
+       21.1888,
+       -156.983
+      ],
+      [
+       "Lanai City",
+       20.827,
+       -156.92
+      ],
+      [
+       "Molokini Crater",
+       20.63,
+       -156.496
+      ],
+      "PHOG"
+     ]
     }
    ],
    "pois": [],
@@ -8188,7 +8389,7 @@
   },
   {
    "id": "machu-picchu",
-   "continent": "EU",
+   "continent": "SA",
    "country": {
     "en": "Peru",
     "hu": "Peru"
@@ -8302,12 +8503,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "rio",
-   "continent": "EU",
+   "continent": "SA",
    "country": {
     "en": "Brazil",
     "hu": "Brazília"
@@ -8388,12 +8588,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "iguazu",
-   "continent": "EU",
+   "continent": "SA",
    "country": {
     "en": "Brazil",
     "hu": "Brazília"
@@ -8463,12 +8662,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "cape-town",
-   "continent": "EU",
+   "continent": "AF",
    "country": {
     "en": "South Africa",
     "hu": "Dél-Afrika"
@@ -8582,12 +8780,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "giza",
-   "continent": "EU",
+   "continent": "AF",
    "country": {
     "en": "Egypt",
     "hu": "Egyiptom"
@@ -8655,6 +8852,55 @@
       ],
       "HECA"
      ]
+    },
+    {
+     "id": "fayum",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Pyramids and the Fayum",
+      "hu": "Piramisok és a Fajjúm"
+     },
+     "desc": {
+      "en": "About an hour and a half: Giza, Saqqara, Dahshur, the Meidum pyramid and Lake Qarun in the Fayum oasis.",
+      "hu": "Kb. másfél óra: Gíza, Szakkara, Dahsúr, a meidumi piramis és a Qarún-tó a Fajjúm-oázisban."
+     },
+     "pts": [
+      "HECA",
+      [
+       "Step Pyramid of Djoser",
+       29.8713,
+       31.2165
+      ],
+      [
+       "Red Pyramid",
+       29.8089,
+       31.2062
+      ],
+      [
+       "Meidum Pyramid",
+       29.3881,
+       31.1572
+      ],
+      [
+       "Lake Qarun",
+       29.47,
+       30.67
+      ],
+      [
+       "Pyramids of Giza",
+       29.9792,
+       31.1342
+      ],
+      [
+       "Cairo Citadel",
+       30.0287,
+       31.2612
+      ],
+      "HECA"
+     ]
     }
    ],
    "pois": [],
@@ -8662,7 +8908,7 @@
   },
   {
    "id": "kilimanjaro",
-   "continent": "EU",
+   "continent": "AF",
    "country": {
     "en": "Tanzania",
     "hu": "Tanzánia"
@@ -8726,12 +8972,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "sydney",
-   "continent": "EU",
+   "continent": "OC",
    "country": {
     "en": "Australia",
     "hu": "Ausztrália"
@@ -8816,12 +9061,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "whitsundays",
-   "continent": "EU",
+   "continent": "OC",
    "country": {
     "en": "Australia",
     "hu": "Ausztrália"
@@ -8880,12 +9124,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "milford-sound",
-   "continent": "EU",
+   "continent": "OC",
    "country": {
     "en": "New Zealand",
     "hu": "Új-Zéland"
@@ -8955,12 +9198,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "tokyo-fuji",
-   "continent": "EU",
+   "continent": "AS",
    "country": {
     "en": "Japan",
     "hu": "Japán"
@@ -9085,12 +9327,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "dubai",
-   "continent": "EU",
+   "continent": "AS",
    "country": {
     "en": "United Arab Emirates",
     "hu": "Egyesült Arab Emírségek"
@@ -9165,12 +9406,11 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   },
   {
    "id": "hong-kong",
-   "continent": "EU",
+   "continent": "AS",
    "country": {
     "en": "Hong Kong",
     "hu": "Hongkong"
@@ -9255,8 +9495,7 @@
      ]
     }
    ],
-   "pois": [],
-   "new": true
+   "pois": []
   }
  ]
 }
