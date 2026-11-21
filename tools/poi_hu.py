@@ -92,3 +92,10 @@ HU = {
 "Tanah Lot": "Tanah Lot", "Nusa Penida": "Nusa Penida Kelingking", "Tegallalang Rice Terraces": "Tegallalang rizsteraszok", "Mount Batur": "Batur-hegy", "Mount Agung": "Agung-hegy", "Marina Bay Sands": "Marina Bay Sands", "Sentosa": "Sentosa", "Jurong Lake Gardens": "Jurong-tó",
 "Pulau Ubin": "Pulau Ubin",
 }
+
+try:
+    from poi_r3 import NEW as _N3
+    for _k, (_h, _x) in _N3.items():
+        HU[_k] = (_h + " " + _x).strip()
+except ImportError:
+    pass

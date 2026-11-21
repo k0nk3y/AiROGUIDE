@@ -39,6 +39,9 @@ HUN = {
 "Ol Doinyo Lengai": "Ol Doinyo Lengai", "Kata Tjuta": "Kata Tjuta", "Mount Olga Lookout": "Mount Olga kilátó", "Uluru": "Uluru", "Bells Beach": "Bells Beach", "Cape Otway Lighthouse": "Cape Otway világítótornya",
 "Twelve Apostles": "Tizenkét Apostol", "Aoraki / Mount Cook": "Aoraki / Mount Cook", "Taputapuatea Marae": "Taputapuatea marae", "Nusa Penida": "Nusa Penida", "Marina Bay Sands": "Marina Bay Sands",
 }
+from poi_r3 import NEW as _N3
+for _k, (_h, _x) in _N3.items():
+    HUN[_k] = _h
 P = os.path.join(ROOT, "data", "tour_pois.json")
 old = json.load(open(P, encoding="utf-8")).get("pois", {}) if os.path.exists(P) else {}
 out = {}

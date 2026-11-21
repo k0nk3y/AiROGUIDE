@@ -20,6 +20,10 @@ IMG = {
 "torres-del-paine": "Torres del Paine National Park", "perito-moreno": "Perito Moreno Glacier", "galapagos": "Galápagos Islands", "buenos-aires": "Buenos Aires Obelisk", "marrakech-atlas": "Koutoubia Mosque",
 "victoria-falls": "Victoria Falls", "luxor": "Karnak", "ngorongoro": "Ngorongoro Conservation Area", "uluru": "Uluru", "great-ocean-road": "Twelve Apostles (Victoria)", "aoraki": "Aoraki / Mount Cook",
 "bora-bora": "Mount Otemanu", "bali": "Tanah Lot", "singapore": "Marina Bay Sands",
+"okavango": "Okavango Delta", "sossusvlei": "Sossusvlei", "seychelles": "Anse Source d'Argent", "garden-route": "Knysna", "petra-wadi-rum": "Petra", "maldives": "Ari Atoll",
+"halong": "Ha Long Bay", "kyoto-osaka": "Fushimi Inari-taisha", "beijing": "Great Wall of China", "phuket": "Phi Phi Islands", "denali": "Denali", "monument-valley": "Monument Valley",
+"toronto-niagara": "CN Tower", "big-island": "Kīlauea", "florida-keys": "Seven Mile Bridge (Florida)", "easter-island": "Ahu Tongariki", "atacama": "Atacama Desert", "tasmania": "Wineglass Bay",
+"cairns": "Great Barrier Reef", "fiji": "Mamanuca Islands", "madeira": "Madeira", "tenerife": "Teide", "paris": "Eiffel Tower",
 }
 P = os.path.join(ROOT, "data", "tours.json")
 d = json.load(open(P, encoding="utf-8"))

@@ -1,1 +1,4 @@
 great-ocean-road/loop
+
+beijing/long
+paris/city

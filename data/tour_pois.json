@@ -1903,6 +1903,530 @@
 },
 "Pulau Ubin":{
 "hu":"Pulau Ubin"
+},
+"Moremi Game Reserve":{
+"hu":"Moremi vadrezervátum",
+"k":"Moremi vadrezervátum Moremi természetvédelmi terület szafari"
+},
+"Chief's Island":{
+"hu":"Chief-sziget",
+"k":"Chief-sziget Chiefs Island"
+},
+"Khwai River":{
+"hu":"Khwai-folyó",
+"k":"Khwai-folyó Khwai"
+},
+"Lake Ngami":{
+"hu":"Ngami-tó",
+"k":"Ngami-tó Ngami"
+},
+"Sossusvlei":{
+"hu":"Sossusvlei",
+"k":"Sossusvlei Szosszuszvlej Namib vörös dűnék"
+},
+"Deadvlei":{
+"hu":"Deadvlei",
+"k":"Deadvlei Halott-völgy kiszáradt fák"
+},
+"Dune 45":{
+"hu":"Dune 45",
+"k":"Dune 45 45-ös dűne"
+},
+"Big Daddy Dune":{
+"hu":"Big Daddy-dűne",
+"k":"Big Daddy-dűne Big Daddy"
+},
+"Naukluft Mountains":{
+"hu":"Naukluft-hegység",
+"k":"Naukluft-hegység Naukluft"
+},
+"Victoria (Seychelles)":{
+"hu":"Victoria (Seychelle-szigetek)",
+"k":"Victoria (Seychelle-szigetek) Victoria főváros Mahé"
+},
+"Beau Vallon":{
+"hu":"Beau Vallon",
+"k":"Beau Vallon Beau Vallon strand"
+},
+"Morne Seychellois":{
+"hu":"Morne Seychellois",
+"k":"Morne Seychellois Morne Seychellois nemzeti park"
+},
+"Anse Lazio":{
+"hu":"Anse Lazio",
+"k":"Anse Lazio Anse Lazio strand Praslin"
+},
+"Curieuse Island":{
+"hu":"Curieuse-sziget",
+"k":"Curieuse-sziget Curieuse"
+},
+"Vallée de Mai":{
+"hu":"Vallée de Mai",
+"k":"Vallée de Mai Vallée de Mai tengeri kókuszpálma"
+},
+"Anse Source d'Argent":{
+"hu":"Anse Source d'Argent",
+"k":"Anse Source d'Argent La Digue strand Ezüstforrás"
+},
+"Wilderness":{
+"hu":"Wilderness",
+"k":"Wilderness Wilderness nemzeti park"
+},
+"Plettenberg Bay":{
+"hu":"Plettenberg-öböl",
+"k":"Plettenberg-öböl Plettenberg Bay"
+},
+"Knysna Heads":{
+"hu":"Knysna Heads",
+"k":"Knysna Heads Knysna-lagúna sziklakapu"
+},
+"Bloukrans Bridge":{
+"hu":"Bloukrans-híd",
+"k":"Bloukrans-híd bungee jumping híd"
+},
+"Storms River Mouth":{
+"hu":"Storms River Mouth",
+"k":"Storms River Mouth Tsitsikamma Viharfolyó torkolat"
+},
+"Robberg Peninsula":{
+"hu":"Robberg-félsziget",
+"k":"Robberg-félsziget Robberg"
+},
+"Aqaba Fort":{
+"hu":"Akabai erőd",
+"k":"Akabai erőd Akaba Vörös-tenger"
+},
+"Wadi Rum":{
+"hu":"Wadi Rum",
+"k":"Wadi Rum Wadi Rum Holdvölgy sivatag Lawrence"
+},
+"Jebel Burdah":{
+"hu":"Jebel Burdah",
+"k":"Jebel Burdah Burdah kőhíd"
+},
+"Petra":{
+"hu":"Petra",
+"k":"Petra Petra Nabateus Kincstár Al-Khazneh"
+},
+"Little Petra":{
+"hu":"Kis-Petra",
+"k":"Kis-Petra Siq al-Barid"
+},
+"Maafushi":{
+"hu":"Maafushi",
+"k":"Maafushi Maafushi sziget"
+},
+"Malé":{
+"hu":"Malé",
+"k":"Malé Malé főváros"
+},
+"Banana Reef":{
+"hu":"Banana Reef",
+"k":"Banana Reef Banán-zátony"
+},
+"Ari Atoll":{
+"hu":"Ari-atoll",
+"k":"Ari-atoll Ari atoll"
+},
+"Rasdhoo Atoll":{
+"hu":"Rasdhoo-atoll",
+"k":"Rasdhoo-atoll Rasdhoo"
+},
+"Hoan Kiem Lake":{
+"hu":"Hoan Kiem-tó",
+"k":"Hoan Kiem-tó Hoàn Kiếm Kardtó Hanoi"
+},
+"Tam Coc":{
+"hu":"Tam Coc",
+"k":"Tam Coc Ninh Binh Tam Cốc szárazföldi Ha Long"
+},
+"Tam Dao":{
+"hu":"Tam Dao",
+"k":"Tam Dao Tam Đảo hegy"
+},
+"Cat Ba Island":{
+"hu":"Cat Ba-sziget",
+"k":"Cat Ba-sziget Cát Bà"
+},
+"Bai Chay Bridge":{
+"hu":"Bai Chay-híd",
+"k":"Bai Chay-híd Bãi Cháy"
+},
+"Ha Long Bay":{
+"hu":"Ha Long-öböl",
+"k":"Ha Long-öböl Ha Long Halong Hạ Long Bay"
+},
+"Bai Tu Long Bay":{
+"hu":"Bai Tu Long-öböl",
+"k":"Bai Tu Long-öböl Bái Tử Long"
+},
+"Tōdai-ji":{
+"hu":"Tódaidzsi",
+"k":"Tódaidzsi Todaiji Nara nagy Buddha"
+},
+"Osaka Castle":{
+"hu":"Oszakai kastély",
+"k":"Oszakai kastély Oszaka vár Osaka"
+},
+"Akashi Kaikyō Bridge":{
+"hu":"Akasi-Kaikjó híd",
+"k":"Akasi-Kaikjó híd Akashi Kaikyo Pearl Bridge"
+},
+"Fushimi Inari Shrine":{
+"hu":"Fushimi Inari szentély",
+"k":"Fushimi Inari szentély Fushimi Inari Kiotó torii kapuk"
+},
+"Kinkaku-ji":{
+"hu":"Kinkakudzsi",
+"k":"Kinkakudzsi Aranypavilon Kiotó Golden Pavilion"
+},
+"Mutianyu Great Wall":{
+"hu":"Nagy Fal, Mutianyu",
+"k":"Nagy Fal, Mutianyu Nagy Fal Kínai fal Mutianyu"
+},
+"Bird's Nest":{
+"hu":"Madárfészek stadion",
+"k":"Madárfészek stadion Pekingi Nemzeti Stadion Birds Nest"
+},
+"Forbidden City":{
+"hu":"Tiltott Város",
+"k":"Tiltott Város Peking császári palota"
+},
+"Temple of Heaven":{
+"hu":"Éghez szentelt templom",
+"k":"Éghez szentelt templom Mennyei templom Peking"
+},
+"Badaling Great Wall":{
+"hu":"Nagy Fal, Badaling",
+"k":"Nagy Fal, Badaling Nagy Fal Kínai fal Badaling"
+},
+"Ming Tombs":{
+"hu":"Ming-sírok",
+"k":"Ming-sírok Ming-sírok Peking"
+},
+"Summer Palace":{
+"hu":"Nyári Palota",
+"k":"Nyári Palota Peking Yiheyuan"
+},
+"Patong Beach":{
+"hu":"Patong-part",
+"k":"Patong-part Patong Phuket strand"
+},
+"Promthep Cape":{
+"hu":"Promthep-fok",
+"k":"Promthep-fok Promthep naplemente"
+},
+"Big Buddha (Phuket)":{
+"hu":"Nagy Buddha (Phuket)",
+"k":"Nagy Buddha (Phuket) Phuket Buddha"
+},
+"Phang Nga Bay":{
+"hu":"Phang Nga-öböl",
+"k":"Phang Nga-öböl Phang Nga James Bond sziget"
+},
+"Railay Beach":{
+"hu":"Railay-part",
+"k":"Railay-part Railay Krabi"
+},
+"Phi Phi Islands":{
+"hu":"Phi Phi-szigetek",
+"k":"Phi Phi-szigetek Phi Phi Maya Bay"
+},
+"Kahiltna Glacier":{
+"hu":"Kahiltna-gleccser",
+"k":"Kahiltna-gleccser Kahiltna"
+},
+"Denali":{
+"hu":"Denali",
+"k":"Denali Denali McKinley Alaszka"
+},
+"Ruth Glacier":{
+"hu":"Ruth-gleccser",
+"k":"Ruth-gleccser Ruth gleccser"
+},
+"Mount Foraker":{
+"hu":"Mount Foraker",
+"k":"Mount Foraker Foraker Alaszka"
+},
+"Glen Canyon Dam":{
+"hu":"Glen Canyon-gát",
+"k":"Glen Canyon-gát Glen Canyon Dam Powell-tó"
+},
+"Horseshoe Bend":{
+"hu":"Horseshoe Bend",
+"k":"Horseshoe Bend Patkókanyar Colorado"
+},
+"Antelope Canyon":{
+"hu":"Antelope-kanyon",
+"k":"Antelope-kanyon Antilop kanyon Page"
+},
+"Monument Valley":{
+"hu":"Monument Valley",
+"k":"Monument Valley Emlékmű-völgy Navajo tanúhegyek"
+},
+"CN Tower":{
+"hu":"CN Tower",
+"k":"CN Tower CN torony Toronto"
+},
+"Scarborough Bluffs":{
+"hu":"Scarborough Bluffs",
+"k":"Scarborough Bluffs Scarborough sziklák"
+},
+"Casa Loma":{
+"hu":"Casa Loma",
+"k":"Casa Loma Casa Loma kastély Toronto"
+},
+"Niagara Falls":{
+"hu":"Niagara-vízesés",
+"k":"Niagara-vízesés Niagara Falls Niagara"
+},
+"Hamilton Skyway":{
+"hu":"Hamilton Skyway",
+"k":"Hamilton Skyway Burlington Skyway híd"
+},
+"Kīlauea":{
+"hu":"Kīlauea",
+"k":"Kīlauea Kilauea vulkán"
+},
+"Mauna Loa":{
+"hu":"Mauna Loa",
+"k":"Mauna Loa Mauna Loa vulkán"
+},
+"Punaluʻu Black Sand Beach":{
+"hu":"Punaluʻu fekete homokstrand",
+"k":"Punaluʻu fekete homokstrand Punalu'u fekete homok teknős"
+},
+"South Point":{
+"hu":"South Point",
+"k":"South Point Ka Lae déli pont"
+},
+"Pololu Valley":{
+"hu":"Pololu-völgy",
+"k":"Pololu-völgy Pololu"
+},
+"Waipiʻo Valley":{
+"hu":"Waipiʻo-völgy",
+"k":"Waipiʻo-völgy Waipio"
+},
+"Key Biscayne Lighthouse":{
+"hu":"Key Biscayne világítótorony",
+"k":"Key Biscayne világítótorony Cape Florida Light"
+},
+"Key Largo":{
+"hu":"Key Largo",
+"k":"Key Largo Key Largo"
+},
+"Seven Mile Bridge":{
+"hu":"Seven Mile Bridge",
+"k":"Seven Mile Bridge Hétmérföldes híd Florida Keys"
+},
+"Key West Old Town":{
+"hu":"Key West Old Town",
+"k":"Key West Old Town Key West óváros"
+},
+"Marquesas Keys":{
+"hu":"Marquesas Keys",
+"k":"Marquesas Keys Marquesas"
+},
+"Fort Jefferson":{
+"hu":"Fort Jefferson",
+"k":"Fort Jefferson Dry Tortugas erőd"
+},
+"Rano Kau":{
+"hu":"Rano Kau",
+"k":"Rano Kau Rano Kau kráter Orongo"
+},
+"Rano Raraku":{
+"hu":"Rano Raraku",
+"k":"Rano Raraku Rano Raraku moai kőfejtő"
+},
+"Ahu Tongariki":{
+"hu":"Ahu Tongariki",
+"k":"Ahu Tongariki Tongariki moai szobrok Húsvét-sziget"
+},
+"Anakena Beach":{
+"hu":"Anakena-part",
+"k":"Anakena-part Anakena strand"
+},
+"Chuquicamata":{
+"hu":"Chuquicamata",
+"k":"Chuquicamata Chuquicamata rézbánya"
+},
+"El Tatio Geysers":{
+"hu":"El Tatio gejzírek",
+"k":"El Tatio gejzírek El Tatio gejzír"
+},
+"Licancabur":{
+"hu":"Licancabur",
+"k":"Licancabur Licancabur vulkán"
+},
+"Laguna Miscanti":{
+"hu":"Miscanti-lagúna",
+"k":"Miscanti-lagúna Miscanti"
+},
+"Salar de Atacama":{
+"hu":"Salar de Atacama",
+"k":"Salar de Atacama Atacama sólapos sós tó"
+},
+"Valle de la Luna":{
+"hu":"Holdvölgy",
+"k":"Holdvölgy Valle de la Luna Atacama Moon Valley"
+},
+"Port Arthur":{
+"hu":"Port Arthur",
+"k":"Port Arthur Port Arthur fegyenctelep Tasmánia"
+},
+"Bruny Island":{
+"hu":"Bruny-sziget",
+"k":"Bruny-sziget Bruny"
+},
+"Mount Wellington":{
+"hu":"Wellington-hegy",
+"k":"Wellington-hegy kunanyi Hobart Mount Wellington"
+},
+"Wineglass Bay":{
+"hu":"Wineglass Bay",
+"k":"Wineglass Bay Boros pohár öböl Freycinet"
+},
+"Green Island":{
+"hu":"Green Island",
+"k":"Green Island Zöld-sziget Cairns"
+},
+"Michaelmas Cay":{
+"hu":"Michaelmas Cay",
+"k":"Michaelmas Cay Michaelmas zátony"
+},
+"Kuranda":{
+"hu":"Kuranda",
+"k":"Kuranda Kuranda esőerdő"
+},
+"Lake Eacham":{
+"hu":"Eacham-tó",
+"k":"Eacham-tó Eacham Atherton-fennsík"
+},
+"Daintree Rainforest":{
+"hu":"Daintree-esőerdő",
+"k":"Daintree-esőerdő Daintree"
+},
+"Cape Tribulation":{
+"hu":"Cape Tribulation",
+"k":"Cape Tribulation Tribulation-fok"
+},
+"Low Isles":{
+"hu":"Low Isles",
+"k":"Low Isles Low Isles világítótorony"
+},
+"Mamanuca Islands":{
+"hu":"Mamanuca-szigetek",
+"k":"Mamanuca-szigetek Mamanuca Mamanucák"
+},
+"Monuriki":{
+"hu":"Monuriki",
+"k":"Monuriki Cast Away Monuriki sziget"
+},
+"Cloudbreak":{
+"hu":"Cloudbreak",
+"k":"Cloudbreak Cloudbreak szörf"
+},
+"Yasawa Islands":{
+"hu":"Yasawa-szigetek",
+"k":"Yasawa-szigetek Yasawa"
+},
+"Blue Lagoon (Yasawa)":{
+"hu":"Kék-lagúna (Yasawa)",
+"k":"Kék-lagúna (Yasawa) Blue Lagoon Yasawa"
+},
+"Ponta de São Lourenço":{
+"hu":"Ponta de São Lourenço",
+"k":"Ponta de São Lourenço São Lourenço-fok"
+},
+"Pico Ruivo":{
+"hu":"Pico Ruivo",
+"k":"Pico Ruivo Pico Ruivo Madeira legmagasabb csúcs"
+},
+"Cabo Girão":{
+"hu":"Cabo Girão",
+"k":"Cabo Girão Girão-fok szikla üvegpadló"
+},
+"Funchal":{
+"hu":"Funchal",
+"k":"Funchal Funchal főváros"
+},
+"Porto Santo":{
+"hu":"Porto Santo",
+"k":"Porto Santo Porto Santo sziget"
+},
+"Porto Moniz":{
+"hu":"Porto Moniz",
+"k":"Porto Moniz Porto Moniz lávamedence"
+},
+"Playa de las Américas":{
+"hu":"Playa de las Américas",
+"k":"Playa de las Américas Las Américas"
+},
+"Los Gigantes Cliffs":{
+"hu":"Los Gigantes sziklák",
+"k":"Los Gigantes sziklák Los Gigantes Óriások"
+},
+"Masca Gorge":{
+"hu":"Masca-szurdok",
+"k":"Masca-szurdok Masca"
+},
+"Teide":{
+"hu":"Teide",
+"k":"Teide Teide vulkán Tenerife"
+},
+"Garajonay":{
+"hu":"Garajonay",
+"k":"Garajonay La Gomera nemzeti park babérerdő"
+},
+"Anaga Mountains":{
+"hu":"Anaga-hegység",
+"k":"Anaga-hegység Anaga"
+},
+"Santa Cruz de Tenerife":{
+"hu":"Santa Cruz de Tenerife",
+"k":"Santa Cruz de Tenerife Santa Cruz Tenerife"
+},
+"Arc de Triomphe":{
+"hu":"Diadalív",
+"k":"Diadalív Arc de Triomphe Párizs"
+},
+"Louvre":{
+"hu":"Louvre",
+"k":"Louvre Louvre múzeum Párizs Mona Lisa"
+},
+"La Défense":{
+"hu":"La Défense",
+"k":"La Défense La Défense Grande Arche"
+},
+"Disneyland Paris":{
+"hu":"Disneyland Paris",
+"k":"Disneyland Paris Disneyland Párizs Disney"
+},
+"Silhouette Island":{
+"hu":"Silhouette-sziget",
+"k":"Silhouette-sziget Silhouette"
+},
+"Sainte Anne Marine Park":{
+"hu":"Sainte Anne tengeri park",
+"k":"Sainte Anne tengeri park Sainte Anne Marine National Park"
+},
+"Lone Rock Beach":{
+"hu":"Lone Rock Beach",
+"k":"Lone Rock Beach Lone Rock Powell-tó"
+},
+"Mississauga Skyline":{
+"hu":"Mississauga látképe",
+"k":"Mississauga látképe Mississauga"
+},
+"Château de Vincennes":{
+"hu":"Vincennes-i vár",
+"k":"Vincennes-i vár Vincennes kastély Párizs"
+},
+"Stade de France":{
+"hu":"Stade de France",
+"k":"Stade de France Stade de France stadion"
 }
 }
 }

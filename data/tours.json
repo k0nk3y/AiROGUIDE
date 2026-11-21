@@ -11585,6 +11585,2717 @@
    "new": true,
    "kw": "Marina Bay Sands Sentosa Jurong-tó Pulau Ubin",
    "img": "Marina Bay Sands"
+  },
+  {
+   "id": "okavango",
+   "continent": "AF",
+   "country": {
+    "en": "Botswana",
+    "hu": "Botswana"
+   },
+   "name": {
+    "en": "Okavango Delta",
+    "hu": "Okavango-delta"
+   },
+   "main": {
+    "en": "Okavango Delta",
+    "hu": "Okavango-delta",
+    "lat": -19.3,
+    "lon": 22.9
+   },
+   "tags": [
+    "jungle",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The world's largest inland delta: a maze of lagoons, islands and channels full of elephants and hippos.",
+    "hu": "A világ legnagyobb belső deltája: lagúnák, szigetek és csatornák útvesztője, tele elefántokkal és vízilovakkal."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Delta short",
+      "hu": "Delta rövid"
+     },
+     "desc": {
+      "en": "From Maun over Chief's Island and the Moremi Game Reserve.",
+      "hu": "Maunból a Chief-sziget és a Moremi vadrezervátum felett."
+     },
+     "pts": [
+      "FBMN",
+      [
+       "Moremi Game Reserve",
+       -19.2,
+       23.45
+      ],
+      [
+       "Chief's Island",
+       -19.4,
+       23.05
+      ],
+      "FBMN"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Delta and Lake Ngami",
+      "hu": "Delta és a Ngami-tó"
+     },
+     "desc": {
+      "en": "About two hours: Lake Ngami, the delta's islands, Moremi and the Khwai River.",
+      "hu": "Kb. két óra: a Ngami-tó, a delta szigetei, Moremi és a Khwai-folyó."
+     },
+     "pts": [
+      "FBMN",
+      [
+       "Khwai River",
+       -19.15,
+       23.78
+      ],
+      [
+       "~",
+       -19.0884,
+       23.7278
+      ],
+      [
+       "Moremi Game Reserve",
+       -19.2,
+       23.45
+      ],
+      [
+       "Chief's Island",
+       -19.4,
+       23.05
+      ],
+      [
+       "Lake Ngami",
+       -20.5,
+       22.75
+      ],
+      [
+       "~",
+       -20.5578,
+       22.8473
+      ],
+      "FBMN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Moremi vadrezervátum Moremi természetvédelmi terület szafari Chief-sziget Chiefs Island Khwai-folyó Khwai Ngami-tó Ngami",
+   "img": "Okavango Delta"
+  },
+  {
+   "id": "sossusvlei",
+   "continent": "AF",
+   "country": {
+    "en": "Namibia",
+    "hu": "Namíbia"
+   },
+   "name": {
+    "en": "Sossusvlei and the Namib dunes",
+    "hu": "Sossusvlei és a Namib dűnéi"
+   },
+   "main": {
+    "en": "Sossusvlei",
+    "hu": "Sossusvlei",
+    "lat": -24.7275,
+    "lon": 15.3405
+   },
+   "tags": [
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The tallest dunes on Earth: the red sea of sand around Sossusvlei and the dead trees of Deadvlei.",
+    "hu": "A Föld legmagasabb dűnéi: a vörös homoktenger Sossusvlei körül és a Deadvlei kiszáradt fái."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Dunes short",
+      "hu": "Dűnék rövid"
+     },
+     "desc": {
+      "en": "From Sesriem: Dune 45, Sossusvlei and Deadvlei.",
+      "hu": "Sesriemből: a Dune 45, Sossusvlei és Deadvlei."
+     },
+     "pts": [
+      "FYSS",
+      [
+       "Sossusvlei",
+       -24.7275,
+       15.3405
+      ],
+      [
+       "Deadvlei",
+       -24.7597,
+       15.2942
+      ],
+      [
+       "~",
+       -24.7924,
+       15.3107
+      ],
+      [
+       "Dune 45",
+       -24.7255,
+       15.473
+      ],
+      "FYSS"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Namib-Naukluft loop",
+      "hu": "Namib-Naukluft-kör"
+     },
+     "desc": {
+      "en": "About an hour: the dunes, the Tsauchab valley and the Naukluft Mountains.",
+      "hu": "Kb. egy óra: a dűnék, a Tsauchab völgye és a Naukluft-hegység."
+     },
+     "pts": [
+      "FYSS",
+      [
+       "Dune 45",
+       -24.7255,
+       15.473
+      ],
+      [
+       "Sossusvlei",
+       -24.7275,
+       15.3405
+      ],
+      [
+       "Big Daddy Dune",
+       -24.741,
+       15.285
+      ],
+      [
+       "~",
+       -24.708,
+       15.2693
+      ],
+      [
+       "Naukluft Mountains",
+       -24.25,
+       16.15
+      ],
+      [
+       "~",
+       -24.3389,
+       16.2172
+      ],
+      "FYSS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Sossusvlei Szosszuszvlej Namib vörös dűnék Deadvlei Halott-völgy kiszáradt fák Dune 45 45-ös dűne Big Daddy-dűne Big Daddy Naukluft-hegység Naukluft",
+   "img": "Sossusvlei"
+  },
+  {
+   "id": "seychelles",
+   "continent": "AF",
+   "country": {
+    "en": "Seychelles",
+    "hu": "Seychelle-szigetek"
+   },
+   "name": {
+    "en": "Seychelles",
+    "hu": "Seychelle-szigetek"
+   },
+   "main": {
+    "en": "Anse Source d'Argent",
+    "hu": "Anse Source d'Argent",
+    "lat": -4.368,
+    "lon": 55.828
+   },
+   "tags": [
+    "island",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Granite boulders and powder-white beaches: Mahé, Praslin and La Digue in the Indian Ocean.",
+    "hu": "Gránitsziklák és hófehér strandok: Mahé, Praslin és La Digue az Indiai-óceánon."
+   },
+   "variants": [
+    {
+     "id": "mahe",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Mahé loop",
+      "hu": "Mahé-kör"
+     },
+     "desc": {
+      "en": "Mahé and its neighbours: Victoria, Morne Seychellois, Silhouette Island and Sainte Anne Marine Park.",
+      "hu": "Mahé és szomszédai: Victoria, Morne Seychellois, a Silhouette-sziget és a Sainte Anne tengeri park."
+     },
+     "pts": [
+      "FSIA",
+      [
+       "Sainte Anne Marine Park",
+       -4.61,
+       55.5
+      ],
+      [
+       "Victoria (Seychelles)",
+       -4.62,
+       55.454
+      ],
+      [
+       "Beau Vallon",
+       -4.609,
+       55.429
+      ],
+      [
+       "Silhouette Island",
+       -4.485,
+       55.243
+      ],
+      [
+       "~",
+       -4.5285,
+       55.208
+      ],
+      [
+       "Morne Seychellois",
+       -4.657,
+       55.441
+      ],
+      "FSIA"
+     ]
+    },
+    {
+     "id": "islands",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Praslin and La Digue",
+      "hu": "Praslin és La Digue"
+     },
+     "desc": {
+      "en": "Over the Vallée de Mai, Curieuse Island and the beaches of Praslin and La Digue.",
+      "hu": "A Vallée de Mai, a Curieuse-sziget, Praslin és La Digue strandjai felett."
+     },
+     "pts": [
+      "FSIA",
+      [
+       "Anse Lazio",
+       -4.29,
+       55.715
+      ],
+      [
+       "Curieuse Island",
+       -4.287,
+       55.726
+      ],
+      [
+       "Vallée de Mai",
+       -4.329,
+       55.74
+      ],
+      [
+       "Anse Source d'Argent",
+       -4.368,
+       55.828
+      ],
+      "FSIA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Sainte Anne tengeri park Sainte Anne Marine National Park Victoria (Seychelle-szigetek) Victoria főváros Mahé Beau Vallon Beau Vallon strand Silhouette-sziget Silhouette Morne Seychellois Morne Seychellois nemzeti park Anse Lazio Anse Lazio strand Praslin Curieuse-sziget Curieuse Vallée de Mai Vallée de Mai tengeri kókuszpálma Anse Source d'Argent La Digue strand Ezüstforrás",
+   "img": "Anse Source d'Argent"
+  },
+  {
+   "id": "garden-route",
+   "continent": "AF",
+   "country": {
+    "en": "South Africa",
+    "hu": "Dél-Afrika"
+   },
+   "name": {
+    "en": "Garden Route",
+    "hu": "Garden Route"
+   },
+   "main": {
+    "en": "Knysna Heads",
+    "hu": "Knysna Heads",
+    "lat": -34.081,
+    "lon": 23.067
+   },
+   "tags": [
+    "coast"
+   ],
+   "desc": {
+    "en": "South Africa's green coast: the lagoon of Knysna, Plettenberg Bay, the Bloukrans bridge and the Tsitsikamma forest.",
+    "hu": "Dél-Afrika zöld partvidéke: Knysna lagúnája, Plettenberg Bay, a Bloukrans-híd és a Tsitsikamma-erdő."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Knysna short",
+      "hu": "Knysna rövid"
+     },
+     "desc": {
+      "en": "Short loop from George: Wilderness, Knysna Heads and Plettenberg Bay.",
+      "hu": "Rövid kör Georgeból: Wilderness, Knysna Heads és Plettenberg Bay."
+     },
+     "pts": [
+      "FAGG",
+      [
+       "Wilderness",
+       -33.993,
+       22.575
+      ],
+      [
+       "Plettenberg Bay",
+       -34.0527,
+       23.3716
+      ],
+      [
+       "~",
+       -34.1162,
+       23.3723
+      ],
+      [
+       "Knysna Heads",
+       -34.081,
+       23.067
+      ],
+      "FAGG"
+     ]
+    },
+    {
+     "id": "coast",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Tsitsikamma coast",
+      "hu": "Tsitsikamma-part"
+     },
+     "desc": {
+      "en": "About an hour and a half: Knysna, the Robberg peninsula, the Bloukrans bridge and Storms River Mouth.",
+      "hu": "Kb. másfél óra: Knysna, a Robberg-félsziget, a Bloukrans-híd és a Storms River Mouth."
+     },
+     "pts": [
+      "FAGG",
+      [
+       "Bloukrans Bridge",
+       -33.994,
+       23.659
+      ],
+      [
+       "Storms River Mouth",
+       -34.021,
+       23.888
+      ],
+      [
+       "~",
+       -34.0689,
+       23.8902
+      ],
+      [
+       "Robberg Peninsula",
+       -34.11,
+       23.4
+      ],
+      [
+       "Knysna Heads",
+       -34.081,
+       23.067
+      ],
+      "FAGG"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Wilderness Wilderness nemzeti park Plettenberg-öböl Plettenberg Bay Knysna Heads Knysna-lagúna sziklakapu Bloukrans-híd bungee jumping híd Storms River Mouth Tsitsikamma Viharfolyó torkolat Robberg-félsziget Robberg",
+   "img": "Knysna"
+  },
+  {
+   "id": "petra-wadi-rum",
+   "continent": "AS",
+   "country": {
+    "en": "Jordan",
+    "hu": "Jordánia"
+   },
+   "name": {
+    "en": "Petra and Wadi Rum",
+    "hu": "Petra és Wadi Rum"
+   },
+   "main": {
+    "en": "Petra",
+    "hu": "Petra",
+    "lat": 30.3285,
+    "lon": 35.4444
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The rose-red city of the Nabataeans and the red desert of Lawrence of Arabia, from the Red Sea at Aqaba.",
+    "hu": "A nabateusok rózsaszín városa és Lawrence of Arabia vörös sivataga, az akabai Vörös-tenger partjáról."
+   },
+   "variants": [
+    {
+     "id": "rum",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Wadi Rum loop",
+      "hu": "Wadi Rum-kör"
+     },
+     "desc": {
+      "en": "From Aqaba: the Red Sea coast and the sandstone towers of Wadi Rum.",
+      "hu": "Akabából: a Vörös-tenger partja és Wadi Rum homokkőtornyai."
+     },
+     "pts": [
+      "OJAQ",
+      [
+       "Aqaba Fort",
+       29.521,
+       35.005
+      ],
+      [
+       "Wadi Rum",
+       29.575,
+       35.42
+      ],
+      [
+       "Jebel Burdah",
+       29.6,
+       35.49
+      ],
+      [
+       "~",
+       29.6354,
+       35.4826
+      ],
+      "OJAQ"
+     ]
+    },
+    {
+     "id": "petra",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Petra and Wadi Rum",
+      "hu": "Petra és Wadi Rum"
+     },
+     "desc": {
+      "en": "About an hour and a quarter: Wadi Rum, Petra and Little Petra, back along Wadi Araba.",
+      "hu": "Kb. 75 perc: Wadi Rum, Petra és Kis-Petra, vissza a Wadi Araba mentén."
+     },
+     "pts": [
+      "OJAQ",
+      [
+       "Aqaba Fort",
+       29.521,
+       35.005
+      ],
+      [
+       "Wadi Rum",
+       29.575,
+       35.42
+      ],
+      [
+       "Petra",
+       30.3285,
+       35.4444
+      ],
+      [
+       "Little Petra",
+       30.42,
+       35.47
+      ],
+      [
+       "~",
+       30.4322,
+       35.4307
+      ],
+      "OJAQ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Akabai erőd Akaba Vörös-tenger Wadi Rum Wadi Rum Holdvölgy sivatag Lawrence Jebel Burdah Burdah kőhíd Petra Petra Nabateus Kincstár Al-Khazneh Kis-Petra Siq al-Barid",
+   "img": "Petra"
+  },
+  {
+   "id": "maldives",
+   "continent": "AS",
+   "country": {
+    "en": "Maldives",
+    "hu": "Maldív-szigetek"
+   },
+   "name": {
+    "en": "Maldives atolls",
+    "hu": "Maldív-szigetek atolljai"
+   },
+   "main": {
+    "en": "Ari Atoll",
+    "hu": "Ari-atoll",
+    "lat": 3.85,
+    "lon": 72.85
+   },
+   "tags": [
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "Coral rings in the Indian Ocean: the capital Malé, the reefs of the atolls and turquoise lagoons.",
+    "hu": "Korallgyűrűk az Indiai-óceánon: a főváros Malé, az atollok zátonyai és a türkiz lagúnák."
+   },
+   "variants": [
+    {
+     "id": "male",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Malé atoll",
+      "hu": "Malé-atoll"
+     },
+     "desc": {
+      "en": "Short loop: Malé, Banana Reef and Maafushi.",
+      "hu": "Rövid kör: Malé, Banana Reef és Maafushi."
+     },
+     "pts": [
+      "VRMM",
+      [
+       "Maafushi",
+       3.942,
+       73.49
+      ],
+      [
+       "~",
+       3.946,
+       73.4314
+      ],
+      [
+       "Malé",
+       4.1755,
+       73.5093
+      ],
+      [
+       "Banana Reef",
+       4.261,
+       73.541
+      ],
+      [
+       "~",
+       4.2517,
+       73.5758
+      ],
+      "VRMM"
+     ]
+    },
+    {
+     "id": "ari",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Ari Atoll",
+      "hu": "Ari-atoll"
+     },
+     "desc": {
+      "en": "About an hour: Rasdhoo and Ari Atoll, then back over Maafushi and Malé.",
+      "hu": "Kb. egy óra: Rasdhoo és az Ari-atoll, majd vissza Maafushi és Malé felett."
+     },
+     "pts": [
+      "VRMM",
+      [
+       "Maafushi",
+       3.942,
+       73.49
+      ],
+      [
+       "Ari Atoll",
+       3.85,
+       72.85
+      ],
+      [
+       "Rasdhoo Atoll",
+       4.264,
+       72.993
+      ],
+      [
+       "Malé",
+       4.1755,
+       73.5093
+      ],
+      "VRMM"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Maafushi Maafushi sziget Malé Malé főváros Banana Reef Banán-zátony Ari-atoll Ari atoll Rasdhoo-atoll Rasdhoo",
+   "img": "Ari Atoll"
+  },
+  {
+   "id": "halong",
+   "continent": "AS",
+   "country": {
+    "en": "Vietnam",
+    "hu": "Vietnám"
+   },
+   "name": {
+    "en": "Hanoi and Ha Long Bay",
+    "hu": "Hanoi és a Ha Long-öböl"
+   },
+   "main": {
+    "en": "Ha Long Bay",
+    "hu": "Ha Long-öböl",
+    "lat": 20.91,
+    "lon": 107.183
+   },
+   "tags": [
+    "coast",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Thousands of limestone islands rising from the emerald sea, and the countryside around Hanoi.",
+    "hu": "Több ezer mészkősziget az smaragdzöld tengerből, és Hanoi vidéke."
+   },
+   "variants": [
+    {
+     "id": "ninh",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Hanoi and Ninh Binh",
+      "hu": "Hanoi és Ninh Binh"
+     },
+     "desc": {
+      "en": "The old centre of Hanoi, the karst and rice fields of Tam Coc and Tam Dao.",
+      "hu": "Hanoi belvárosa, Tam Coc karsztjai és rizsföldjei, valamint Tam Dao."
+     },
+     "pts": [
+      "VVNB",
+      [
+       "Hoan Kiem Lake",
+       21.0287,
+       105.8523
+      ],
+      [
+       "Tam Coc",
+       20.215,
+       105.939
+      ],
+      [
+       "~",
+       20.1949,
+       105.826
+      ],
+      [
+       "Tam Dao",
+       21.454,
+       105.649
+      ],
+      [
+       "~",
+       21.4774,
+       105.7186
+      ],
+      "VVNB"
+     ]
+    },
+    {
+     "id": "bay",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Ha Long Bay",
+      "hu": "Ha Long-öböl"
+     },
+     "desc": {
+      "en": "Almost two hours: Ha Long Bay, Bai Tu Long Bay and Cat Ba Island.",
+      "hu": "Közel két óra: a Ha Long-öböl, a Bai Tu Long-öböl és a Cat Ba-sziget."
+     },
+     "pts": [
+      "VVNB",
+      [
+       "Cat Ba Island",
+       20.797,
+       107.0
+      ],
+      [
+       "Bai Chay Bridge",
+       20.959,
+       107.065
+      ],
+      [
+       "Ha Long Bay",
+       20.91,
+       107.183
+      ],
+      [
+       "Bai Tu Long Bay",
+       21.05,
+       107.45
+      ],
+      [
+       "~",
+       21.1201,
+       107.4349
+      ],
+      "VVNB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Hoan Kiem-tó Hoàn Kiếm Kardtó Hanoi Tam Coc Ninh Binh Tam Cốc szárazföldi Ha Long Tam Dao Tam Đảo hegy Cat Ba-sziget Cát Bà Bai Chay-híd Bãi Cháy Ha Long-öböl Ha Long Halong Hạ Long Bay Bai Tu Long-öböl Bái Tử Long",
+   "img": "Ha Long Bay"
+  },
+  {
+   "id": "kyoto-osaka",
+   "continent": "AS",
+   "country": {
+    "en": "Japan",
+    "hu": "Japán"
+   },
+   "name": {
+    "en": "Kyoto, Osaka and Nara",
+    "hu": "Kiotó, Oszaka és Nara"
+   },
+   "main": {
+    "en": "Fushimi Inari Shrine",
+    "hu": "Fushimi Inari szentély",
+    "lat": 34.9671,
+    "lon": 135.7727
+   },
+   "tags": [
+    "culture",
+    "city",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Japan's ancient heart: thousands of red torii in Kyoto, Osaka Castle and the great Buddha of Nara.",
+    "hu": "Japán ősi szíve: ezernyi vörös torii Kiotóban, az oszakai kastély és a nárai nagy Buddha."
+   },
+   "variants": [
+    {
+     "id": "osaka",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Osaka and Nara",
+      "hu": "Oszaka és Nara"
+     },
+     "desc": {
+      "en": "From Kansai: the Akashi Kaikyō Bridge, Osaka Castle and Tōdai-ji in Nara.",
+      "hu": "Kansaiból: az Akasi-Kaikjó híd, az oszakai kastély és a nárai Tódaidzsi."
+     },
+     "pts": [
+      "RJBB",
+      [
+       "Tōdai-ji",
+       34.689,
+       135.8398
+      ],
+      [
+       "~",
+       34.7515,
+       135.8205
+      ],
+      [
+       "Osaka Castle",
+       34.6873,
+       135.5262
+      ],
+      [
+       "Akashi Kaikyō Bridge",
+       34.617,
+       135.022
+      ],
+      [
+       "~",
+       34.5544,
+       134.9969
+      ],
+      "RJBB"
+     ]
+    },
+    {
+     "id": "kyoto",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Kyoto circuit",
+      "hu": "Kiotói kör"
+     },
+     "desc": {
+      "en": "About an hour: Osaka Castle, the golden Kinkaku-ji, Fushimi Inari and Nara.",
+      "hu": "Kb. egy óra: az oszakai kastély, az aranyozott Kinkakudzsi, Fushimi Inari és Nara."
+     },
+     "pts": [
+      "RJBB",
+      [
+       "Tōdai-ji",
+       34.689,
+       135.8398
+      ],
+      [
+       "Fushimi Inari Shrine",
+       34.9671,
+       135.7727
+      ],
+      [
+       "Kinkaku-ji",
+       35.0394,
+       135.7292
+      ],
+      [
+       "~",
+       35.0391,
+       135.6853
+      ],
+      [
+       "Osaka Castle",
+       34.6873,
+       135.5262
+      ],
+      "RJBB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Tódaidzsi Todaiji Nara nagy Buddha Oszakai kastély Oszaka vár Osaka Akasi-Kaikjó híd Akashi Kaikyo Pearl Bridge Fushimi Inari szentély Fushimi Inari Kiotó torii kapuk Kinkakudzsi Aranypavilon Kiotó Golden Pavilion",
+   "img": "Fushimi Inari-taisha"
+  },
+  {
+   "id": "beijing",
+   "continent": "AS",
+   "country": {
+    "en": "China",
+    "hu": "Kína"
+   },
+   "name": {
+    "en": "Beijing and the Great Wall",
+    "hu": "Peking és a Nagy Fal"
+   },
+   "main": {
+    "en": "Forbidden City",
+    "hu": "Tiltott Város",
+    "lat": 39.9163,
+    "lon": 116.3972
+   },
+   "tags": [
+    "culture",
+    "city",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The imperial capital and its wall: the Forbidden City, the Summer Palace and the Great Wall in the mountains.",
+    "hu": "A császári főváros és fala: a Tiltott Város, a Nyári Palota és a hegyekben kígyózó Nagy Fal."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Beijing short",
+      "hu": "Peking rövid"
+     },
+     "desc": {
+      "en": "Short loop: the Great Wall at Mutianyu, the Bird's Nest and the Forbidden City.",
+      "hu": "Rövid kör: a Nagy Fal Mutianyunál, a Madárfészek és a Tiltott Város."
+     },
+     "pts": [
+      "ZBAA",
+      [
+       "Mutianyu Great Wall",
+       40.4319,
+       116.5704
+      ],
+      [
+       "~",
+       40.4424,
+       116.4546
+      ],
+      [
+       "Bird's Nest",
+       39.9928,
+       116.3965
+      ],
+      [
+       "Forbidden City",
+       39.9163,
+       116.3972
+      ],
+      [
+       "~",
+       39.9031,
+       116.4408
+      ],
+      "ZBAA"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Palaces and the wall",
+      "hu": "Paloták és a fal"
+     },
+     "desc": {
+      "en": "About an hour: Badaling, the Ming Tombs, the Summer Palace, the Forbidden City and the Temple of Heaven.",
+      "hu": "Kb. egy óra: Badaling, a Ming-sírok, a Nyári Palota, a Tiltott Város és az Éghez Szentelt Templom."
+     },
+     "pts": [
+      "ZBAA",
+      [
+       "Ming Tombs",
+       40.254,
+       116.234
+      ],
+      [
+       "Badaling Great Wall",
+       40.354,
+       116.016
+      ],
+      [
+       "~",
+       40.3202,
+       115.9703
+      ],
+      [
+       "Summer Palace",
+       39.9999,
+       116.2755
+      ],
+      [
+       "Forbidden City",
+       39.9163,
+       116.3972
+      ],
+      "ZBAA"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Temple of Heaven",
+     39.8822,
+     116.4066
+    ],
+    [
+     "Bird's Nest",
+     39.9928,
+     116.3965
+    ]
+   ],
+   "new": true,
+   "kw": "Nagy Fal, Mutianyu Nagy Fal Kínai fal Mutianyu Madárfészek stadion Pekingi Nemzeti Stadion Birds Nest Tiltott Város Peking császári palota Ming-sírok Ming-sírok Peking Nagy Fal, Badaling Nagy Fal Kínai fal Badaling Nyári Palota Peking Yiheyuan Éghez szentelt templom Mennyei templom Peking",
+   "img": "Great Wall of China"
+  },
+  {
+   "id": "phuket",
+   "continent": "AS",
+   "country": {
+    "en": "Thailand",
+    "hu": "Thaiföld"
+   },
+   "name": {
+    "en": "Phuket and Phang Nga Bay",
+    "hu": "Phuket és a Phang Nga-öböl"
+   },
+   "main": {
+    "en": "Phi Phi Islands",
+    "hu": "Phi Phi-szigetek",
+    "lat": 7.7407,
+    "lon": 98.7784
+   },
+   "tags": [
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "Limestone islets in the Andaman Sea: Phang Nga Bay, the Phi Phi Islands and Railay's cliffs.",
+    "hu": "Mészkősziklák az Andamán-tengerben: a Phang Nga-öböl, a Phi Phi-szigetek és Railay sziklái."
+   },
+   "variants": [
+    {
+     "id": "south",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Phuket south",
+      "hu": "Phuket déli rész"
+     },
+     "desc": {
+      "en": "Short loop: Patong Beach, Promthep Cape and the Big Buddha.",
+      "hu": "Rövid kör: Patong Beach, Promthep-fok és a Nagy Buddha."
+     },
+     "pts": [
+      "VTSP",
+      [
+       "Patong Beach",
+       7.896,
+       98.296
+      ],
+      [
+       "Promthep Cape",
+       7.7627,
+       98.305
+      ],
+      [
+       "~",
+       7.7618,
+       98.3413
+      ],
+      [
+       "Big Buddha (Phuket)",
+       7.8277,
+       98.3126
+      ],
+      "VTSP"
+     ]
+    },
+    {
+     "id": "bays",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Andaman bays",
+      "hu": "Andamán-öblök"
+     },
+     "desc": {
+      "en": "About an hour: Phang Nga Bay, Railay, the Phi Phi Islands and Promthep Cape.",
+      "hu": "Kb. egy óra: a Phang Nga-öböl, Railay, a Phi Phi-szigetek és a Promthep-fok."
+     },
+     "pts": [
+      "VTSP",
+      [
+       "Phang Nga Bay",
+       8.29,
+       98.53
+      ],
+      [
+       "Railay Beach",
+       8.011,
+       98.837
+      ],
+      [
+       "Phi Phi Islands",
+       7.7407,
+       98.7784
+      ],
+      [
+       "Promthep Cape",
+       7.7627,
+       98.305
+      ],
+      "VTSP"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Patong-part Patong Phuket strand Promthep-fok Promthep naplemente Nagy Buddha (Phuket) Phuket Buddha Phang Nga-öböl Phang Nga James Bond sziget Railay-part Railay Krabi Phi Phi-szigetek Phi Phi Maya Bay",
+   "img": "Phi Phi Islands"
+  },
+  {
+   "id": "denali",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Denali",
+    "hu": "Denali"
+   },
+   "main": {
+    "en": "Denali",
+    "hu": "Denali",
+    "lat": 63.0692,
+    "lon": -151.007
+   },
+   "tags": [
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "North America's highest peak: Denali, Mount Foraker and the glaciers of the Alaska Range from Talkeetna.",
+    "hu": "Észak-Amerika legmagasabb csúcsa: a Denali, a Mount Foraker és az Alaszkai-hegység gleccserei Talkeetnából."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 13000,
+     "stol": false,
+     "label": {
+      "en": "Denali short",
+      "hu": "Denali rövid"
+     },
+     "desc": {
+      "en": "From Talkeetna over the Ruth Glacier and around Denali.",
+      "hu": "Talkeetnából a Ruth-gleccser felett a Denali körül."
+     },
+     "pts": [
+      "PATK",
+      [
+       "Kahiltna Glacier",
+       62.88,
+       -151.18
+      ],
+      [
+       "Denali",
+       63.0692,
+       -151.007
+      ],
+      [
+       "Ruth Glacier",
+       62.945,
+       -150.6
+      ],
+      "PATK"
+     ]
+    },
+    {
+     "id": "foraker",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 13500,
+     "stol": false,
+     "label": {
+      "en": "Foraker and Denali",
+      "hu": "Foraker és Denali"
+     },
+     "desc": {
+      "en": "About an hour: Mount Foraker, Denali and the Ruth Glacier.",
+      "hu": "Kb. egy óra: a Mount Foraker, a Denali és a Ruth-gleccser."
+     },
+     "pts": [
+      "PATK",
+      [
+       "Kahiltna Glacier",
+       62.88,
+       -151.18
+      ],
+      [
+       "Mount Foraker",
+       62.96,
+       -151.399
+      ],
+      [
+       "Denali",
+       63.0692,
+       -151.007
+      ],
+      [
+       "Ruth Glacier",
+       62.945,
+       -150.6
+      ],
+      "PATK"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Kahiltna-gleccser Kahiltna Denali Denali McKinley Alaszka Ruth-gleccser Ruth gleccser Mount Foraker Foraker Alaszka",
+   "img": "Denali"
+  },
+  {
+   "id": "monument-valley",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Monument Valley and Lake Powell",
+    "hu": "Monument Valley és a Powell-tó"
+   },
+   "main": {
+    "en": "Monument Valley",
+    "hu": "Monument Valley",
+    "lat": 36.998,
+    "lon": -110.0985
+   },
+   "tags": [
+    "culture",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Red buttes in the Arizona desert: Horseshoe Bend, Antelope Canyon, Rainbow Bridge and Monument Valley.",
+    "hu": "Vörös tanúhegyek az arizonai sivatagban: Horseshoe Bend, Antelope-kanyon, Rainbow Bridge és Monument Valley."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Page short",
+      "hu": "Page rövid"
+     },
+     "desc": {
+      "en": "Loop from Page: Antelope Canyon, Horseshoe Bend, the Glen Canyon Dam and Lone Rock.",
+      "hu": "Kör Page-ből: az Antelope-kanyon, Horseshoe Bend, a Glen Canyon-gát és a Lone Rock."
+     },
+     "pts": [
+      "KPGA",
+      [
+       "Glen Canyon Dam",
+       36.937,
+       -111.484
+      ],
+      [
+       "Lone Rock Beach",
+       37.03,
+       -111.49
+      ],
+      [
+       "~",
+       37.0398,
+       -111.4467
+      ],
+      [
+       "Antelope Canyon",
+       36.8619,
+       -111.3743
+      ],
+      [
+       "Horseshoe Bend",
+       36.8791,
+       -111.5103
+      ],
+      [
+       "~",
+       36.9136,
+       -111.5231
+      ],
+      "KPGA"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 8500,
+     "stol": false,
+     "label": {
+      "en": "Monument Valley loop",
+      "hu": "Monument Valley-kör"
+     },
+     "desc": {
+      "en": "About an hour and a half: Horseshoe Bend, Rainbow Bridge, Monument Valley and Antelope Canyon.",
+      "hu": "Kb. másfél óra: Horseshoe Bend, Rainbow Bridge, Monument Valley és az Antelope-kanyon."
+     },
+     "pts": [
+      "KPGA",
+      [
+       "Horseshoe Bend",
+       36.8791,
+       -111.5103
+      ],
+      [
+       "~",
+       36.8446,
+       -111.4975
+      ],
+      [
+       "Antelope Canyon",
+       36.8619,
+       -111.3743
+      ],
+      [
+       "Monument Valley",
+       36.998,
+       -110.0985
+      ],
+      [
+       "~",
+       37.1059,
+       -110.0998
+      ],
+      [
+       "Rainbow Bridge",
+       37.0778,
+       -110.964
+      ],
+      "KPGA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Glen Canyon-gát Glen Canyon Dam Powell-tó Lone Rock Beach Lone Rock Powell-tó Antelope-kanyon Antilop kanyon Page Horseshoe Bend Patkókanyar Colorado Monument Valley Emlékmű-völgy Navajo tanúhegyek Szivárványhíd Tokió",
+   "img": "Monument Valley"
+  },
+  {
+   "id": "toronto-niagara",
+   "continent": "NA",
+   "country": {
+    "en": "Canada",
+    "hu": "Kanada"
+   },
+   "name": {
+    "en": "Toronto and Niagara Falls",
+    "hu": "Toronto és a Niagara-vízesés"
+   },
+   "main": {
+    "en": "Niagara Falls",
+    "hu": "Niagara-vízesés",
+    "lat": 43.0896,
+    "lon": -79.0849
+   },
+   "tags": [
+    "city",
+    "coast"
+   ],
+   "desc": {
+    "en": "A skyline on Lake Ontario and the thundering falls: Toronto, the Scarborough Bluffs and Niagara.",
+    "hu": "Látkép az Ontario-tavon és a mennydörgő vízesés: Toronto, a Scarborough Bluffs és a Niagara."
+   },
+   "variants": [
+    {
+     "id": "city",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Toronto loop",
+      "hu": "Toronto-kör"
+     },
+     "desc": {
+      "en": "Loop over the skyline: the CN Tower, Casa Loma, the Scarborough Bluffs and Mississauga.",
+      "hu": "Kör a látkép felett: a CN Tower, a Casa Loma, a Scarborough Bluffs és Mississauga."
+     },
+     "pts": [
+      "CYTZ",
+      [
+       "Mississauga Skyline",
+       43.593,
+       -79.643
+      ],
+      [
+       "~",
+       43.6362,
+       -79.6634
+      ],
+      [
+       "Casa Loma",
+       43.678,
+       -79.4094
+      ],
+      [
+       "Scarborough Bluffs",
+       43.705,
+       -79.23
+      ],
+      [
+       "~",
+       43.6713,
+       -79.2128
+      ],
+      [
+       "CN Tower",
+       43.6426,
+       -79.3871
+      ],
+      "CYTZ"
+     ]
+    },
+    {
+     "id": "niagara",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Niagara loop",
+      "hu": "Niagara-kör"
+     },
+     "desc": {
+      "en": "About an hour: Toronto's skyline, Hamilton and Niagara Falls over Lake Ontario.",
+      "hu": "Kb. egy óra: Toronto látképe, Hamilton és a Niagara-vízesés az Ontario-tó felett."
+     },
+     "pts": [
+      "CYTZ",
+      [
+       "CN Tower",
+       43.6426,
+       -79.3871
+      ],
+      [
+       "Scarborough Bluffs",
+       43.705,
+       -79.23
+      ],
+      [
+       "Niagara Falls",
+       43.0896,
+       -79.0849
+      ],
+      [
+       "Hamilton Skyway",
+       43.279,
+       -79.8
+      ],
+      "CYTZ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Mississauga látképe Mississauga Casa Loma Casa Loma kastély Toronto Scarborough Bluffs Scarborough sziklák CN Tower CN torony Toronto Niagara-vízesés Niagara Falls Niagara Hamilton Skyway Burlington Skyway híd",
+   "img": "CN Tower"
+  },
+  {
+   "id": "big-island",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Hawaii Big Island",
+    "hu": "Hawaii Nagy-sziget"
+   },
+   "main": {
+    "en": "Kīlauea",
+    "hu": "Kīlauea",
+    "lat": 19.4069,
+    "lon": -155.2834
+   },
+   "tags": [
+    "island",
+    "volcano",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Fire and ice on one island: the lava of Kīlauea, the snowy summit of Mauna Kea and the black sand of the south.",
+    "hu": "Tűz és jég egy szigeten: a Kīlauea lávája, a Mauna Kea havas csúcsa és a déli fekete homok."
+   },
+   "variants": [
+    {
+     "id": "volcano",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 9000,
+     "stol": false,
+     "label": {
+      "en": "Volcano loop",
+      "hu": "Vulkán-kör"
+     },
+     "desc": {
+      "en": "From Hilo: Akaka Falls, Mauna Kea, Mauna Loa and Kīlauea.",
+      "hu": "Hilóból: Akaka-vízesés, Mauna Kea, Mauna Loa és Kīlauea."
+     },
+     "pts": [
+      "PHTO",
+      [
+       "Kīlauea",
+       19.4069,
+       -155.2834
+      ],
+      [
+       "Mauna Loa",
+       19.475,
+       -155.608
+      ],
+      [
+       "Mauna Kea",
+       19.8207,
+       -155.4681
+      ],
+      [
+       "Akaka Falls",
+       19.854,
+       -155.152
+      ],
+      "PHTO"
+     ]
+    },
+    {
+     "id": "grand",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 8000,
+     "stol": false,
+     "label": {
+      "en": "Around the island",
+      "hu": "Körbe a szigeten"
+     },
+     "desc": {
+      "en": "About two hours: the Waipiʻo and Pololu valleys, Mauna Kea, South Point, Punaluʻu and Kīlauea.",
+      "hu": "Kb. két óra: a Waipiʻo- és Pololu-völgy, a Mauna Kea, a South Point, Punaluʻu és a Kīlauea."
+     },
+     "pts": [
+      "PHTO",
+      [
+       "Kīlauea",
+       19.4069,
+       -155.2834
+      ],
+      [
+       "Punaluʻu Black Sand Beach",
+       19.136,
+       -155.505
+      ],
+      [
+       "South Point",
+       18.911,
+       -155.681
+      ],
+      [
+       "~",
+       18.9317,
+       -155.7516
+      ],
+      [
+       "Pololu Valley",
+       20.207,
+       -155.73
+      ],
+      [
+       "~",
+       20.2251,
+       -155.691
+      ],
+      [
+       "Waipiʻo Valley",
+       20.11,
+       -155.59
+      ],
+      [
+       "Mauna Kea",
+       19.8207,
+       -155.4681
+      ],
+      "PHTO"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Kīlauea Kilauea vulkán Mauna Loa Mauna Loa vulkán Mauna Kea Akaka-vízesés Punaluʻu fekete homokstrand Punalu'u fekete homok teknős South Point Ka Lae déli pont Pololu-völgy Pololu Waipiʻo-völgy Waipio",
+   "img": "Kīlauea"
+  },
+  {
+   "id": "florida-keys",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Florida Keys",
+    "hu": "Florida Keys"
+   },
+   "main": {
+    "en": "Seven Mile Bridge",
+    "hu": "Seven Mile Bridge",
+    "lat": 24.705,
+    "lon": -81.15
+   },
+   "tags": [
+    "coast",
+    "island"
+   ],
+   "desc": {
+    "en": "A chain of islands strung on a road over the sea: Key Biscayne, Key Largo, the Seven Mile Bridge and Key West.",
+    "hu": "Szigetlánc egy tenger feletti úton: Key Biscayne, Key Largo, a Seven Mile Bridge és Key West."
+   },
+   "variants": [
+    {
+     "id": "run",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 1500,
+     "stol": false,
+     "label": {
+      "en": "Miami to Key West",
+      "hu": "Miamitól Key Westig"
+     },
+     "desc": {
+      "en": "A one-way run along the Keys, from Miami over Key Largo and the Seven Mile Bridge to Key West.",
+      "hu": "Egyirányú repülés a Keys mentén Miamitól Key Largón és a Seven Mile Bridge-en át Key Westig."
+     },
+     "pts": [
+      "KMIA",
+      [
+       "Key Biscayne Lighthouse",
+       25.6667,
+       -80.156
+      ],
+      [
+       "Key Largo",
+       25.0864,
+       -80.4473
+      ],
+      [
+       "Seven Mile Bridge",
+       24.705,
+       -81.15
+      ],
+      "KEYW"
+     ]
+    },
+    {
+     "id": "tortugas",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 1500,
+     "stol": false,
+     "label": {
+      "en": "Dry Tortugas",
+      "hu": "Dry Tortugas"
+     },
+     "desc": {
+      "en": "From Key West over Old Town to Fort Jefferson on the Dry Tortugas.",
+      "hu": "Key Westből az Old Town felett a Dry Tortugas-i Fort Jeffersonhoz."
+     },
+     "pts": [
+      "KEYW",
+      [
+       "Key West Old Town",
+       24.551,
+       -81.801
+      ],
+      [
+       "Marquesas Keys",
+       24.55,
+       -82.13
+      ],
+      [
+       "Fort Jefferson",
+       24.628,
+       -82.873
+      ],
+      [
+       "~",
+       24.7359,
+       -82.8694
+      ],
+      "KEYW"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Key Biscayne világítótorony Cape Florida Light Key Largo Key Largo Seven Mile Bridge Hétmérföldes híd Florida Keys Key West Old Town Key West óváros Marquesas Keys Marquesas Fort Jefferson Dry Tortugas erőd",
+   "img": "Seven Mile Bridge (Florida)"
+  },
+  {
+   "id": "easter-island",
+   "continent": "SA",
+   "country": {
+    "en": "Chile",
+    "hu": "Chile"
+   },
+   "name": {
+    "en": "Easter Island",
+    "hu": "Húsvét-sziget"
+   },
+   "main": {
+    "en": "Ahu Tongariki",
+    "hu": "Ahu Tongariki",
+    "lat": -27.1257,
+    "lon": -109.277
+   },
+   "tags": [
+    "island",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The most remote inhabited island: the moai statues of Rapa Nui, the crater of Rano Kau and Anakena beach.",
+    "hu": "A legtávolabbi lakott sziget: Rapa Nui moai-szobrai, a Rano Kau krátere és az Anakena strand."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Rapa Nui loop",
+      "hu": "Rapa Nui-kör"
+     },
+     "desc": {
+      "en": "Around the island: Rano Kau, Rano Raraku, Ahu Tongariki and Anakena.",
+      "hu": "A sziget körül: Rano Kau, Rano Raraku, Ahu Tongariki és Anakena."
+     },
+     "pts": [
+      "SCIP",
+      [
+       "Rano Kau",
+       -27.19,
+       -109.441
+      ],
+      [
+       "~",
+       -27.2175,
+       -109.415
+      ],
+      [
+       "Rano Raraku",
+       -27.124,
+       -109.289
+      ],
+      [
+       "Ahu Tongariki",
+       -27.1257,
+       -109.277
+      ],
+      [
+       "~",
+       -27.0947,
+       -109.2564
+      ],
+      [
+       "Anakena Beach",
+       -27.073,
+       -109.323
+      ],
+      "SCIP"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Rano Kau Rano Kau kráter Orongo Rano Raraku Rano Raraku moai kőfejtő Ahu Tongariki Tongariki moai szobrok Húsvét-sziget Anakena-part Anakena strand",
+   "img": "Ahu Tongariki"
+  },
+  {
+   "id": "atacama",
+   "continent": "SA",
+   "country": {
+    "en": "Chile",
+    "hu": "Chile"
+   },
+   "name": {
+    "en": "Atacama Desert",
+    "hu": "Atacama-sivatag"
+   },
+   "main": {
+    "en": "Valle de la Luna",
+    "hu": "Holdvölgy",
+    "lat": -22.923,
+    "lon": -68.275
+   },
+   "tags": [
+    "mountain",
+    "volcano"
+   ],
+   "desc": {
+    "en": "The driest desert on Earth: salt flats, steaming geysers and the cone of Licancabur.",
+    "hu": "A Föld legszárazabb sivataga: sósíkságok, gőzölgő gejzírek és a Licancabur kúpja."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 12500,
+     "stol": false,
+     "label": {
+      "en": "Geysers and copper",
+      "hu": "Gejzírek és réz"
+     },
+     "desc": {
+      "en": "From Calama: the Chuquicamata mine, the El Tatio geysers and Licancabur.",
+      "hu": "Calamából: a Chuquicamata bánya, az El Tatio gejzírek és a Licancabur."
+     },
+     "pts": [
+      "SCCF",
+      [
+       "Chuquicamata",
+       -22.297,
+       -68.901
+      ],
+      [
+       "El Tatio Geysers",
+       -22.33,
+       -68.01
+      ],
+      [
+       "Licancabur",
+       -22.835,
+       -67.883
+      ],
+      [
+       "~",
+       -22.9069,
+       -67.9704
+      ],
+      "SCCF"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 13500,
+     "stol": false,
+     "label": {
+      "en": "Salt flats and lagoons",
+      "hu": "Sólapok és lagúnák"
+     },
+     "desc": {
+      "en": "About two hours: the Valley of the Moon, the Salar de Atacama and Laguna Miscanti.",
+      "hu": "Kb. két óra: a Holdvölgy, a Salar de Atacama és a Miscanti-lagúna."
+     },
+     "pts": [
+      "SCCF",
+      [
+       "Licancabur",
+       -22.835,
+       -67.883
+      ],
+      [
+       "Laguna Miscanti",
+       -23.74,
+       -67.77
+      ],
+      [
+       "~",
+       -23.8021,
+       -67.8664
+      ],
+      [
+       "Salar de Atacama",
+       -23.5,
+       -68.3
+      ],
+      [
+       "Valle de la Luna",
+       -22.923,
+       -68.275
+      ],
+      "SCCF"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Chuquicamata Chuquicamata rézbánya El Tatio gejzírek El Tatio gejzír Licancabur Licancabur vulkán Miscanti-lagúna Miscanti Salar de Atacama Atacama sólapos sós tó Holdvölgy Valle de la Luna Atacama Moon Valley",
+   "img": "Atacama Desert"
+  },
+  {
+   "id": "tasmania",
+   "continent": "OC",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "Tasmania",
+    "hu": "Tasmánia"
+   },
+   "main": {
+    "en": "Wineglass Bay",
+    "hu": "Wineglass Bay",
+    "lat": -42.159,
+    "lon": 148.301
+   },
+   "tags": [
+    "coast",
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Wild island at the bottom of Australia: Wineglass Bay, the cliffs of Port Arthur and kunanyi/Mount Wellington.",
+    "hu": "Vad sziget Ausztrália alján: a Wineglass Bay, Port Arthur sziklái és a kunanyi/Wellington-hegy."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Hobart short",
+      "hu": "Hobart rövid"
+     },
+     "desc": {
+      "en": "Short loop from Hobart: Mount Wellington, Bruny Island and Port Arthur.",
+      "hu": "Rövid kör Hobartból: a Wellington-hegy, a Bruny-sziget és Port Arthur."
+     },
+     "pts": [
+      "YMHB",
+      [
+       "Port Arthur",
+       -43.147,
+       147.85
+      ],
+      [
+       "Bruny Island",
+       -43.35,
+       147.3
+      ],
+      [
+       "Mount Wellington",
+       -42.896,
+       147.236
+      ],
+      "YMHB"
+     ]
+    },
+    {
+     "id": "east",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "East coast loop",
+      "hu": "Keleti part"
+     },
+     "desc": {
+      "en": "About an hour and a half: Port Arthur, Wineglass Bay in Freycinet and Mount Wellington.",
+      "hu": "Kb. másfél óra: Port Arthur, a freycineti Wineglass Bay és a Wellington-hegy."
+     },
+     "pts": [
+      "YMHB",
+      [
+       "Wineglass Bay",
+       -42.159,
+       148.301
+      ],
+      [
+       "~",
+       -42.2123,
+       148.4277
+      ],
+      [
+       "Port Arthur",
+       -43.147,
+       147.85
+      ],
+      [
+       "Mount Wellington",
+       -42.896,
+       147.236
+      ],
+      [
+       "~",
+       -42.8435,
+       147.2441
+      ],
+      "YMHB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Port Arthur Port Arthur fegyenctelep Tasmánia Bruny-sziget Bruny Wellington-hegy kunanyi Hobart Mount Wellington Wineglass Bay Boros pohár öböl Freycinet",
+   "img": "Wineglass Bay"
+  },
+  {
+   "id": "cairns",
+   "continent": "OC",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "Cairns and the Great Barrier Reef",
+    "hu": "Cairns és a Nagy-korallzátony"
+   },
+   "main": {
+    "en": "Great Barrier Reef",
+    "hu": "Nagy-korallzátony",
+    "lat": -16.607,
+    "lon": 145.976
+   },
+   "tags": [
+    "coast",
+    "jungle",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Where the rainforest meets the reef: Green Island, Michaelmas Cay and the Daintree.",
+    "hu": "Ahol az esőerdő találkozik a zátonnyal: a Green Island, a Michaelmas Cay és a Daintree."
+   },
+   "variants": [
+    {
+     "id": "reef",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Reef short",
+      "hu": "Zátony rövid"
+     },
+     "desc": {
+      "en": "Short loop: Green Island, Michaelmas Cay and Kuranda.",
+      "hu": "Rövid kör: a Green Island, a Michaelmas Cay és Kuranda."
+     },
+     "pts": [
+      "YBCS",
+      [
+       "Green Island",
+       -16.758,
+       145.974
+      ],
+      [
+       "Michaelmas Cay",
+       -16.607,
+       145.976
+      ],
+      [
+       "~",
+       -16.5888,
+       145.9415
+      ],
+      [
+       "Kuranda",
+       -16.819,
+       145.637
+      ],
+      "YBCS"
+     ]
+    },
+    {
+     "id": "daintree",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Daintree and Low Isles",
+      "hu": "Daintree és Low Isles"
+     },
+     "desc": {
+      "en": "About an hour and a half: Low Isles, Cape Tribulation, the Daintree and the Atherton Tablelands.",
+      "hu": "Kb. másfél óra: Low Isles, Cape Tribulation, a Daintree és az Atherton-fennsík."
+     },
+     "pts": [
+      "YBCS",
+      [
+       "Lake Eacham",
+       -17.283,
+       145.633
+      ],
+      [
+       "~",
+       -17.2793,
+       145.5233
+      ],
+      [
+       "Daintree Rainforest",
+       -16.25,
+       145.417
+      ],
+      [
+       "Cape Tribulation",
+       -16.078,
+       145.464
+      ],
+      [
+       "~",
+       -16.0773,
+       145.5103
+      ],
+      [
+       "Low Isles",
+       -16.387,
+       145.56
+      ],
+      "YBCS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Green Island Zöld-sziget Cairns Michaelmas Cay Michaelmas zátony Kuranda Kuranda esőerdő Eacham-tó Eacham Atherton-fennsík Daintree-esőerdő Daintree Cape Tribulation Tribulation-fok Low Isles Low Isles világítótorony",
+   "img": "Great Barrier Reef"
+  },
+  {
+   "id": "fiji",
+   "continent": "OC",
+   "country": {
+    "en": "Fiji",
+    "hu": "Fidzsi"
+   },
+   "name": {
+    "en": "Fiji islands",
+    "hu": "Fidzsi-szigetek"
+   },
+   "main": {
+    "en": "Mamanuca Islands",
+    "hu": "Mamanuca-szigetek",
+    "lat": -17.65,
+    "lon": 177.15
+   },
+   "tags": [
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "Coral islands off Nadi: the Mamanucas, the Yasawas and the reef passes of Cloudbreak.",
+    "hu": "Korallszigetek Nadi előtt: a Mamanuca- és Yasawa-szigetek és a Cloudbreak zátonya."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Mamanuca loop",
+      "hu": "Mamanuca-kör"
+     },
+     "desc": {
+      "en": "Short loop: Monuriki, the Mamanucas and Cloudbreak.",
+      "hu": "Rövid kör: Monuriki, a Mamanucák és a Cloudbreak."
+     },
+     "pts": [
+      "NFFN",
+      [
+       "Mamanuca Islands",
+       -17.65,
+       177.15
+      ],
+      [
+       "Monuriki",
+       -17.7,
+       177.03
+      ],
+      [
+       "Cloudbreak",
+       -17.878,
+       177.19
+      ],
+      "NFFN"
+     ]
+    },
+    {
+     "id": "yasawa",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Yasawa loop",
+      "hu": "Yasawa-kör"
+     },
+     "desc": {
+      "en": "About an hour: the Mamanucas, the Yasawa chain and the Blue Lagoon.",
+      "hu": "Kb. egy óra: a Mamanucák, a Yasawa-lánc és a Kék-lagúna."
+     },
+     "pts": [
+      "NFFN",
+      [
+       "Yasawa Islands",
+       -16.9,
+       177.35
+      ],
+      [
+       "~",
+       -16.8882,
+       177.3145
+      ],
+      [
+       "Blue Lagoon (Yasawa)",
+       -16.95,
+       177.3
+      ],
+      [
+       "Mamanuca Islands",
+       -17.65,
+       177.15
+      ],
+      "NFFN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Mamanuca-szigetek Mamanuca Mamanucák Monuriki Cast Away Monuriki sziget Cloudbreak Cloudbreak szörf Yasawa-szigetek Yasawa Kék-lagúna (Yasawa) Blue Lagoon Yasawa",
+   "img": "Mamanuca Islands"
+  },
+  {
+   "id": "madeira",
+   "continent": "EU",
+   "country": {
+    "en": "Portugal",
+    "hu": "Portugália"
+   },
+   "name": {
+    "en": "Madeira",
+    "hu": "Madeira"
+   },
+   "main": {
+    "en": "Cabo Girão",
+    "hu": "Cabo Girão",
+    "lat": 32.654,
+    "lon": -17.0
+   },
+   "tags": [
+    "island",
+    "coast",
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The floating garden of the Atlantic: Funchal, the cliffs of Cabo Girão, Pico Ruivo and the lava pools of Porto Moniz.",
+    "hu": "Az Atlanti-óceán lebegő kertje: Funchal, a Cabo Girão sziklái, a Pico Ruivo és Porto Moniz lávamedencéi."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Madeira short",
+      "hu": "Madeira rövid"
+     },
+     "desc": {
+      "en": "Short loop: Funchal, Cabo Girão, Pico Ruivo and São Lourenço.",
+      "hu": "Rövid kör: Funchal, Cabo Girão, a Pico Ruivo és São Lourenço."
+     },
+     "pts": [
+      "LPMA",
+      [
+       "Ponta de São Lourenço",
+       32.744,
+       -16.693
+      ],
+      [
+       "~",
+       32.7788,
+       -16.704
+      ],
+      [
+       "Pico Ruivo",
+       32.759,
+       -16.942
+      ],
+      [
+       "Cabo Girão",
+       32.654,
+       -17.0
+      ],
+      [
+       "Funchal",
+       32.65,
+       -16.908
+      ],
+      "LPMA"
+     ]
+    },
+    {
+     "id": "grand",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Island loop",
+      "hu": "Szigetkör"
+     },
+     "desc": {
+      "en": "About an hour: São Lourenço, Porto Santo, Pico Ruivo, Porto Moniz and Cabo Girão.",
+      "hu": "Kb. egy óra: São Lourenço, Porto Santo, a Pico Ruivo, Porto Moniz és Cabo Girão."
+     },
+     "pts": [
+      "LPMA",
+      [
+       "Ponta de São Lourenço",
+       32.744,
+       -16.693
+      ],
+      [
+       "Porto Santo",
+       33.07,
+       -16.34
+      ],
+      [
+       "~",
+       33.1616,
+       -16.4081
+      ],
+      [
+       "Porto Moniz",
+       32.868,
+       -17.17
+      ],
+      [
+       "Cabo Girão",
+       32.654,
+       -17.0
+      ],
+      [
+       "~",
+       32.6568,
+       -16.9574
+      ],
+      [
+       "Pico Ruivo",
+       32.759,
+       -16.942
+      ],
+      "LPMA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Ponta de São Lourenço São Lourenço-fok Pico Ruivo Pico Ruivo Madeira legmagasabb csúcs Cabo Girão Girão-fok szikla üvegpadló Funchal Funchal főváros Porto Santo Porto Santo sziget Porto Moniz Porto Moniz lávamedence",
+   "img": "Madeira"
+  },
+  {
+   "id": "tenerife",
+   "continent": "EU",
+   "country": {
+    "en": "Spain",
+    "hu": "Spanyolország"
+   },
+   "name": {
+    "en": "Tenerife and La Gomera",
+    "hu": "Tenerife és La Gomera"
+   },
+   "main": {
+    "en": "Teide",
+    "hu": "Teide",
+    "lat": 28.2724,
+    "lon": -16.6425
+   },
+   "tags": [
+    "island",
+    "volcano",
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Spain's highest volcano rising from the Atlantic: Teide, the cliffs of Los Gigantes and the laurel forest of La Gomera.",
+    "hu": "Spanyolország legmagasabb vulkánja az Atlanti-óceánból: a Teide, Los Gigantes sziklái és La Gomera babérerdeje."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 9000,
+     "stol": false,
+     "label": {
+      "en": "Teide short",
+      "hu": "Teide rövid"
+     },
+     "desc": {
+      "en": "Short loop: Los Gigantes, Masca, Teide and Playa de las Américas.",
+      "hu": "Rövid kör: Los Gigantes, Masca, a Teide és Playa de las Américas."
+     },
+     "pts": [
+      "GCTS",
+      [
+       "Playa de las Américas",
+       28.062,
+       -16.729
+      ],
+      [
+       "Los Gigantes Cliffs",
+       28.244,
+       -16.84
+      ],
+      [
+       "Masca Gorge",
+       28.307,
+       -16.84
+      ],
+      [
+       "Teide",
+       28.2724,
+       -16.6425
+      ],
+      "GCTS"
+     ]
+    },
+    {
+     "id": "grand",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 8000,
+     "stol": false,
+     "label": {
+      "en": "Tenerife and La Gomera",
+      "hu": "Tenerife és La Gomera"
+     },
+     "desc": {
+      "en": "About an hour and a half: La Gomera, Los Gigantes, Teide, the Anaga Mountains and Santa Cruz.",
+      "hu": "Kb. másfél óra: La Gomera, Los Gigantes, a Teide, az Anaga-hegység és Santa Cruz."
+     },
+     "pts": [
+      "GCTS",
+      [
+       "Garajonay",
+       28.119,
+       -17.237
+      ],
+      [
+       "~",
+       28.2114,
+       -17.2483
+      ],
+      [
+       "Los Gigantes Cliffs",
+       28.244,
+       -16.84
+      ],
+      [
+       "Anaga Mountains",
+       28.564,
+       -16.25
+      ],
+      [
+       "~",
+       28.5459,
+       -16.2146
+      ],
+      [
+       "Santa Cruz de Tenerife",
+       28.469,
+       -16.254
+      ],
+      [
+       "Teide",
+       28.2724,
+       -16.6425
+      ],
+      "GCTS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Playa de las Américas Las Américas Los Gigantes sziklák Los Gigantes Óriások Masca-szurdok Masca Teide Teide vulkán Tenerife Garajonay La Gomera nemzeti park babérerdő Anaga-hegység Anaga Santa Cruz de Tenerife Santa Cruz Tenerife",
+   "img": "Teide"
+  },
+  {
+   "id": "paris",
+   "continent": "EU",
+   "country": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "name": {
+    "en": "Paris",
+    "hu": "Párizs"
+   },
+   "main": {
+    "en": "Eiffel Tower",
+    "hu": "Eiffel-torony",
+    "lat": 48.8584,
+    "lon": 2.2945
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The City of Light from above: the Eiffel Tower, Notre-Dame, the Louvre, Sacré-Cœur and Versailles.",
+    "hu": "A fények városa fentről: az Eiffel-torony, a Notre-Dame, a Louvre, a Sacré-Cœur és Versailles."
+   },
+   "variants": [
+    {
+     "id": "city",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Paris landmarks",
+      "hu": "Párizs nevezetességei"
+     },
+     "desc": {
+      "en": "Loop from Le Bourget: Sacré-Cœur, La Défense, the Eiffel Tower, Notre-Dame and Vincennes.",
+      "hu": "Kör Le Bourget-ból: Sacré-Cœur, La Défense, az Eiffel-torony, a Notre-Dame és Vincennes."
+     },
+     "pts": [
+      "LFPB",
+      [
+       "Sacré-Cœur",
+       48.8867,
+       2.3431
+      ],
+      [
+       "La Défense",
+       48.892,
+       2.236
+      ],
+      [
+       "~",
+       48.8588,
+       2.2149
+      ],
+      [
+       "Eiffel Tower",
+       48.8584,
+       2.2945
+      ],
+      [
+       "Notre-Dame de Paris",
+       48.853,
+       2.3499
+      ],
+      [
+       "Château de Vincennes",
+       48.8427,
+       2.4354
+      ],
+      "LFPB"
+     ]
+    },
+    {
+     "id": "versailles",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Paris and Versailles",
+      "hu": "Párizs és Versailles"
+     },
+     "desc": {
+      "en": "About 40 minutes: the Louvre, the Eiffel Tower, the palace of Versailles and Disneyland Paris.",
+      "hu": "Kb. 40 perc: a Louvre, az Eiffel-torony, a versailles-i kastély és a Disneyland Paris."
+     },
+     "pts": [
+      "LFPB",
+      [
+       "Louvre",
+       48.8606,
+       2.3376
+      ],
+      [
+       "Eiffel Tower",
+       48.8584,
+       2.2945
+      ],
+      [
+       "La Défense",
+       48.892,
+       2.236
+      ],
+      [
+       "Versailles",
+       48.8049,
+       2.1204
+      ],
+      [
+       "~",
+       48.7734,
+       2.1468
+      ],
+      [
+       "Disneyland Paris",
+       48.8722,
+       2.7758
+      ],
+      [
+       "~",
+       48.9321,
+       2.7826
+      ],
+      "LFPB"
+     ]
+    }
+   ],
+   "pois": [
+    [
+     "Arc de Triomphe",
+     48.8738,
+     2.295
+    ],
+    [
+     "Stade de France",
+     48.9245,
+     2.3601
+    ]
+   ],
+   "new": true,
+   "kw": "Sacré-Cœur Montmartre La Défense La Défense Grande Arche Eiffel-torony Notre-Dame párizsi székesegyház Vincennes-i vár Vincennes kastély Párizs Louvre Louvre múzeum Párizs Mona Lisa Versailles-i kastély Disneyland Paris Disneyland Párizs Disney Diadalív Arc de Triomphe Párizs Stade de France Stade de France stadion",
+   "img": "Eiffel Tower"
   }
  ]
 }
