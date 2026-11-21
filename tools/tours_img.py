@@ -31,5 +31,10 @@ miss = [t["id"] for t in d["tours"] if t["id"] not in IMG]
 for t in d["tours"]:
     if t["id"] in IMG:
         t["img"] = IMG[t["id"]]
+import base64
+for t in d["tours"]:
+    f = os.path.join(ROOT, "tools", "img", t["id"] + ".svg")      # sajat (SVG) fejlec-kep: a tours.json-ba agyazva (az updater csak .json/.py/.gz stb. fajlokat tolt le)
+    if os.path.isfile(f):
+        t["imgx"] = "data:image/svg+xml;base64," + base64.b64encode(open(f, "rb").read()).decode("ascii")
 print("hianyzik:", miss)
 json.dump(d, open(P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
