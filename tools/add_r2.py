@@ -30,10 +30,8 @@ add("NA", "yosemite", US, ("Yosemite", "Yosemite"), ("Half Dome", "Half Dome", 3
       ["KMPI", ["El Capitan", 37.7340, -119.6377], ["Yosemite Falls", 37.7565, -119.5968], ["Half Dome", 37.7459, -119.5332], ["Glacier Point", 37.7305, -119.5740], ["Tuolumne Meadows", 37.8730, -119.3500], "KMPI"])])
 add("NA", "banff", CA, ("Banff and Lake Louise", "Banff és a Lake Louise"), ("Lake Louise", "Lake Louise", 51.4254, -116.1773), ["mountain", "unesco"],
     ("Turquoise lakes under the Canadian Rockies: Lake Louise, Moraine Lake, Peyto Lake and the Bow Valley.", "Türkiz tavak a Kanadai-Sziklás-hegység alatt: Lake Louise, Moraine Lake, Peyto Lake és a Bow-völgy."), [],
-    [("short", "loop", 110, 10500, ("Banff short", "Banff rövid"), ("From Springbank: Banff, Lake Louise and Moraine Lake.", "Springbankból: Banff, Lake Louise és Moraine Lake."),
-      ["CYBW", ["Banff", 51.1784, -115.5708], ["Lake Louise", 51.4254, -116.1773], ["Moraine Lake", 51.3217, -116.1860], ["Mount Rundle", 51.1500, -115.5500], "CYBW"]),
-     ("full", "loop", 115, 11500, ("Lakes loop", "Tó-kör"), ("About an hour: Banff, Lake Louise, Moraine Lake and Peyto Lake on the Icefields Parkway.", "Kb. egy óra: Banff, Lake Louise, Moraine Lake és a Peyto-tó a Jégmező-úton."),
-      ["CYBW", ["Banff", 51.1784, -115.5708], ["Lake Louise", 51.4254, -116.1773], ["Peyto Lake", 51.7240, -116.5170], ["Moraine Lake", 51.3217, -116.1860], "CYBW"])])
+    [("full", "loop", 115, 11500, ("Lakes loop", "Tó-kör"), ("About an hour: Mount Rundle, Banff, Lake Louise, Moraine Lake and Peyto Lake on the Icefields Parkway.", "Kb. egy óra: a Mount Rundle, Banff, Lake Louise, Moraine Lake és a Peyto-tó a Jégmező-úton."),
+      ["CYBW", ["Mount Rundle", 51.1500, -115.5500], ["Banff", 51.1784, -115.5708], ["Lake Louise", 51.4254, -116.1773], ["Peyto Lake", 51.7240, -116.5170], ["Moraine Lake", 51.3217, -116.1860], "CYBW"])])
 add("NA", "yucatan", MX, ("Cancún and the Maya coast", "Cancún és a maja part"), ("Chichén Itzá", "Chichén Itzá", 20.6843, -88.5678), ["culture", "coast", "unesco"],
     ("White beaches and Maya pyramids: Isla Mujeres, Tulum above the sea and the great pyramid of Chichén Itzá.", "Fehér strandok és maja piramisok: Isla Mujeres, a tenger felett álló Tulum és a chichén itzái nagy piramis."), [],
     [("short", "loop", 100, 2000, ("Cancún short", "Cancún rövid"), ("Short loop: Isla Mujeres, the hotel zone and Tulum.", "Rövid kör: Isla Mujeres, a szállodasor és Tulum."),

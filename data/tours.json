@@ -10084,45 +10084,6 @@
    },
    "variants": [
     {
-     "id": "short",
-     "kind": "loop",
-     "kt": 110,
-     "alt_ft": 10500,
-     "stol": false,
-     "label": {
-      "en": "Banff short",
-      "hu": "Banff rövid"
-     },
-     "desc": {
-      "en": "From Springbank: Banff, Lake Louise and Moraine Lake.",
-      "hu": "Springbankból: Banff, Lake Louise és Moraine Lake."
-     },
-     "pts": [
-      "CYBW",
-      [
-       "Mount Rundle",
-       51.15,
-       -115.55
-      ],
-      [
-       "Banff",
-       51.1784,
-       -115.5708
-      ],
-      [
-       "Moraine Lake",
-       51.3217,
-       -116.186
-      ],
-      [
-       "Lake Louise",
-       51.4254,
-       -116.1773
-      ],
-      "CYBW"
-     ]
-    },
-    {
      "id": "full",
      "kind": "loop",
      "kt": 115,
@@ -10133,11 +10094,16 @@
       "hu": "Tó-kör"
      },
      "desc": {
-      "en": "About an hour: Banff, Lake Louise, Moraine Lake and Peyto Lake on the Icefields Parkway.",
-      "hu": "Kb. egy óra: Banff, Lake Louise, Moraine Lake és a Peyto-tó a Jégmező-úton."
+      "en": "About an hour: Mount Rundle, Banff, Lake Louise, Moraine Lake and Peyto Lake on the Icefields Parkway.",
+      "hu": "Kb. egy óra: a Mount Rundle, Banff, Lake Louise, Moraine Lake és a Peyto-tó a Jégmező-úton."
      },
      "pts": [
       "CYBW",
+      [
+       "Mount Rundle",
+       51.15,
+       -115.55
+      ],
       [
        "Banff",
        51.1784,
@@ -10372,7 +10338,7 @@
    "pois": [],
    "new": true,
    "kw": "Pehoé-tó Cuernos del Paine Szarvak Grey-gleccser Torres del Paine",
-   "img": "Torres del Paine National Park"
+   "img": "Cuernos del Paine|Torres del Paine National Park"
   },
   {
    "id": "perito-moreno",
@@ -10646,7 +10612,7 @@
    "pois": [],
    "new": true,
    "kw": "Martín García-sziget Recoleta temető Evita Obeliszk Buenos Aires Puerto Madero La Boca Caminito Bombonera",
-   "img": "Buenos Aires Obelisk"
+   "img": "Obelisco de Buenos Aires|Buenos Aires"
   },
   {
    "id": "marrakech-atlas",
@@ -13085,7 +13051,7 @@
    "pois": [],
    "new": true,
    "kw": "Mississauga látképe Mississauga Casa Loma Casa Loma kastély Toronto Scarborough Bluffs Scarborough sziklák CN Tower CN torony Toronto Niagara-vízesés Niagara Falls Niagara Hamilton Skyway Burlington Skyway híd",
-   "img": "Niagara Falls"
+   "img": "Niagara Falls|Toronto"
   },
   {
    "id": "florida-keys",
@@ -13856,7 +13822,7 @@
    "pois": [],
    "new": true,
    "kw": "Ponta de São Lourenço São Lourenço-fok Pico Ruivo Pico Ruivo Madeira legmagasabb csúcs Cabo Girão Girão-fok szikla üvegpadló Funchal Funchal főváros Porto Santo Porto Santo sziget Porto Moniz Porto Moniz lávamedence",
-   "img": "Madeira"
+   "img": "Cabo Girão|Madeira"
   },
   {
    "id": "tenerife",

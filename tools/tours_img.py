@@ -17,13 +17,13 @@ IMG = {
 "oahu": "Diamond Head, Hawaii", "machu-picchu": "Machu Picchu", "rio": "Christ the Redeemer (statue)", "iguazu": "Iguazu Falls", "cape-town": "Table Mountain", "giza": "Giza pyramid complex",
 "kilimanjaro": "Mount Kilimanjaro", "sydney": "Sydney Opera House", "whitsundays": "Whitehaven Beach", "milford-sound": "Milford Sound", "tokyo-fuji": "Mount Fuji", "dubai": "Burj Khalifa",
 "hong-kong": "Victoria Harbour", "yellowstone": "Grand Prismatic Spring", "las-vegas": "Hoover Dam", "yosemite": "Half Dome", "banff": "Moraine Lake", "yucatan": "Chichen Itza",
-"torres-del-paine": "Torres del Paine National Park", "perito-moreno": "Perito Moreno Glacier", "galapagos": "Galápagos Islands", "buenos-aires": "Buenos Aires Obelisk", "marrakech-atlas": "Koutoubia Mosque",
+"torres-del-paine": "Cuernos del Paine|Torres del Paine National Park", "perito-moreno": "Perito Moreno Glacier", "galapagos": "Galápagos Islands", "buenos-aires": "Obelisco de Buenos Aires|Buenos Aires", "marrakech-atlas": "Koutoubia Mosque",
 "victoria-falls": "Victoria Falls", "luxor": "Karnak", "ngorongoro": "Ngorongoro Conservation Area", "uluru": "Uluru", "great-ocean-road": "Twelve Apostles (Victoria)", "aoraki": "Aoraki / Mount Cook",
 "bora-bora": "Mount Otemanu", "bali": "Tanah Lot", "singapore": "Marina Bay Sands",
 "okavango": "Okavango Delta", "sossusvlei": "Sossusvlei", "seychelles": "Anse Source d'Argent", "garden-route": "Knysna", "petra-wadi-rum": "Petra", "maldives": "Ari Atoll",
 "halong": "Ha Long Bay", "kyoto-osaka": "Fushimi Inari-taisha", "beijing": "Great Wall of China", "phuket": "Phi Phi Islands", "denali": "Denali", "monument-valley": "Monument Valley",
-"toronto-niagara": "Niagara Falls", "florida-keys": "Seven Mile Bridge", "easter-island": "Ahu Tongariki", "atacama": "Atacama Desert", "tasmania": "Wineglass Bay",
-"cairns": "Great Barrier Reef", "fiji": "Mamanuca Islands", "madeira": "Madeira", "tenerife": "Teide", "paris": "Eiffel Tower",
+"toronto-niagara": "Niagara Falls|Toronto", "florida-keys": "Seven Mile Bridge", "easter-island": "Ahu Tongariki", "atacama": "Atacama Desert", "tasmania": "Wineglass Bay",
+"cairns": "Great Barrier Reef", "fiji": "Mamanuca Islands", "madeira": "Cabo Girão|Madeira", "tenerife": "Teide", "paris": "Eiffel Tower",
 }
 P = os.path.join(ROOT, "data", "tours.json")
 d = json.load(open(P, encoding="utf-8"))
