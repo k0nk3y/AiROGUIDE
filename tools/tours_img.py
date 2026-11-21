@@ -3,10 +3,10 @@
 import json, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMG = {
-"courchevel": "Courchevel Altiport|Courchevel", "barra-st-kilda": "Barra Airport|St Kilda, Scotland", "saba-statia": "Saba|Mount Scenery", "st-barth": "Saint Barthélemy|Gustavia, Saint Barthélemy", "mccarthy": "Kennecott, Alaska|McCarthy, Alaska", "telluride": "Telluride, Colorado|Mount Sneffels",
+"courchevel": "Courchevel Altiport|Courchevel", "barra-st-kilda": "Barra Airport|St Kilda, Scotland", "saba-statia": "Saba|Mount Scenery", "st-barth": "Maho Beach|Princess Juliana International Airport|Gustavia, Saint Barthélemy", "mccarthy": "Kennecott, Alaska|McCarthy, Alaska", "telluride": "Telluride, Colorado|Mount Sneffels",
 "jeju": "Hallasan|Jeju Island", "rajasthan": "Amber Fort|Jaipur", "java": "Borobudur", "bhutan": "Paro Taktsang", "sri-lanka": "Sigiriya", "chicago": "Chicago|Willis Tower",
 "seattle-rainier": "Mount Rainier", "zion-bryce": "Bryce Canyon", "mexico-city": "Teotihuacan", "nazca": "Nazca Lines", "uyuni": "Salar de Uyuni", "angel-falls": "Angel Falls",
-"manaus": "Teatro Amazonas|Manaus", "serengeti-mara": "Serengeti", "mauritius": "Le Morne Brabant", "zanzibar": "Stone Town", "sahara-merzouga": "Erg Chebbi",
+"manaus": "Teatro Amazonas|Manaus", "serengeti-mara": "Maasai Mara|Serengeti National Park|Great Migration|Serengeti", "mauritius": "Le Morne Brabant", "zanzibar": "Stone Town", "sahara-merzouga": "Erg Chebbi",
 "auckland": "Sky Tower, Auckland|Auckland", "queenstown": "Queenstown, New Zealand|The Remarkables",
 "agra-taj": "Taj Mahal", "everest": "Mount Everest", "angkor": "Angkor Wat", "bagan": "Bagan", "budapest": "Hungarian Parliament Building", "balaton": "Tihany Abbey",
 "rome-naples": "Colosseum", "amalfi": "Amalfi Coast", "tuscany": "Val d'Orcia", "dolomites": "Tre Cime di Lavaredo", "cinque-terre": "Vernazza", "matterhorn": "Matterhorn",
@@ -27,7 +27,7 @@ IMG = {
 "bora-bora": "Mount Otemanu", "bali": "Tanah Lot", "singapore": "Marina Bay Sands",
 "okavango": "Okavango Delta", "sossusvlei": "Sossusvlei", "seychelles": "Anse Source d'Argent", "garden-route": "Knysna", "petra-wadi-rum": "Petra", "maldives": "Ari Atoll",
 "halong": "Ha Long Bay", "kyoto-osaka": "Fushimi Inari-taisha", "beijing": "Great Wall of China", "phuket": "Phi Phi Islands", "denali": "Denali", "monument-valley": "Monument Valley",
-"toronto-niagara": "Niagara Falls|Toronto", "florida-keys": "Southernmost Point Buoy|Bahia Honda State Park|Seven Mile Bridge", "easter-island": "Ahu Tongariki", "atacama": "Atacama Desert", "tasmania": "Wineglass Bay",
+"toronto-niagara": "Niagara Falls|Toronto", "florida-keys": "Art Deco Historic District|Miami Beach, Florida|Key West, Florida", "easter-island": "Ahu Tongariki", "atacama": "Atacama Desert", "tasmania": "Wineglass Bay",
 "cairns": "Great Barrier Reef", "fiji": "Mamanuca Islands", "madeira": "Cabo Girão|Madeira", "tenerife": "Teide", "paris": "Eiffel Tower",
 }
 P = os.path.join(ROOT, "data", "tours.json")

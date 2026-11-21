@@ -13120,7 +13120,7 @@
    ],
    "pois": [],
    "kw": "Key Biscayne világítótorony Cape Florida Light Key Largo Key Largo Seven Mile Bridge Hétmérföldes híd Florida Keys Key West Old Town Key West óváros Marquesas Keys Marquesas Fort Jefferson Dry Tortugas erőd",
-   "img": "Southernmost Point Buoy|Bahia Honda State Park|Seven Mile Bridge",
+   "img": "Art Deco Historic District|Miami Beach, Florida|Key West, Florida",
    "imgx": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NjAgMzYwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBzbGljZSI+CjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmM2Q5YSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzI3ZTBmZiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjM2MCIgZmlsbD0iI2ZmM2Q5YSIgb3BhY2l0eT0iLjEwIi8+CjxnIGZvbnQtZmFtaWx5PSInQXJpYWwgQmxhY2snLEltcGFjdCxBcmlhbCxzYW5zLXNlcmlmIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtd2VpZ2h0PSI5MDAiIHBhaW50LW9yZGVyPSJzdHJva2UiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8dGV4dCB4PSIyMCIgeT0iMTMyIiBmb250LXNpemU9IjM0IiBmaWxsPSIjZmY3YWMwIiBzdHJva2U9IiMyYTBiNGQiIHN0cm9rZS13aWR0aD0iNyIgbGV0dGVyLXNwYWNpbmc9IjEiPk5PVCBWSUNFIENJVFkuPC90ZXh0Pgo8dGV4dCB4PSIyMiIgeT0iMTY2IiBmb250LXNpemU9IjI0IiBmaWxsPSIjN2ZmNWZmIiBzdHJva2U9IiMyYTBiNGQiIHN0cm9rZS13aWR0aD0iNiIgbGV0dGVyLXNwYWNpbmc9IjMiPihZRVQuKTwvdGV4dD48L2c+CjxyZWN0IHg9IjIyIiB5PSIxNzgiIHdpZHRoPSIyMTAiIGhlaWdodD0iNCIgcng9IjIiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg=="
   },
   {
@@ -15599,7 +15599,7 @@
    "pois": [],
    "new": true,
    "kw": "Gol-sziklaszigetek Gol kopjes Moru-sziklaszigetek Moru kopjes Lobo-völgy Lobo Mara-folyó átkelő Mara folyó gnúvándorlás Grumeti-folyó Grumeti",
-   "img": "Serengeti"
+   "img": "Maasai Mara|Serengeti National Park|Great Migration|Serengeti"
   },
   {
    "id": "mauritius",
@@ -16467,7 +16467,7 @@
    "pois": [],
    "new": true,
    "kw": "Gustavia Gustavia St Barth főváros Île Fourchue Fourchue sziget Maho Beach Maho strand repülők Sint Maarten Shoal Bay Anguilla Shoal Bay strand",
-   "img": "Saint Barthélemy|Gustavia, Saint Barthélemy"
+   "img": "Maho Beach|Princess Juliana International Airport|Gustavia, Saint Barthélemy"
   },
   {
    "id": "mccarthy",
@@ -16497,45 +16497,6 @@
     "hu": "Kavicsos leszállópálya az alaszkai legnagyobb nemzeti park útjának végén: a Kennecott kísértetbánya, hatalmas gleccserek és a Wrangell vulkán."
    },
    "variants": [
-    {
-     "id": "short",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 9000,
-     "stol": true,
-     "label": {
-      "en": "Blackburn loop",
-      "hu": "Blackburn-kör"
-     },
-     "desc": {
-      "en": "Over the Kennecott mine, Mount Blackburn and the Copper River at Chitina.",
-      "hu": "A Kennecott bánya, a Mount Blackburn és a chitinai Copper River felett."
-     },
-     "pts": [
-      "PAMX",
-      [
-       "Chitina",
-       61.523,
-       -144.44
-      ],
-      [
-       "~",
-       61.6298,
-       -144.4724
-      ],
-      [
-       "Mount Blackburn",
-       61.73,
-       -143.43
-      ],
-      [
-       "Kennecott Mine",
-       61.4838,
-       -142.8886
-      ],
-      "PAMX"
-     ]
-    },
     {
      "id": "long",
      "kind": "loop",
