@@ -80,9 +80,7 @@ add("AS", "phuket", TH, ("Phuket and Phang Nga Bay", "Phuket és a Phang Nga-öb
 # ---------------- Eszak-Amerika ----------------
 add("NA", "denali", US, ("Denali", "Denali"), ("Denali", "Denali", 63.0692, -151.0070), ["mountain", "unesco"],
     ("North America's highest peak: Denali, Mount Foraker and the glaciers of the Alaska Range from Talkeetna.", "Észak-Amerika legmagasabb csúcsa: a Denali, a Mount Foraker és az Alaszkai-hegység gleccserei Talkeetnából."), [],
-    [("short", "loop", 105, 13000, ("Denali short", "Denali rövid"), ("From Talkeetna over the Ruth Glacier and around Denali.", "Talkeetnából a Ruth-gleccser felett a Denali körül."),
-      ["PATK", Pt("Ruth Glacier", 62.9450, -150.6000), Pt("Denali", 63.0692, -151.0070), Pt("Kahiltna Glacier", 62.8800, -151.1800), "PATK"]),
-     ("foraker", "loop", 110, 13500, ("Foraker and Denali", "Foraker és Denali"), ("About an hour: Mount Foraker, Denali and the Ruth Glacier.", "Kb. egy óra: a Mount Foraker, a Denali és a Ruth-gleccser."),
+    [("foraker", "loop", 110, 13500, ("Foraker and Denali", "Foraker és Denali"), ("About an hour: Mount Foraker, Denali and the Ruth Glacier.", "Kb. egy óra: a Mount Foraker, a Denali és a Ruth-gleccser."),
       ["PATK", Pt("Mount Foraker", 62.9600, -151.3990), Pt("Denali", 63.0692, -151.0070), Pt("Ruth Glacier", 62.9450, -150.6000), Pt("Kahiltna Glacier", 62.8800, -151.1800), "PATK"])])
 add("NA", "monument-valley", US, ("Monument Valley and Lake Powell", "Monument Valley és a Powell-tó"), ("Monument Valley", "Monument Valley", 36.9980, -110.0985), ["culture", "mountain"],
     ("Red buttes in the Arizona desert: Horseshoe Bend, Antelope Canyon, Rainbow Bridge and Monument Valley.", "Vörös tanúhegyek az arizonai sivatagban: Horseshoe Bend, Antelope-kanyon, Rainbow Bridge és Monument Valley."), [],
@@ -96,12 +94,6 @@ add("NA", "toronto-niagara", CA, ("Toronto and Niagara Falls", "Toronto és a Ni
       ["CYTZ", Pt("CN Tower", 43.6426, -79.3871), Pt("Casa Loma", 43.6780, -79.4094), Pt("Scarborough Bluffs", 43.7050, -79.2300), Pt("Mississauga Skyline", 43.5930, -79.6430), "CYTZ"]),
      ("niagara", "loop", 105, 3500, ("Niagara loop", "Niagara-kör"), ("About an hour: Toronto's skyline, Hamilton and Niagara Falls over Lake Ontario.", "Kb. egy óra: Toronto látképe, Hamilton és a Niagara-vízesés az Ontario-tó felett."),
       ["CYTZ", Pt("CN Tower", 43.6426, -79.3871), Pt("Hamilton Skyway", 43.2790, -79.8000), Pt("Niagara Falls", 43.0896, -79.0849), Pt("Scarborough Bluffs", 43.7050, -79.2300), "CYTZ"])])
-add("NA", "big-island", US, ("Hawaii Big Island", "Hawaii Nagy-sziget"), ("Kīlauea", "Kīlauea", 19.4069, -155.2834), ["island", "volcano", "mountain"],
-    ("Fire and ice on one island: the lava of Kīlauea, the snowy summit of Mauna Kea and the black sand of the south.", "Tűz és jég egy szigeten: a Kīlauea lávája, a Mauna Kea havas csúcsa és a déli fekete homok."), [],
-    [("volcano", "loop", 100, 9000, ("Volcano loop", "Vulkán-kör"), ("From Hilo: Akaka Falls, Mauna Kea, Mauna Loa and Kīlauea.", "Hilóból: Akaka-vízesés, Mauna Kea, Mauna Loa és Kīlauea."),
-      ["PHTO", Pt("Akaka Falls", 19.8540, -155.1520), Pt("Mauna Kea", 19.8207, -155.4681), Pt("Mauna Loa", 19.4750, -155.6080), Pt("Kīlauea", 19.4069, -155.2834), "PHTO"]),
-     ("grand", "loop", 110, 8000, ("Around the island", "Körbe a szigeten"), ("About two hours: the Waipiʻo and Pololu valleys, Mauna Kea, South Point, Punaluʻu and Kīlauea.", "Kb. két óra: a Waipiʻo- és Pololu-völgy, a Mauna Kea, a South Point, Punaluʻu és a Kīlauea."),
-      ["PHTO", Pt("Waipiʻo Valley", 20.1100, -155.5900), Pt("Pololu Valley", 20.2070, -155.7300), Pt("Mauna Kea", 19.8207, -155.4681), Pt("South Point", 18.9110, -155.6810), Pt("Punaluʻu Black Sand Beach", 19.1360, -155.5050), Pt("Kīlauea", 19.4069, -155.2834), "PHTO"])])
 add("NA", "florida-keys", US, ("Florida Keys", "Florida Keys"), ("Seven Mile Bridge", "Seven Mile Bridge", 24.7050, -81.1500), ["coast", "island"],
     ("A chain of islands strung on a road over the sea: Key Biscayne, Key Largo, the Seven Mile Bridge and Key West.", "Szigetlánc egy tenger feletti úton: Key Biscayne, Key Largo, a Seven Mile Bridge és Key West."), [],
     [("run", "ab", 110, 1500, ("Miami to Key West", "Miamitól Key Westig"), ("A one-way run along the Keys, from Miami over Key Largo and the Seven Mile Bridge to Key West.", "Egyirányú repülés a Keys mentén Miamitól Key Largón és a Seven Mile Bridge-en át Key Westig."),

@@ -12793,40 +12793,6 @@
    },
    "variants": [
     {
-     "id": "short",
-     "kind": "loop",
-     "kt": 105,
-     "alt_ft": 13000,
-     "stol": false,
-     "label": {
-      "en": "Denali short",
-      "hu": "Denali rövid"
-     },
-     "desc": {
-      "en": "From Talkeetna over the Ruth Glacier and around Denali.",
-      "hu": "Talkeetnából a Ruth-gleccser felett a Denali körül."
-     },
-     "pts": [
-      "PATK",
-      [
-       "Kahiltna Glacier",
-       62.88,
-       -151.18
-      ],
-      [
-       "Denali",
-       63.0692,
-       -151.007
-      ],
-      [
-       "Ruth Glacier",
-       62.945,
-       -150.6
-      ],
-      "PATK"
-     ]
-    },
-    {
      "id": "foraker",
      "kind": "loop",
      "kt": 110,
@@ -12868,7 +12834,7 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Kahiltna-gleccser Kahiltna Denali Denali McKinley Alaszka Ruth-gleccser Ruth gleccser Mount Foraker Foraker Alaszka",
+   "kw": "Kahiltna-gleccser Kahiltna Mount Foraker Foraker Alaszka Denali Denali McKinley Alaszka Ruth-gleccser Ruth gleccser",
    "img": "Denali"
   },
   {
@@ -13119,138 +13085,7 @@
    "pois": [],
    "new": true,
    "kw": "Mississauga látképe Mississauga Casa Loma Casa Loma kastély Toronto Scarborough Bluffs Scarborough sziklák CN Tower CN torony Toronto Niagara-vízesés Niagara Falls Niagara Hamilton Skyway Burlington Skyway híd",
-   "img": "CN Tower"
-  },
-  {
-   "id": "big-island",
-   "continent": "NA",
-   "country": {
-    "en": "United States",
-    "hu": "Egyesült Államok"
-   },
-   "name": {
-    "en": "Hawaii Big Island",
-    "hu": "Hawaii Nagy-sziget"
-   },
-   "main": {
-    "en": "Kīlauea",
-    "hu": "Kīlauea",
-    "lat": 19.4069,
-    "lon": -155.2834
-   },
-   "tags": [
-    "island",
-    "volcano",
-    "mountain"
-   ],
-   "desc": {
-    "en": "Fire and ice on one island: the lava of Kīlauea, the snowy summit of Mauna Kea and the black sand of the south.",
-    "hu": "Tűz és jég egy szigeten: a Kīlauea lávája, a Mauna Kea havas csúcsa és a déli fekete homok."
-   },
-   "variants": [
-    {
-     "id": "volcano",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 9000,
-     "stol": false,
-     "label": {
-      "en": "Volcano loop",
-      "hu": "Vulkán-kör"
-     },
-     "desc": {
-      "en": "From Hilo: Akaka Falls, Mauna Kea, Mauna Loa and Kīlauea.",
-      "hu": "Hilóból: Akaka-vízesés, Mauna Kea, Mauna Loa és Kīlauea."
-     },
-     "pts": [
-      "PHTO",
-      [
-       "Kīlauea",
-       19.4069,
-       -155.2834
-      ],
-      [
-       "Mauna Loa",
-       19.475,
-       -155.608
-      ],
-      [
-       "Mauna Kea",
-       19.8207,
-       -155.4681
-      ],
-      [
-       "Akaka Falls",
-       19.854,
-       -155.152
-      ],
-      "PHTO"
-     ]
-    },
-    {
-     "id": "grand",
-     "kind": "loop",
-     "kt": 110,
-     "alt_ft": 8000,
-     "stol": false,
-     "label": {
-      "en": "Around the island",
-      "hu": "Körbe a szigeten"
-     },
-     "desc": {
-      "en": "About two hours: the Waipiʻo and Pololu valleys, Mauna Kea, South Point, Punaluʻu and Kīlauea.",
-      "hu": "Kb. két óra: a Waipiʻo- és Pololu-völgy, a Mauna Kea, a South Point, Punaluʻu és a Kīlauea."
-     },
-     "pts": [
-      "PHTO",
-      [
-       "Kīlauea",
-       19.4069,
-       -155.2834
-      ],
-      [
-       "Punaluʻu Black Sand Beach",
-       19.136,
-       -155.505
-      ],
-      [
-       "South Point",
-       18.911,
-       -155.681
-      ],
-      [
-       "~",
-       18.9317,
-       -155.7516
-      ],
-      [
-       "Pololu Valley",
-       20.207,
-       -155.73
-      ],
-      [
-       "~",
-       20.2251,
-       -155.691
-      ],
-      [
-       "Waipiʻo Valley",
-       20.11,
-       -155.59
-      ],
-      [
-       "Mauna Kea",
-       19.8207,
-       -155.4681
-      ],
-      "PHTO"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Kīlauea Kilauea vulkán Mauna Loa Mauna Loa vulkán Mauna Kea Akaka-vízesés Punaluʻu fekete homokstrand Punalu'u fekete homok teknős South Point Ka Lae déli pont Pololu-völgy Pololu Waipiʻo-völgy Waipio",
-   "img": "Kīlauea"
+   "img": "Niagara Falls"
   },
   {
    "id": "florida-keys",
