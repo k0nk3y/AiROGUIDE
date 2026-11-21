@@ -43,6 +43,9 @@ def swing(P):
     return out
 
 
+FIXED = set(open(os.path.join(ROOT, "tools", "fixed_order.txt"), encoding="utf-8").read().split()) if os.path.exists(os.path.join(ROOT, "tools", "fixed_order.txt")) else set()   # tura/valtozat: a megadott sorrend marad
+
+
 def main():
     ap = {}
     for ln in gzip.open(os.path.join(ROOT, "data", "airports_rwy.tsv.gz"), "rt", encoding="utf-8"):
@@ -60,7 +63,7 @@ def main():
             v["pts"] = raw
             P = [(p, ap[p][0], ap[p][1]) if isinstance(p, str) else (p, p[1], p[2]) for p in raw]
             mid = P[1:-1]
-            if v.get("kind") == "loop" and 2 <= len(mid) <= 8:          # A->B turaknal a haladasi sorrend marad
+            if v.get("kind") == "loop" and 2 <= len(mid) <= 8 and "%s/%s" % (t["id"], v["id"]) not in FIXED:          # A->B turaknal a haladasi sorrend marad
                 best = min(itertools.permutations(mid), key=lambda m: cost([P[0]] + list(m) + [P[-1]]))
                 if cost([P[0]] + list(best) + [P[-1]]) < cost(P) - 1:
                     P = [P[0]] + list(best) + [P[-1]]

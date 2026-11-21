@@ -93,7 +93,7 @@ add("OC", "uluru", AU, ("Uluru and Kata Tjuta", "Uluru és Kata Tjuta"), ("Uluru
 add("OC", "great-ocean-road", AU, ("Great Ocean Road", "Great Ocean Road"), ("Twelve Apostles", "Tizenkét Apostol", -38.6624, 143.1049), ["coast"],
     ("Limestone stacks rising from the Southern Ocean: the Twelve Apostles, Loch Ard Gorge and Cape Otway.", "A Déli-óceánból kiemelkedő mészkőtornyok: a Tizenkét Apostol, a Loch Ard-szurdok és a Cape Otway."), [],
     [("loop", "loop", 100, 2000, ("Ocean Road loop", "Ocean Road-kör"), ("From Avalon: Bells Beach, Cape Otway lighthouse and the Twelve Apostles.", "Avalonból: Bells Beach, a Cape Otway világítótornya és a Tizenkét Apostol."),
-      ["YMAV", ["Bells Beach", -38.3700, 144.2800], ["Cape Otway Lighthouse", -38.8550, 143.5120], ["Twelve Apostles", -38.6624, 143.1049], ["Loch Ard Gorge", -38.6500, 143.0670], "YMAV"])])
+      ["YMAV", ["Bells Beach", -38.3700, 144.2800], ["Cape Otway Lighthouse", -38.8550, 143.5120], ["Twelve Apostles", -38.6624, 143.1049], ["Loch Ard Gorge", -38.6500, 143.0670], ["Port Campbell", -38.6177, 143.0098], ["~", -38.4000, 143.3500], "YMAV"])])
 add("OC", "aoraki", NZ, ("Aoraki / Mount Cook", "Aoraki / Mount Cook"), ("Aoraki / Mount Cook", "Aoraki / Mount Cook", -43.5950, 170.1418), ["mountain", "unesco"],
     ("New Zealand's highest peak, the Tasman Glacier and the milky blue Lake Pukaki.", "Új-Zéland legmagasabb csúcsa, a Tasman-gleccser és a tejkék Pukaki-tó."), [],
     [("loop", "loop", 100, 10500, ("Aoraki loop", "Aoraki-kör"), ("From Mount Cook: Aoraki, the Tasman Glacier and Lake Pukaki.", "Mount Cookból: az Aoraki, a Tasman-gleccser és a Pukaki-tó."),
