@@ -27,7 +27,8 @@
 "hu":"Bharatpur madárpark"
 },
 "Amber Fort":{
-"hu":"Amber-erőd Dzsaipur"
+"hu":"Amber-erőd",
+"k":"Amber-erőd Amer erőd Jaipur"
 },
 "City Palace, Jaipur":{
 "hu":"Városi palota, Dzsaipur",
@@ -1166,13 +1167,16 @@
 "hu":"Fatih Szultán Mehmed-híd"
 },
 "Uçhisar Castle":{
-"hu":"Uçhisar vár"
+"hu":"Uçhisar-vár",
+"k":"Uçhisar-vár Uchisar kastély"
 },
 "Göreme":{
-"hu":"Göreme"
+"hu":"Göreme",
+"k":"Göreme Göreme Nemzeti Park hőlégballon Goreme"
 },
 "Ürgüp":{
-"hu":"Ürgüp"
+"hu":"Ürgüp",
+"k":"Ürgüp Urgup"
 },
 "Love Valley":{
 "hu":"Szerelem-völgy Kappadókia"
@@ -1181,10 +1185,12 @@
 "hu":"Derinkuyu földalatti város"
 },
 "Mount Erciyes":{
-"hu":"Erciyes-hegy"
+"hu":"Erciyes-hegy",
+"k":"Erciyes-hegy Erciyes vulkán Kayseri"
 },
 "Avanos":{
-"hu":"Avanos"
+"hu":"Avanos",
+"k":"Avanos fazekasváros Kappadókia"
 },
 "Sa Calobra":{
 "hu":"Sa Calobra"
@@ -2427,6 +2433,374 @@
 "Stade de France":{
 "hu":"Stade de France",
 "k":"Stade de France Stade de France stadion"
+},
+"Derinkuyu":{
+"hu":"Derinkuyu",
+"k":"Derinkuyu földalatti város Derinkuyu"
+},
+"Hallasan":{
+"hu":"Hallasan",
+"k":"Hallasan Halla-hegy Jeju vulkán"
+},
+"Seongsan Ilchulbong":{
+"hu":"Seongsan Ilchulbong",
+"k":"Seongsan Ilchulbong Napkelte-csúcs tufakúp"
+},
+"Jeongbang Falls":{
+"hu":"Jeongbang-vízesés",
+"k":"Jeongbang-vízesés Jeongbang"
+},
+"Yongmeori Coast":{
+"hu":"Yongmeori-part",
+"k":"Yongmeori-part Yongmeori Sanbangsan"
+},
+"Sambhar Lake":{
+"hu":"Sambhar-tó",
+"k":"Sambhar-tó sóstó Sambhar"
+},
+"Jal Mahal":{
+"hu":"Jal Mahal",
+"k":"Jal Mahal Vízi palota Jaipur"
+},
+"Hawa Mahal":{
+"hu":"Hawa Mahal",
+"k":"Hawa Mahal Szelek palotája Jaipur"
+},
+"Pushkar Lake":{
+"hu":"Pushkar-tó",
+"k":"Pushkar-tó Pushkar szent tó"
+},
+"Prambanan":{
+"hu":"Prambanan",
+"k":"Prambanan Prambanan templom Yogyakarta"
+},
+"Mount Merapi":{
+"hu":"Merapi",
+"k":"Merapi Merapi vulkán Jáva"
+},
+"Dieng Plateau":{
+"hu":"Dieng-fennsík",
+"k":"Dieng-fennsík Dieng"
+},
+"Borobudur":{
+"hu":"Borobudur",
+"k":"Borobudur Borobudur buddhista templom"
+},
+"Tiger's Nest":{
+"hu":"Tigrisfészek-kolostor",
+"k":"Tigrisfészek-kolostor Paro Taktsang Tigrisfészek Bhután"
+},
+"Tashichho Dzong":{
+"hu":"Tashichho-dzong",
+"k":"Tashichho-dzong Thimphu"
+},
+"Jomolhari":{
+"hu":"Jomolhari",
+"k":"Jomolhari Chomolhari"
+},
+"Punakha Dzong":{
+"hu":"Punakha-dzong",
+"k":"Punakha-dzong Punakha"
+},
+"Dochula Pass":{
+"hu":"Dochula-hágó",
+"k":"Dochula-hágó Dochula"
+},
+"Sigiriya":{
+"hu":"Sigiriya",
+"k":"Sigiriya Oroszlán-szikla Sigiriya"
+},
+"Dambulla":{
+"hu":"Dambulla",
+"k":"Dambulla Dambulla barlangtemplom"
+},
+"Kandy":{
+"hu":"Kandy",
+"k":"Kandy Kandy Fogtemplom"
+},
+"Adam's Peak":{
+"hu":"Ádám-csúcs",
+"k":"Ádám-csúcs Sri Pada Adams Peak"
+},
+"Horton Plains":{
+"hu":"Horton-fennsík",
+"k":"Horton-fennsík Horton Plains"
+},
+"Knuckles Range":{
+"hu":"Knuckles-hegység",
+"k":"Knuckles-hegység Knuckles"
+},
+"Soldier Field":{
+"hu":"Soldier Field",
+"k":"Soldier Field Soldier Field stadion Chicago"
+},
+"Millennium Park":{
+"hu":"Millennium Park",
+"k":"Millennium Park Millennium Park Cloud Gate Bab"
+},
+"Navy Pier":{
+"hu":"Navy Pier",
+"k":"Navy Pier Navy Pier Chicago"
+},
+"Wrigley Field":{
+"hu":"Wrigley Field",
+"k":"Wrigley Field Wrigley Field baseball Chicago"
+},
+"Willis Tower":{
+"hu":"Willis Tower",
+"k":"Willis Tower Sears Tower Chicago"
+},
+"Indiana Dunes":{
+"hu":"Indiana-dűnék",
+"k":"Indiana-dűnék Indiana Dunes"
+},
+"Space Needle":{
+"hu":"Space Needle",
+"k":"Space Needle Space Needle Seattle"
+},
+"Bellevue":{
+"hu":"Bellevue",
+"k":"Bellevue Bellevue Washington-tó"
+},
+"Snoqualmie Falls":{
+"hu":"Snoqualmie-vízesés",
+"k":"Snoqualmie-vízesés Snoqualmie"
+},
+"Mount Rainier":{
+"hu":"Mount Rainier",
+"k":"Mount Rainier Rainier vulkán"
+},
+"Mount St. Helens":{
+"hu":"Mount St. Helens",
+"k":"Mount St. Helens Szent Ilona-hegy vulkán"
+},
+"Kolob Canyons":{
+"hu":"Kolob-kanyonok",
+"k":"Kolob-kanyonok Kolob"
+},
+"Angels Landing":{
+"hu":"Angels Landing",
+"k":"Angels Landing Zion Nemzeti Park"
+},
+"Bryce Canyon":{
+"hu":"Bryce Canyon",
+"k":"Bryce Canyon Bryce kanyon kőtornyak hoodoo"
+},
+"Cedar Breaks":{
+"hu":"Cedar Breaks",
+"k":"Cedar Breaks Cedar Breaks"
+},
+"Pyramid of the Sun":{
+"hu":"Nap-piramis",
+"k":"Nap-piramis Teotihuacán Teotihuacan"
+},
+"Zócalo":{
+"hu":"Zócalo",
+"k":"Zócalo Zocalo Mexikóváros főtér"
+},
+"Chapultepec Castle":{
+"hu":"Chapultepec-kastély",
+"k":"Chapultepec-kastély Chapultepec"
+},
+"Estadio Azteca":{
+"hu":"Estadio Azteca",
+"k":"Estadio Azteca Azték stadion"
+},
+"Xochimilco":{
+"hu":"Xochimilco",
+"k":"Xochimilco Xochimilco csatornák"
+},
+"Popocatépetl":{
+"hu":"Popocatépetl",
+"k":"Popocatépetl Popocatepetl vulkán"
+},
+"Cahuachi":{
+"hu":"Cahuachi",
+"k":"Cahuachi Cahuachi piramisok"
+},
+"Hummingbird geoglyph":{
+"hu":"Kolibri-geoglifa",
+"k":"Kolibri-geoglifa Nazca kolibri"
+},
+"Chauchilla Cemetery":{
+"hu":"Chauchilla-temető",
+"k":"Chauchilla-temető Chauchilla"
+},
+"Palpa geoglyphs":{
+"hu":"Palpai geoglifák",
+"k":"Palpai geoglifák Palpa"
+},
+"Train Cemetery":{
+"hu":"Vonattemető",
+"k":"Vonattemető Uyuni vonattemető"
+},
+"Isla Incahuasi":{
+"hu":"Incahuasi-sziget",
+"k":"Incahuasi-sziget Incahuasi kaktusz-sziget"
+},
+"Salar de Uyuni":{
+"hu":"Uyuni sósivatag",
+"k":"Uyuni sósivatag Salar de Uyuni"
+},
+"Tunupa Volcano":{
+"hu":"Tunupa vulkán",
+"k":"Tunupa vulkán Tunupa"
+},
+"Ollagüe Volcano":{
+"hu":"Ollagüe vulkán",
+"k":"Ollagüe vulkán Ollague"
+},
+"Laguna Colorada":{
+"hu":"Laguna Colorada",
+"k":"Laguna Colorada Vörös-lagúna flamingók"
+},
+"Angel Falls":{
+"hu":"Angel-vízesés",
+"k":"Angel-vízesés Salto Ángel Angel Falls Venezuela"
+},
+"Auyán-tepui":{
+"hu":"Auyán-tepui",
+"k":"Auyán-tepui Auyantepui asztalhegy"
+},
+"Teatro Amazonas":{
+"hu":"Amazonas-színház",
+"k":"Amazonas-színház Teatro Amazonas operaház Manaus"
+},
+"Meeting of Waters":{
+"hu":"Vizek találkozása",
+"k":"Vizek találkozása Encontro das Águas Rio Negro Solimões"
+},
+"Rio Negro Bridge":{
+"hu":"Rio Negro-híd",
+"k":"Rio Negro-híd Ponte Rio Negro"
+},
+"Anavilhanas":{
+"hu":"Anavilhanas",
+"k":"Anavilhanas Anavilhanas szigetcsoport"
+},
+"Presidente Figueiredo":{
+"hu":"Presidente Figueiredo",
+"k":"Presidente Figueiredo Presidente Figueiredo vízesések"
+},
+"Moru Kopjes":{
+"hu":"Moru-sziklaszigetek",
+"k":"Moru-sziklaszigetek Moru kopjes"
+},
+"Gol Kopjes":{
+"hu":"Gol-sziklaszigetek",
+"k":"Gol-sziklaszigetek Gol kopjes"
+},
+"Lobo Valley":{
+"hu":"Lobo-völgy",
+"k":"Lobo-völgy Lobo"
+},
+"Mara River crossing":{
+"hu":"Mara-folyó átkelő",
+"k":"Mara-folyó átkelő Mara folyó gnúvándorlás"
+},
+"Grumeti River":{
+"hu":"Grumeti-folyó",
+"k":"Grumeti-folyó Grumeti"
+},
+"Île aux Cerfs":{
+"hu":"Île aux Cerfs",
+"k":"Île aux Cerfs Szarvas-sziget"
+},
+"Pieter Both":{
+"hu":"Pieter Both-hegy",
+"k":"Pieter Both-hegy Pieter Both"
+},
+"Port Louis":{
+"hu":"Port Louis",
+"k":"Port Louis Port Louis főváros"
+},
+"Grand Bassin":{
+"hu":"Grand Bassin",
+"k":"Grand Bassin Ganga Talao szent tó"
+},
+"Chamarel":{
+"hu":"Chamarel",
+"k":"Chamarel hét színű föld Chamarel"
+},
+"Le Morne Brabant":{
+"hu":"Le Morne Brabant",
+"k":"Le Morne Brabant Le Morne szikla"
+},
+"Blue Bay Marine Park":{
+"hu":"Blue Bay tengeri park",
+"k":"Blue Bay tengeri park Blue Bay"
+},
+"Prison Island":{
+"hu":"Prison-sziget",
+"k":"Prison-sziget Changuu teknős sziget"
+},
+"Stone Town":{
+"hu":"Stone Town",
+"k":"Stone Town Zanzibár városa Kőváros"
+},
+"Chumbe Island":{
+"hu":"Chumbe-sziget",
+"k":"Chumbe-sziget Chumbe"
+},
+"Jozani Forest":{
+"hu":"Jozani-erdő",
+"k":"Jozani-erdő Jozani vörös kolobusz"
+},
+"Nungwi":{
+"hu":"Nungwi",
+"k":"Nungwi Nungwi strand"
+},
+"Mnemba Atoll":{
+"hu":"Mnemba-atoll",
+"k":"Mnemba-atoll Mnemba"
+},
+"Paje Beach":{
+"hu":"Paje-part",
+"k":"Paje-part Paje strand"
+},
+"Erg Chebbi":{
+"hu":"Erg Chebbi",
+"k":"Erg Chebbi Merzouga Szahara dűnék"
+},
+"Todra Gorge":{
+"hu":"Todra-szurdok",
+"k":"Todra-szurdok Todra"
+},
+"Sky Tower":{
+"hu":"Sky Tower",
+"k":"Sky Tower Sky Tower Auckland"
+},
+"Rangitoto Island":{
+"hu":"Rangitoto-sziget",
+"k":"Rangitoto-sziget Rangitoto vulkán"
+},
+"Waiheke Island":{
+"hu":"Waiheke-sziget",
+"k":"Waiheke-sziget Waiheke"
+},
+"Piha Beach":{
+"hu":"Piha-part",
+"k":"Piha-part Piha"
+},
+"Hobbiton":{
+"hu":"Hobbiton",
+"k":"Hobbiton Hobbitfalva Matamata Gyűrűk Ura"
+},
+"Lake Wanaka":{
+"hu":"Wanaka-tó",
+"k":"Wanaka-tó Wanaka"
+},
+"Mount Aspiring":{
+"hu":"Mount Aspiring",
+"k":"Mount Aspiring Aspiring"
+},
+"Fox Glacier":{
+"hu":"Fox-gleccser",
+"k":"Fox-gleccser Fox gleccser"
+},
+"Franz Josef Glacier":{
+"hu":"Franz Josef-gleccser",
+"k":"Franz Josef-gleccser Franz Josef gleccser"
 }
 }
 }

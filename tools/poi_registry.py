@@ -40,7 +40,8 @@ HUN = {
 "Twelve Apostles": "Tizenkét Apostol", "Aoraki / Mount Cook": "Aoraki / Mount Cook", "Taputapuatea Marae": "Taputapuatea marae", "Nusa Penida": "Nusa Penida", "Marina Bay Sands": "Marina Bay Sands",
 }
 from poi_r3 import NEW as _N3
-for _k, (_h, _x) in _N3.items():
+from poi_r4 import NEW as _N4
+for _k, (_h, _x) in list(_N3.items()) + list(_N4.items()):
     HUN[_k] = _h
 P = os.path.join(ROOT, "data", "tour_pois.json")
 old = json.load(open(P, encoding="utf-8")).get("pois", {}) if os.path.exists(P) else {}

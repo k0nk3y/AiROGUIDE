@@ -232,7 +232,7 @@
      75.8237
     ]
    ],
-   "kw": "Akbar sírja Szikandra Keetham-tó madárrezervátum Baby Taj Itimád-ud-Daula síremléke Holdfény-kert agrai vörös erőd Fatehpur Szikri szellemváros Bharatpur madárpark Amber-erőd Dzsaipur Városi palota Dzsaipur",
+   "kw": "Akbar sírja Szikandra Keetham-tó madárrezervátum Baby Taj Itimád-ud-Daula síremléke Holdfény-kert agrai vörös erőd Fatehpur Szikri szellemváros Bharatpur madárpark Amber-erőd Amer erőd Jaipur Városi palota Dzsaipur",
    "img": "Taj Mahal"
   },
   {
@@ -7351,7 +7351,7 @@
     }
    ],
    "pois": [],
-   "kw": "Uçhisar vár Göreme Ürgüp Szerelem-völgy Kappadókia Derinkuyu földalatti város Erciyes-hegy Avanos",
+   "kw": "Uçhisar-vár Uchisar kastély Göreme Göreme Nemzeti Park hőlégballon Goreme Ürgüp Urgup Szerelem-völgy Kappadókia Derinkuyu földalatti város Erciyes-hegy Erciyes vulkán Kayseri Avanos fazekasváros Kappadókia",
    "img": "Göreme"
   },
   {
@@ -7646,7 +7646,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Knósszoszi palota Kréta Phaisztosz Matala Ida-hegy Szamaria-szurdok Elafonisi Balosz-lagúna Hanya régi kikötő Spinalonga Vai pálmaliget Zakrosz Chrissi-sziget",
    "img": "Balos Lagoon"
   },
@@ -8586,7 +8585,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Diamond Head Hanauma-öböl Makapuu világítótorony Kualoa Pearl Harbor Waimea-kanyon Kalalau-völgy Na Pali Hanalei-öböl Wailua-vízesés Iao-völgy Lahaina Molokini-kráter Haleakala-kráter Hana Kilauea vulkán Mauna Kea Akaka-vízesés Szivárvány-vízesés Hilo Kalaupapa Molokai Lanai",
    "img": "Diamond Head, Hawaii"
   },
@@ -9115,7 +9113,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Kairói fellegvár Szaladin Dzsószer lépcsős piramisa Szakkara Vörös piramis Dahsúr gízai piramisok Kheopsz Szfinx meidumi piramis Qarún-tó Fajjúm",
    "img": "Giza pyramid complex"
   },
@@ -9846,7 +9843,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Oxbow Bend Jackson-tó Jenny-tó Grand Teton Yellowstone-tó Yellowstone-vízesés Grand Prismatic Spring szivárványos forrás Old Faithful gejzír",
    "img": "Grand Prismatic Spring"
   },
@@ -9972,7 +9968,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Hoover-gát Las Vegas Strip Red Rock-kanyon Tűz völgye Valley of Fire Mead-tó",
    "img": "Hoover Dam"
   },
@@ -10053,7 +10048,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Glacier Point Half Dome Tuolumne Meadows Yosemite-vízesés El Capitan",
    "img": "Half Dome"
   },
@@ -10134,7 +10128,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Rundle-hegy Banff Moraine-tó Lake Louise Louise-tó Peyto-tó",
    "img": "Moraine Lake"
   },
@@ -10260,7 +10253,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Isla Mujeres Cancún szállodasor Tulum Cobá Chichén Itzá Kukulkán piramis",
    "img": "Chichen Itza"
   },
@@ -10336,7 +10328,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Pehoé-tó Cuernos del Paine Szarvak Grey-gleccser Torres del Paine",
    "img": "Cuernos del Paine|Torres del Paine National Park"
   },
@@ -10441,7 +10432,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Upsala-gleccser Perito Moreno-gleccser Lago Argentino Viedma-tó Fitz Roy Cerro Torre",
    "img": "Perito Moreno Glacier"
   },
@@ -10523,7 +10513,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Daphne Major Darwin pintyek Sullivan-öböl lávamező Pinnacle Rock Bartolomé Puerto Ayora",
    "img": "Galápagos Islands"
   },
@@ -10610,7 +10599,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Martín García-sziget Recoleta temető Evita Obeliszk Buenos Aires Puerto Madero La Boca Caminito Bombonera",
    "img": "Obelisco de Buenos Aires|Buenos Aires"
   },
@@ -10732,7 +10720,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Koutoubia-mecset Marrakesh Oukaïmeden Imlil Toubkal Aït Benhaddou",
    "img": "Koutoubia Mosque"
   },
@@ -10804,7 +10791,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Batoka-szurdok Viktória-vízesés Mosi-oa-Tunya Zambezi-szigetek",
    "img": "Victoria Falls"
   },
@@ -10924,7 +10910,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "denderai templom Hathor Királyok völgye Luxor karnaki templom Memnón-kolosszusok Abüdosz",
    "img": "Karnak"
   },
@@ -10996,7 +10981,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Manyara-tó Ngorongoro-kráter Ol Doinyo Lengai Meru-hegy",
    "img": "Ngorongoro Conservation Area"
   },
@@ -11111,7 +11095,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Kata Tjuta Olgák Mount Olga kilátó Uluru Ayers Rock Kings Canyon Conner-hegy",
    "img": "Uluru"
   },
@@ -11186,7 +11169,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Bells Beach szörf Cape Otway világítótorony Tizenkét Apostol 12 Apostol sziklák Loch Ard-szurdok Port Campbell",
    "img": "Twelve Apostles (Victoria)"
   },
@@ -11262,7 +11244,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Pukaki-tó Tasman-gleccser Aoraki Mount Cook Hooker-gleccser",
    "img": "Aoraki / Mount Cook"
   },
@@ -11344,7 +11325,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Otemanu-hegy Matira-part Taputapuatea marae Raiatea Maupiti",
    "img": "Mount Otemanu"
   },
@@ -11471,7 +11451,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Uluwatu templom Tanah Lot Nusa Penida Kelingking Tegallalang rizsteraszok Batur-hegy Agung-hegy",
    "img": "Tanah Lot"
   },
@@ -11548,7 +11527,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Marina Bay Sands Sentosa Jurong-tó Pulau Ubin",
    "img": "Marina Bay Sands"
   },
@@ -11658,7 +11636,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Moremi vadrezervátum Moremi természetvédelmi terület szafari Chief-sziget Chiefs Island Khwai-folyó Khwai Ngami-tó Ngami",
    "img": "Okavango Delta"
   },
@@ -11778,7 +11755,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Sossusvlei Szosszuszvlej Namib vörös dűnék Deadvlei Halott-völgy kiszáradt fák Dune 45 45-ös dűne Big Daddy-dűne Big Daddy Naukluft-hegység Naukluft",
    "img": "Sossusvlei"
   },
@@ -11899,7 +11875,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Sainte Anne tengeri park Sainte Anne Marine National Park Victoria (Seychelle-szigetek) Victoria főváros Mahé Beau Vallon Beau Vallon strand Silhouette-sziget Silhouette Morne Seychellois Morne Seychellois nemzeti park Anse Lazio Anse Lazio strand Praslin Curieuse-sziget Curieuse Vallée de Mai Vallée de Mai tengeri kókuszpálma Anse Source d'Argent La Digue strand Ezüstforrás",
    "img": "Anse Source d'Argent"
   },
@@ -12013,7 +11988,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Wilderness Wilderness nemzeti park Plettenberg-öböl Plettenberg Bay Knysna Heads Knysna-lagúna sziklakapu Bloukrans-híd bungee jumping híd Storms River Mouth Tsitsikamma Viharfolyó torkolat Robberg-félsziget Robberg",
    "img": "Knysna"
   },
@@ -12129,7 +12103,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Akabai erőd Akaba Vörös-tenger Wadi Rum Wadi Rum Holdvölgy sivatag Lawrence Jebel Burdah Burdah kőhíd Petra Petra Nabateus Kincstár Al-Khazneh Kis-Petra Siq al-Barid",
    "img": "Petra"
   },
@@ -12244,7 +12217,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Maafushi Maafushi sziget Malé Malé főváros Banana Reef Banán-zátony Ari-atoll Ari atoll Rasdhoo-atoll Rasdhoo",
    "img": "Ari Atoll"
   },
@@ -12365,7 +12337,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Hoan Kiem-tó Hoàn Kiếm Kardtó Hanoi Tam Coc Ninh Binh Tam Cốc szárazföldi Ha Long Tam Dao Tam Đảo hegy Cat Ba-sziget Cát Bà Bai Chay-híd Bãi Cháy Ha Long-öböl Ha Long Halong Hạ Long Bay Bai Tu Long-öböl Bái Tử Long",
    "img": "Ha Long Bay"
   },
@@ -12486,7 +12457,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Tódaidzsi Todaiji Nara nagy Buddha Oszakai kastély Oszaka vár Osaka Akasi-Kaikjó híd Akashi Kaikyo Pearl Bridge Fushimi Inari szentély Fushimi Inari Kiotó torii kapuk Kinkakudzsi Aranypavilon Kiotó Golden Pavilion",
    "img": "Fushimi Inari-taisha"
   },
@@ -12618,7 +12588,6 @@
      116.3965
     ]
    ],
-   "new": true,
    "kw": "Nagy Fal, Mutianyu Nagy Fal Kínai fal Mutianyu Madárfészek stadion Pekingi Nemzeti Stadion Birds Nest Tiltott Város Peking császári palota Ming-sírok Ming-sírok Peking Nagy Fal, Badaling Nagy Fal Kínai fal Badaling Nyári Palota Peking Yiheyuan Éghez szentelt templom Mennyei templom Peking",
    "img": "Great Wall of China"
   },
@@ -12728,7 +12697,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Patong-part Patong Phuket strand Promthep-fok Promthep naplemente Nagy Buddha (Phuket) Phuket Buddha Phang Nga-öböl Phang Nga James Bond sziget Railay-part Railay Krabi Phi Phi-szigetek Phi Phi Maya Bay",
    "img": "Phi Phi Islands"
   },
@@ -12799,7 +12767,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Kahiltna-gleccser Kahiltna Mount Foraker Foraker Alaszka Denali Denali McKinley Alaszka Ruth-gleccser Ruth gleccser",
    "img": "Denali"
   },
@@ -12929,7 +12896,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Glen Canyon-gát Glen Canyon Dam Powell-tó Lone Rock Beach Lone Rock Powell-tó Antelope-kanyon Antilop kanyon Page Horseshoe Bend Patkókanyar Colorado Monument Valley Emlékmű-völgy Navajo tanúhegyek Szivárványhíd Tokió",
    "img": "Monument Valley"
   },
@@ -13049,7 +13015,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Mississauga látképe Mississauga Casa Loma Casa Loma kastély Toronto Scarborough Bluffs Scarborough sziklák CN Tower CN torony Toronto Niagara-vízesés Niagara Falls Niagara Hamilton Skyway Burlington Skyway híd",
    "img": "Niagara Falls|Toronto"
   },
@@ -13154,10 +13119,9 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Key Biscayne világítótorony Cape Florida Light Key Largo Key Largo Seven Mile Bridge Hétmérföldes híd Florida Keys Key West Old Town Key West óváros Marquesas Keys Marquesas Fort Jefferson Dry Tortugas erőd",
    "img": "Seven Mile Bridge",
-   "imgx": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NjAgMzYwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBzbGljZSI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9InNreSIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzFkMDg0NiIvPjxzdG9wIG9mZnNldD0iLjQ1IiBzdG9wLWNvbG9yPSIjYjUxNzllIi8+PHN0b3Agb2Zmc2V0PSIuOCIgc3RvcC1jb2xvcj0iI2ZmNGY4YiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmYTI0YyIvPjwvbGluZWFyR3JhZGllbnQ+CjxsaW5lYXJHcmFkaWVudCBpZD0ic3VuIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZlNjZkIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmYzZDgxIi8+PC9saW5lYXJHcmFkaWVudD4KPGNsaXBQYXRoIGlkPSJzYyI+PGNpcmNsZSBjeD0iNDU1IiBjeT0iMTUwIiByPSI1OCIvPjwvY2xpcFBhdGg+CjwvZGVmcz4KPHJlY3Qgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzNjAiIGZpbGw9InVybCgjc2t5KSIgb3BhY2l0eT0iLjQyIi8+CjxjaXJjbGUgY3g9IjQ1NSIgY3k9IjE1MCIgcj0iNTgiIGZpbGw9InVybCgjc3VuKSIgb3BhY2l0eT0iLjkiLz4KPGcgY2xpcC1wYXRoPSJ1cmwoI3NjKSIgZmlsbD0iI2I1MTc5ZSI+PHJlY3QgeD0iMzgwIiB5PSIxNTAiIHdpZHRoPSIxNjAiIGhlaWdodD0iMyIvPjxyZWN0IHg9IjM4MCIgeT0iMTY0IiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjUiLz48cmVjdCB4PSIzODAiIHk9IjE4MCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSI3Ii8+PC9nPgo8ZyBmaWxsPSIjMTAwNTJhIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMDAgLTgpIj48cGF0aCBkPSJNMjI2IDI2MiBDIDIyOCAyMjAgMjMyIDE5MCAyNDAgMTUwIEwgMjQ2IDE1MCBDIDI0MCAxOTIgMjM4IDIyMiAyNDAgMjYyIFoiLz4KPHBhdGggZD0iTTI0MyAxNTAgQyAyMTUgMTI4IDE4MCAxMzIgMTYwIDE1MCBDIDE5MCAxNDAgMjE1IDE0MiAyNDMgMTU2IFoiLz48cGF0aCBkPSJNMjQzIDE1MCBDIDI2MiAxMjAgMjkyIDExMiAzMTYgMTIwIEMgMjkwIDEyNCAyNjYgMTM0IDI0NiAxNTggWiIvPjxwYXRoIGQ9Ik0yNDMgMTUwIEMgMjMyIDExOCAyMDYgMTAwIDE4MCAxMDAgQyAyMDggMTA4IDIyNiAxMjQgMjM4IDE1NiBaIi8+PHBhdGggZD0iTTI0MyAxNTAgQyAyNTIgMTI2IDI2NiA5OCAyOTIgODggQyAyNzAgMTA4IDI1OCAxMzAgMjQ5IDE1NiBaIi8+PHBhdGggZD0iTTI0MyAxNTAgQyAyMDUgMTUwIDE3OCAxNzAgMTcwIDE5NiBDIDE5MCAxNzIgMjE0IDE2MCAyNDMgMTU4IFoiLz48cGF0aCBkPSJNMjQzIDE1MCBDIDI4MCAxNDYgMzA2IDE2MCAzMTYgMTg0IEMgMjk2IDE2NiAyNzAgMTU4IDI0MyAxNTggWiIvPjwvZz4KPGcgZm9udC1mYW1pbHk9IidBcmlhbCBCbGFjaycsSW1wYWN0LEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc3R5bGU9Iml0YWxpYyIgZm9udC13ZWlnaHQ9IjkwMCIgcGFpbnQtb3JkZXI9InN0cm9rZSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHRleHQgeD0iMTgiIHk9IjEwOCIgZm9udC1zaXplPSIzMCIgZmlsbD0iI2ZmN2FjMCIgc3Ryb2tlPSIjMmEwYjRkIiBzdHJva2Utd2lkdGg9IjYiIGxldHRlci1zcGFjaW5nPSIxIj5OT1QgVklDRSBDSVRZLjwvdGV4dD48dGV4dCB4PSIxOCIgeT0iMTQwIiBmb250LXNpemU9IjIyIiBmaWxsPSIjN2ZmNWZmIiBzdHJva2U9IiMyYTBiNGQiIHN0cm9rZS13aWR0aD0iNSIgbGV0dGVyLXNwYWNpbmc9IjIiPihZRVQuKTwvdGV4dD48L2c+Cjwvc3ZnPgo="
+   "imgx": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NjAgMzYwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBzbGljZSI+CjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmM2Q5YSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzI3ZTBmZiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjM2MCIgZmlsbD0iI2ZmM2Q5YSIgb3BhY2l0eT0iLjEwIi8+CjxnIGZvbnQtZmFtaWx5PSInQXJpYWwgQmxhY2snLEltcGFjdCxBcmlhbCxzYW5zLXNlcmlmIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtd2VpZ2h0PSI5MDAiIHBhaW50LW9yZGVyPSJzdHJva2UiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8dGV4dCB4PSIyMCIgeT0iNjIiIGZvbnQtc2l6ZT0iMzQiIGZpbGw9IiNmZjdhYzAiIHN0cm9rZT0iIzJhMGI0ZCIgc3Ryb2tlLXdpZHRoPSI3IiBsZXR0ZXItc3BhY2luZz0iMSI+Tk9UIFZJQ0UgQ0lUWS48L3RleHQ+Cjx0ZXh0IHg9IjIyIiB5PSI5NiIgZm9udC1zaXplPSIyNCIgZmlsbD0iIzdmZjVmZiIgc3Ryb2tlPSIjMmEwYjRkIiBzdHJva2Utd2lkdGg9IjYiIGxldHRlci1zcGFjaW5nPSIzIj4oWUVULik8L3RleHQ+PC9nPgo8cmVjdCB4PSIyMiIgeT0iMTA4IiB3aWR0aD0iMjEwIiBoZWlnaHQ9IjQiIHJ4PSIyIiBmaWxsPSJ1cmwoI2cpIi8+Cjwvc3ZnPgo="
   },
   {
    "id": "easter-island",
@@ -13237,7 +13201,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Rano Kau Rano Kau kráter Orongo Rano Raraku Rano Raraku moai kőfejtő Ahu Tongariki Tongariki moai szobrok Húsvét-sziget Anakena-part Anakena strand",
    "img": "Ahu Tongariki"
   },
@@ -13352,7 +13315,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Chuquicamata Chuquicamata rézbánya El Tatio gejzírek El Tatio gejzír Licancabur Licancabur vulkán Miscanti-lagúna Miscanti Salar de Atacama Atacama sólapos sós tó Holdvölgy Valle de la Luna Atacama Moon Valley",
    "img": "Atacama Desert"
   },
@@ -13463,7 +13425,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Port Arthur Port Arthur fegyenctelep Tasmánia Bruny-sziget Bruny Wellington-hegy kunanyi Hobart Mount Wellington Wineglass Bay Boros pohár öböl Freycinet",
    "img": "Wineglass Bay"
   },
@@ -13584,7 +13545,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Green Island Zöld-sziget Cairns Michaelmas Cay Michaelmas zátony Kuranda Kuranda esőerdő Eacham-tó Eacham Atherton-fennsík Daintree-esőerdő Daintree Cape Tribulation Tribulation-fok Low Isles Low Isles világítótorony",
    "img": "Great Barrier Reef"
   },
@@ -13689,7 +13649,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Mamanuca-szigetek Mamanuca Mamanucák Monuriki Cast Away Monuriki sziget Cloudbreak Cloudbreak szörf Yasawa-szigetek Yasawa Kék-lagúna (Yasawa) Blue Lagoon Yasawa",
    "img": "Mamanuca Islands"
   },
@@ -13821,7 +13780,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Ponta de São Lourenço São Lourenço-fok Pico Ruivo Pico Ruivo Madeira legmagasabb csúcs Cabo Girão Girão-fok szikla üvegpadló Funchal Funchal főváros Porto Santo Porto Santo sziget Porto Moniz Porto Moniz lávamedence",
    "img": "Cabo Girão|Madeira"
   },
@@ -13948,7 +13906,6 @@
     }
    ],
    "pois": [],
-   "new": true,
    "kw": "Playa de las Américas Las Américas Los Gigantes sziklák Los Gigantes Óriások Masca-szurdok Masca Teide Teide vulkán Tenerife Garajonay La Gomera nemzeti park babérerdő Anaga-hegység Anaga Santa Cruz de Tenerife Santa Cruz Tenerife",
    "img": "Teide"
   },
@@ -14095,9 +14052,2182 @@
      2.3601
     ]
    ],
-   "new": true,
    "kw": "Sacré-Cœur Montmartre La Défense La Défense Grande Arche Eiffel-torony Notre-Dame párizsi székesegyház Vincennes-i vár Vincennes kastély Párizs Louvre Louvre múzeum Párizs Mona Lisa Versailles-i kastély Disneyland Paris Disneyland Párizs Disney Diadalív Arc de Triomphe Párizs Stade de France Stade de France stadion",
    "img": "Eiffel Tower"
+  },
+  {
+   "id": "jeju",
+   "continent": "AS",
+   "country": {
+    "en": "South Korea",
+    "hu": "Dél-Korea"
+   },
+   "name": {
+    "en": "Jeju Island",
+    "hu": "Jeju-sziget"
+   },
+   "main": {
+    "en": "Hallasan",
+    "hu": "Hallasan",
+    "lat": 33.3617,
+    "lon": 126.5292
+   },
+   "tags": [
+    "island",
+    "volcano",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Korea's volcanic island: the crater of Hallasan, the tuff cone of Seongsan Ilchulbong and waterfalls plunging into the sea.",
+    "hu": "Korea vulkanikus szigete: a Hallasan krátere, a Seongsan Ilchulbong tufakúpja és a tengerbe zuhanó vízesések."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Hallasan and Seongsan",
+      "hu": "Hallasan és Seongsan"
+     },
+     "desc": {
+      "en": "From Jeju City over Hallasan to the Seongsan Ilchulbong crater.",
+      "hu": "Jeju városából a Hallasan felett a Seongsan Ilchulbong kráteréhez."
+     },
+     "pts": [
+      "RKPC",
+      [
+       "Hallasan",
+       33.3617,
+       126.5292
+      ],
+      [
+       "Seongsan Ilchulbong",
+       33.459,
+       126.942
+      ],
+      [
+       "~",
+       33.5483,
+       126.9348
+      ],
+      "RKPC"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Around Jeju",
+      "hu": "Jeju körül"
+     },
+     "desc": {
+      "en": "About an hour: Seongsan, the Jeongbang waterfall, Yongmeori coast and Hallasan.",
+      "hu": "Kb. egy óra: Seongsan, a Jeongbang-vízesés, a Yongmeori-part és a Hallasan."
+     },
+     "pts": [
+      "RKPC",
+      [
+       "Hallasan",
+       33.3617,
+       126.5292
+      ],
+      [
+       "Yongmeori Coast",
+       33.231,
+       126.312
+      ],
+      [
+       "~",
+       33.1799,
+       126.3337
+      ],
+      [
+       "Jeongbang Falls",
+       33.244,
+       126.571
+      ],
+      [
+       "Seongsan Ilchulbong",
+       33.459,
+       126.942
+      ],
+      [
+       "~",
+       33.5507,
+       126.9159
+      ],
+      "RKPC"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Hallasan Halla-hegy Jeju vulkán Seongsan Ilchulbong Napkelte-csúcs tufakúp Yongmeori-part Yongmeori Sanbangsan Jeongbang-vízesés Jeongbang",
+   "img": "Hallasan|Jeju Island"
+  },
+  {
+   "id": "rajasthan",
+   "continent": "AS",
+   "country": {
+    "en": "India",
+    "hu": "India"
+   },
+   "name": {
+    "en": "Jaipur and Rajasthan",
+    "hu": "Jaipur és Rádzsasztán"
+   },
+   "main": {
+    "en": "Amber Fort",
+    "hu": "Amber-erőd",
+    "lat": 26.9855,
+    "lon": 75.8513
+   },
+   "tags": [
+    "culture",
+    "city"
+   ],
+   "desc": {
+    "en": "The Pink City, its hilltop forts and the palaces of Rajasthan, with the holy lake of Pushkar and the salt flats of Sambhar.",
+    "hu": "A Rózsaszín Város, hegytetői erődjei és Rádzsasztán palotái, a szent Pushkar-tóval és a Sambhar sósivataggal."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Jaipur and Sambhar Lake",
+      "hu": "Jaipur és a Sambhar-tó"
+     },
+     "desc": {
+      "en": "Over the Pink City, Amber Fort, the Jal Mahal and the salt lake of Sambhar.",
+      "hu": "A Rózsaszín Város, az Amber-erőd, a Jal Mahal és a Sambhar sóstó felett."
+     },
+     "pts": [
+      "VIJP",
+      [
+       "Sambhar Lake",
+       26.91,
+       75.19
+      ],
+      [
+       "~",
+       27.0179,
+       75.1916
+      ],
+      [
+       "Amber Fort",
+       26.9855,
+       75.8513
+      ],
+      [
+       "Jal Mahal",
+       26.9535,
+       75.846
+      ],
+      [
+       "Hawa Mahal",
+       26.9239,
+       75.8267
+      ],
+      "VIJP"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 115,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Jaipur and Pushkar",
+      "hu": "Jaipur és Pushkar"
+     },
+     "desc": {
+      "en": "About an hour and a half: Jaipur's forts, Sambhar Lake and the holy lake of Pushkar.",
+      "hu": "Kb. másfél óra: Jaipur erődjei, a Sambhar-tó és a szent Pushkar-tó."
+     },
+     "pts": [
+      "VIJP",
+      [
+       "Pushkar Lake",
+       26.488,
+       74.551
+      ],
+      [
+       "~",
+       26.5846,
+       74.4972
+      ],
+      [
+       "Sambhar Lake",
+       26.91,
+       75.19
+      ],
+      [
+       "Amber Fort",
+       26.9855,
+       75.8513
+      ],
+      [
+       "Jal Mahal",
+       26.9535,
+       75.846
+      ],
+      [
+       "Hawa Mahal",
+       26.9239,
+       75.8267
+      ],
+      "VIJP"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Sambhar-tó sóstó Sambhar Amber-erőd Amer erőd Jaipur Jal Mahal Vízi palota Jaipur Hawa Mahal Szelek palotája Jaipur Pushkar-tó Pushkar szent tó",
+   "img": "Amber Fort|Jaipur"
+  },
+  {
+   "id": "java",
+   "continent": "AS",
+   "country": {
+    "en": "Indonesia",
+    "hu": "Indonézia"
+   },
+   "name": {
+    "en": "Java: temples and volcanoes",
+    "hu": "Jáva: templomok és vulkánok"
+   },
+   "main": {
+    "en": "Borobudur",
+    "hu": "Borobudur",
+    "lat": -7.6079,
+    "lon": 110.2038
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "volcano"
+   ],
+   "desc": {
+    "en": "The world's largest Buddhist temple, the towers of Prambanan and the smoking cone of Mount Merapi around Yogyakarta.",
+    "hu": "A világ legnagyobb buddhista temploma, Prambanan tornyai és a füstölgő Merapi kúpja Yogyakarta körül."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Yogyakarta temples",
+      "hu": "Yogyakartai templomok"
+     },
+     "desc": {
+      "en": "Prambanan, Mount Merapi and Borobudur in one short loop.",
+      "hu": "Prambanan, a Merapi és Borobudur egyetlen rövid körben."
+     },
+     "pts": [
+      "WARJ",
+      [
+       "Prambanan",
+       -7.752,
+       110.4915
+      ],
+      [
+       "Mount Merapi",
+       -7.5407,
+       110.4457
+      ],
+      [
+       "Borobudur",
+       -7.6079,
+       110.2038
+      ],
+      [
+       "~",
+       -7.6689,
+       110.1913
+      ],
+      "WARJ"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 6000,
+     "stol": false,
+     "label": {
+      "en": "Merapi and the Dieng Plateau",
+      "hu": "Merapi és a Dieng-fennsík"
+     },
+     "desc": {
+      "en": "About an hour and a half: Prambanan, Merapi, the volcanic Dieng Plateau and Borobudur.",
+      "hu": "Kb. másfél óra: Prambanan, a Merapi, a vulkanikus Dieng-fennsík és Borobudur."
+     },
+     "pts": [
+      "WARJ",
+      [
+       "Prambanan",
+       -7.752,
+       110.4915
+      ],
+      [
+       "Mount Merapi",
+       -7.5407,
+       110.4457
+      ],
+      [
+       "Dieng Plateau",
+       -7.2,
+       109.91
+      ],
+      [
+       "~",
+       -7.2782,
+       109.835
+      ],
+      [
+       "Borobudur",
+       -7.6079,
+       110.2038
+      ],
+      "WARJ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Prambanan Prambanan templom Yogyakarta Merapi Merapi vulkán Jáva Borobudur Borobudur buddhista templom Dieng-fennsík Dieng",
+   "img": "Borobudur"
+  },
+  {
+   "id": "bhutan",
+   "continent": "AS",
+   "country": {
+    "en": "Bhutan",
+    "hu": "Bhután"
+   },
+   "name": {
+    "en": "Bhutan: Paro and Thimphu",
+    "hu": "Bhután: Paro és Thimphu"
+   },
+   "main": {
+    "en": "Tiger's Nest",
+    "hu": "Tigrisfészek-kolostor",
+    "lat": 27.4916,
+    "lon": 89.3636
+   },
+   "tags": [
+    "culture",
+    "mountain"
+   ],
+   "desc": {
+    "en": "A Himalayan kingdom: the Tiger's Nest monastery clinging to a cliff, whitewashed dzongs and 7,000 m peaks.",
+    "hu": "Himalájai királyság: a sziklafalra tapadó Tigrisfészek-kolostor, fehérre meszelt dzongok és 7000 méteres csúcsok."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 12000,
+     "stol": false,
+     "label": {
+      "en": "Paro and Thimphu",
+      "hu": "Paro és Thimphu"
+     },
+     "desc": {
+      "en": "From Paro over the Tiger's Nest and the Tashichho Dzong in Thimphu.",
+      "hu": "Paróból a Tigrisfészek-kolostor és a thimphui Tashichho-dzong felett."
+     },
+     "pts": [
+      "VQPR",
+      [
+       "Tashichho Dzong",
+       27.4929,
+       89.66
+      ],
+      [
+       "~",
+       27.5485,
+       89.6469
+      ],
+      [
+       "Tiger's Nest",
+       27.4916,
+       89.3636
+      ],
+      "VQPR"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 15000,
+     "stol": false,
+     "label": {
+      "en": "Jomolhari and Punakha",
+      "hu": "Jomolhari és Punakha"
+     },
+     "desc": {
+      "en": "About an hour and a half: Jomolhari, the Punakha Dzong and the Dochula pass.",
+      "hu": "Kb. másfél óra: a Jomolhari, a Punakha-dzong és a Dochula-hágó."
+     },
+     "pts": [
+      "VQPR",
+      [
+       "Tiger's Nest",
+       27.4916,
+       89.3636
+      ],
+      [
+       "Jomolhari",
+       27.8,
+       89.27
+      ],
+      [
+       "~",
+       27.8527,
+       89.3378
+      ],
+      [
+       "Punakha Dzong",
+       27.583,
+       89.86
+      ],
+      [
+       "Dochula Pass",
+       27.4963,
+       89.745
+      ],
+      [
+       "Tashichho Dzong",
+       27.4929,
+       89.66
+      ],
+      "VQPR"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Tashichho-dzong Thimphu Tigrisfészek-kolostor Paro Taktsang Tigrisfészek Bhután Jomolhari Chomolhari Punakha-dzong Punakha Dochula-hágó Dochula",
+   "img": "Paro Taktsang"
+  },
+  {
+   "id": "sri-lanka",
+   "continent": "AS",
+   "country": {
+    "en": "Sri Lanka",
+    "hu": "Srí Lanka"
+   },
+   "name": {
+    "en": "Sri Lanka: Sigiriya and Kandy",
+    "hu": "Srí Lanka: Sigiriya és Kandy"
+   },
+   "main": {
+    "en": "Sigiriya",
+    "hu": "Sigiriya",
+    "lat": 7.957,
+    "lon": 80.7599
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The Lion Rock fortress, the cave temples of Dambulla and the hill capital Kandy among tea hills and jungle.",
+    "hu": "Az Oroszlán-szikla erődje, Dambulla barlangtemplomai és a hegyi főváros, Kandy teaültetvények és dzsungel között."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Sigiriya, Dambulla and Kandy",
+      "hu": "Sigiriya, Dambulla és Kandy"
+     },
+     "desc": {
+      "en": "Lion Rock, the Dambulla cave temples and Kandy's lake.",
+      "hu": "Az Oroszlán-szikla, a dambullai barlangtemplomok és Kandy tava."
+     },
+     "pts": [
+      "VCCS",
+      [
+       "Sigiriya",
+       7.957,
+       80.7599
+      ],
+      [
+       "Kandy",
+       7.2936,
+       80.6413
+      ],
+      [
+       "~",
+       7.3031,
+       80.5329
+      ],
+      [
+       "Dambulla",
+       7.857,
+       80.649
+      ],
+      "VCCS"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 6000,
+     "stol": false,
+     "label": {
+      "en": "Sri Lanka's hill country",
+      "hu": "Srí Lanka hegyvidéke"
+     },
+     "desc": {
+      "en": "About an hour and a half: Kandy, Adam's Peak, Horton Plains and the Knuckles Range.",
+      "hu": "Kb. másfél óra: Kandy, az Ádám-csúcs, a Horton-fennsík és a Knuckles-hegység."
+     },
+     "pts": [
+      "VCCS",
+      [
+       "Sigiriya",
+       7.957,
+       80.7599
+      ],
+      [
+       "Knuckles Range",
+       7.4,
+       80.8
+      ],
+      [
+       "Horton Plains",
+       6.802,
+       80.8
+      ],
+      [
+       "Adam's Peak",
+       6.8094,
+       80.4994
+      ],
+      [
+       "Kandy",
+       7.2936,
+       80.6413
+      ],
+      [
+       "Dambulla",
+       7.857,
+       80.649
+      ],
+      "VCCS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Sigiriya Oroszlán-szikla Sigiriya Kandy Kandy Fogtemplom Dambulla Dambulla barlangtemplom Knuckles-hegység Knuckles Horton-fennsík Horton Plains Ádám-csúcs Sri Pada Adams Peak",
+   "img": "Sigiriya"
+  },
+  {
+   "id": "chicago",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Chicago",
+    "hu": "Chicago"
+   },
+   "main": {
+    "en": "Willis Tower",
+    "hu": "Willis Tower",
+    "lat": 41.8789,
+    "lon": -87.6359
+   },
+   "tags": [
+    "city",
+    "culture"
+   ],
+   "desc": {
+    "en": "The birthplace of the skyscraper on the shore of Lake Michigan: Willis Tower, Navy Pier and the Loop's canyons of glass.",
+    "hu": "A felhőkarcoló szülőhelye a Michigan-tó partján: a Willis Tower, a Navy Pier és a Loop üvegkanyonjai."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Skyline loop",
+      "hu": "Látképkör"
+     },
+     "desc": {
+      "en": "Over Soldier Field, Millennium Park, Navy Pier, Wrigley Field and Willis Tower.",
+      "hu": "A Soldier Field, a Millennium Park, a Navy Pier, a Wrigley Field és a Willis Tower felett."
+     },
+     "pts": [
+      "KMDW",
+      [
+       "Soldier Field",
+       41.8623,
+       -87.6167
+      ],
+      [
+       "Willis Tower",
+       41.8789,
+       -87.6359
+      ],
+      [
+       "Millennium Park",
+       41.8826,
+       -87.6226
+      ],
+      [
+       "Navy Pier",
+       41.8917,
+       -87.6019
+      ],
+      [
+       "Wrigley Field",
+       41.9484,
+       -87.6553
+      ],
+      [
+       "~",
+       41.945,
+       -87.7034
+      ],
+      "KMDW"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Chicago and the Indiana Dunes",
+      "hu": "Chicago és az Indiana-dűnék"
+     },
+     "desc": {
+      "en": "About an hour: the lakeshore skyline and the sand dunes of Indiana.",
+      "hu": "Kb. egy óra: a tópart látképe és Indiana homokdűnéi."
+     },
+     "pts": [
+      "KMDW",
+      [
+       "Wrigley Field",
+       41.9484,
+       -87.6553
+      ],
+      [
+       "~",
+       41.9519,
+       -87.6072
+      ],
+      [
+       "Navy Pier",
+       41.8917,
+       -87.6019
+      ],
+      [
+       "Soldier Field",
+       41.8623,
+       -87.6167
+      ],
+      [
+       "Indiana Dunes",
+       41.653,
+       -87.052
+      ],
+      [
+       "~",
+       41.7453,
+       -86.977
+      ],
+      [
+       "Millennium Park",
+       41.8826,
+       -87.6226
+      ],
+      [
+       "Willis Tower",
+       41.8789,
+       -87.6359
+      ],
+      "KMDW"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Soldier Field Soldier Field stadion Chicago Willis Tower Sears Tower Chicago Millennium Park Millennium Park Cloud Gate Bab Navy Pier Navy Pier Chicago Wrigley Field Wrigley Field baseball Chicago Indiana-dűnék Indiana Dunes",
+   "img": "Chicago|Willis Tower"
+  },
+  {
+   "id": "seattle-rainier",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Seattle and Mount Rainier",
+    "hu": "Seattle és a Mount Rainier"
+   },
+   "main": {
+    "en": "Mount Rainier",
+    "hu": "Mount Rainier",
+    "lat": 46.8523,
+    "lon": -121.7603
+   },
+   "tags": [
+    "city",
+    "mountain",
+    "volcano"
+   ],
+   "desc": {
+    "en": "The Space Needle, Puget Sound and the glaciated volcano Mount Rainier towering over the Pacific Northwest.",
+    "hu": "A Space Needle, a Puget-öböl és a gleccserekkel borított Mount Rainier vulkán a Csendes-óceán északnyugati partvidéke felett."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Seattle and Snoqualmie",
+      "hu": "Seattle és Snoqualmie"
+     },
+     "desc": {
+      "en": "Over the Space Needle, Lake Washington and Snoqualmie Falls.",
+      "hu": "A Space Needle, a Washington-tó és a Snoqualmie-vízesés felett."
+     },
+     "pts": [
+      "KBFI",
+      [
+       "Snoqualmie Falls",
+       47.5414,
+       -121.8375
+      ],
+      [
+       "~",
+       47.6047,
+       -121.8268
+      ],
+      [
+       "Bellevue",
+       47.6101,
+       -122.2015
+      ],
+      [
+       "Space Needle",
+       47.6205,
+       -122.3493
+      ],
+      "KBFI"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Rainier and Mount St. Helens",
+      "hu": "Rainier és a Mount St. Helens"
+     },
+     "desc": {
+      "en": "About an hour and three quarters: Seattle, Mount Rainier and the crater of Mount St. Helens.",
+      "hu": "Kb. másfél-két óra: Seattle, a Mount Rainier és a Mount St. Helens krátere."
+     },
+     "pts": [
+      "KBFI",
+      [
+       "Space Needle",
+       47.6205,
+       -122.3493
+      ],
+      [
+       "~",
+       47.6474,
+       -122.3139
+      ],
+      [
+       "Snoqualmie Falls",
+       47.5414,
+       -121.8375
+      ],
+      [
+       "Mount Rainier",
+       46.8523,
+       -121.7603
+      ],
+      [
+       "Mount St. Helens",
+       46.1912,
+       -122.1944
+      ],
+      [
+       "~",
+       46.2112,
+       -122.3476
+      ],
+      "KBFI"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Snoqualmie-vízesés Snoqualmie Bellevue Bellevue Washington-tó Space Needle Space Needle Seattle Mount Rainier Rainier vulkán Mount St. Helens Szent Ilona-hegy vulkán",
+   "img": "Mount Rainier"
+  },
+  {
+   "id": "zion-bryce",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Zion and Bryce Canyon",
+    "hu": "Zion és Bryce Canyon"
+   },
+   "main": {
+    "en": "Bryce Canyon",
+    "hu": "Bryce Canyon",
+    "lat": 37.593,
+    "lon": -112.1871
+   },
+   "tags": [
+    "mountain",
+    "culture"
+   ],
+   "desc": {
+    "en": "Red rock country: the sheer walls of Zion Canyon, the hoodoos of Bryce Canyon and the alpine rim of Cedar Breaks.",
+    "hu": "A vörös sziklák földje: a Zion-kanyon függőleges falai, a Bryce Canyon kőtornyai és a Cedar Breaks alpesi pereme."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Zion and Kolob",
+      "hu": "Zion és Kolob"
+     },
+     "desc": {
+      "en": "From St. George over Kolob Canyons and Angels Landing in Zion.",
+      "hu": "St. Georgeból a Kolob-kanyonok és a Zion Angels Landing felett."
+     },
+     "pts": [
+      "KSGU",
+      [
+       "Angels Landing",
+       37.269,
+       -112.947
+      ],
+      [
+       "Kolob Canyons",
+       37.46,
+       -113.22
+      ],
+      "KSGU"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 115,
+     "alt_ft": 11500,
+     "stol": false,
+     "label": {
+      "en": "Zion, Bryce and Cedar Breaks",
+      "hu": "Zion, Bryce és Cedar Breaks"
+     },
+     "desc": {
+      "en": "About an hour and a half: Zion, the Bryce Canyon amphitheatre and Cedar Breaks.",
+      "hu": "Kb. másfél óra: a Zion, a Bryce Canyon amfiteátruma és a Cedar Breaks."
+     },
+     "pts": [
+      "KSGU",
+      [
+       "Angels Landing",
+       37.269,
+       -112.947
+      ],
+      [
+       "Bryce Canyon",
+       37.593,
+       -112.1871
+      ],
+      [
+       "~",
+       37.6988,
+       -112.2142
+      ],
+      [
+       "Cedar Breaks",
+       37.641,
+       -112.84
+      ],
+      [
+       "Kolob Canyons",
+       37.46,
+       -113.22
+      ],
+      "KSGU"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Angels Landing Zion Nemzeti Park Kolob-kanyonok Kolob Bryce Canyon Bryce kanyon kőtornyak hoodoo Cedar Breaks Cedar Breaks",
+   "img": "Bryce Canyon"
+  },
+  {
+   "id": "mexico-city",
+   "continent": "NA",
+   "country": {
+    "en": "Mexico",
+    "hu": "Mexikó"
+   },
+   "name": {
+    "en": "Mexico City and Teotihuacan",
+    "hu": "Mexikóváros és Teotihuacán"
+   },
+   "main": {
+    "en": "Pyramid of the Sun",
+    "hu": "Nap-piramis",
+    "lat": 19.6925,
+    "lon": -98.8438
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco",
+    "volcano"
+   ],
+   "desc": {
+    "en": "The sprawling capital on a drained lake, the pyramids of Teotihuacan and the snow-capped cone of Popocatépetl.",
+    "hu": "A leszárított tó helyén fekvő hatalmas főváros, Teotihuacán piramisai és a Popocatépetl hósipkás kúpja."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 10000,
+     "stol": false,
+     "label": {
+      "en": "City centre",
+      "hu": "Belváros"
+     },
+     "desc": {
+      "en": "The Zócalo, Chapultepec Castle, Estadio Azteca and the canals of Xochimilco.",
+      "hu": "A Zócalo, a Chapultepec-kastély, az Estadio Azteca és Xochimilco csatornái."
+     },
+     "pts": [
+      "MMMX",
+      [
+       "Zócalo",
+       19.4326,
+       -99.1332
+      ],
+      [
+       "Chapultepec Castle",
+       19.4204,
+       -99.1819
+      ],
+      [
+       "Estadio Azteca",
+       19.3029,
+       -99.1505
+      ],
+      [
+       "Xochimilco",
+       19.26,
+       -99.103
+      ],
+      [
+       "~",
+       19.2712,
+       -99.0668
+      ],
+      "MMMX"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 12500,
+     "stol": false,
+     "label": {
+      "en": "Teotihuacan and Popocatépetl",
+      "hu": "Teotihuacán és a Popocatépetl"
+     },
+     "desc": {
+      "en": "About an hour and a half: Teotihuacan, the capital and the volcano Popocatépetl.",
+      "hu": "Kb. másfél óra: Teotihuacán, a főváros és a Popocatépetl vulkán."
+     },
+     "pts": [
+      "MMMX",
+      [
+       "Zócalo",
+       19.4326,
+       -99.1332
+      ],
+      [
+       "Chapultepec Castle",
+       19.4204,
+       -99.1819
+      ],
+      [
+       "Estadio Azteca",
+       19.3029,
+       -99.1505
+      ],
+      [
+       "Xochimilco",
+       19.26,
+       -99.103
+      ],
+      [
+       "Popocatépetl",
+       19.0225,
+       -98.6278
+      ],
+      [
+       "~",
+       19.0912,
+       -98.5397
+      ],
+      [
+       "Pyramid of the Sun",
+       19.6925,
+       -98.8438
+      ],
+      "MMMX"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Zócalo Zocalo Mexikóváros főtér Chapultepec-kastély Chapultepec Estadio Azteca Azték stadion Xochimilco Xochimilco csatornák Popocatépetl Popocatepetl vulkán Nap-piramis Teotihuacán Teotihuacan",
+   "img": "Teotihuacan"
+  },
+  {
+   "id": "nazca",
+   "continent": "SA",
+   "country": {
+    "en": "Peru",
+    "hu": "Peru"
+   },
+   "name": {
+    "en": "Nazca Lines",
+    "hu": "Nazca-vonalak"
+   },
+   "main": {
+    "en": "Hummingbird geoglyph",
+    "hu": "Kolibri-geoglifa",
+    "lat": -14.6917,
+    "lon": -75.1458
+   },
+   "tags": [
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Giant figures scratched into the desert 2,000 years ago: the hummingbird, the monkey and the spider, best seen from the air.",
+    "hu": "2000 éve a sivatagba karcolt óriási alakzatok: a kolibri, a majom és a pók, legjobban a levegőből látszanak."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 1500,
+     "stol": false,
+     "label": {
+      "en": "Lines of Nazca",
+      "hu": "Nazca-vonalak"
+     },
+     "desc": {
+      "en": "The Hummingbird geoglyph and the ceremonial centre of Cahuachi.",
+      "hu": "A kolibri-geoglifa és Cahuachi szertartási központja."
+     },
+     "pts": [
+      "SPZA",
+      [
+       "Hummingbird geoglyph",
+       -14.6917,
+       -75.1458
+      ],
+      [
+       "~",
+       -14.7099,
+       -75.1779
+      ],
+      [
+       "Cahuachi",
+       -14.8183,
+       -75.1156
+      ],
+      "SPZA"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Nazca and Palpa",
+      "hu": "Nazca és Palpa"
+     },
+     "desc": {
+      "en": "About an hour: Chauchilla cemetery, Cahuachi, the Nazca lines and the Palpa geoglyphs.",
+      "hu": "Kb. egy óra: a Chauchilla-temető, Cahuachi, a Nazca-vonalak és a palpai geoglifák."
+     },
+     "pts": [
+      "SPZA",
+      [
+       "Palpa geoglyphs",
+       -14.55,
+       -75.183
+      ],
+      [
+       "~",
+       -14.5653,
+       -75.2173
+      ],
+      [
+       "Hummingbird geoglyph",
+       -14.6917,
+       -75.1458
+      ],
+      [
+       "Cahuachi",
+       -14.8183,
+       -75.1156
+      ],
+      [
+       "Chauchilla Cemetery",
+       -14.975,
+       -75.098
+      ],
+      [
+       "~",
+       -14.9889,
+       -75.0598
+      ],
+      "SPZA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Kolibri-geoglifa Nazca kolibri Cahuachi Cahuachi piramisok Palpai geoglifák Palpa Chauchilla-temető Chauchilla",
+   "img": "Nazca Lines"
+  },
+  {
+   "id": "uyuni",
+   "continent": "SA",
+   "country": {
+    "en": "Bolivia",
+    "hu": "Bolívia"
+   },
+   "name": {
+    "en": "Salar de Uyuni",
+    "hu": "Uyuni sósivatag"
+   },
+   "main": {
+    "en": "Salar de Uyuni",
+    "hu": "Uyuni sósivatag",
+    "lat": -20.1338,
+    "lon": -67.4891
+   },
+   "tags": [
+    "culture",
+    "volcano"
+   ],
+   "desc": {
+    "en": "The world's largest salt flat: a mirror of white crust stretching to the horizon, with cactus islands and volcanoes.",
+    "hu": "A világ legnagyobb sósivataga: a horizontig nyúló fehér tükör kaktuszszigetekkel és vulkánokkal."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 14000,
+     "stol": false,
+     "label": {
+      "en": "Salt flat loop",
+      "hu": "Sósivatag-kör"
+     },
+     "desc": {
+      "en": "The train cemetery, Incahuasi Island, the salt flat and the Tunupa volcano.",
+      "hu": "A vonattemető, az Incahuasi-sziget, a sósivatag és a Tunupa vulkán."
+     },
+     "pts": [
+      "SLUY",
+      [
+       "Train Cemetery",
+       -20.4753,
+       -66.8225
+      ],
+      [
+       "~",
+       -20.5059,
+       -66.8426
+      ],
+      [
+       "Isla Incahuasi",
+       -20.241,
+       -67.625
+      ],
+      [
+       "Tunupa Volcano",
+       -19.8333,
+       -67.6167
+      ],
+      [
+       "~",
+       -19.8188,
+       -67.5321
+      ],
+      [
+       "Salar de Uyuni",
+       -20.1338,
+       -67.4891
+      ],
+      "SLUY"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 16000,
+     "stol": false,
+     "label": {
+      "en": "Salar and Laguna Colorada",
+      "hu": "Sósivatag és a Laguna Colorada"
+     },
+     "desc": {
+      "en": "A long flight south: Incahuasi, Ollagüe volcano and the red lagoon of Laguna Colorada.",
+      "hu": "Hosszú repülés délre: Incahuasi, az Ollagüe vulkán és a vörös Laguna Colorada."
+     },
+     "pts": [
+      "SLUY",
+      [
+       "Isla Incahuasi",
+       -20.241,
+       -67.625
+      ],
+      [
+       "Ollagüe Volcano",
+       -21.3,
+       -68.18
+      ],
+      [
+       "Laguna Colorada",
+       -22.2,
+       -67.78
+      ],
+      [
+       "~",
+       -22.2036,
+       -67.6635
+      ],
+      "SLUY"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Vonattemető Uyuni vonattemető Incahuasi-sziget Incahuasi kaktusz-sziget Tunupa vulkán Tunupa Uyuni sósivatag Salar de Uyuni Ollagüe vulkán Ollague Laguna Colorada Vörös-lagúna flamingók",
+   "img": "Salar de Uyuni"
+  },
+  {
+   "id": "angel-falls",
+   "continent": "SA",
+   "country": {
+    "en": "Venezuela",
+    "hu": "Venezuela"
+   },
+   "name": {
+    "en": "Angel Falls",
+    "hu": "Angel-vízesés"
+   },
+   "main": {
+    "en": "Angel Falls",
+    "hu": "Angel-vízesés",
+    "lat": 5.9701,
+    "lon": -62.5362
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "jungle"
+   ],
+   "desc": {
+    "en": "The tallest waterfall on Earth, 979 m, plunging off the flat-topped Auyán-tepui in the Venezuelan jungle.",
+    "hu": "A Föld legmagasabb vízesése, 979 méter, a venezuelai dzsungel lapostetejű Auyán-tepuijáról zuhan alá."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Canaima and Angel Falls",
+      "hu": "Canaima és az Angel-vízesés"
+     },
+     "desc": {
+      "en": "From Canaima Lagoon to Angel Falls and around the Auyán-tepui.",
+      "hu": "A Canaima-lagúnától az Angel-vízeséshez és az Auyán-tepui körül."
+     },
+     "pts": [
+      "SVCN",
+      [
+       "Auyán-tepui",
+       5.78,
+       -62.54
+      ],
+      [
+       "~",
+       5.7937,
+       -62.4943
+      ],
+      [
+       "Angel Falls",
+       5.9701,
+       -62.5362
+      ],
+      "SVCN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Auyán-tepui Auyantepui asztalhegy Angel-vízesés Salto Ángel Angel Falls Venezuela",
+   "img": "Angel Falls"
+  },
+  {
+   "id": "manaus",
+   "continent": "SA",
+   "country": {
+    "en": "Brazil",
+    "hu": "Brazília"
+   },
+   "name": {
+    "en": "Manaus and the Amazon",
+    "hu": "Manaus és az Amazonas"
+   },
+   "main": {
+    "en": "Meeting of Waters",
+    "hu": "Vizek találkozása",
+    "lat": -3.138,
+    "lon": -59.904
+   },
+   "tags": [
+    "city",
+    "jungle"
+   ],
+   "desc": {
+    "en": "The Amazon's jungle capital: the opera house in the rainforest, the Rio Negro bridge and the dark and sandy rivers that refuse to mix.",
+    "hu": "Az Amazonas dzsungelfővárosa: operaház az esőerdőben, a Rio Negro-híd és a két folyó, amely nem akar összekeveredni."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 85,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Meeting of Waters",
+      "hu": "A vizek találkozása"
+     },
+     "desc": {
+      "en": "Over the Teatro Amazonas, the Meeting of Waters and the Rio Negro bridge.",
+      "hu": "Az Amazonas-színház, a vizek találkozása és a Rio Negro-híd felett."
+     },
+     "pts": [
+      "SBEG",
+      [
+       "Meeting of Waters",
+       -3.138,
+       -59.904
+      ],
+      [
+       "~",
+       -3.172,
+       -59.9157
+      ],
+      [
+       "Teatro Amazonas",
+       -3.1303,
+       -60.0233
+      ],
+      [
+       "Rio Negro Bridge",
+       -3.088,
+       -60.018
+      ],
+      "SBEG"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Anavilhanas and Presidente Figueiredo",
+      "hu": "Anavilhanas és Presidente Figueiredo"
+     },
+     "desc": {
+      "en": "About an hour: Manaus, the river islands of Anavilhanas and the waterfalls of Presidente Figueiredo.",
+      "hu": "Kb. egy óra: Manaus, az Anavilhanas folyami szigetei és Presidente Figueiredo vízesései."
+     },
+     "pts": [
+      "SBEG",
+      [
+       "Rio Negro Bridge",
+       -3.088,
+       -60.018
+      ],
+      [
+       "Teatro Amazonas",
+       -3.1303,
+       -60.0233
+      ],
+      [
+       "Meeting of Waters",
+       -3.138,
+       -59.904
+      ],
+      [
+       "Presidente Figueiredo",
+       -2.03,
+       -60.025
+      ],
+      [
+       "~",
+       -1.9922,
+       -60.1261
+      ],
+      [
+       "Anavilhanas",
+       -2.7,
+       -60.75
+      ],
+      "SBEG"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Vizek találkozása Encontro das Águas Rio Negro Solimões Amazonas-színház Teatro Amazonas operaház Manaus Rio Negro-híd Ponte Rio Negro Presidente Figueiredo Presidente Figueiredo vízesések Anavilhanas Anavilhanas szigetcsoport",
+   "img": "Teatro Amazonas|Manaus"
+  },
+  {
+   "id": "serengeti-mara",
+   "continent": "AF",
+   "country": {
+    "en": "Tanzania",
+    "hu": "Tanzánia"
+   },
+   "name": {
+    "en": "Serengeti and the Mara",
+    "hu": "Serengeti és a Mara"
+   },
+   "main": {
+    "en": "Serengeti",
+    "hu": "Serengeti",
+    "lat": -2.458,
+    "lon": 34.8225
+   },
+   "tags": [
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Endless savanna and the Great Migration: wildebeest, zebras and lions on the plains of the Serengeti.",
+    "hu": "Végtelen szavanna és a Nagy Vándorlás: gnúk, zebrák és oroszlánok a Serengeti síkságain."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Serengeti kopjes",
+      "hu": "Serengeti sziklaszigetei"
+     },
+     "desc": {
+      "en": "From Seronera over the Moru and Gol kopjes.",
+      "hu": "Seroneráról a Moru- és Gol-sziklaszigetek felett."
+     },
+     "pts": [
+      "HTSN",
+      [
+       "Gol Kopjes",
+       -2.65,
+       35.2
+      ],
+      [
+       "~",
+       -2.7541,
+       35.181
+      ],
+      [
+       "Moru Kopjes",
+       -2.7,
+       34.75
+      ],
+      "HTSN"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Mara River and Grumeti",
+      "hu": "Mara-folyó és Grumeti"
+     },
+     "desc": {
+      "en": "About an hour and a half: the Lobo Valley, the Mara River crossings and the Grumeti River.",
+      "hu": "Kb. másfél óra: a Lobo-völgy, a Mara-folyó átkelői és a Grumeti-folyó."
+     },
+     "pts": [
+      "HTSN",
+      [
+       "Lobo Valley",
+       -1.85,
+       35.0
+      ],
+      [
+       "Mara River crossing",
+       -1.65,
+       34.95
+      ],
+      [
+       "Grumeti River",
+       -2.15,
+       34.25
+      ],
+      "HTSN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Gol-sziklaszigetek Gol kopjes Moru-sziklaszigetek Moru kopjes Lobo-völgy Lobo Mara-folyó átkelő Mara folyó gnúvándorlás Grumeti-folyó Grumeti",
+   "img": "Serengeti"
+  },
+  {
+   "id": "mauritius",
+   "continent": "AF",
+   "country": {
+    "en": "Mauritius",
+    "hu": "Mauritius"
+   },
+   "name": {
+    "en": "Mauritius",
+    "hu": "Mauritius"
+   },
+   "main": {
+    "en": "Le Morne Brabant",
+    "hu": "Le Morne Brabant",
+    "lat": -20.452,
+    "lon": 57.313
+   },
+   "tags": [
+    "island",
+    "coast",
+    "unesco",
+    "volcano"
+   ],
+   "desc": {
+    "en": "Turquoise lagoons, the UNESCO rock of Le Morne and the coloured earths of Chamarel on a volcanic island.",
+    "hu": "Türkizkék lagúnák, a világörökségi Le Morne-szikla és Chamarel színes földjei egy vulkanikus szigeten."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Island tour",
+      "hu": "Szigetkör"
+     },
+     "desc": {
+      "en": "Île aux Cerfs, Pieter Both, Port Louis and the crater lake of Grand Bassin.",
+      "hu": "Île aux Cerfs, a Pieter Both, Port Louis és a Grand Bassin kráter-tó."
+     },
+     "pts": [
+      "FIMP",
+      [
+       "Grand Bassin",
+       -20.417,
+       57.493
+      ],
+      [
+       "Port Louis",
+       -20.1609,
+       57.5012
+      ],
+      [
+       "Pieter Both",
+       -20.175,
+       57.59
+      ],
+      [
+       "Île aux Cerfs",
+       -20.27,
+       57.806
+      ],
+      "FIMP"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Mauritius from coast to coast",
+      "hu": "Mauritius partról partra"
+     },
+     "desc": {
+      "en": "About an hour: the lagoons, Port Louis, Chamarel and the Le Morne peninsula.",
+      "hu": "Kb. egy óra: a lagúnák, Port Louis, Chamarel és a Le Morne-félsziget."
+     },
+     "pts": [
+      "FIMP",
+      [
+       "Blue Bay Marine Park",
+       -20.444,
+       57.712
+      ],
+      [
+       "Île aux Cerfs",
+       -20.27,
+       57.806
+      ],
+      [
+       "Pieter Both",
+       -20.175,
+       57.59
+      ],
+      [
+       "Port Louis",
+       -20.1609,
+       57.5012
+      ],
+      [
+       "Le Morne Brabant",
+       -20.452,
+       57.313
+      ],
+      [
+       "~",
+       -20.4815,
+       57.3349
+      ],
+      [
+       "Chamarel",
+       -20.44,
+       57.38
+      ],
+      "FIMP"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Grand Bassin Ganga Talao szent tó Port Louis Port Louis főváros Pieter Both-hegy Pieter Both Île aux Cerfs Szarvas-sziget Blue Bay tengeri park Blue Bay Le Morne Brabant Le Morne szikla Chamarel hét színű föld Chamarel",
+   "img": "Le Morne Brabant"
+  },
+  {
+   "id": "zanzibar",
+   "continent": "AF",
+   "country": {
+    "en": "Tanzania",
+    "hu": "Tanzánia"
+   },
+   "name": {
+    "en": "Zanzibar",
+    "hu": "Zanzibár"
+   },
+   "main": {
+    "en": "Stone Town",
+    "hu": "Stone Town",
+    "lat": -6.163,
+    "lon": 39.19
+   },
+   "tags": [
+    "island",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Spice island of the Indian Ocean: the winding alleys of Stone Town, white beaches and the Mnemba coral atoll.",
+    "hu": "Az Indiai-óceán fűszerszigete: Stone Town szűk sikátorai, fehér strandok és a Mnemba korallatoll."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Stone Town and Jozani",
+      "hu": "Stone Town és Jozani"
+     },
+     "desc": {
+      "en": "Prison Island, Stone Town, Chumbe Island and Jozani Forest.",
+      "hu": "A Prison Island, Stone Town, a Chumbe-sziget és a Jozani-erdő."
+     },
+     "pts": [
+      "HTZA",
+      [
+       "Jozani Forest",
+       -6.25,
+       39.42
+      ],
+      [
+       "~",
+       -6.299,
+       39.4194
+      ],
+      [
+       "Chumbe Island",
+       -6.28,
+       39.165
+      ],
+      [
+       "Prison Island",
+       -6.125,
+       39.17
+      ],
+      [
+       "~",
+       -6.117,
+       39.2053
+      ],
+      [
+       "~",
+       -6.1436,
+       39.2296
+      ],
+      [
+       "Stone Town",
+       -6.163,
+       39.19
+      ],
+      "HTZA"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Zanzibar from north to south",
+      "hu": "Zanzibár északtól délig"
+     },
+     "desc": {
+      "en": "About an hour: Stone Town, Nungwi, Mnemba Atoll and the Paje coast.",
+      "hu": "Kb. egy óra: Stone Town, Nungwi, a Mnemba-atoll és a Paje-part."
+     },
+     "pts": [
+      "HTZA",
+      [
+       "Stone Town",
+       -6.163,
+       39.19
+      ],
+      [
+       "Nungwi",
+       -5.726,
+       39.297
+      ],
+      [
+       "~",
+       -5.7174,
+       39.3321
+      ],
+      [
+       "Mnemba Atoll",
+       -5.82,
+       39.38
+      ],
+      [
+       "Paje Beach",
+       -6.27,
+       39.53
+      ],
+      "HTZA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Jozani-erdő Jozani vörös kolobusz Chumbe-sziget Chumbe Prison-sziget Changuu teknős sziget Stone Town Zanzibár városa Kőváros Nungwi Nungwi strand Mnemba-atoll Mnemba Paje-part Paje strand",
+   "img": "Stone Town"
+  },
+  {
+   "id": "sahara-merzouga",
+   "continent": "AF",
+   "country": {
+    "en": "Morocco",
+    "hu": "Marokkó"
+   },
+   "name": {
+    "en": "Sahara: Erg Chebbi",
+    "hu": "Szahara: Erg Chebbi"
+   },
+   "main": {
+    "en": "Erg Chebbi",
+    "hu": "Erg Chebbi",
+    "lat": 31.15,
+    "lon": -3.97
+   },
+   "tags": [
+    "culture"
+   ],
+   "desc": {
+    "en": "Orange dunes up to 150 m high at the edge of the Sahara, with the palm oases and kasbahs of southern Morocco.",
+    "hu": "Akár 150 méter magas narancsszínű dűnék a Szahara szélén, pálmaligetekkel és kasbákkal Dél-Marokkóban."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 125,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Dunes and gorges",
+      "hu": "Dűnék és szurdokok"
+     },
+     "desc": {
+      "en": "From Errachidia over the Erg Chebbi dunes and the Todra Gorge.",
+      "hu": "Errachidiából az Erg Chebbi dűnéi és a Todra-szurdok felett."
+     },
+     "pts": [
+      "GMFK",
+      [
+       "Erg Chebbi",
+       31.15,
+       -3.97
+      ],
+      [
+       "~",
+       31.0693,
+       -4.0536
+      ],
+      [
+       "Todra Gorge",
+       31.58,
+       -5.57
+      ],
+      [
+       "~",
+       31.6879,
+       -5.5685
+      ],
+      "GMFK"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Erg Chebbi Merzouga Szahara dűnék Todra-szurdok Todra",
+   "img": "Erg Chebbi"
+  },
+  {
+   "id": "auckland",
+   "continent": "OC",
+   "country": {
+    "en": "New Zealand",
+    "hu": "Új-Zéland"
+   },
+   "name": {
+    "en": "Auckland and the Hauraki Gulf",
+    "hu": "Auckland és a Hauraki-öböl"
+   },
+   "main": {
+    "en": "Sky Tower",
+    "hu": "Sky Tower",
+    "lat": -36.8485,
+    "lon": 174.7633
+   },
+   "tags": [
+    "city",
+    "island",
+    "coast",
+    "volcano"
+   ],
+   "desc": {
+    "en": "The City of Sails: the Sky Tower, the volcanic cone of Rangitoto and the islands of the Hauraki Gulf.",
+    "hu": "A Vitorlások Városa: a Sky Tower, a Rangitoto vulkáni kúpja és a Hauraki-öböl szigetei."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Auckland and Waiheke",
+      "hu": "Auckland és Waiheke"
+     },
+     "desc": {
+      "en": "Over the Sky Tower, Rangitoto Island and Waiheke Island.",
+      "hu": "A Sky Tower, a Rangitoto-sziget és a Waiheke-sziget felett."
+     },
+     "pts": [
+      "NZAA",
+      [
+       "Sky Tower",
+       -36.8485,
+       174.7633
+      ],
+      [
+       "Rangitoto Island",
+       -36.79,
+       174.86
+      ],
+      [
+       "Waiheke Island",
+       -36.8,
+       175.1
+      ],
+      [
+       "~",
+       -36.8456,
+       175.1192
+      ],
+      "NZAA"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Auckland and Hobbiton",
+      "hu": "Auckland és Hobbiton"
+     },
+     "desc": {
+      "en": "About an hour and a half: Piha beach, the city, the gulf islands and the Hobbiton movie set.",
+      "hu": "Kb. másfél óra: a Piha-part, a város, az öböl szigetei és a Hobbiton filmes díszlet."
+     },
+     "pts": [
+      "NZAA",
+      [
+       "Rangitoto Island",
+       -36.79,
+       174.86
+      ],
+      [
+       "Waiheke Island",
+       -36.8,
+       175.1
+      ],
+      [
+       "Hobbiton",
+       -37.8722,
+       175.683
+      ],
+      [
+       "~",
+       -37.934,
+       175.5709
+      ],
+      [
+       "Piha Beach",
+       -36.954,
+       174.469
+      ],
+      [
+       "Sky Tower",
+       -36.8485,
+       174.7633
+      ],
+      "NZAA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Sky Tower Sky Tower Auckland Rangitoto-sziget Rangitoto vulkán Waiheke-sziget Waiheke Hobbiton Hobbitfalva Matamata Gyűrűk Ura Piha-part Piha",
+   "img": "Sky Tower, Auckland|Auckland"
+  },
+  {
+   "id": "queenstown",
+   "continent": "OC",
+   "country": {
+    "en": "New Zealand",
+    "hu": "Új-Zéland"
+   },
+   "name": {
+    "en": "Queenstown, Wanaka and the glaciers",
+    "hu": "Queenstown, Wanaka és a gleccserek"
+   },
+   "main": {
+    "en": "Mount Aspiring",
+    "hu": "Mount Aspiring",
+    "lat": -44.385,
+    "lon": 168.728
+   },
+   "tags": [
+    "mountain",
+    "coast"
+   ],
+   "desc": {
+    "en": "Alpine lakes, the pyramid of Mount Aspiring and glaciers flowing almost to the rainforest of the West Coast.",
+    "hu": "Alpesi tavak, a Mount Aspiring piramisa és az esőerdőig leereszkedő nyugati-parti gleccserek."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 8000,
+     "stol": false,
+     "label": {
+      "en": "Wanaka and Mount Aspiring",
+      "hu": "Wanaka és a Mount Aspiring"
+     },
+     "desc": {
+      "en": "From Queenstown over Lake Wanaka and Mount Aspiring.",
+      "hu": "Queenstownból a Wanaka-tó és a Mount Aspiring felett."
+     },
+     "pts": [
+      "NZQN",
+      [
+       "Lake Wanaka",
+       -44.55,
+       169.1
+      ],
+      [
+       "Mount Aspiring",
+       -44.385,
+       168.728
+      ],
+      [
+       "~",
+       -44.4237,
+       168.633
+      ],
+      "NZQN"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 11000,
+     "stol": false,
+     "label": {
+      "en": "Franz Josef and Fox Glacier",
+      "hu": "Franz Josef- és Fox-gleccser"
+     },
+     "desc": {
+      "en": "About two hours: Wanaka, Mount Aspiring and the Fox and Franz Josef glaciers.",
+      "hu": "Kb. két óra: Wanaka, a Mount Aspiring, valamint a Fox- és a Franz Josef-gleccser."
+     },
+     "pts": [
+      "NZQN",
+      [
+       "Mount Aspiring",
+       -44.385,
+       168.728
+      ],
+      [
+       "Fox Glacier",
+       -43.5,
+       170.02
+      ],
+      [
+       "Franz Josef Glacier",
+       -43.467,
+       170.185
+      ],
+      [
+       "~",
+       -43.4965,
+       170.2134
+      ],
+      [
+       "Lake Wanaka",
+       -44.55,
+       169.1
+      ],
+      "NZQN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Wanaka-tó Wanaka Mount Aspiring Aspiring Fox-gleccser Fox gleccser Franz Josef-gleccser Franz Josef gleccser",
+   "img": "Queenstown, New Zealand|The Remarkables"
   }
  ]
 }
