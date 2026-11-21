@@ -231,7 +231,8 @@
      26.9258,
      75.8237
     ]
-   ]
+   ],
+   "kw": "Akbar sírja Szikandra Keetham-tó madárrezervátum Baby Taj Itimád-ud-Daula síremléke Holdfény-kert agrai vörös erőd Fatehpur Szikri szellemváros Bharatpur madárpark Amber-erőd Dzsaipur Városi palota Dzsaipur"
   },
   {
    "id": "everest",
@@ -429,7 +430,8 @@
      27.8069,
      86.714
     ]
-   ]
+   ],
+   "kw": "Namche Bazár Tengboche kolostor Dingboche falu Everest alaptábor Kala Patthar csúcs Gokyo-tavak Mount Everest Csomolungma Ama Dablam csúcs"
   },
   {
    "id": "angkor",
@@ -568,7 +570,8 @@
      13.6128,
      104.1125
     ]
-   ]
+   ],
+   "kw": "Angkor Vat Bayon templom Ta Prohm templom fák Tonlé Sap tó Banteay Srei templom Phnom Kulen vízesés"
   },
   {
    "id": "bagan",
@@ -668,7 +671,8 @@
      20.9242,
      95.2497
     ]
-   ]
+   ],
+   "kw": "Shwezigon pagoda Ananda templom Dhammayangyi templom Popa-hegy Sulamani templom"
   },
   {
    "id": "budapest",
@@ -817,7 +821,8 @@
      47.5155,
      19.0452
     ]
-   ]
+   ],
+   "kw": "Gellért-hegy Citadella János-hegy Erzsébet-kilátó Margit-sziget Országház Parlament Budai Vár esztergomi bazilika visegrádi fellegvár Szentendre Hősök tere Halászbástya Margit híd"
   },
   {
    "id": "balaton",
@@ -945,7 +950,8 @@
      46.8,
      17.43
     ]
-   ]
+   ],
+   "kw": "keszthelyi Festetics-kastély Badacsony hegy tihanyi apátság hévízi tó szigligeti vár"
   },
   {
    "id": "rome-naples",
@@ -1139,7 +1145,8 @@
      41.9009,
      12.4833
     ]
-   ]
+   ],
+   "kw": "Colosseum Kolosszeum Szent Péter-bazilika Vatikán Pompeji Vezúv vulkán Capri sziget Vízvezeték-park Róma Castel Gandolfo pápai nyaraló Villa d'Este Tivoli Ostia Antica Forum Romanum Trevi-kút"
   },
   {
    "id": "amalfi",
@@ -1240,7 +1247,8 @@
      40.5437,
      14.243
     ]
-   ]
+   ],
+   "kw": "Capri sziget Sorrento Positano Amalfi Pompeji Vezúv vulkán Villa Rufolo Ravello Marina Piccola Capri"
   },
   {
    "id": "tuscany",
@@ -1369,7 +1377,8 @@
      43.0766,
      11.6793
     ]
-   ]
+   ],
+   "kw": "firenzei dóm Santa Maria del Fiore pisai ferde torony San Gimignano Siena Pienza Monteriggioni"
   },
   {
    "id": "dolomites",
@@ -1481,7 +1490,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Catinaccio Rózsakert-hegység Sassolungo Langkofel Seceda csúcs Puez-Odle Marmolada gleccser Három Csúcs Tre Cime Braies-tó Pragser Wildsee"
   },
   {
    "id": "cinque-terre",
@@ -1589,7 +1599,8 @@
      44.099,
      9.738
     ]
-   ]
+   ],
+   "kw": "Portovenere Vernazza Portofino Monterosso Riomaggiore Cinque Terre"
   },
   {
    "id": "matterhorn",
@@ -1707,7 +1718,8 @@
      46.6863,
      7.8632
     ]
-   ]
+   ],
+   "kw": "Matterhorn Cervino Zermatt Aletsch-gleccser Jungfrau Eiger Interlaken"
   },
   {
    "id": "lucerne",
@@ -1792,7 +1804,8 @@
      46.9772,
      8.5906
     ]
-   ]
+   ],
+   "kw": "Rigi Kápolna-híd Luzern Pilatus hegy Titlis Rütli-rét"
   },
   {
    "id": "salzkammergut",
@@ -1956,7 +1969,8 @@
      47.75,
      13.45
     ]
-   ]
+   ],
+   "kw": "Dachstein gleccser Hallstatt Sankt Wolfgang Mondsee salzburgi vár Hohensalzburg Herrenchiemsee kastély Kampenwand Eisriesenwelt jégbarlang Grossglockner Zell am See Wolfgang-tó"
   },
   {
    "id": "loire",
@@ -2105,7 +2119,8 @@
      47.4129,
      0.9843
     ]
-   ]
+   ],
+   "kw": "Eiffel-torony Versailles-i kastély chambordi kastély chenonceau-i kastély amboise-i kastély Sacré-Cœur Montmartre Notre-Dame párizsi székesegyház"
   },
   {
    "id": "golden-circle",
@@ -2244,7 +2259,8 @@
      64.1417,
      -21.9266
     ]
-   ]
+   ],
+   "kw": "Thingvellir Geysir gejzír Gullfoss vízesés Kerið kráter Kék Lagúna Hallgrímskirkja templom Reykjavík"
   },
   {
    "id": "italian-lakes",
@@ -2363,7 +2379,8 @@
      45.8856,
      8.5333
     ]
-   ]
+   ],
+   "kw": "milánói dóm Duomo San Giulio-sziget Orta-tó Isola Bella Borromei-szigetek Villa del Balbianello Bellagio Stresa"
   },
   {
    "id": "sicily",
@@ -2478,7 +2495,8 @@
      37.0764,
      15.279
     ]
-   ]
+   ],
+   "kw": "Etna vulkán Taormina Ortygia Siracusa Templomok völgye Agrigento palermói katedrális görög színház Siracusa"
   },
   {
    "id": "vienna-wachau",
@@ -2602,7 +2620,8 @@
      48.2065,
      16.3656
     ]
-   ]
+   ],
+   "kw": "schönbrunni kastély Bécs Szent István-dóm Bécs Stephansdom Dürnstein Wachau melki apátság Kahlenberg Hofburg"
   },
   {
    "id": "bavaria",
@@ -2725,7 +2744,8 @@
      47.5543,
      10.7355
     ]
-   ]
+   ],
+   "kw": "Neuschwanstein kastély Wieskirche Linderhof kastély Zugspitze müncheni Frauenkirche Hohenschwangau kastély"
   },
   {
    "id": "rhine",
@@ -2854,7 +2874,8 @@
      49.9809,
      7.9215
     ]
-   ]
+   ],
+   "kw": "kölni dóm Deutsches Eck Koblenz Marksburg vár Loreley szikla Rüdesheim mainzi dóm Drachenfels"
   },
   {
    "id": "provence-riviera",
@@ -3022,7 +3043,8 @@
      43.9508,
      4.8075
     ]
-   ]
+   ],
+   "kw": "Pont du Gard római vízvezeték Pápai palota Avignon Verdon-szurdok Cannes Monaco Monte-Carlo Notre-Dame de la Garde Marseille Cap Canaille arles-i amfiteátrum Les Baux"
   },
   {
    "id": "mont-blanc",
@@ -3106,7 +3128,8 @@
      45.9237,
      6.8694
     ]
-   ]
+   ],
+   "kw": "Annecy-tó Mont Blanc Fehér-hegy Aiguille du Midi Mer de Glace jégtenger gleccser Chamonix"
   },
   {
    "id": "normandy",
@@ -3235,7 +3258,8 @@
      49.4193,
      0.2327
     ]
-   ]
+   ],
+   "kw": "Honfleur Arromanches Omaha Beach normandiai partraszállás Pointe du Hoc Mont-Saint-Michel Pegasus-híd"
   },
   {
    "id": "andalusia",
@@ -3398,7 +3422,8 @@
      36.1408,
      -5.3536
     ]
-   ]
+   ],
+   "kw": "sevillai katedrális córdobai mecset Mezquita Alhambra Granada Ronda Gibraltári szikla Giralda Sevilla"
   },
   {
    "id": "barcelona",
@@ -3517,7 +3542,8 @@
      41.4145,
      2.1527
     ]
-   ]
+   ],
+   "kw": "Sagrada Família Barcelona Montserrat kolostor Dalí Színház-Múzeum Figueres Cap de Creus gironai katedrális Park Güell Gaudí"
   },
   {
    "id": "london",
@@ -3655,7 +3681,8 @@
      51.5014,
      -0.1419
     ]
-   ]
+   ],
+   "kw": "Tower Bridge London parlament Big Ben Westminster Windsori kastély Wembley stadion Szent Pál-székesegyház London greenwichi csillagvizsgáló London Eye óriáskerék Buckingham-palota"
   },
   {
    "id": "scottish-highlands",
@@ -3769,7 +3796,8 @@
      56.6827,
      -5.0833
     ]
-   ]
+   ],
+   "kw": "Glencoe völgy Ben Nevis Glenfinnan viadukt Harry Potter híd Eilean Donan vár Urquhart vár Loch Ness-i szörny stirlingi vár Loch Lomond"
   },
   {
    "id": "cornwall",
@@ -3892,7 +3920,8 @@
      50.0425,
      -5.6501
     ]
-   ]
+   ],
+   "kw": "Tintagel vár Arthur király Eden Project Szent Mihály-hegy Cornwall Land's End St Ives Minack Színház"
   },
   {
    "id": "edinburgh",
@@ -3982,7 +4011,8 @@
      55.9441,
      -3.1618
     ]
-   ]
+   ],
+   "kw": "Kelpie szobrok Falkirk Wheel hajóemelő stirlingi vár Forth-híd edinburghi vár Arthur's Seat"
   },
   {
    "id": "norway-fjords",
@@ -4086,7 +4116,8 @@
      60.8627,
      7.1138
     ]
-   ]
+   ],
+   "kw": "Trollstigen Trollok lépcsője Geiranger-fjord Briksdal-gleccser Flåm"
   },
   {
    "id": "cyclades",
@@ -4200,7 +4231,8 @@
      37.3959,
      25.2693
     ]
-   ]
+   ],
+   "kw": "Szantorini kaldera Portara Naxosz Délosz Mikonosz"
   },
   {
    "id": "peloponnese",
@@ -4319,7 +4351,8 @@
      37.6497,
      24.0247
     ]
-   ]
+   ],
+   "kw": "Akropolisz Athén Korinthoszi-csatorna Mükéné Epidauroszi színház Poszeidón temploma Szúnion"
   },
   {
    "id": "dalmatia",
@@ -4462,7 +4495,8 @@
      43.1729,
      16.4411
     ]
-   ]
+   ],
+   "kw": "Dubrovnik óváros Hvar Diocletianus-palota Split Krka-vízesések Mljet Zlatni Rat Aranyszarv Brač"
   },
   {
    "id": "prague",
@@ -4586,7 +4620,8 @@
      50.0865,
      14.4114
     ]
-   ]
+   ],
+   "kw": "Karlštejn vár Szent Borbála-templom Kutná Hora Károly-híd Prága Prágai vár Vyšehrad"
   },
   {
    "id": "zurich-constance",
@@ -4715,7 +4750,8 @@
      47.2494,
      9.343
     ]
-   ]
+   ],
+   "kw": "Grossmünster Zürich Rajnai-vízesés Mainau-sziget virágsziget Säntis"
   },
   {
    "id": "venice",
@@ -4875,7 +4911,8 @@
      45.459,
      12.353
     ]
-   ]
+   ],
+   "kw": "Lido Velence Chioggia Szent Márk-bazilika Velence Burano Torcello Padova Prato della Valle Murano üveg Rialto-híd"
   },
   {
    "id": "garda",
@@ -4965,7 +5002,8 @@
      45.6064,
      10.5226
     ]
-   ]
+   ],
+   "kw": "veronai Aréna Júlia Monte Baldo Riva del Garda Salò Sirmione Scaligeri-vár Sirmione"
   },
   {
    "id": "krakow-tatras",
@@ -5085,7 +5123,8 @@
      49.9833,
      20.055
     ]
-   ]
+   ],
+   "kw": "Wawel Krakkó wieliczkai sóbánya Niepołomice vár Giewont Zakopane Tátra"
   },
   {
    "id": "stockholm",
@@ -5166,7 +5205,8 @@
      59.3215,
      17.886
     ]
-   ]
+   ],
+   "kw": "Gamla Stan Stockholm óváros Vasa Múzeum Sandhamn Vaxholm erőd Drottningholm kastély"
   },
   {
    "id": "copenhagen",
@@ -5290,7 +5330,8 @@
      55.6798,
      12.5911
     ]
-   ]
+   ],
+   "kw": "Öresund-híd Kronborg Hamlet kastély Kis hableány Koppenhága Møns Klint krétasziklák roskildei dóm Nyhavn"
   },
   {
    "id": "helsinki",
@@ -5366,7 +5407,8 @@
      60.1731,
      24.9255
     ]
-   ]
+   ],
+   "kw": "helsinki székesegyház Suomenlinna erőd Porvoo Sziklatemplom Helsinki"
   },
   {
    "id": "lofoten",
@@ -5490,7 +5532,8 @@
      67.946,
      13.133
     ]
-   ]
+   ],
+   "kw": "Å Lofoten Reine Lofoten Hamnøy Henningsvær Svolvær"
   },
   {
    "id": "slovenia",
@@ -5609,7 +5652,8 @@
      46.0489,
      14.5086
     ]
-   ]
+   ],
+   "kw": "ljubljanai vár Bledi-tó Kranj Predjama barlangvár Triglav"
   },
   {
    "id": "malta",
@@ -5690,7 +5734,8 @@
      35.886,
      14.4025
     ]
-   ]
+   ],
+   "kw": "Dingli-sziklák Málta Dwejra Azúr-ablak Gozo Ggantija templom Gozo Valletta Mdina"
   },
   {
    "id": "transylvania",
@@ -5809,7 +5854,8 @@
      45.7983,
      24.1519
     ]
-   ]
+   ],
+   "kw": "Nagydisznód Bâlea-tó Fogarasi-havasok Nagyszeben Tanácstorony Törcsvári kastély Drakula Peleș-kastély Sinaia Fekete templom Brassó"
   },
   {
    "id": "montenegro",
@@ -5918,7 +5964,8 @@
      42.2554,
      18.8912
     ]
-   ]
+   ],
+   "kw": "Shkodra-tó Szkadari-tó Sveti Stefan Kotori-öböl Durmitor Tara-híd"
   },
   {
    "id": "netherlands",
@@ -6042,7 +6089,8 @@
      52.37,
      4.89
     ]
-   ]
+   ],
+   "kw": "Amszterdam csatornagyűrű Zandvoort Keukenhof tulipán Kinderdijk szélmalmok Oosterschelde vihar-gát Deltaművek"
   },
   {
    "id": "belgium",
@@ -6161,7 +6209,8 @@
      50.8947,
      4.3415
     ]
-   ]
+   ],
+   "kw": "Waterloo oroszlán dombja Brüsszel Grand-Place Nagy tér Atomium Menin-kapu Ypres Brugge harangtorony Gravensteen Gent"
   },
   {
    "id": "tatras-slovakia",
@@ -6285,7 +6334,8 @@
      49.119,
      20.06
     ]
-   ]
+   ],
+   "kw": "Késmárki vár Lomnici-csúcs Gerlachfalvi-csúcs Csorba-tó Szepesi vár"
   },
   {
    "id": "bulgaria",
@@ -6395,7 +6445,8 @@
      42.6958,
      23.3328
     ]
-   ]
+   ],
+   "kw": "Pancsarevo-tó Vitosa Cserni Vrah Bojana-templom Alekszandr Nyevszkij-székesegyház Szófia Musala Rilai kolostor"
   },
   {
    "id": "istria",
@@ -6475,7 +6526,8 @@
      44.915,
      13.765
     ]
-   ]
+   ],
+   "kw": "Motovun Rovinj Brijuni-szigetek pulai amfiteátrum"
   },
   {
    "id": "ireland-west",
@@ -6599,7 +6651,8 @@
      52.7011,
      -8.8115
     ]
-   ]
+   ],
+   "kw": "Bunratty vár Moheri-sziklák Kilrush Dún Aonghasa Aran-szigetek Poulnabrone dolmen Burren"
   },
   {
    "id": "cyprus",
@@ -6718,7 +6771,8 @@
      34.7783,
      32.407
     ]
-   ]
+   ],
+   "kw": "Aphrodité sziklája Ciprus Kourion Királysírok Páfosz Kék Lagúna Akamas Olümposz Troodosz"
   },
   {
    "id": "lisbon-sintra",
@@ -6857,7 +6911,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Vasco da Gama-híd Lisszabon Kereskedelmi tér Lisszabon Cristo Rei Krisztus-szobor Lisszabon Április 25. híd Lisszabon Jerónimos-kolostor Belémi torony Cascais Cabo da Roca Európa legnyugatibb pontja Pena-palota Sintra Sintrai Nemzeti Palota"
   },
   {
    "id": "algarve",
@@ -6984,7 +7039,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Ponta da Piedade Lagos Benagili barlang Praia da Marinha Albufeira Lagos Algarve Szent Vince-fok világítótorony Sagres Ria Formosa lagúna"
   },
   {
    "id": "istanbul",
@@ -7113,7 +7169,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Büyükada Hercegek-szigetei Boszporusz-híd Dolmabahçe-palota Galata-torony Hagia Sophia Ayasofya Szent Zsófia Fatih Szultán Mehmed-híd"
   },
   {
    "id": "cappadocia",
@@ -7236,7 +7293,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Uçhisar vár Göreme Ürgüp Szerelem-völgy Kappadókia Derinkuyu földalatti város Erciyes-hegy Avanos"
   },
   {
    "id": "mallorca",
@@ -7359,7 +7417,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Sa Calobra Sóller Valldemossa palmai katedrális Pollença Alcúdia Formentor-fok"
   },
   {
    "id": "crete",
@@ -7528,7 +7587,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Knósszoszi palota Kréta Phaisztosz Matala Ida-hegy Szamaria-szurdok Elafonisi Balosz-lagúna Hanya régi kikötő Spinalonga Vai pálmaliget Zakrosz Chrissi-sziget"
   },
   {
    "id": "berlin",
@@ -7651,7 +7711,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Siegessäule Győzelmi oszlop Berlin Brandenburgi kapu Berlini tévétorony Fernsehturm East Side Gallery Berlini fal Tempelhof repülőtér Sanssouci Potsdam Charlottenburg-palota Müggel-tó"
   },
   {
    "id": "faroe",
@@ -7774,7 +7835,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Tórshavn Saksun Múlafossur vízesés Gásadalur Kallur világítótorony Kalsoy Vestmanna madárszirtek"
   },
   {
    "id": "brittany",
@@ -7907,7 +7969,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Saint-Malo La Latte-erőd Cap Fréhel Dinan Perros-Guirec Rózsaszín gránitpart Bréhat-sziget Mont-Dol"
   },
   {
    "id": "new-york",
@@ -7996,7 +8059,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Brooklyn-híd Szabadság-szobor One World Trade Center Empire State Building Central Park Yankee Stadion"
   },
   {
    "id": "grand-canyon",
@@ -8065,7 +8129,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Desert View őrtorony Bright Angel Point Grand Canyon Village"
   },
   {
    "id": "sf-bay",
@@ -8134,7 +8199,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Ocean Beach Golden Gate híd Alcatraz Bay Bridge"
   },
   {
    "id": "oahu",
@@ -8454,7 +8520,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Diamond Head Hanauma-öböl Makapuu világítótorony Kualoa Pearl Harbor Waimea-kanyon Kalalau-völgy Na Pali Hanalei-öböl Wailua-vízesés Iao-völgy Lahaina Molokini-kráter Haleakala-kráter Hana Kilauea vulkán Mauna Kea Akaka-vízesés Szivárvány-vízesés Hilo Kalaupapa Molokai Lanai"
   },
   {
    "id": "machu-picchu",
@@ -8572,7 +8639,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Pisac Moray inka terasz Sacsayhuamán Cusco Ollantaytambo Machu Picchu"
   },
   {
    "id": "rio",
@@ -8657,7 +8725,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Maracanã stadion Pedra da Gávea Megváltó Krisztus-szobor Corcovado Copacabana Cukorsüveg-hegy Pão de Açúcar Rio-Niterói híd"
   },
   {
    "id": "iguazu",
@@ -8731,7 +8800,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Iguazú-vízesés Iguaçu Hármashatár Itaipu-gát"
   },
   {
    "id": "cape-town",
@@ -8849,7 +8919,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Robben-sziget Mandela Fokvárosi stadion Camps Bay Table Mountain Asztal-hegy Chapman's Peak Boulders Beach pingvinek Jó Remény foka Cape Point"
   },
   {
    "id": "giza",
@@ -8973,7 +9044,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Kairói fellegvár Szaladin Dzsószer lépcsős piramisa Szakkara Vörös piramis Dahsúr gízai piramisok Kheopsz Szfinx meidumi piramis Qarún-tó Fajjúm"
   },
   {
    "id": "kilimanjaro",
@@ -9041,7 +9113,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Meru-hegy Amboseli Kilimandzsáró"
   },
   {
    "id": "sydney",
@@ -9130,7 +9203,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Sydney-torony Sydney-i Operaház Sydney Harbour Bridge Vaskarika Manly Beach Sydney Heads Bondi-part"
   },
   {
    "id": "whitsundays",
@@ -9193,7 +9267,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Szív-zátony Whitehaven-part Whitsunday"
   },
   {
    "id": "milford-sound",
@@ -9267,7 +9342,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Remarkables hegység Wakatipu-tó Mitre-csúcs Milford Sound"
   },
   {
    "id": "tokyo-fuji",
@@ -9396,7 +9472,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Szivárványhíd Tokió Tokyo Tower Meidzsi szentély Szenszódzsi templom Asakusa Tokyo Skytree Tokyo Disneyland Kavagucsi-tó Fudzsi-hegy Fuji Asi-tó Hakone Yokohama Landmark Tower"
   },
   {
    "id": "dubai",
@@ -9475,7 +9552,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Dubai Marina Palm Jebel Ali Palm Jumeirah pálma-sziget Burdzs al-Arab vitorlás szálloda Burdzs Kalifa"
   },
   {
    "id": "hong-kong",
@@ -9564,7 +9642,8 @@
      ]
     }
    ],
-   "pois": []
+   "pois": [],
+   "kw": "Tsing Ma híd Victoria-kikötő Victoria-csúcs Tian Tan Buddha Nagy Buddha Lantau"
   },
   {
    "id": "yellowstone",
@@ -9688,7 +9767,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Oxbow Bend Jackson-tó Jenny-tó Grand Teton Yellowstone-tó Yellowstone-vízesés Grand Prismatic Spring szivárványos forrás Old Faithful gejzír"
   },
   {
    "id": "las-vegas",
@@ -9812,7 +9892,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Hoover-gát Las Vegas Strip Red Rock-kanyon Tűz völgye Valley of Fire Mead-tó"
   },
   {
    "id": "yosemite",
@@ -9891,7 +9972,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Glacier Point Half Dome Tuolumne Meadows Yosemite-vízesés El Capitan"
   },
   {
    "id": "banff",
@@ -10004,7 +10086,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Rundle-hegy Banff Moraine-tó Lake Louise Louise-tó Peyto-tó"
   },
   {
    "id": "yucatan",
@@ -10128,7 +10211,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Isla Mujeres Cancún szállodasor Tulum Cobá Chichén Itzá Kukulkán piramis"
   },
   {
    "id": "torres-del-paine",
@@ -10202,7 +10286,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Pehoé-tó Cuernos del Paine Szarvak Grey-gleccser Torres del Paine"
   },
   {
    "id": "perito-moreno",
@@ -10305,7 +10390,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Upsala-gleccser Perito Moreno-gleccser Lago Argentino Viedma-tó Fitz Roy Cerro Torre"
   },
   {
    "id": "galapagos",
@@ -10385,7 +10471,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Daphne Major Darwin pintyek Sullivan-öböl lávamező Pinnacle Rock Bartolomé Puerto Ayora"
   },
   {
    "id": "buenos-aires",
@@ -10470,7 +10557,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Martín García-sziget Recoleta temető Evita Obeliszk Buenos Aires Puerto Madero La Boca Caminito Bombonera"
   },
   {
    "id": "marrakech-atlas",
@@ -10590,7 +10678,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Koutoubia-mecset Marrakesh Oukaïmeden Imlil Toubkal Aït Benhaddou"
   },
   {
    "id": "victoria-falls",
@@ -10660,7 +10749,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Batoka-szurdok Viktória-vízesés Mosi-oa-Tunya Zambezi-szigetek"
   },
   {
    "id": "luxor",
@@ -10778,7 +10868,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "denderai templom Hathor Királyok völgye Luxor karnaki templom Memnón-kolosszusok Abüdosz"
   },
   {
    "id": "ngorongoro",
@@ -10848,7 +10939,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Manyara-tó Ngorongoro-kráter Ol Doinyo Lengai Meru-hegy"
   },
   {
    "id": "uluru",
@@ -10961,7 +11053,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Kata Tjuta Olgák Mount Olga kilátó Uluru Ayers Rock Kings Canyon Conner-hegy"
   },
   {
    "id": "great-ocean-road",
@@ -11034,7 +11127,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Bells Beach szörf Cape Otway világítótorony Tizenkét Apostol 12 Apostol sziklák Loch Ard-szurdok Port Campbell"
   },
   {
    "id": "aoraki",
@@ -11108,7 +11202,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Pukaki-tó Tasman-gleccser Aoraki Mount Cook Hooker-gleccser"
   },
   {
    "id": "bora-bora",
@@ -11188,7 +11283,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Otemanu-hegy Matira-part Taputapuatea marae Raiatea Maupiti"
   },
   {
    "id": "bali",
@@ -11313,7 +11409,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Uluwatu templom Tanah Lot Nusa Penida Kelingking Tegallalang rizsteraszok Batur-hegy Agung-hegy"
   },
   {
    "id": "singapore",
@@ -11388,7 +11485,8 @@
     }
    ],
    "pois": [],
-   "new": true
+   "new": true,
+   "kw": "Marina Bay Sands Sentosa Jurong-tó Pulau Ubin"
   }
  ]
 }
