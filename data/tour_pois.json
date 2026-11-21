@@ -1,0 +1,1908 @@
+{
+"v":1,
+"pois":{
+"Akbar's Tomb":{
+"hu":"Akbar sírja",
+"k":"Akbar sírja Szikandra"
+},
+"Sur Sarovar (Keetham Lake)":{
+"hu":"Keetham-tó madárrezervátum"
+},
+"Itimad-ud-Daulah":{
+"hu":"Itimád-ud-Daula síremléke",
+"k":"Baby Taj Itimád-ud-Daula síremléke"
+},
+"Mehtab Bagh":{
+"hu":"Holdfény-kert"
+},
+"Agra Fort":{
+"hu":"Agrai erőd",
+"k":"agrai vörös erőd"
+},
+"Fatehpur Sikri":{
+"hu":"Fatehpur Szikri",
+"k":"Fatehpur Szikri szellemváros"
+},
+"Keoladeo National Park":{
+"hu":"Bharatpur madárpark"
+},
+"Amber Fort":{
+"hu":"Amber-erőd Dzsaipur"
+},
+"City Palace, Jaipur":{
+"hu":"Városi palota, Dzsaipur",
+"k":"Városi palota Dzsaipur"
+},
+"Namche Bazaar":{
+"hu":"Namche Bazár"
+},
+"Tengboche":{
+"hu":"Tengboche",
+"k":"Tengboche kolostor"
+},
+"Dingboche":{
+"hu":"Dingboche",
+"k":"Dingboche falu"
+},
+"Everest Base Camp":{
+"hu":"Everest alaptábor"
+},
+"Kala Patthar":{
+"hu":"Kala Patthar",
+"k":"Kala Patthar csúcs"
+},
+"Gokyo Lakes":{
+"hu":"Gokyo-tavak"
+},
+"Mount Everest":{
+"hu":"Mount Everest",
+"k":"Mount Everest Csomolungma"
+},
+"Ama Dablam":{
+"hu":"Ama Dablam",
+"k":"Ama Dablam csúcs"
+},
+"Angkor Wat":{
+"hu":"Angkor Vat"
+},
+"Bayon":{
+"hu":"Bayon",
+"k":"Bayon templom"
+},
+"Ta Prohm":{
+"hu":"Ta Prohm",
+"k":"Ta Prohm templom fák"
+},
+"Tonle Sap":{
+"hu":"Tonlé Sap",
+"k":"Tonlé Sap tó"
+},
+"Banteay Srei":{
+"hu":"Banteay Srei",
+"k":"Banteay Srei templom"
+},
+"Phnom Kulen":{
+"hu":"Phnom Kulen",
+"k":"Phnom Kulen vízesés"
+},
+"Shwezigon Pagoda":{
+"hu":"Shwezigon pagoda"
+},
+"Ananda Temple":{
+"hu":"Ananda templom"
+},
+"Dhammayangyi Temple":{
+"hu":"Dhammayangyi templom"
+},
+"Mount Popa":{
+"hu":"Popa-hegy"
+},
+"Sulamani Temple":{
+"hu":"Sulamani templom"
+},
+"Gellért Hill":{
+"hu":"Gellért-hegy Citadella"
+},
+"János Hill Lookout":{
+"hu":"János-hegy Erzsébet-kilátó"
+},
+"Margaret Island":{
+"hu":"Margit-sziget"
+},
+"Hungarian Parliament":{
+"hu":"Országház Parlament"
+},
+"Buda Castle":{
+"hu":"Budai Vár"
+},
+"Esztergom Basilica":{
+"hu":"esztergomi bazilika"
+},
+"Visegrád Citadel":{
+"hu":"visegrádi fellegvár"
+},
+"Szentendre":{
+"hu":"Szentendre"
+},
+"Heroes' Square":{
+"hu":"Hősök tere"
+},
+"Fisherman's Bastion":{
+"hu":"Halászbástya"
+},
+"Margaret Bridge":{
+"hu":"Margit híd"
+},
+"Festetics Palace, Keszthely":{
+"hu":"keszthelyi Festetics-kastély"
+},
+"Badacsony":{
+"hu":"Badacsony",
+"k":"Badacsony hegy"
+},
+"Tihany Abbey":{
+"hu":"tihanyi apátság"
+},
+"Hévíz Lake":{
+"hu":"hévízi tó"
+},
+"Szigliget Castle":{
+"hu":"szigligeti vár"
+},
+"Colosseum":{
+"hu":"Colosseum",
+"k":"Colosseum Kolosszeum"
+},
+"St Peter's Basilica":{
+"hu":"Szent Péter-bazilika",
+"k":"Szent Péter-bazilika Vatikán"
+},
+"Pompeii":{
+"hu":"Pompeji"
+},
+"Mount Vesuvius":{
+"hu":"Vezúv vulkán"
+},
+"Capri":{
+"hu":"Capri",
+"k":"Capri sziget"
+},
+"Parco degli Acquedotti":{
+"hu":"Vízvezeték-park Róma"
+},
+"Castel Gandolfo":{
+"hu":"Castel Gandolfo",
+"k":"Castel Gandolfo pápai nyaraló"
+},
+"Villa d'Este, Tivoli":{
+"hu":"Villa d'Este, Tivoli",
+"k":"Villa d'Este Tivoli"
+},
+"Ostia Antica":{
+"hu":"Ostia Antica"
+},
+"Roman Forum":{
+"hu":"Forum Romanum"
+},
+"Trevi Fountain":{
+"hu":"Trevi-kút"
+},
+"Sorrento":{
+"hu":"Sorrento"
+},
+"Positano":{
+"hu":"Positano"
+},
+"Amalfi":{
+"hu":"Amalfi"
+},
+"Villa Rufolo, Ravello":{
+"hu":"Villa Rufolo, Ravello",
+"k":"Villa Rufolo Ravello"
+},
+"Marina Piccola, Capri":{
+"hu":"Marina Piccola, Capri",
+"k":"Marina Piccola Capri"
+},
+"Florence Cathedral":{
+"hu":"Firenzei dóm",
+"k":"firenzei dóm Santa Maria del Fiore"
+},
+"Leaning Tower of Pisa":{
+"hu":"Pisai ferde torony",
+"k":"pisai ferde torony"
+},
+"San Gimignano":{
+"hu":"San Gimignano"
+},
+"Siena":{
+"hu":"Siena"
+},
+"Pienza":{
+"hu":"Pienza"
+},
+"Monteriggioni":{
+"hu":"Monteriggioni"
+},
+"Catinaccio / Rosengarten":{
+"hu":"Catinaccio Rózsakert-hegység"
+},
+"Sassolungo":{
+"hu":"Sassolungo",
+"k":"Sassolungo Langkofel"
+},
+"Seceda":{
+"hu":"Seceda",
+"k":"Seceda csúcs Puez-Odle"
+},
+"Marmolada":{
+"hu":"Marmolada",
+"k":"Marmolada gleccser"
+},
+"Tre Cime di Lavaredo":{
+"hu":"Tre Cime di Lavaredo",
+"k":"Három Csúcs Tre Cime"
+},
+"Lago di Braies":{
+"hu":"Braies-tó",
+"k":"Braies-tó Pragser Wildsee"
+},
+"Portovenere":{
+"hu":"Portovenere"
+},
+"Vernazza":{
+"hu":"Vernazza"
+},
+"Portofino":{
+"hu":"Portofino"
+},
+"Monterosso al Mare":{
+"hu":"Monterosso"
+},
+"Riomaggiore":{
+"hu":"Riomaggiore",
+"k":"Riomaggiore Cinque Terre"
+},
+"Matterhorn":{
+"hu":"Matterhorn",
+"k":"Matterhorn Cervino"
+},
+"Zermatt":{
+"hu":"Zermatt"
+},
+"Aletsch Glacier":{
+"hu":"Aletsch-gleccser"
+},
+"Jungfrau":{
+"hu":"Jungfrau"
+},
+"Eiger":{
+"hu":"Eiger"
+},
+"Interlaken":{
+"hu":"Interlaken"
+},
+"Rigi Kulm":{
+"hu":"Rigi"
+},
+"Chapel Bridge, Lucerne":{
+"hu":"Kápolna-híd Luzern"
+},
+"Pilatus":{
+"hu":"Pilatus",
+"k":"Pilatus hegy"
+},
+"Titlis":{
+"hu":"Titlis"
+},
+"Rütli Meadow":{
+"hu":"Rütli-rét"
+},
+"Dachstein":{
+"hu":"Dachstein",
+"k":"Dachstein gleccser"
+},
+"Hallstatt":{
+"hu":"Hallstatt"
+},
+"St. Wolfgang":{
+"hu":"Sankt Wolfgang"
+},
+"Mondsee":{
+"hu":"Mondsee"
+},
+"Hohensalzburg Fortress":{
+"hu":"Hohensalzburg vára",
+"k":"salzburgi vár Hohensalzburg"
+},
+"Herrenchiemsee Palace":{
+"hu":"Herrenchiemsee kastély"
+},
+"Kampenwand":{
+"hu":"Kampenwand"
+},
+"Eisriesenwelt":{
+"hu":"Eisriesenwelt",
+"k":"Eisriesenwelt jégbarlang"
+},
+"Grossglockner":{
+"hu":"Grossglockner"
+},
+"Zell am See":{
+"hu":"Zell am See"
+},
+"Wolfgangsee":{
+"hu":"Wolfgang-tó"
+},
+"Eiffel Tower":{
+"hu":"Eiffel-torony"
+},
+"Versailles":{
+"hu":"Versailles-i kastély"
+},
+"Château de Chambord":{
+"hu":"chambordi kastély"
+},
+"Château de Chenonceau":{
+"hu":"chenonceau-i kastély"
+},
+"Château d'Amboise":{
+"hu":"amboise-i kastély"
+},
+"Sacré-Cœur":{
+"hu":"Sacré-Cœur",
+"k":"Sacré-Cœur Montmartre"
+},
+"Notre-Dame de Paris":{
+"hu":"Notre-Dame",
+"k":"Notre-Dame párizsi székesegyház"
+},
+"Þingvellir":{
+"hu":"Thingvellir"
+},
+"Geysir":{
+"hu":"Geysir",
+"k":"Geysir gejzír"
+},
+"Gullfoss":{
+"hu":"Gullfoss",
+"k":"Gullfoss vízesés"
+},
+"Kerið":{
+"hu":"Kerið",
+"k":"Kerið kráter"
+},
+"Blue Lagoon":{
+"hu":"Kék Lagúna"
+},
+"Hallgrímskirkja":{
+"hu":"Hallgrímskirkja",
+"k":"Hallgrímskirkja templom Reykjavík"
+},
+"Milan Cathedral":{
+"hu":"Milánói dóm",
+"k":"milánói dóm Duomo"
+},
+"Isola San Giulio":{
+"hu":"San Giulio-sziget",
+"k":"San Giulio-sziget Orta-tó"
+},
+"Isola Bella":{
+"hu":"Isola Bella",
+"k":"Isola Bella Borromei-szigetek"
+},
+"Villa del Balbianello":{
+"hu":"Villa del Balbianello"
+},
+"Bellagio":{
+"hu":"Bellagio"
+},
+"Stresa":{
+"hu":"Stresa"
+},
+"Mount Etna":{
+"hu":"Etna vulkán"
+},
+"Taormina":{
+"hu":"Taormina"
+},
+"Ortygia, Syracuse":{
+"hu":"Ortygia Siracusa"
+},
+"Valley of the Temples, Agrigento":{
+"hu":"Templomok völgye, Agrigento",
+"k":"Templomok völgye Agrigento"
+},
+"Palermo Cathedral":{
+"hu":"palermói katedrális"
+},
+"Greek Theatre, Syracuse":{
+"hu":"Görög színház, Siracusa",
+"k":"görög színház Siracusa"
+},
+"Schönbrunn Palace":{
+"hu":"Schönbrunni kastély",
+"k":"schönbrunni kastély Bécs"
+},
+"St. Stephen's Cathedral":{
+"hu":"Szent István-székesegyház, Bécs",
+"k":"Szent István-dóm Bécs Stephansdom"
+},
+"Dürnstein":{
+"hu":"Dürnstein",
+"k":"Dürnstein Wachau"
+},
+"Melk Abbey":{
+"hu":"melki apátság"
+},
+"Kahlenberg":{
+"hu":"Kahlenberg"
+},
+"Hofburg":{
+"hu":"Hofburg"
+},
+"Neuschwanstein Castle":{
+"hu":"Neuschwanstein kastély"
+},
+"Wieskirche":{
+"hu":"Wieskirche"
+},
+"Linderhof Palace":{
+"hu":"Linderhof kastély"
+},
+"Zugspitze":{
+"hu":"Zugspitze"
+},
+"Munich Frauenkirche":{
+"hu":"müncheni Frauenkirche"
+},
+"Hohenschwangau Castle":{
+"hu":"Hohenschwangau kastély"
+},
+"Cologne Cathedral":{
+"hu":"kölni dóm"
+},
+"Deutsches Eck, Koblenz":{
+"hu":"Deutsches Eck, Koblenz",
+"k":"Deutsches Eck Koblenz"
+},
+"Marksburg":{
+"hu":"Marksburg",
+"k":"Marksburg vár"
+},
+"Loreley":{
+"hu":"Loreley",
+"k":"Loreley szikla"
+},
+"Rüdesheim am Rhein":{
+"hu":"Rüdesheim"
+},
+"Mainz Cathedral":{
+"hu":"mainzi dóm"
+},
+"Drachenfels":{
+"hu":"Drachenfels"
+},
+"Pont du Gard":{
+"hu":"Pont du Gard",
+"k":"Pont du Gard római vízvezeték"
+},
+"Palais des Papes, Avignon":{
+"hu":"Pápai palota, Avignon",
+"k":"Pápai palota Avignon"
+},
+"Gorges du Verdon":{
+"hu":"Verdon-szurdok"
+},
+"Cannes":{
+"hu":"Cannes"
+},
+"Monaco":{
+"hu":"Monaco",
+"k":"Monaco Monte-Carlo"
+},
+"Notre-Dame de la Garde":{
+"hu":"Notre-Dame de la Garde",
+"k":"Notre-Dame de la Garde Marseille"
+},
+"Cap Canaille":{
+"hu":"Cap Canaille"
+},
+"Arles Amphitheatre":{
+"hu":"arles-i amfiteátrum"
+},
+"Les Baux-de-Provence":{
+"hu":"Les Baux"
+},
+"Lake Annecy":{
+"hu":"Annecy-tó"
+},
+"Mont Blanc":{
+"hu":"Mont Blanc",
+"k":"Mont Blanc Fehér-hegy"
+},
+"Aiguille du Midi":{
+"hu":"Aiguille du Midi"
+},
+"Mer de Glace":{
+"hu":"Mer de Glace",
+"k":"Mer de Glace jégtenger gleccser"
+},
+"Chamonix":{
+"hu":"Chamonix"
+},
+"Honfleur":{
+"hu":"Honfleur"
+},
+"Arromanches":{
+"hu":"Arromanches"
+},
+"Omaha Beach":{
+"hu":"Omaha Beach",
+"k":"Omaha Beach normandiai partraszállás"
+},
+"Pointe du Hoc":{
+"hu":"Pointe du Hoc"
+},
+"Mont-Saint-Michel":{
+"hu":"Mont-Saint-Michel"
+},
+"Pegasus Bridge":{
+"hu":"Pegasus-híd"
+},
+"Seville Cathedral":{
+"hu":"sevillai katedrális"
+},
+"Mezquita, Córdoba":{
+"hu":"Córdobai mecset",
+"k":"córdobai mecset Mezquita"
+},
+"Alhambra":{
+"hu":"Alhambra",
+"k":"Alhambra Granada"
+},
+"Ronda":{
+"hu":"Ronda"
+},
+"Rock of Gibraltar":{
+"hu":"Gibraltári szikla"
+},
+"Giralda, Seville":{
+"hu":"Giralda Sevilla"
+},
+"Sagrada Família":{
+"hu":"Sagrada Família",
+"k":"Sagrada Família Barcelona"
+},
+"Montserrat":{
+"hu":"Montserrat",
+"k":"Montserrat kolostor"
+},
+"Dalí Theatre-Museum, Figueres":{
+"hu":"Dalí Színház-Múzeum, Figueres",
+"k":"Dalí Színház-Múzeum Figueres"
+},
+"Cap de Creus":{
+"hu":"Cap de Creus"
+},
+"Girona Cathedral":{
+"hu":"gironai katedrális"
+},
+"Park Güell":{
+"hu":"Park Güell",
+"k":"Park Güell Gaudí"
+},
+"Tower Bridge":{
+"hu":"Tower Bridge",
+"k":"Tower Bridge London"
+},
+"Houses of Parliament":{
+"hu":"Westminsteri-palota",
+"k":"parlament Big Ben Westminster"
+},
+"Windsor Castle":{
+"hu":"Windsori kastély"
+},
+"Wembley Stadium":{
+"hu":"Wembley stadion"
+},
+"St Paul's Cathedral":{
+"hu":"Szent Pál-székesegyház",
+"k":"Szent Pál-székesegyház London"
+},
+"Royal Observatory Greenwich":{
+"hu":"greenwichi csillagvizsgáló"
+},
+"London Eye":{
+"hu":"London Eye",
+"k":"London Eye óriáskerék"
+},
+"Buckingham Palace":{
+"hu":"Buckingham-palota"
+},
+"Glencoe":{
+"hu":"Glencoe",
+"k":"Glencoe völgy"
+},
+"Ben Nevis":{
+"hu":"Ben Nevis"
+},
+"Glenfinnan Viaduct":{
+"hu":"Glenfinnan-viadukt",
+"k":"Glenfinnan viadukt Harry Potter híd"
+},
+"Eilean Donan Castle":{
+"hu":"Eilean Donan vára",
+"k":"Eilean Donan vár"
+},
+"Urquhart Castle, Loch Ness":{
+"hu":"Urquhart vára, Loch Ness",
+"k":"Urquhart vár Loch Ness-i szörny"
+},
+"Stirling Castle":{
+"hu":"stirlingi vár"
+},
+"Loch Lomond (Luss)":{
+"hu":"Loch Lomond"
+},
+"Tintagel Castle":{
+"hu":"Tintagel vára",
+"k":"Tintagel vár Arthur király"
+},
+"Eden Project":{
+"hu":"Eden Project"
+},
+"St Michael's Mount":{
+"hu":"Szent Mihály-hegy",
+"k":"Szent Mihály-hegy Cornwall"
+},
+"Land's End":{
+"hu":"Land's End"
+},
+"St Ives":{
+"hu":"St Ives"
+},
+"Minack Theatre":{
+"hu":"Minack Színház"
+},
+"The Kelpies":{
+"hu":"Kelpie szobrok"
+},
+"Falkirk Wheel":{
+"hu":"Falkirk Wheel",
+"k":"Falkirk Wheel hajóemelő"
+},
+"Forth Bridge":{
+"hu":"Forth-híd"
+},
+"Edinburgh Castle":{
+"hu":"edinburghi vár"
+},
+"Arthur's Seat":{
+"hu":"Arthur's Seat"
+},
+"Trollstigen":{
+"hu":"Trollstigen",
+"k":"Trollstigen Trollok lépcsője"
+},
+"Geirangerfjord":{
+"hu":"Geiranger-fjord"
+},
+"Briksdalsbreen":{
+"hu":"Briksdal-gleccser"
+},
+"Flåm":{
+"hu":"Flåm"
+},
+"Santorini caldera":{
+"hu":"Szantorini kaldera"
+},
+"Portara, Naxos":{
+"hu":"Portara Naxosz"
+},
+"Delos":{
+"hu":"Délosz"
+},
+"Mykonos Town":{
+"hu":"Mikonosz"
+},
+"Acropolis":{
+"hu":"Akropolisz",
+"k":"Akropolisz Athén"
+},
+"Corinth Canal":{
+"hu":"Korinthoszi-csatorna"
+},
+"Mycenae":{
+"hu":"Mükéné"
+},
+"Epidaurus":{
+"hu":"Epidauroszi színház"
+},
+"Temple of Poseidon, Sounion":{
+"hu":"Poszeidón temploma, Szúnion",
+"k":"Poszeidón temploma Szúnion"
+},
+"Dubrovnik Old Town":{
+"hu":"Dubrovnik óváros"
+},
+"Hvar Town":{
+"hu":"Hvar"
+},
+"Diocletian's Palace, Split":{
+"hu":"Diocletianus-palota Split"
+},
+"Krka Waterfalls":{
+"hu":"Krka-vízesések"
+},
+"Mljet National Park":{
+"hu":"Mljet"
+},
+"Zlatni Rat, Brač":{
+"hu":"Zlatni Rat, Brač",
+"k":"Zlatni Rat Aranyszarv Brač"
+},
+"Karlštejn Castle":{
+"hu":"Karlštejn vár"
+},
+"St Barbara's Church, Kutná Hora":{
+"hu":"Szent Borbála-templom, Kutná Hora",
+"k":"Szent Borbála-templom Kutná Hora"
+},
+"Charles Bridge":{
+"hu":"Károly-híd Prága"
+},
+"Prague Castle":{
+"hu":"Prágai vár"
+},
+"Vyšehrad":{
+"hu":"Vyšehrad"
+},
+"Grossmünster, Zurich":{
+"hu":"Grossmünster Zürich"
+},
+"Rhine Falls":{
+"hu":"Rajnai-vízesés"
+},
+"Mainau Island":{
+"hu":"Mainau-sziget virágsziget"
+},
+"Säntis":{
+"hu":"Säntis"
+},
+"Lido di Venezia":{
+"hu":"Lido Velence"
+},
+"Chioggia":{
+"hu":"Chioggia"
+},
+"St Mark's Basilica":{
+"hu":"Szent Márk-bazilika",
+"k":"Szent Márk-bazilika Velence"
+},
+"Burano":{
+"hu":"Burano"
+},
+"Torcello":{
+"hu":"Torcello"
+},
+"Prato della Valle, Padua":{
+"hu":"Prato della Valle, Padova",
+"k":"Padova Prato della Valle"
+},
+"Murano":{
+"hu":"Murano",
+"k":"Murano üveg"
+},
+"Rialto Bridge":{
+"hu":"Rialto-híd"
+},
+"Verona Arena":{
+"hu":"Veronai Aréna",
+"k":"veronai Aréna Júlia"
+},
+"Monte Baldo":{
+"hu":"Monte Baldo"
+},
+"Riva del Garda":{
+"hu":"Riva del Garda"
+},
+"Salò":{
+"hu":"Salò"
+},
+"Sirmione":{
+"hu":"Sirmione"
+},
+"Scaliger Castle, Sirmione":{
+"hu":"Scaligeri-vár Sirmione"
+},
+"Wawel Castle":{
+"hu":"Wawel Krakkó"
+},
+"Wieliczka Salt Mine":{
+"hu":"wieliczkai sóbánya"
+},
+"Niepołomice Castle":{
+"hu":"Niepołomice vár"
+},
+"Giewont":{
+"hu":"Giewont"
+},
+"Zakopane":{
+"hu":"Zakopane",
+"k":"Zakopane Tátra"
+},
+"Gamla Stan":{
+"hu":"Gamla Stan",
+"k":"Gamla Stan Stockholm óváros"
+},
+"Vasa Museum":{
+"hu":"Vasa Múzeum"
+},
+"Sandhamn":{
+"hu":"Sandhamn"
+},
+"Vaxholm Fortress":{
+"hu":"Vaxholm erőd"
+},
+"Drottningholm Palace":{
+"hu":"Drottningholm kastély"
+},
+"Øresund Bridge":{
+"hu":"Öresund-híd"
+},
+"Kronborg Castle":{
+"hu":"Kronborg-kastély",
+"k":"Kronborg Hamlet kastély"
+},
+"The Little Mermaid":{
+"hu":"A kis hableány",
+"k":"Kis hableány Koppenhága"
+},
+"Møns Klint":{
+"hu":"Møns Klint",
+"k":"Møns Klint krétasziklák"
+},
+"Roskilde Cathedral":{
+"hu":"roskildei dóm"
+},
+"Nyhavn":{
+"hu":"Nyhavn"
+},
+"Helsinki Cathedral":{
+"hu":"helsinki székesegyház"
+},
+"Suomenlinna":{
+"hu":"Suomenlinna",
+"k":"Suomenlinna erőd"
+},
+"Porvoo Old Town":{
+"hu":"Porvoo"
+},
+"Temppeliaukio Church":{
+"hu":"Sziklatemplom Helsinki"
+},
+"Å":{
+"hu":"Å",
+"k":"Å Lofoten"
+},
+"Reine":{
+"hu":"Reine",
+"k":"Reine Lofoten"
+},
+"Hamnøy":{
+"hu":"Hamnøy"
+},
+"Henningsvær":{
+"hu":"Henningsvær"
+},
+"Svolvær":{
+"hu":"Svolvær"
+},
+"Ljubljana Castle":{
+"hu":"ljubljanai vár"
+},
+"Lake Bled":{
+"hu":"Bledi-tó"
+},
+"Kranj":{
+"hu":"Kranj"
+},
+"Predjama Castle":{
+"hu":"Predjama barlangvár"
+},
+"Triglav":{
+"hu":"Triglav"
+},
+"Dingli Cliffs":{
+"hu":"Dingli-sziklák Málta"
+},
+"Dwejra":{
+"hu":"Dwejra",
+"k":"Dwejra Azúr-ablak Gozo"
+},
+"Ġgantija Temples":{
+"hu":"Ġgantija templomai",
+"k":"Ggantija templom Gozo"
+},
+"Valletta":{
+"hu":"Valletta"
+},
+"Mdina":{
+"hu":"Mdina"
+},
+"Cisnădie":{
+"hu":"Nagydisznód"
+},
+"Bâlea Lake":{
+"hu":"Bâlea-tó Fogarasi-havasok"
+},
+"Sibiu Council Tower":{
+"hu":"Nagyszeben Tanácstorony"
+},
+"Bran Castle":{
+"hu":"Törcsvári kastély",
+"k":"Törcsvári kastély Drakula"
+},
+"Peleș Castle":{
+"hu":"Peleș-kastély Sinaia"
+},
+"Black Church, Brașov":{
+"hu":"Fekete templom, Brassó",
+"k":"Fekete templom Brassó"
+},
+"Skadar Lake":{
+"hu":"Shkodra-tó Szkadari-tó"
+},
+"Sveti Stefan":{
+"hu":"Sveti Stefan"
+},
+"Bay of Kotor":{
+"hu":"Kotori-öböl"
+},
+"Durmitor (Bobotov Kuk)":{
+"hu":"Durmitor"
+},
+"Đurđevića Tara Bridge":{
+"hu":"Tara-híd"
+},
+"Amsterdam Canal Ring":{
+"hu":"Amszterdam csatornagyűrű"
+},
+"Zandvoort Beach":{
+"hu":"Zandvoort"
+},
+"Keukenhof":{
+"hu":"Keukenhof",
+"k":"Keukenhof tulipán"
+},
+"Kinderdijk":{
+"hu":"Kinderdijk",
+"k":"Kinderdijk szélmalmok"
+},
+"Oosterschelde Barrier":{
+"hu":"Oosterschelde-gát",
+"k":"Oosterschelde vihar-gát Deltaművek"
+},
+"Lion's Mound, Waterloo":{
+"hu":"Waterlooi Oroszlán-domb",
+"k":"Waterloo oroszlán dombja"
+},
+"Brussels Grand-Place":{
+"hu":"Grand-Place, Brüsszel",
+"k":"Brüsszel Grand-Place Nagy tér"
+},
+"Atomium":{
+"hu":"Atomium"
+},
+"Menin Gate, Ypres":{
+"hu":"Menin-kapu Ypres"
+},
+"Belfry of Bruges":{
+"hu":"Brugge harangtorony"
+},
+"Gravensteen, Ghent":{
+"hu":"Gravensteen Gent"
+},
+"Kežmarok Castle":{
+"hu":"Késmárki vár"
+},
+"Lomnický štít":{
+"hu":"Lomnici-csúcs"
+},
+"Gerlach Peak":{
+"hu":"Gerlachfalvi-csúcs"
+},
+"Štrbské Pleso":{
+"hu":"Csorba-tó"
+},
+"Spiš Castle":{
+"hu":"Szepesi vár"
+},
+"Pancharevo Lake":{
+"hu":"Pancsarevo-tó"
+},
+"Cherni Vrah":{
+"hu":"Cserni Vrah",
+"k":"Vitosa Cserni Vrah"
+},
+"Boyana Church":{
+"hu":"Bojana-templom"
+},
+"Alexander Nevsky Cathedral":{
+"hu":"Alekszandr Nyevszkij-székesegyház",
+"k":"Alekszandr Nyevszkij-székesegyház Szófia"
+},
+"Musala":{
+"hu":"Musala"
+},
+"Rila Monastery":{
+"hu":"Rilai kolostor"
+},
+"Motovun":{
+"hu":"Motovun"
+},
+"Rovinj":{
+"hu":"Rovinj"
+},
+"Brijuni":{
+"hu":"Brijuni-szigetek"
+},
+"Pula Arena":{
+"hu":"pulai amfiteátrum"
+},
+"Bunratty Castle":{
+"hu":"Bunratty vár"
+},
+"Cliffs of Moher":{
+"hu":"Moheri-sziklák"
+},
+"Kilrush Marina":{
+"hu":"Kilrush"
+},
+"Dún Aonghasa":{
+"hu":"Dún Aonghasa",
+"k":"Dún Aonghasa Aran-szigetek"
+},
+"Poulnabrone Dolmen":{
+"hu":"Poulnabrone-dolmen",
+"k":"Poulnabrone dolmen Burren"
+},
+"Petra tou Romiou":{
+"hu":"Aphrodité sziklája",
+"k":"Aphrodité sziklája Ciprus"
+},
+"Kourion":{
+"hu":"Kourion"
+},
+"Tombs of the Kings, Paphos":{
+"hu":"Királysírok Páfosz"
+},
+"Blue Lagoon, Akamas":{
+"hu":"Kék Lagúna, Akamas",
+"k":"Kék Lagúna Akamas"
+},
+"Mount Olympus (Troodos)":{
+"hu":"Olümposz Troodosz"
+},
+"Vasco da Gama Bridge":{
+"hu":"Vasco da Gama-híd",
+"k":"Vasco da Gama-híd Lisszabon"
+},
+"Praça do Comércio":{
+"hu":"Praça do Comércio",
+"k":"Kereskedelmi tér Lisszabon"
+},
+"Cristo Rei":{
+"hu":"Cristo Rei",
+"k":"Cristo Rei Krisztus-szobor Lisszabon"
+},
+"25 de Abril Bridge":{
+"hu":"Április 25. híd",
+"k":"Április 25. híd Lisszabon"
+},
+"Jerónimos Monastery":{
+"hu":"Jerónimos-kolostor"
+},
+"Belém Tower":{
+"hu":"Belémi torony"
+},
+"Cascais":{
+"hu":"Cascais"
+},
+"Cabo da Roca":{
+"hu":"Cabo da Roca",
+"k":"Cabo da Roca Európa legnyugatibb pontja"
+},
+"Pena Palace":{
+"hu":"Pena-palota Sintra"
+},
+"Sintra National Palace":{
+"hu":"Sintrai Nemzeti Palota"
+},
+"Ponta da Piedade":{
+"hu":"Ponta da Piedade",
+"k":"Ponta da Piedade Lagos"
+},
+"Benagil Cave":{
+"hu":"Benagili barlang"
+},
+"Praia da Marinha":{
+"hu":"Praia da Marinha"
+},
+"Albufeira":{
+"hu":"Albufeira"
+},
+"Lagos":{
+"hu":"Lagos",
+"k":"Lagos Algarve"
+},
+"Cape St Vincent Lighthouse":{
+"hu":"Szent Vince-fok világítótornya",
+"k":"Szent Vince-fok világítótorony Sagres"
+},
+"Ria Formosa":{
+"hu":"Ria Formosa",
+"k":"Ria Formosa lagúna"
+},
+"Büyükada":{
+"hu":"Büyükada",
+"k":"Büyükada Hercegek-szigetei"
+},
+"Bosphorus Bridge":{
+"hu":"Boszporusz-híd"
+},
+"Dolmabahçe Palace":{
+"hu":"Dolmabahçe-palota"
+},
+"Galata Tower":{
+"hu":"Galata-torony"
+},
+"Hagia Sophia":{
+"hu":"Hagia Sophia",
+"k":"Hagia Sophia Ayasofya Szent Zsófia"
+},
+"Fatih Sultan Mehmet Bridge":{
+"hu":"Fatih Szultán Mehmed-híd"
+},
+"Uçhisar Castle":{
+"hu":"Uçhisar vár"
+},
+"Göreme":{
+"hu":"Göreme"
+},
+"Ürgüp":{
+"hu":"Ürgüp"
+},
+"Love Valley":{
+"hu":"Szerelem-völgy Kappadókia"
+},
+"Derinkuyu Underground City":{
+"hu":"Derinkuyu földalatti város"
+},
+"Mount Erciyes":{
+"hu":"Erciyes-hegy"
+},
+"Avanos":{
+"hu":"Avanos"
+},
+"Sa Calobra":{
+"hu":"Sa Calobra"
+},
+"Sóller":{
+"hu":"Sóller"
+},
+"Valldemossa":{
+"hu":"Valldemossa"
+},
+"Palma Cathedral":{
+"hu":"palmai katedrális"
+},
+"Pollença":{
+"hu":"Pollença"
+},
+"Alcúdia":{
+"hu":"Alcúdia"
+},
+"Cap de Formentor":{
+"hu":"Formentor-fok"
+},
+"Knossos Palace":{
+"hu":"Knósszoszi palota",
+"k":"Knósszoszi palota Kréta"
+},
+"Phaistos":{
+"hu":"Phaisztosz"
+},
+"Matala":{
+"hu":"Matala"
+},
+"Mount Ida":{
+"hu":"Ida-hegy"
+},
+"Samaria Gorge":{
+"hu":"Szamaria-szurdok"
+},
+"Elafonisi Beach":{
+"hu":"Elafonisi"
+},
+"Balos Lagoon":{
+"hu":"Balosz-lagúna"
+},
+"Chania Old Port":{
+"hu":"Hanya régi kikötője",
+"k":"Hanya régi kikötő"
+},
+"Spinalonga":{
+"hu":"Spinalonga"
+},
+"Vai Palm Beach":{
+"hu":"Vai pálmaliget"
+},
+"Zakros":{
+"hu":"Zakrosz"
+},
+"Chrissi Island":{
+"hu":"Chrissi-sziget"
+},
+"Berlin Victory Column":{
+"hu":"Berlini Győzelmi oszlop",
+"k":"Siegessäule Győzelmi oszlop Berlin"
+},
+"Brandenburg Gate":{
+"hu":"Brandenburgi kapu"
+},
+"Berlin TV Tower":{
+"hu":"Berlini tévétorony",
+"k":"Berlini tévétorony Fernsehturm"
+},
+"East Side Gallery":{
+"hu":"East Side Gallery",
+"k":"East Side Gallery Berlini fal"
+},
+"Tempelhof Field":{
+"hu":"Tempelhof repülőtér"
+},
+"Sanssouci Palace":{
+"hu":"Sanssouci Potsdam"
+},
+"Charlottenburg Palace":{
+"hu":"Charlottenburg-palota"
+},
+"Müggelsee":{
+"hu":"Müggel-tó"
+},
+"Tórshavn":{
+"hu":"Tórshavn"
+},
+"Saksun":{
+"hu":"Saksun"
+},
+"Múlafossur Waterfall":{
+"hu":"Múlafossur-vízesés",
+"k":"Múlafossur vízesés Gásadalur"
+},
+"Kallur Lighthouse":{
+"hu":"Kallur világítótornya",
+"k":"Kallur világítótorony Kalsoy"
+},
+"Vestmanna Bird Cliffs":{
+"hu":"Vestmanna madárszirtek"
+},
+"Saint-Malo":{
+"hu":"Saint-Malo"
+},
+"Fort La Latte":{
+"hu":"La Latte-erőd"
+},
+"Cap Fréhel":{
+"hu":"Cap Fréhel"
+},
+"Dinan":{
+"hu":"Dinan"
+},
+"Perros-Guirec":{
+"hu":"Perros-Guirec",
+"k":"Perros-Guirec Rózsaszín gránitpart"
+},
+"Brehat Island":{
+"hu":"Bréhat-sziget"
+},
+"Mont-Dol":{
+"hu":"Mont-Dol"
+},
+"Brooklyn Bridge":{
+"hu":"Brooklyn-híd"
+},
+"Statue of Liberty":{
+"hu":"Szabadság-szobor"
+},
+"One World Trade Center":{
+"hu":"One World Trade Center"
+},
+"Empire State Building":{
+"hu":"Empire State Building"
+},
+"Central Park":{
+"hu":"Central Park"
+},
+"Yankee Stadium":{
+"hu":"Yankee Stadion"
+},
+"Desert View Watchtower":{
+"hu":"Desert View őrtornya",
+"k":"Desert View őrtorony"
+},
+"Bright Angel Point":{
+"hu":"Bright Angel Point"
+},
+"Grand Canyon Village":{
+"hu":"Grand Canyon Village"
+},
+"Ocean Beach":{
+"hu":"Ocean Beach"
+},
+"Golden Gate Bridge":{
+"hu":"Golden Gate híd"
+},
+"Alcatraz Island":{
+"hu":"Alcatraz"
+},
+"Bay Bridge":{
+"hu":"Bay Bridge"
+},
+"Diamond Head":{
+"hu":"Diamond Head"
+},
+"Hanauma Bay":{
+"hu":"Hanauma-öböl"
+},
+"Makapuu Point Lighthouse":{
+"hu":"Makapuu világítótorony"
+},
+"Kualoa Ranch":{
+"hu":"Kualoa"
+},
+"Pearl Harbor":{
+"hu":"Pearl Harbor"
+},
+"Waimea Canyon":{
+"hu":"Waimea-kanyon"
+},
+"Kalalau Valley":{
+"hu":"Kalalau-völgy",
+"k":"Kalalau-völgy Na Pali"
+},
+"Hanalei Bay":{
+"hu":"Hanalei-öböl"
+},
+"Wailua Falls":{
+"hu":"Wailua-vízesés"
+},
+"Iao Valley":{
+"hu":"Iao-völgy"
+},
+"Lahaina":{
+"hu":"Lahaina"
+},
+"Molokini Crater":{
+"hu":"Molokini-kráter"
+},
+"Haleakala Crater":{
+"hu":"Haleakala-kráter"
+},
+"Hana":{
+"hu":"Hana"
+},
+"Kilauea Crater":{
+"hu":"Kilauea vulkán"
+},
+"Mauna Kea":{
+"hu":"Mauna Kea"
+},
+"Akaka Falls":{
+"hu":"Akaka-vízesés"
+},
+"Rainbow Falls":{
+"hu":"Szivárvány-vízesés Hilo"
+},
+"Kalaupapa":{
+"hu":"Kalaupapa",
+"k":"Kalaupapa Molokai"
+},
+"Lanai City":{
+"hu":"Lanai"
+},
+"Pisac":{
+"hu":"Pisac"
+},
+"Moray":{
+"hu":"Moray",
+"k":"Moray inka terasz"
+},
+"Sacsayhuamán":{
+"hu":"Sacsayhuamán",
+"k":"Sacsayhuamán Cusco"
+},
+"Ollantaytambo":{
+"hu":"Ollantaytambo"
+},
+"Machu Picchu":{
+"hu":"Machu Picchu"
+},
+"Maracanã Stadium":{
+"hu":"Maracanã stadion"
+},
+"Pedra da Gávea":{
+"hu":"Pedra da Gávea"
+},
+"Christ the Redeemer":{
+"hu":"Megváltó Krisztus-szobor",
+"k":"Megváltó Krisztus-szobor Corcovado"
+},
+"Copacabana":{
+"hu":"Copacabana"
+},
+"Sugarloaf Mountain":{
+"hu":"Cukorsüveg-hegy",
+"k":"Cukorsüveg-hegy Pão de Açúcar"
+},
+"Rio-Niterói Bridge":{
+"hu":"Rio-Niterói híd"
+},
+"Iguazu Falls":{
+"hu":"Iguazú-vízesés Iguaçu"
+},
+"Triple Frontier":{
+"hu":"Hármashatár"
+},
+"Itaipu Dam":{
+"hu":"Itaipu-gát"
+},
+"Robben Island":{
+"hu":"Robben-sziget Mandela"
+},
+"Cape Town Stadium":{
+"hu":"Fokvárosi stadion"
+},
+"Camps Bay":{
+"hu":"Camps Bay"
+},
+"Table Mountain":{
+"hu":"Table Mountain",
+"k":"Table Mountain Asztal-hegy"
+},
+"Chapman's Peak":{
+"hu":"Chapman's Peak"
+},
+"Boulders Beach":{
+"hu":"Boulders Beach",
+"k":"Boulders Beach pingvinek"
+},
+"Cape Point":{
+"hu":"Cape Point",
+"k":"Jó Remény foka Cape Point"
+},
+"Cairo Citadel":{
+"hu":"Kairói fellegvár",
+"k":"Kairói fellegvár Szaladin"
+},
+"Step Pyramid of Djoser":{
+"hu":"Dzsószer lépcsős piramisa",
+"k":"Dzsószer lépcsős piramisa Szakkara"
+},
+"Red Pyramid":{
+"hu":"Vörös piramis",
+"k":"Vörös piramis Dahsúr"
+},
+"Pyramids of Giza":{
+"hu":"Gízai piramisok",
+"k":"gízai piramisok Kheopsz Szfinx"
+},
+"Meidum Pyramid":{
+"hu":"meidumi piramis"
+},
+"Lake Qarun":{
+"hu":"Qarún-tó Fajjúm"
+},
+"Mount Meru":{
+"hu":"Meru-hegy"
+},
+"Amboseli National Park":{
+"hu":"Amboseli"
+},
+"Mount Kilimanjaro":{
+"hu":"Kilimandzsáró"
+},
+"Sydney Tower":{
+"hu":"Sydney-torony"
+},
+"Sydney Opera House":{
+"hu":"Sydney-i Operaház"
+},
+"Sydney Harbour Bridge":{
+"hu":"Sydney Harbour Bridge",
+"k":"Sydney Harbour Bridge Vaskarika"
+},
+"Manly Beach":{
+"hu":"Manly Beach"
+},
+"Sydney Heads":{
+"hu":"Sydney Heads"
+},
+"Bondi Beach":{
+"hu":"Bondi-part"
+},
+"Heart Reef":{
+"hu":"Szív-zátony"
+},
+"Whitehaven Beach":{
+"hu":"Whitehaven-part Whitsunday"
+},
+"The Remarkables":{
+"hu":"Remarkables hegység"
+},
+"Lake Wakatipu":{
+"hu":"Wakatipu-tó"
+},
+"Mitre Peak":{
+"hu":"Mitre-csúcs",
+"k":"Mitre-csúcs Milford Sound"
+},
+"Rainbow Bridge":{
+"hu":"Szivárványhíd Tokió"
+},
+"Tokyo Tower":{
+"hu":"Tokyo Tower"
+},
+"Meiji Shrine":{
+"hu":"Meidzsi szentély"
+},
+"Senso-ji Temple":{
+"hu":"Szenszódzsi",
+"k":"Szenszódzsi templom Asakusa"
+},
+"Tokyo Skytree":{
+"hu":"Tokyo Skytree"
+},
+"Tokyo Disneyland":{
+"hu":"Tokyo Disneyland"
+},
+"Lake Kawaguchi":{
+"hu":"Kavagucsi-tó"
+},
+"Mount Fuji":{
+"hu":"Fudzsi-hegy Fuji"
+},
+"Lake Ashi":{
+"hu":"Asi-tó Hakone"
+},
+"Yokohama Landmark Tower":{
+"hu":"Yokohama Landmark Tower"
+},
+"Dubai Marina":{
+"hu":"Dubai Marina"
+},
+"Palm Jebel Ali":{
+"hu":"Palm Jebel Ali"
+},
+"Palm Jumeirah":{
+"hu":"Palm Jumeirah",
+"k":"Palm Jumeirah pálma-sziget"
+},
+"Burj Al Arab":{
+"hu":"Burdzs al-Arab",
+"k":"Burdzs al-Arab vitorlás szálloda"
+},
+"Burj Khalifa":{
+"hu":"Burdzs Kalifa"
+},
+"Tsing Ma Bridge":{
+"hu":"Tsing Ma híd"
+},
+"Victoria Harbour":{
+"hu":"Victoria-kikötő"
+},
+"Victoria Peak":{
+"hu":"Victoria-csúcs"
+},
+"Tian Tan Buddha":{
+"hu":"Tian Tan Buddha",
+"k":"Tian Tan Buddha Nagy Buddha Lantau"
+},
+"Oxbow Bend":{
+"hu":"Oxbow Bend"
+},
+"Jackson Lake":{
+"hu":"Jackson-tó"
+},
+"Jenny Lake":{
+"hu":"Jenny-tó"
+},
+"Grand Teton":{
+"hu":"Grand Teton"
+},
+"Yellowstone Lake":{
+"hu":"Yellowstone-tó"
+},
+"Yellowstone Falls":{
+"hu":"Yellowstone-vízesés"
+},
+"Grand Prismatic Spring":{
+"hu":"Grand Prismatic Spring",
+"k":"Grand Prismatic Spring szivárványos forrás"
+},
+"Old Faithful":{
+"hu":"Old Faithful",
+"k":"Old Faithful gejzír"
+},
+"Hoover Dam":{
+"hu":"Hoover-gát"
+},
+"Las Vegas Strip":{
+"hu":"Las Vegas Strip"
+},
+"Red Rock Canyon":{
+"hu":"Red Rock-kanyon"
+},
+"Valley of Fire":{
+"hu":"Valley of Fire",
+"k":"Tűz völgye Valley of Fire"
+},
+"Lake Mead":{
+"hu":"Mead-tó"
+},
+"Glacier Point":{
+"hu":"Glacier Point"
+},
+"Half Dome":{
+"hu":"Half Dome"
+},
+"Tuolumne Meadows":{
+"hu":"Tuolumne Meadows"
+},
+"Yosemite Falls":{
+"hu":"Yosemite-vízesés"
+},
+"El Capitan":{
+"hu":"El Capitan"
+},
+"Mount Rundle":{
+"hu":"Rundle-hegy"
+},
+"Banff":{
+"hu":"Banff"
+},
+"Moraine Lake":{
+"hu":"Moraine-tó"
+},
+"Lake Louise":{
+"hu":"Lake Louise",
+"k":"Lake Louise Louise-tó"
+},
+"Peyto Lake":{
+"hu":"Peyto-tó"
+},
+"Isla Mujeres":{
+"hu":"Isla Mujeres"
+},
+"Cancún Hotel Zone":{
+"hu":"Cancún szállodasor"
+},
+"Tulum":{
+"hu":"Tulum"
+},
+"Cobá":{
+"hu":"Cobá"
+},
+"Chichén Itzá":{
+"hu":"Chichén Itzá",
+"k":"Chichén Itzá Kukulkán piramis"
+},
+"Lake Pehoé":{
+"hu":"Pehoé-tó"
+},
+"Cuernos del Paine":{
+"hu":"Cuernos del Paine",
+"k":"Cuernos del Paine Szarvak"
+},
+"Grey Glacier":{
+"hu":"Grey-gleccser"
+},
+"Torres del Paine":{
+"hu":"Torres del Paine"
+},
+"Upsala Glacier":{
+"hu":"Upsala-gleccser"
+},
+"Perito Moreno Glacier":{
+"hu":"Perito Moreno-gleccser"
+},
+"Lago Argentino":{
+"hu":"Lago Argentino"
+},
+"Lake Viedma":{
+"hu":"Viedma-tó"
+},
+"Fitz Roy":{
+"hu":"Fitz Roy"
+},
+"Cerro Torre":{
+"hu":"Cerro Torre"
+},
+"Daphne Major":{
+"hu":"Daphne Major",
+"k":"Daphne Major Darwin pintyek"
+},
+"Sullivan Bay":{
+"hu":"Sullivan-öböl lávamező"
+},
+"Pinnacle Rock":{
+"hu":"Pinnacle Rock",
+"k":"Pinnacle Rock Bartolomé"
+},
+"Puerto Ayora":{
+"hu":"Puerto Ayora"
+},
+"Isla Martín García":{
+"hu":"Martín García-sziget"
+},
+"Recoleta Cemetery":{
+"hu":"Recoletai temető",
+"k":"Recoleta temető Evita"
+},
+"Obelisco":{
+"hu":"Obeliszk",
+"k":"Obeliszk Buenos Aires"
+},
+"Puerto Madero":{
+"hu":"Puerto Madero"
+},
+"La Boca":{
+"hu":"La Boca",
+"k":"La Boca Caminito Bombonera"
+},
+"Koutoubia Mosque":{
+"hu":"Koutoubia-mecset Marrakesh"
+},
+"Oukaïmeden":{
+"hu":"Oukaïmeden"
+},
+"Imlil":{
+"hu":"Imlil"
+},
+"Toubkal":{
+"hu":"Toubkal"
+},
+"Aït Benhaddou":{
+"hu":"Aït Benhaddou"
+},
+"Batoka Gorge":{
+"hu":"Batoka-szurdok"
+},
+"Victoria Falls":{
+"hu":"Viktória-vízesés Mosi-oa-Tunya"
+},
+"Zambezi River Islands":{
+"hu":"Zambezi-szigetek"
+},
+"Dendera Temple":{
+"hu":"Denderai templom",
+"k":"denderai templom Hathor"
+},
+"Valley of the Kings":{
+"hu":"Királyok völgye",
+"k":"Királyok völgye Luxor"
+},
+"Karnak Temple":{
+"hu":"karnaki templom"
+},
+"Colossi of Memnon":{
+"hu":"Memnón-kolosszusok"
+},
+"Abydos":{
+"hu":"Abüdosz"
+},
+"Lake Manyara":{
+"hu":"Manyara-tó"
+},
+"Ngorongoro Crater":{
+"hu":"Ngorongoro-kráter"
+},
+"Ol Doinyo Lengai":{
+"hu":"Ol Doinyo Lengai"
+},
+"Kata Tjuta":{
+"hu":"Kata Tjuta",
+"k":"Kata Tjuta Olgák"
+},
+"Mount Olga Lookout":{
+"hu":"Mount Olga kilátó"
+},
+"Uluru":{
+"hu":"Uluru",
+"k":"Uluru Ayers Rock"
+},
+"Kings Canyon":{
+"hu":"Kings Canyon"
+},
+"Mount Conner":{
+"hu":"Conner-hegy"
+},
+"Bells Beach":{
+"hu":"Bells Beach",
+"k":"Bells Beach szörf"
+},
+"Cape Otway Lighthouse":{
+"hu":"Cape Otway világítótornya",
+"k":"Cape Otway világítótorony"
+},
+"Twelve Apostles":{
+"hu":"Tizenkét Apostol",
+"k":"Tizenkét Apostol 12 Apostol sziklák"
+},
+"Loch Ard Gorge":{
+"hu":"Loch Ard-szurdok"
+},
+"Port Campbell":{
+"hu":"Port Campbell"
+},
+"Lake Pukaki":{
+"hu":"Pukaki-tó"
+},
+"Tasman Glacier":{
+"hu":"Tasman-gleccser"
+},
+"Aoraki / Mount Cook":{
+"hu":"Aoraki / Mount Cook",
+"k":"Aoraki Mount Cook"
+},
+"Hooker Glacier":{
+"hu":"Hooker-gleccser"
+},
+"Mount Otemanu":{
+"hu":"Otemanu-hegy"
+},
+"Matira Point":{
+"hu":"Matira-part"
+},
+"Taputapuatea Marae":{
+"hu":"Taputapuatea marae",
+"k":"Taputapuatea marae Raiatea"
+},
+"Maupiti":{
+"hu":"Maupiti"
+},
+"Uluwatu Temple":{
+"hu":"Uluwatu templom"
+},
+"Tanah Lot":{
+"hu":"Tanah Lot"
+},
+"Nusa Penida":{
+"hu":"Nusa Penida",
+"k":"Nusa Penida Kelingking"
+},
+"Tegallalang Rice Terraces":{
+"hu":"Tegallalang rizsteraszok"
+},
+"Mount Batur":{
+"hu":"Batur-hegy"
+},
+"Mount Agung":{
+"hu":"Agung-hegy"
+},
+"Marina Bay Sands":{
+"hu":"Marina Bay Sands"
+},
+"Sentosa":{
+"hu":"Sentosa"
+},
+"Jurong Lake Gardens":{
+"hu":"Jurong-tó"
+},
+"Pulau Ubin":{
+"hu":"Pulau Ubin"
+}
+}
+}
