@@ -520,7 +520,7 @@
 },
 "Mont Blanc":{
 "hu":"Mont Blanc",
-"k":"Mont Blanc Fehér-hegy"
+"k":"Mont Blanc Mont Blanc"
 },
 "Aiguille du Midi":{
 "hu":"Aiguille du Midi"
@@ -2801,6 +2801,102 @@
 "Franz Josef Glacier":{
 "hu":"Franz Josef-gleccser",
 "k":"Franz Josef-gleccser Franz Josef gleccser"
+},
+"Val Thorens":{
+"hu":"Val Thorens",
+"k":"Val Thorens Val Thorens síközpont"
+},
+"Grande Motte":{
+"hu":"Grande Motte",
+"k":"Grande Motte Grande Motte gleccser Tignes"
+},
+"Mont Pourri":{
+"hu":"Mont Pourri",
+"k":"Mont Pourri Pourri Vanoise"
+},
+"Lac de Roselend":{
+"hu":"Roselend-tó",
+"k":"Roselend-tó Roselend"
+},
+"Méribel":{
+"hu":"Méribel",
+"k":"Méribel Meribel"
+},
+"Mingulay":{
+"hu":"Mingulay",
+"k":"Mingulay Mingulay sziget"
+},
+"St Kilda":{
+"hu":"St Kilda",
+"k":"St Kilda St Kilda szigetek Hirta"
+},
+"Eaval":{
+"hu":"Eaval",
+"k":"Eaval Észak-Uist Eaval"
+},
+"The Quill":{
+"hu":"The Quill",
+"k":"The Quill Quill vulkán St Eustatius Statia"
+},
+"Mount Liamuiga":{
+"hu":"Mount Liamuiga",
+"k":"Mount Liamuiga Liamuiga vulkán St Kitts"
+},
+"Brimstone Hill Fortress":{
+"hu":"Brimstone Hill-erőd",
+"k":"Brimstone Hill-erőd Brimstone Hill St Kitts"
+},
+"Mount Scenery":{
+"hu":"Mount Scenery",
+"k":"Mount Scenery Saba vulkán"
+},
+"Gustavia":{
+"hu":"Gustavia",
+"k":"Gustavia Gustavia St Barth főváros"
+},
+"Île Fourchue":{
+"hu":"Île Fourchue",
+"k":"Île Fourchue Fourchue sziget"
+},
+"Maho Beach":{
+"hu":"Maho Beach",
+"k":"Maho Beach Maho strand repülők Sint Maarten"
+},
+"Shoal Bay":{
+"hu":"Shoal Bay",
+"k":"Shoal Bay Anguilla Shoal Bay strand"
+},
+"Kennecott Mine":{
+"hu":"Kennecott bánya",
+"k":"Kennecott bánya Kennecott kísértetváros McCarthy"
+},
+"Mount Blackburn":{
+"hu":"Mount Blackburn",
+"k":"Mount Blackburn Blackburn vulkán Wrangell"
+},
+"Mount Wrangell":{
+"hu":"Mount Wrangell",
+"k":"Mount Wrangell Wrangell vulkán"
+},
+"Chitina":{
+"hu":"Chitina",
+"k":"Chitina Chitina Copper River"
+},
+"Lizard Head":{
+"hu":"Lizard Head",
+"k":"Lizard Head Lizard Head hágó Telluride"
+},
+"Silverton":{
+"hu":"Silverton",
+"k":"Silverton Silverton bányaváros"
+},
+"Ouray":{
+"hu":"Ouray",
+"k":"Ouray Ouray Amerika Svájca"
+},
+"Mount Sneffels":{
+"hu":"Mount Sneffels",
+"k":"Mount Sneffels Sneffels"
 }
 }
 }

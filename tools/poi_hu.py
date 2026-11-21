@@ -96,7 +96,8 @@ HU = {
 try:
     from poi_r3 import NEW as _N3
     from poi_r4 import NEW as _N4
-    for _k, (_h, _x) in list(_N3.items()) + list(_N4.items()):
+    from poi_r5 import NEW as _N5
+    for _k, (_h, _x) in list(_N3.items()) + list(_N4.items()) + list(_N5.items()):
         HU[_k] = (_h + " " + _x).strip()
 except ImportError:
     pass

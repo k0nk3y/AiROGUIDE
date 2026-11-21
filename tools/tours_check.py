@@ -3,7 +3,7 @@
 Hasznalat: python3 tools/tours_check.py [tura-id ...]   (alapbol az osszes)"""
 import gzip, json, math, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ISO = {"South Korea": "KR", "Bhutan": "BT", "Sri Lanka": "LK", "Bolivia": "BO", "Venezuela": "VE", "Mauritius": "MU", "Hungary": "HU", "Italy": "IT", "Switzerland": "CH", "Austria": "AT", "France": "FR", "Iceland": "IS", "India": "IN", "Nepal": "NP", "Cambodia": "KH", "Myanmar": "MM",
+ISO = {"Caribbean Netherlands": "BQ", "Saint Barthélemy": "BL", "South Korea": "KR", "Bhutan": "BT", "Sri Lanka": "LK", "Bolivia": "BO", "Venezuela": "VE", "Mauritius": "MU", "Hungary": "HU", "Italy": "IT", "Switzerland": "CH", "Austria": "AT", "France": "FR", "Iceland": "IS", "India": "IN", "Nepal": "NP", "Cambodia": "KH", "Myanmar": "MM",
        "Germany": "DE", "Spain": "ES", "Portugal": "PT", "United Kingdom": "GB", "Ireland": "IE", "Norway": "NO", "Greece": "GR", "Croatia": "HR", "Czechia": "CZ", "Poland": "PL", "Turkey": "TR", "Sweden": "SE", "Denmark": "DK", "Finland": "FI", "Slovenia": "SI", "Malta": "MT", "Romania": "RO", "Montenegro": "ME", "Netherlands": "NL", "Belgium": "BE", "Slovakia": "SK", "Bulgaria": "BG", "Cyprus": "CY", "Faroe Islands": "FO", "United States": "US", "Peru": "PE", "Brazil": "BR", "South Africa": "ZA", "Egypt": "EG", "Tanzania": "TZ", "Australia": "AU", "New Zealand": "NZ", "Japan": "JP", "United Arab Emirates": "AE", "Hong Kong": "HK", "Canada": "CA", "Mexico": "MX", "Argentina": "AR", "Chile": "CL", "Ecuador": "EC", "Morocco": "MA", "Zimbabwe": "ZW", "French Polynesia": "PF", "Indonesia": "ID", "Singapore": "SG"}
 
 

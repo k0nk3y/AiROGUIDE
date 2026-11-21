@@ -3151,7 +3151,7 @@
      6.8694
     ]
    ],
-   "kw": "Annecy-tó Mont Blanc Fehér-hegy Aiguille du Midi Mer de Glace jégtenger gleccser Chamonix",
+   "kw": "Annecy-tó Mont Blanc Mont Blanc Aiguille du Midi Mer de Glace jégtenger gleccser Chamonix",
    "img": "Mont Blanc"
   },
   {
@@ -13120,7 +13120,7 @@
    ],
    "pois": [],
    "kw": "Key Biscayne világítótorony Cape Florida Light Key Largo Key Largo Seven Mile Bridge Hétmérföldes híd Florida Keys Key West Old Town Key West óváros Marquesas Keys Marquesas Fort Jefferson Dry Tortugas erőd",
-   "img": "Seven Mile Bridge",
+   "img": "Southernmost Point Buoy|Bahia Honda State Park|Seven Mile Bridge",
    "imgx": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NjAgMzYwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBzbGljZSI+CjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmM2Q5YSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzI3ZTBmZiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjM2MCIgZmlsbD0iI2ZmM2Q5YSIgb3BhY2l0eT0iLjEwIi8+CjxnIGZvbnQtZmFtaWx5PSInQXJpYWwgQmxhY2snLEltcGFjdCxBcmlhbCxzYW5zLXNlcmlmIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtd2VpZ2h0PSI5MDAiIHBhaW50LW9yZGVyPSJzdHJva2UiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8dGV4dCB4PSIyMCIgeT0iMTMyIiBmb250LXNpemU9IjM0IiBmaWxsPSIjZmY3YWMwIiBzdHJva2U9IiMyYTBiNGQiIHN0cm9rZS13aWR0aD0iNyIgbGV0dGVyLXNwYWNpbmc9IjEiPk5PVCBWSUNFIENJVFkuPC90ZXh0Pgo8dGV4dCB4PSIyMiIgeT0iMTY2IiBmb250LXNpemU9IjI0IiBmaWxsPSIjN2ZmNWZmIiBzdHJva2U9IiMyYTBiNGQiIHN0cm9rZS13aWR0aD0iNiIgbGV0dGVyLXNwYWNpbmc9IjMiPihZRVQuKTwvdGV4dD48L2c+CjxyZWN0IHg9IjIyIiB5PSIxNzgiIHdpZHRoPSIyMTAiIGhlaWdodD0iNCIgcng9IjIiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg=="
   },
   {
@@ -16121,6 +16121,536 @@
    "new": true,
    "kw": "Wanaka-tó Wanaka Mount Aspiring Aspiring Fox-gleccser Fox gleccser Franz Josef-gleccser Franz Josef gleccser",
    "img": "Queenstown, New Zealand|The Remarkables"
+  },
+  {
+   "id": "courchevel",
+   "continent": "EU",
+   "country": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "name": {
+    "en": "Courchevel and the Savoie Alps",
+    "hu": "Courchevel és a savoyai Alpok"
+   },
+   "main": {
+    "en": "Courchevel Altiport",
+    "hu": "Courchevel altiport",
+    "lat": 45.3975,
+    "lon": 6.635
+   },
+   "tags": [
+    "mountain",
+    "stol"
+   ],
+   "desc": {
+    "en": "The most famous altiport in the world: a 537 m runway with an 18.5 % slope, a hop away from Val Thorens, the Grande Motte glacier and Mont Blanc.",
+    "hu": "A világ leghíresebb altiportja: 537 méteres, 18,5 százalékos lejtésű pálya, karnyújtásnyira a Val Thorenstől, a Grande Motte gleccsertől és a Mont Blanctól."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 12000,
+     "stol": true,
+     "label": {
+      "en": "Three Valleys",
+      "hu": "Három völgy"
+     },
+     "desc": {
+      "en": "From the Courchevel altiport over Val Thorens, the Grande Motte glacier and Mont Pourri.",
+      "hu": "A courchevel-i altiportról Val Thorens, a Grande Motte gleccser és a Mont Pourri felett."
+     },
+     "pts": [
+      "LFLJ",
+      [
+       "Mont Pourri",
+       45.5,
+       6.819
+      ],
+      [
+       "Grande Motte",
+       45.4264,
+       6.9014
+      ],
+      [
+       "Val Thorens",
+       45.2979,
+       6.58
+      ],
+      [
+       "~",
+       45.3214,
+       6.5413
+      ],
+      "LFLJ"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 14000,
+     "stol": true,
+     "label": {
+      "en": "Mont Blanc round trip",
+      "hu": "Mont Blanc-kör"
+     },
+     "desc": {
+      "en": "About an hour: Val Thorens, the Grande Motte, Mont Blanc and the Roselend lake.",
+      "hu": "Kb. egy óra: Val Thorens, a Grande Motte, a Mont Blanc és a Roselend-tó."
+     },
+     "pts": [
+      "LFLJ",
+      [
+       "Lac de Roselend",
+       45.71,
+       6.65
+      ],
+      [
+       "Mont Blanc",
+       45.8326,
+       6.8652
+      ],
+      [
+       "~",
+       45.8132,
+       6.9289
+      ],
+      [
+       "Grande Motte",
+       45.4264,
+       6.9014
+      ],
+      [
+       "Val Thorens",
+       45.2979,
+       6.58
+      ],
+      [
+       "Méribel",
+       45.397,
+       6.565
+      ],
+      "LFLJ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Mont Pourri Pourri Vanoise Grande Motte Grande Motte gleccser Tignes Val Thorens Val Thorens síközpont Roselend-tó Roselend Mont Blanc Mont Blanc Méribel Meribel",
+   "img": "Courchevel Altiport|Courchevel"
+  },
+  {
+   "id": "barra-st-kilda",
+   "continent": "EU",
+   "country": {
+    "en": "United Kingdom",
+    "hu": "Egyesült Királyság"
+   },
+   "name": {
+    "en": "Barra and St Kilda",
+    "hu": "Barra és St Kilda"
+   },
+   "main": {
+    "en": "Traigh Mhòr beach",
+    "hu": "Traigh Mhòr strand",
+    "lat": 57.0228,
+    "lon": -7.443
+   },
+   "tags": [
+    "island",
+    "coast",
+    "unesco",
+    "stol"
+   ],
+   "desc": {
+    "en": "Land on the beach: the only airport in the world where the tide sets the schedule, with Mingulay's cliffs and the remote archipelago of St Kilda.",
+    "hu": "Leszállás a strandon: az egyetlen repülőtér a világon, ahol az apály-dagály szabja az órarendet, Mingulay sziklafalaival és a távoli St Kilda-szigetcsoporttal."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": true,
+     "label": {
+      "en": "St Kilda round trip",
+      "hu": "St Kilda-kör"
+     },
+     "desc": {
+      "en": "From the beach airport to Mingulay, out over the Atlantic to St Kilda and back via Eaval on North Uist.",
+      "hu": "A strandrepülőtérről Mingulay-hoz, az Atlanti-óceán felett St Kildára és vissza Észak-Uist Eaval-jánál át."
+     },
+     "pts": [
+      "EGPR",
+      [
+       "Mingulay",
+       56.804,
+       -7.637
+      ],
+      [
+       "~",
+       56.8036,
+       -7.748
+      ],
+      [
+       "St Kilda",
+       57.814,
+       -8.586
+      ],
+      [
+       "~",
+       57.8957,
+       -8.4536
+      ],
+      [
+       "Eaval",
+       57.6,
+       -7.17
+      ],
+      "EGPR"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Mingulay Mingulay sziget St Kilda St Kilda szigetek Hirta Eaval Észak-Uist Eaval",
+   "img": "Barra Airport|St Kilda, Scotland"
+  },
+  {
+   "id": "saba-statia",
+   "continent": "NA",
+   "country": {
+    "en": "Caribbean Netherlands",
+    "hu": "Karibi Hollandia"
+   },
+   "name": {
+    "en": "Saba, Statia and St Kitts",
+    "hu": "Saba, Statia és St Kitts"
+   },
+   "main": {
+    "en": "Mount Scenery",
+    "hu": "Mount Scenery",
+    "lat": 17.6347,
+    "lon": -63.2327
+   },
+   "tags": [
+    "island",
+    "volcano",
+    "stol"
+   ],
+   "desc": {
+    "en": "Takeoff from a 400 m runway on a cliff: the volcanic cones of Saba, The Quill on St Eustatius and Mount Liamuiga on St Kitts.",
+    "hu": "Felszállás egy sziklaperemen álló 400 méteres pályáról: Saba vulkáni kúpja, a Quill St Eustatiuson és a Mount Liamuiga St Kittsen."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": true,
+     "label": {
+      "en": "Three volcanoes",
+      "hu": "Három vulkán"
+     },
+     "desc": {
+      "en": "From Saba over St Eustatius and St Kitts and back past Brimstone Hill.",
+      "hu": "Sabáról St Eustatius és St Kitts felett, majd a Brimstone Hill mellett vissza."
+     },
+     "pts": [
+      "TNCS",
+      [
+       "Brimstone Hill Fortress",
+       17.349,
+       -62.87
+      ],
+      [
+       "Mount Liamuiga",
+       17.37,
+       -62.801
+      ],
+      [
+       "~",
+       17.4056,
+       -62.7953
+      ],
+      [
+       "The Quill",
+       17.477,
+       -62.961
+      ],
+      "TNCS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Brimstone Hill-erőd Brimstone Hill St Kitts Mount Liamuiga Liamuiga vulkán St Kitts The Quill Quill vulkán St Eustatius Statia",
+   "img": "Saba|Mount Scenery"
+  },
+  {
+   "id": "st-barth",
+   "continent": "NA",
+   "country": {
+    "en": "Saint Barthélemy",
+    "hu": "Saint-Barthélemy"
+   },
+   "name": {
+    "en": "St Barths and Maho Beach",
+    "hu": "St Barth és Maho Beach"
+   },
+   "main": {
+    "en": "Gustavia",
+    "hu": "Gustavia",
+    "lat": 17.896,
+    "lon": -62.85
+   },
+   "tags": [
+    "island",
+    "coast",
+    "stol"
+   ],
+   "desc": {
+    "en": "A famously steep approach over a hill, white-sand coves and the jets skimming the beach at Maho on neighbouring Sint Maarten.",
+    "hu": "Híresen meredek leszállás egy domb felett, fehér homokos öblök és a szomszédos Sint Maarten Maho strandja fölött suhanó utasszállítók."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 2000,
+     "stol": true,
+     "label": {
+      "en": "St Barths and Sint Maarten",
+      "hu": "St Barth és Sint Maarten"
+     },
+     "desc": {
+      "en": "Gustavia, the Île Fourchue, Maho Beach and Anguilla's Shoal Bay.",
+      "hu": "Gustavia, az Île Fourchue, a Maho Beach és Anguilla Shoal Bay-e."
+     },
+     "pts": [
+      "TFFJ",
+      [
+       "Gustavia",
+       17.896,
+       -62.85
+      ],
+      [
+       "Île Fourchue",
+       17.9,
+       -62.99
+      ],
+      [
+       "Maho Beach",
+       18.041,
+       -63.109
+      ],
+      [
+       "Shoal Bay",
+       18.215,
+       -63.01
+      ],
+      [
+       "~",
+       18.2144,
+       -62.9579
+      ],
+      "TFFJ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Gustavia Gustavia St Barth főváros Île Fourchue Fourchue sziget Maho Beach Maho strand repülők Sint Maarten Shoal Bay Anguilla Shoal Bay strand",
+   "img": "Saint Barthélemy|Gustavia, Saint Barthélemy"
+  },
+  {
+   "id": "mccarthy",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Wrangell Mountains from McCarthy",
+    "hu": "A Wrangell-hegység McCarthyból"
+   },
+   "main": {
+    "en": "Kennecott Mine",
+    "hu": "Kennecott bánya",
+    "lat": 61.4838,
+    "lon": -142.8886
+   },
+   "tags": [
+    "mountain",
+    "volcano",
+    "unesco",
+    "stol"
+   ],
+   "desc": {
+    "en": "A gravel strip at the end of the road in Alaska's largest national park: the ghost mine of Kennecott, huge glaciers and the volcano Mount Wrangell.",
+    "hu": "Kavicsos leszállópálya az alaszkai legnagyobb nemzeti park útjának végén: a Kennecott kísértetbánya, hatalmas gleccserek és a Wrangell vulkán."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 9000,
+     "stol": true,
+     "label": {
+      "en": "Blackburn loop",
+      "hu": "Blackburn-kör"
+     },
+     "desc": {
+      "en": "Over the Kennecott mine, Mount Blackburn and the Copper River at Chitina.",
+      "hu": "A Kennecott bánya, a Mount Blackburn és a chitinai Copper River felett."
+     },
+     "pts": [
+      "PAMX",
+      [
+       "Chitina",
+       61.523,
+       -144.44
+      ],
+      [
+       "~",
+       61.6298,
+       -144.4724
+      ],
+      [
+       "Mount Blackburn",
+       61.73,
+       -143.43
+      ],
+      [
+       "Kennecott Mine",
+       61.4838,
+       -142.8886
+      ],
+      "PAMX"
+     ]
+    },
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 12000,
+     "stol": true,
+     "label": {
+      "en": "Mount Wrangell",
+      "hu": "Mount Wrangell"
+     },
+     "desc": {
+      "en": "About an hour and a half: Kennecott, Mount Blackburn and the steaming volcano Mount Wrangell.",
+      "hu": "Kb. másfél óra: Kennecott, a Mount Blackburn és a gőzölgő Wrangell vulkán."
+     },
+     "pts": [
+      "PAMX",
+      [
+       "Chitina",
+       61.523,
+       -144.44
+      ],
+      [
+       "Mount Wrangell",
+       62.005,
+       -144.019
+      ],
+      [
+       "Mount Blackburn",
+       61.73,
+       -143.43
+      ],
+      [
+       "Kennecott Mine",
+       61.4838,
+       -142.8886
+      ],
+      "PAMX"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Chitina Chitina Copper River Mount Blackburn Blackburn vulkán Wrangell Kennecott bánya Kennecott kísértetváros McCarthy Mount Wrangell Wrangell vulkán",
+   "img": "Kennecott, Alaska|McCarthy, Alaska"
+  },
+  {
+   "id": "telluride",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Telluride and the San Juan Mountains",
+    "hu": "Telluride és a San Juan-hegység"
+   },
+   "main": {
+    "en": "Mount Sneffels",
+    "hu": "Mount Sneffels",
+    "lat": 38.0039,
+    "lon": -107.792
+   },
+   "tags": [
+    "mountain",
+    "stol"
+   ],
+   "desc": {
+    "en": "One of the highest airports in the US at 9,070 ft, on a mesa above the town, with fourteeners all around and the 'Switzerland of America' at Ouray.",
+    "hu": "Az Egyesült Államok egyik legmagasabban fekvő repülőtere, 2764 méteren, egy fennsík szélén a város fölött, körülötte tizennégyezresek és Ouray, „Amerika Svájca”."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 14500,
+     "stol": true,
+     "label": {
+      "en": "San Juan loop",
+      "hu": "San Juan-kör"
+     },
+     "desc": {
+      "en": "Over Lizard Head Pass, Silverton, Ouray and Mount Sneffels.",
+      "hu": "A Lizard Head-hágó, Silverton, Ouray és a Mount Sneffels felett."
+     },
+     "pts": [
+      "KTEX",
+      [
+       "Lizard Head",
+       37.8,
+       -107.917
+      ],
+      [
+       "Silverton",
+       37.812,
+       -107.664
+      ],
+      [
+       "Ouray",
+       38.0228,
+       -107.6714
+      ],
+      [
+       "Mount Sneffels",
+       38.0039,
+       -107.792
+      ],
+      "KTEX"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Lizard Head Lizard Head hágó Telluride Silverton Silverton bányaváros Ouray Ouray Amerika Svájca Mount Sneffels Sneffels",
+   "img": "Telluride, Colorado|Mount Sneffels"
   }
  ]
 }
