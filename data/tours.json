@@ -4747,65 +4747,6 @@
    },
    "variants": [
     {
-     "id": "city",
-     "kind": "loop",
-     "kt": 95,
-     "alt_ft": 1800,
-     "stol": false,
-     "label": {
-      "en": "Venice highlights",
-      "hu": "Velence látnivalói"
-     },
-     "desc": {
-      "en": "A short loop over Torcello, Burano, St Mark's, the Lido and Murano, circling the southern lagoon.",
-      "hu": "Rövid kör Torcello, Burano, a Szent Márk tér, a Lido és Murano felett, a déli lagúnát megkerülve."
-     },
-     "pts": [
-      "LIPZ",
-      [
-       "Torcello",
-       45.4975,
-       12.4177
-      ],
-      [
-       "Burano",
-       45.485,
-       12.417
-      ],
-      [
-       "St Mark's Basilica",
-       45.434,
-       12.3397
-      ],
-      [
-       "Lido di Venezia",
-       45.4033,
-       12.367
-      ],
-      [
-       "~",
-       45.3317,
-       12.3117
-      ],
-      [
-       "~",
-       45.36,
-       12.21
-      ],
-      [
-       "~",
-       45.44,
-       12.26
-      ],
-      [
-       "Murano",
-       45.459,
-       12.353
-      ],
-      "LIPZ"
-     ]
-    },
-    {
      "id": "lagoon",
      "kind": "loop",
      "kt": 100,
@@ -4857,16 +4798,16 @@
     {
      "id": "padua",
      "kind": "loop",
-     "kt": 110,
+     "kt": 105,
      "alt_ft": 2000,
      "stol": false,
      "label": {
-      "en": "Lagoon, Chioggia and Padua",
-      "hu": "Lagúna, Chioggia és Padova"
+      "en": "Venice, the lagoon and Padua",
+      "hu": "Velence, a lagúna és Padova"
      },
      "desc": {
-      "en": "About an hour: the lagoon, Chioggia and the Scrovegni city of Padua.",
-      "hu": "Kb. egy óra: lagúna, Chioggia és Padova."
+      "en": "About 40 minutes: Torcello, Burano, St Mark's and the Lido, then across the Brenta plain to Padua and back over Murano.",
+      "hu": "Kb. 40 perc: Torcello, Burano, Szent Márk tér és Lido, majd a Brenta-síkság felett Padovába, vissza Murano felett."
      },
      "pts": [
       "LIPZ",
@@ -4876,9 +4817,29 @@
        12.4177
       ],
       [
-       "Chioggia",
-       45.219,
-       12.278
+       "Burano",
+       45.485,
+       12.417
+      ],
+      [
+       "St Mark's Basilica",
+       45.434,
+       12.3397
+      ],
+      [
+       "Lido di Venezia",
+       45.4033,
+       12.367
+      ],
+      [
+       "~",
+       45.3317,
+       12.3117
+      ],
+      [
+       "~",
+       45.3,
+       12.15
       ],
       [
        "Prato della Valle, Padua",
@@ -4891,9 +4852,14 @@
        11.9038
       ],
       [
-       "St Mark's Basilica",
-       45.434,
-       12.3397
+       "~",
+       45.43,
+       12.22
+      ],
+      [
+       "Murano",
+       45.459,
+       12.353
       ],
       "LIPZ"
      ]
@@ -6770,6 +6736,2526 @@
      32.407
     ]
    ],
+   "new": true
+  },
+  {
+   "id": "lisbon-sintra",
+   "continent": "EU",
+   "country": {
+    "en": "Portugal",
+    "hu": "Portugália"
+   },
+   "name": {
+    "en": "Lisbon and Sintra",
+    "hu": "Lisszabon és Sintra"
+   },
+   "main": {
+    "en": "Belém Tower",
+    "hu": "Belémi torony",
+    "lat": 38.6916,
+    "lon": -9.216
+   },
+   "tags": [
+    "city",
+    "culture",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Lisbon on its seven hills, the Tagus and the fairytale palaces of Sintra, out to the Atlantic cliffs of Cabo da Roca.",
+    "hu": "Lisszabon hét dombja, a Tejo és Sintra mesebeli palotái, egészen a Cabo da Roca atlanti szikláiig."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Lisbon short",
+      "hu": "Lisszabon rövid"
+     },
+     "desc": {
+      "en": "Short loop over the Tagus: the 25 de Abril Bridge, Belém and the Jerónimos Monastery.",
+      "hu": "Rövid kör a Tejo felett: 25 de Abril híd, Belém és a Jerónimos-kolostor."
+     },
+     "pts": [
+      "LPPT",
+      [
+       "Vasco da Gama Bridge",
+       38.765,
+       -9.095
+      ],
+      [
+       "Praça do Comércio",
+       38.7075,
+       -9.1364
+      ],
+      [
+       "Cristo Rei",
+       38.6779,
+       -9.1712
+      ],
+      [
+       "25 de Abril Bridge",
+       38.6916,
+       -9.1771
+      ],
+      [
+       "Jerónimos Monastery",
+       38.6979,
+       -9.2068
+      ],
+      [
+       "Belém Tower",
+       38.6916,
+       -9.216
+      ],
+      [
+       "Cascais",
+       38.697,
+       -9.4215
+      ],
+      [
+       "~",
+       38.7366,
+       -9.4299
+      ],
+      "LPPT"
+     ]
+    },
+    {
+     "id": "sintra",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Lisbon, Sintra and Cabo da Roca",
+      "hu": "Lisszabon, Sintra és Cabo da Roca"
+     },
+     "desc": {
+      "en": "About an hour: Belém, Cascais, Cabo da Roca and the palaces of Sintra.",
+      "hu": "Kb. egy óra: Belém, Cascais, Cabo da Roca és a sintrai paloták."
+     },
+     "pts": [
+      "LPPT",
+      [
+       "Belém Tower",
+       38.6916,
+       -9.216
+      ],
+      [
+       "Cascais",
+       38.697,
+       -9.4215
+      ],
+      [
+       "Cabo da Roca",
+       38.7804,
+       -9.4986
+      ],
+      [
+       "~",
+       38.8131,
+       -9.4793
+      ],
+      [
+       "Pena Palace",
+       38.7876,
+       -9.3906
+      ],
+      [
+       "Sintra National Palace",
+       38.797,
+       -9.39
+      ],
+      "LPPT"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "algarve",
+   "continent": "EU",
+   "country": {
+    "en": "Portugal",
+    "hu": "Portugália"
+   },
+   "name": {
+    "en": "Algarve coast",
+    "hu": "Algarve-part"
+   },
+   "main": {
+    "en": "Benagil Cave",
+    "hu": "Benagili barlang",
+    "lat": 37.087,
+    "lon": -8.421
+   },
+   "tags": [
+    "coast",
+    "culture"
+   ],
+   "desc": {
+    "en": "Golden cliffs, sea caves and hidden beaches: Benagil, Lagos, Sagres and the Cape St Vincent lighthouse.",
+    "hu": "Aranyló sziklák, tengeri barlangok és rejtett strandok: Benagil, Lagos, Sagres és a Szent Vince-fok világítótornya."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Algarve short",
+      "hu": "Algarve rövid"
+     },
+     "desc": {
+      "en": "Short loop along the golden cliffs: Albufeira, Benagil and Carvoeiro.",
+      "hu": "Rövid kör az aranyló sziklák mentén: Albufeira, Benagil és Carvoeiro."
+     },
+     "pts": [
+      "LPFR",
+      [
+       "Ponta da Piedade",
+       37.079,
+       -8.67
+      ],
+      [
+       "~",
+       37.1287,
+       -8.6682
+      ],
+      [
+       "Benagil Cave",
+       37.087,
+       -8.421
+      ],
+      [
+       "Praia da Marinha",
+       37.09,
+       -8.413
+      ],
+      [
+       "Albufeira",
+       37.086,
+       -8.25
+      ],
+      "LPFR"
+     ]
+    },
+    {
+     "id": "sagres",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Algarve to Sagres",
+      "hu": "Algarve Sagresig"
+     },
+     "desc": {
+      "en": "About an hour: Faro lagoon, Benagil, Lagos and the Cape St Vincent lighthouse.",
+      "hu": "Kb. egy óra: Faro lagúna, Benagil, Lagos és a Szent Vince-fok világítótornya."
+     },
+     "pts": [
+      "LPFR",
+      [
+       "Benagil Cave",
+       37.087,
+       -8.421
+      ],
+      [
+       "Ponta da Piedade",
+       37.079,
+       -8.67
+      ],
+      [
+       "Lagos",
+       37.1028,
+       -8.673
+      ],
+      [
+       "Cape St Vincent Lighthouse",
+       37.023,
+       -8.9967
+      ],
+      [
+       "~",
+       36.9561,
+       -8.9848
+      ],
+      [
+       "Ria Formosa",
+       37.002,
+       -7.8
+      ],
+      [
+       "~",
+       37.038,
+       -7.7985
+      ],
+      "LPFR"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "istanbul",
+   "continent": "EU",
+   "country": {
+    "en": "Turkey",
+    "hu": "Törökország"
+   },
+   "name": {
+    "en": "Istanbul and the Bosphorus",
+    "hu": "Isztambul és a Boszporusz"
+   },
+   "main": {
+    "en": "Hagia Sophia",
+    "hu": "Hagia Sophia",
+    "lat": 41.0086,
+    "lon": 28.9802
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco",
+    "coast"
+   ],
+   "desc": {
+    "en": "Two continents in one flight: Hagia Sophia, the Blue Mosque, the Bosphorus bridges and the Golden Horn.",
+    "hu": "Két kontinens egyetlen repülésben: Hagia Sophia, Kék mecset, a Boszporusz hídjai és az Aranyszarv-öböl."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Istanbul short",
+      "hu": "Isztambul rövid"
+     },
+     "desc": {
+      "en": "Short loop: the Princes' Islands, the Bosphorus Bridge, Dolmabahçe, the Galata Tower and Hagia Sophia.",
+      "hu": "Rövid kör: a Hercegek-szigetei, a Boszporusz-híd, Dolmabahçe, a Galata-torony és a Hagia Sophia."
+     },
+     "pts": [
+      "LTBA",
+      [
+       "Büyükada",
+       40.8587,
+       29.1253
+      ],
+      [
+       "~",
+       40.8919,
+       29.1742
+      ],
+      [
+       "Bosphorus Bridge",
+       41.0452,
+       29.034
+      ],
+      [
+       "Dolmabahçe Palace",
+       41.0392,
+       29.0005
+      ],
+      [
+       "Galata Tower",
+       41.0256,
+       28.9744
+      ],
+      [
+       "Hagia Sophia",
+       41.0086,
+       28.9802
+      ],
+      "LTBA"
+     ]
+    },
+    {
+     "id": "bosphorus",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Old city and the Bosphorus",
+      "hu": "Óváros és a Boszporusz"
+     },
+     "desc": {
+      "en": "About an hour: the old city, the Galata Tower, Dolmabahçe and the three Bosphorus bridges.",
+      "hu": "Kb. egy óra: az óváros, a Galata-torony, Dolmabahçe és a Boszporusz három hídja."
+     },
+     "pts": [
+      "LTBA",
+      [
+       "Hagia Sophia",
+       41.0086,
+       28.9802
+      ],
+      [
+       "Galata Tower",
+       41.0256,
+       28.9744
+      ],
+      [
+       "Dolmabahçe Palace",
+       41.0392,
+       29.0005
+      ],
+      [
+       "Bosphorus Bridge",
+       41.0452,
+       29.034
+      ],
+      [
+       "Fatih Sultan Mehmet Bridge",
+       41.0911,
+       29.062
+      ],
+      [
+       "~",
+       41.1145,
+       29.0258
+      ],
+      "LTBA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "cappadocia",
+   "continent": "EU",
+   "country": {
+    "en": "Turkey",
+    "hu": "Törökország"
+   },
+   "name": {
+    "en": "Cappadocia",
+    "hu": "Kappadókia"
+   },
+   "main": {
+    "en": "Göreme",
+    "hu": "Göreme",
+    "lat": 38.6431,
+    "lon": 34.8287
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Fairy chimneys, cave dwellings and the morning balloons over the valleys of Göreme.",
+    "hu": "Tündérkémények, barlanglakások és a reggeli hőlégballonok Göreme völgyei felett."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6000,
+     "stol": false,
+     "label": {
+      "en": "Cappadocia short",
+      "hu": "Kappadókia rövid"
+     },
+     "desc": {
+      "en": "Short loop over Göreme, Uçhisar and the Love Valley.",
+      "hu": "Rövid kör Göreme, Uçhisar és a Szerelem-völgy felett."
+     },
+     "pts": [
+      "LTAZ",
+      [
+       "Uçhisar Castle",
+       38.6285,
+       34.804
+      ],
+      [
+       "Göreme",
+       38.6431,
+       34.8287
+      ],
+      [
+       "Ürgüp",
+       38.631,
+       34.912
+      ],
+      [
+       "~",
+       38.6656,
+       34.9247
+      ],
+      [
+       "Love Valley",
+       38.656,
+       34.831
+      ],
+      "LTAZ"
+     ]
+    },
+    {
+     "id": "full",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Cappadocia loop",
+      "hu": "Kappadókia-kör"
+     },
+     "desc": {
+      "en": "About an hour: Avanos, Göreme, Derinkuyu and Mount Erciyes.",
+      "hu": "Kb. egy óra: Avanos, Göreme, Derinkuyu és az Erciyes-hegy."
+     },
+     "pts": [
+      "LTAZ",
+      [
+       "Derinkuyu Underground City",
+       38.373,
+       34.734
+      ],
+      [
+       "Mount Erciyes",
+       38.53,
+       35.448
+      ],
+      [
+       "~",
+       38.6377,
+       35.4454
+      ],
+      [
+       "Ürgüp",
+       38.631,
+       34.912
+      ],
+      [
+       "Göreme",
+       38.6431,
+       34.8287
+      ],
+      [
+       "Avanos",
+       38.715,
+       34.845
+      ],
+      "LTAZ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "mallorca",
+   "continent": "EU",
+   "country": {
+    "en": "Spain",
+    "hu": "Spanyolország"
+   },
+   "name": {
+    "en": "Mallorca",
+    "hu": "Mallorca"
+   },
+   "main": {
+    "en": "Cap de Formentor",
+    "hu": "Cap de Formentor",
+    "lat": 39.9606,
+    "lon": 3.2147
+   },
+   "tags": [
+    "island",
+    "coast",
+    "culture"
+   ],
+   "desc": {
+    "en": "Palma's cathedral, the Serra de Tramuntana, the coast road of Sa Calobra and the cliffs of Formentor.",
+    "hu": "Palma katedrálisa, a Serra de Tramuntana, Sa Calobra kanyargós útja és a Formentor-fok sziklái."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Mallorca short",
+      "hu": "Mallorca rövid"
+     },
+     "desc": {
+      "en": "Short loop: Palma Cathedral, Valldemossa and the Tramuntana coast.",
+      "hu": "Rövid kör: Palma katedrális, Valldemossa és a Tramuntana-part."
+     },
+     "pts": [
+      "LEPA",
+      [
+       "Sa Calobra",
+       39.85,
+       2.8
+      ],
+      [
+       "~",
+       39.8643,
+       2.757
+      ],
+      [
+       "Sóller",
+       39.766,
+       2.715
+      ],
+      [
+       "Valldemossa",
+       39.711,
+       2.624
+      ],
+      [
+       "Palma Cathedral",
+       39.5676,
+       2.6483
+      ],
+      "LEPA"
+     ]
+    },
+    {
+     "id": "north",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Tramuntana and Formentor",
+      "hu": "Tramuntana és Formentor"
+     },
+     "desc": {
+      "en": "About an hour: Valldemossa, Sa Calobra, Pollença and Cap de Formentor.",
+      "hu": "Kb. egy óra: Valldemossa, Sa Calobra, Pollença és a Cap de Formentor."
+     },
+     "pts": [
+      "LEPA",
+      [
+       "Pollença",
+       39.876,
+       3.015
+      ],
+      [
+       "Alcúdia",
+       39.853,
+       3.121
+      ],
+      [
+       "Cap de Formentor",
+       39.9606,
+       3.2147
+      ],
+      [
+       "~",
+       39.9891,
+       3.186
+      ],
+      [
+       "Sa Calobra",
+       39.85,
+       2.8
+      ],
+      [
+       "Valldemossa",
+       39.711,
+       2.624
+      ],
+      "LEPA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "crete",
+   "continent": "EU",
+   "country": {
+    "en": "Greece",
+    "hu": "Görögország"
+   },
+   "name": {
+    "en": "Crete",
+    "hu": "Kréta"
+   },
+   "main": {
+    "en": "Knossos Palace",
+    "hu": "Knósszoszi palota",
+    "lat": 35.298,
+    "lon": 25.163
+   },
+   "tags": [
+    "island",
+    "culture",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The Minoan palace of Knossos, the White Mountains with the Samaria Gorge and the lagoon of Balos.",
+    "hu": "A minószi Knósszosz, a Lefka Ori a Szamaria-szurdokkal és a Balosz-lagúna."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Crete short",
+      "hu": "Kréta rövid"
+     },
+     "desc": {
+      "en": "Short loop from Heraklion: Knossos, Mount Ida and the south coast at Matala.",
+      "hu": "Rövid kör Iráklióból: Knósszosz, az Ida-hegy és a déli part Matalánál."
+     },
+     "pts": [
+      "LGIR",
+      [
+       "Knossos Palace",
+       35.298,
+       25.163
+      ],
+      [
+       "Phaistos",
+       35.051,
+       24.814
+      ],
+      [
+       "Matala",
+       34.994,
+       24.749
+      ],
+      [
+       "~",
+       35.0086,
+       24.7089
+      ],
+      [
+       "Mount Ida",
+       35.228,
+       24.774
+      ],
+      "LGIR"
+     ]
+    },
+    {
+     "id": "west",
+     "kind": "loop",
+     "kt": 115,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Western Crete",
+      "hu": "Nyugat-Kréta"
+     },
+     "desc": {
+      "en": "About an hour from Chania: Samaria Gorge, Elafonisi and Balos lagoon.",
+      "hu": "Kb. egy óra Haniából: Szamaria-szurdok, Elafonisi és a Balosz-lagúna."
+     },
+     "pts": [
+      "LGSA",
+      [
+       "Samaria Gorge",
+       35.278,
+       23.956
+      ],
+      [
+       "Elafonisi Beach",
+       35.274,
+       23.542
+      ],
+      [
+       "Balos Lagoon",
+       35.588,
+       23.588
+      ],
+      [
+       "Chania Old Port",
+       35.5176,
+       24.018
+      ],
+      "LGSA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "berlin",
+   "continent": "EU",
+   "country": {
+    "en": "Germany",
+    "hu": "Németország"
+   },
+   "name": {
+    "en": "Berlin and Potsdam",
+    "hu": "Berlin és Potsdam"
+   },
+   "main": {
+    "en": "Brandenburg Gate",
+    "hu": "Brandenburgi kapu",
+    "lat": 52.5163,
+    "lon": 13.3777
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Reichstag, the Brandenburg Gate, the TV Tower and Sanssouci, the Prussian kings' summer palace in Potsdam.",
+    "hu": "A Reichstag, a Brandenburgi kapu, a tévétorony és a potsdami Sanssouci, a porosz királyok nyári palotája."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Berlin short",
+      "hu": "Berlin rövid"
+     },
+     "desc": {
+      "en": "Short loop over the centre: TV Tower, Reichstag and the Brandenburg Gate.",
+      "hu": "Rövid kör a belváros felett: tévétorony, Reichstag és Brandenburgi kapu."
+     },
+     "pts": [
+      "EDDB",
+      [
+       "Berlin Victory Column",
+       52.5145,
+       13.3501
+      ],
+      [
+       "Brandenburg Gate",
+       52.5163,
+       13.3777
+      ],
+      [
+       "Berlin TV Tower",
+       52.5208,
+       13.4094
+      ],
+      [
+       "East Side Gallery",
+       52.505,
+       13.4396
+      ],
+      [
+       "Tempelhof Field",
+       52.4733,
+       13.4019
+      ],
+      "EDDB"
+     ]
+    },
+    {
+     "id": "potsdam",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Berlin and Potsdam",
+      "hu": "Berlin és Potsdam"
+     },
+     "desc": {
+      "en": "About an hour: the centre, Charlottenburg Palace, Sanssouci and Müggelsee.",
+      "hu": "Kb. egy óra: a belváros, a Charlottenburg-palota, Sanssouci és a Müggel-tó."
+     },
+     "pts": [
+      "EDDB",
+      [
+       "Sanssouci Palace",
+       52.404,
+       13.038
+      ],
+      [
+       "~",
+       52.4515,
+       13.0186
+      ],
+      [
+       "Charlottenburg Palace",
+       52.5206,
+       13.296
+      ],
+      [
+       "Brandenburg Gate",
+       52.5163,
+       13.3777
+      ],
+      [
+       "Berlin TV Tower",
+       52.5208,
+       13.4094
+      ],
+      [
+       "Müggelsee",
+       52.435,
+       13.645
+      ],
+      "EDDB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "faroe",
+   "continent": "EU",
+   "country": {
+    "en": "Faroe Islands",
+    "hu": "Feröer-szigetek"
+   },
+   "name": {
+    "en": "Faroe Islands",
+    "hu": "Feröer-szigetek"
+   },
+   "main": {
+    "en": "Múlafossur Waterfall",
+    "hu": "Múlafossur-vízesés",
+    "lat": 62.133,
+    "lon": -7.446
+   },
+   "tags": [
+    "island",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Green cliffs dropping into the North Atlantic: Gásadalur, Saksun and the Kallur lighthouse on the island of Kalsoy.",
+    "hu": "Zöld sziklafalak az Atlanti-óceánba: Gásadalur, Saksun és a Kallur világítótorony Kalsoy szigetén."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Faroe short",
+      "hu": "Feröer rövid"
+     },
+     "desc": {
+      "en": "Short loop over Vágar and Streymoy: Gásadalur, Saksun and Tórshavn.",
+      "hu": "Rövid kör Vágar és Streymoy felett: Gásadalur, Saksun és Tórshavn."
+     },
+     "pts": [
+      "EKVG",
+      [
+       "Tórshavn",
+       62.011,
+       -6.771
+      ],
+      [
+       "~",
+       62.0622,
+       -6.702
+      ],
+      [
+       "Saksun",
+       62.249,
+       -7.167
+      ],
+      [
+       "Múlafossur Waterfall",
+       62.133,
+       -7.446
+      ],
+      "EKVG"
+     ]
+    },
+    {
+     "id": "north",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Faroe north isles",
+      "hu": "Feröer északi szigetek"
+     },
+     "desc": {
+      "en": "About an hour: Gásadalur, Saksun, Kalsoy and the cliffs of Vestmanna.",
+      "hu": "Kb. egy óra: Gásadalur, Saksun, Kalsoy és a vestmannai sziklák."
+     },
+     "pts": [
+      "EKVG",
+      [
+       "Tórshavn",
+       62.011,
+       -6.771
+      ],
+      [
+       "Kallur Lighthouse",
+       62.368,
+       -6.676
+      ],
+      [
+       "~",
+       62.4047,
+       -6.79
+      ],
+      [
+       "Saksun",
+       62.249,
+       -7.167
+      ],
+      [
+       "Vestmanna Bird Cliffs",
+       62.156,
+       -7.176
+      ],
+      [
+       "Múlafossur Waterfall",
+       62.133,
+       -7.446
+      ],
+      [
+       "~",
+       62.0983,
+       -7.4665
+      ],
+      "EKVG"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "brittany",
+   "continent": "EU",
+   "country": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "name": {
+    "en": "Brittany coast",
+    "hu": "Bretagne partvidéke"
+   },
+   "main": {
+    "en": "Cap Fréhel",
+    "hu": "Cap Fréhel",
+    "lat": 48.683,
+    "lon": -2.317
+   },
+   "tags": [
+    "coast",
+    "culture",
+    "island"
+   ],
+   "desc": {
+    "en": "Saint-Malo's walled harbour, the cliffs of Cap Fréhel and the pink granite coast of Perros-Guirec.",
+    "hu": "Saint-Malo falakkal körülvett kikötője, a Cap Fréhel sziklái és Perros-Guirec rózsaszín gránitpartja."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Emerald Coast",
+      "hu": "Smaragd-part"
+     },
+     "desc": {
+      "en": "Short loop from Dinard: Saint-Malo, Cap Fréhel and Fort La Latte.",
+      "hu": "Rövid kör Dinardból: Saint-Malo, Cap Fréhel és a La Latte-erőd."
+     },
+     "pts": [
+      "LFRD",
+      [
+       "Saint-Malo",
+       48.649,
+       -2.026
+      ],
+      [
+       "Fort La Latte",
+       48.674,
+       -2.286
+      ],
+      [
+       "Cap Fréhel",
+       48.683,
+       -2.317
+      ],
+      [
+       "~",
+       48.6546,
+       -2.3505
+      ],
+      [
+       "Dinan",
+       48.455,
+       -2.05
+      ],
+      [
+       "~",
+       48.4712,
+       -2.0016
+      ],
+      "LFRD"
+     ]
+    },
+    {
+     "id": "pink",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Pink granite coast",
+      "hu": "Rózsaszín gránitpart"
+     },
+     "desc": {
+      "en": "About an hour: Saint-Malo, Cap Fréhel, Perros-Guirec and Mont-Dol.",
+      "hu": "Kb. egy óra: Saint-Malo, Cap Fréhel, Perros-Guirec és a Mont-Dol."
+     },
+     "pts": [
+      "LFRD",
+      [
+       "Perros-Guirec",
+       48.825,
+       -3.44
+      ],
+      [
+       "~",
+       48.8966,
+       -3.4303
+      ],
+      [
+       "Brehat Island",
+       48.85,
+       -3.005
+      ],
+      [
+       "Cap Fréhel",
+       48.683,
+       -2.317
+      ],
+      [
+       "Saint-Malo",
+       48.649,
+       -2.026
+      ],
+      [
+       "Mont-Dol",
+       48.542,
+       -1.723
+      ],
+      [
+       "~",
+       48.4885,
+       -1.7517
+      ],
+      "LFRD"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "new-york",
+   "continent": "EU",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "New York City",
+    "hu": "New York"
+   },
+   "main": {
+    "en": "Statue of Liberty",
+    "hu": "Szabadság-szobor",
+    "lat": 40.6892,
+    "lon": -74.0445
+   },
+   "tags": [
+    "city",
+    "culture",
+    "coast"
+   ],
+   "desc": {
+    "en": "Manhattan's skyline from the Hudson: the Statue of Liberty, Empire State Building, Central Park and the Brooklyn Bridge.",
+    "hu": "Manhattan látképe a Hudson felől: Szabadság-szobor, Empire State Building, Central Park és a Brooklyn-híd."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1500,
+     "stol": false,
+     "label": {
+      "en": "Manhattan loop",
+      "hu": "Manhattan-kör"
+     },
+     "desc": {
+      "en": "Central Park, Empire State Building, the Statue of Liberty and the Brooklyn Bridge.",
+      "hu": "Central Park, Empire State Building, Szabadság-szobor és a Brooklyn-híd."
+     },
+     "pts": [
+      "KLGA",
+      [
+       "Brooklyn Bridge",
+       40.7061,
+       -73.9969
+      ],
+      [
+       "Statue of Liberty",
+       40.6892,
+       -74.0445
+      ],
+      [
+       "~",
+       40.7187,
+       -74.0717
+      ],
+      [
+       "~",
+       40.7494,
+       -74.047
+      ],
+      [
+       "One World Trade Center",
+       40.7127,
+       -74.0134
+      ],
+      [
+       "Empire State Building",
+       40.7484,
+       -73.9857
+      ],
+      [
+       "Central Park",
+       40.7829,
+       -73.9654
+      ],
+      [
+       "Yankee Stadium",
+       40.8296,
+       -73.9262
+      ],
+      "KLGA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "grand-canyon",
+   "continent": "EU",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Grand Canyon",
+    "hu": "Grand Canyon"
+   },
+   "main": {
+    "en": "Grand Canyon South Rim",
+    "hu": "Grand Canyon déli pereme",
+    "lat": 36.0544,
+    "lon": -112.1401
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "coast"
+   ],
+   "desc": {
+    "en": "A mile deep and 277 miles long: the South Rim, Desert View and the North Rim from above.",
+    "hu": "Másfél kilométer mély és 446 kilométer hosszú: a déli perem, a Desert View és az északi perem felülről."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Canyon rim loop",
+      "hu": "Kanyon-perem kör"
+     },
+     "desc": {
+      "en": "From the South Rim over Desert View to the North Rim and back across the canyon.",
+      "hu": "A déli peremről a Desert View felett az északi peremre, majd vissza a kanyon felett."
+     },
+     "pts": [
+      "KGCN",
+      [
+       "Desert View Watchtower",
+       36.0436,
+       -111.826
+      ],
+      [
+       "~",
+       36.1015,
+       -111.8139
+      ],
+      [
+       "Bright Angel Point",
+       36.19,
+       -112.0536
+      ],
+      [
+       "Grand Canyon Village",
+       36.0544,
+       -112.1401
+      ],
+      "KGCN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "sf-bay",
+   "continent": "EU",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "San Francisco Bay",
+    "hu": "San Francisco-öböl"
+   },
+   "main": {
+    "en": "Golden Gate Bridge",
+    "hu": "Golden Gate híd",
+    "lat": 37.8199,
+    "lon": -122.4783
+   },
+   "tags": [
+    "city",
+    "culture",
+    "coast"
+   ],
+   "desc": {
+    "en": "The Golden Gate, Alcatraz and the Bay Bridge, with the fog rolling in from the Pacific.",
+    "hu": "A Golden Gate, Alcatraz és a Bay Bridge, miközben a köd gördül be a Csendes-óceán felől."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Bay loop",
+      "hu": "Öböl-kör"
+     },
+     "desc": {
+      "en": "Ocean Beach, the Golden Gate Bridge, Alcatraz and the Bay Bridge.",
+      "hu": "Ocean Beach, Golden Gate híd, Alcatraz és a Bay Bridge."
+     },
+     "pts": [
+      "KSFO",
+      [
+       "Ocean Beach",
+       37.76,
+       -122.51
+      ],
+      [
+       "Golden Gate Bridge",
+       37.8199,
+       -122.4783
+      ],
+      [
+       "Alcatraz Island",
+       37.8267,
+       -122.423
+      ],
+      [
+       "Bay Bridge",
+       37.7983,
+       -122.3778
+      ],
+      "KSFO"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "oahu",
+   "continent": "EU",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Oahu, Hawaii",
+    "hu": "Oahu, Hawaii"
+   },
+   "main": {
+    "en": "Diamond Head",
+    "hu": "Diamond Head",
+    "lat": 21.2619,
+    "lon": -157.8058
+   },
+   "tags": [
+    "island",
+    "coast",
+    "volcano"
+   ],
+   "desc": {
+    "en": "Diamond Head crater, Hanauma Bay, Kualoa and Pearl Harbor: the island of Oahu from above.",
+    "hu": "A Diamond Head kráter, a Hanauma-öböl, Kualoa és Pearl Harbor: Oahu szigete felülről."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Oahu loop",
+      "hu": "Oahu-kör"
+     },
+     "desc": {
+      "en": "Diamond Head, Hanauma Bay, Kualoa and Pearl Harbor.",
+      "hu": "Diamond Head, Hanauma-öböl, Kualoa és Pearl Harbor."
+     },
+     "pts": [
+      "PHNL",
+      [
+       "Diamond Head",
+       21.2619,
+       -157.8058
+      ],
+      [
+       "Hanauma Bay",
+       21.269,
+       -157.694
+      ],
+      [
+       "Makapuu Point Lighthouse",
+       21.3103,
+       -157.649
+      ],
+      [
+       "Kualoa Ranch",
+       21.5222,
+       -157.8369
+      ],
+      [
+       "Pearl Harbor",
+       21.3649,
+       -157.95
+      ],
+      "PHNL"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "machu-picchu",
+   "continent": "EU",
+   "country": {
+    "en": "Peru",
+    "hu": "Peru"
+   },
+   "name": {
+    "en": "Machu Picchu and the Sacred Valley",
+    "hu": "Machu Picchu és a Szent-völgy"
+   },
+   "main": {
+    "en": "Machu Picchu",
+    "hu": "Machu Picchu",
+    "lat": -13.1631,
+    "lon": -72.545
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Inca citadel in the clouds, the terraces of Moray and the fortress of Ollantaytambo above the Urubamba river.",
+    "hu": "Az inka fellegvár a felhők között, Moray teraszai és Ollantaytambo erődje az Urubamba folyó felett."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 15000,
+     "stol": false,
+     "label": {
+      "en": "Cusco short",
+      "hu": "Cusco rövid"
+     },
+     "desc": {
+      "en": "Short loop from Cusco: Sacsayhuamán, Pisac and Moray.",
+      "hu": "Rövid kör Cuscóból: Sacsayhuamán, Pisac és Moray."
+     },
+     "pts": [
+      "SPZO",
+      [
+       "Pisac",
+       -13.4167,
+       -71.8475
+      ],
+      [
+       "Moray",
+       -13.3293,
+       -72.1962
+      ],
+      [
+       "~",
+       -13.3903,
+       -72.229
+      ],
+      [
+       "Sacsayhuamán",
+       -13.5093,
+       -71.9817
+      ],
+      "SPZO"
+     ]
+    },
+    {
+     "id": "full",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 15000,
+     "stol": false,
+     "label": {
+      "en": "Machu Picchu loop",
+      "hu": "Machu Picchu-kör"
+     },
+     "desc": {
+      "en": "About an hour: Pisac, Ollantaytambo and Machu Picchu, back over Moray.",
+      "hu": "Kb. egy óra: Pisac, Ollantaytambo és Machu Picchu, vissza Moray felett."
+     },
+     "pts": [
+      "SPZO",
+      [
+       "Pisac",
+       -13.4167,
+       -71.8475
+      ],
+      [
+       "Moray",
+       -13.3293,
+       -72.1962
+      ],
+      [
+       "Ollantaytambo",
+       -13.2584,
+       -72.2631
+      ],
+      [
+       "Machu Picchu",
+       -13.1631,
+       -72.545
+      ],
+      [
+       "~",
+       -13.2285,
+       -72.5774
+      ],
+      [
+       "Sacsayhuamán",
+       -13.5093,
+       -71.9817
+      ],
+      "SPZO"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "rio",
+   "continent": "EU",
+   "country": {
+    "en": "Brazil",
+    "hu": "Brazília"
+   },
+   "name": {
+    "en": "Rio de Janeiro",
+    "hu": "Rio de Janeiro"
+   },
+   "main": {
+    "en": "Christ the Redeemer",
+    "hu": "Megváltó Krisztus-szobor",
+    "lat": -22.9519,
+    "lon": -43.2105
+   },
+   "tags": [
+    "city",
+    "culture",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Christ the Redeemer, Sugarloaf Mountain and Copacabana: Rio between the granite peaks and the sea.",
+    "hu": "A Megváltó Krisztus-szobor, a Cukorsüvegcsúcs és Copacabana: Rio a gránitcsúcsok és a tenger között."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Rio loop",
+      "hu": "Rio-kör"
+     },
+     "desc": {
+      "en": "Sugarloaf, Copacabana, Christ the Redeemer and the Maracanã stadium.",
+      "hu": "Cukorsüvegcsúcs, Copacabana, a Megváltó Krisztus-szobor és a Maracanã stadion."
+     },
+     "pts": [
+      "SBGL",
+      [
+       "Maracanã Stadium",
+       -22.9122,
+       -43.2302
+      ],
+      [
+       "Pedra da Gávea",
+       -22.998,
+       -43.285
+      ],
+      [
+       "~",
+       -23.0227,
+       -43.2565
+      ],
+      [
+       "Christ the Redeemer",
+       -22.9519,
+       -43.2105
+      ],
+      [
+       "Copacabana",
+       -22.9711,
+       -43.1822
+      ],
+      [
+       "Sugarloaf Mountain",
+       -22.9486,
+       -43.1566
+      ],
+      [
+       "Rio-Niterói Bridge",
+       -22.878,
+       -43.163
+      ],
+      "SBGL"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "iguazu",
+   "continent": "EU",
+   "country": {
+    "en": "Brazil",
+    "hu": "Brazília"
+   },
+   "name": {
+    "en": "Iguazu Falls",
+    "hu": "Iguazú-vízesés"
+   },
+   "main": {
+    "en": "Devil's Throat",
+    "hu": "Az Ördög torka",
+    "lat": -25.6953,
+    "lon": -54.4367
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "jungle"
+   ],
+   "desc": {
+    "en": "275 waterfalls in the rainforest on the border of Brazil and Argentina, and the vast Itaipu Dam.",
+    "hu": "275 vízesés az esőerdőben Brazília és Argentína határán, valamint a hatalmas Itaipu-gát."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Falls and Itaipu",
+      "hu": "A vízesés és az Itaipu"
+     },
+     "desc": {
+      "en": "The Iguazu Falls and the Itaipu Dam on the Paraná river.",
+      "hu": "Az Iguazú-vízesés és az Itaipu-gát a Paraná folyón."
+     },
+     "pts": [
+      "SBFI",
+      [
+       "Iguazu Falls",
+       -25.6953,
+       -54.4367
+      ],
+      [
+       "~",
+       -25.718,
+       -54.4677
+      ],
+      [
+       "Triple Frontier",
+       -25.599,
+       -54.578
+      ],
+      [
+       "Itaipu Dam",
+       -25.4079,
+       -54.5886
+      ],
+      [
+       "~",
+       -25.3961,
+       -54.5373
+      ],
+      "SBFI"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "cape-town",
+   "continent": "EU",
+   "country": {
+    "en": "South Africa",
+    "hu": "Dél-Afrika"
+   },
+   "name": {
+    "en": "Cape Town and the Cape Peninsula",
+    "hu": "Fokváros és a Fok-félsziget"
+   },
+   "main": {
+    "en": "Table Mountain",
+    "hu": "Table Mountain",
+    "lat": -33.9628,
+    "lon": 18.4098
+   },
+   "tags": [
+    "city",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Table Mountain, Robben Island, the road along Chapman's Peak and the penguins of Boulders Beach.",
+    "hu": "A Table Mountain, a Robben-sziget, a Chapman's Peak útja és a Boulders Beach pingvinjei."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Cape Town short",
+      "hu": "Fokváros rövid"
+     },
+     "desc": {
+      "en": "Short loop: Robben Island, Table Mountain and Camps Bay.",
+      "hu": "Rövid kör: Robben-sziget, Table Mountain és Camps Bay."
+     },
+     "pts": [
+      "FACT",
+      [
+       "Robben Island",
+       -33.807,
+       18.371
+      ],
+      [
+       "~",
+       -33.8272,
+       18.3352
+      ],
+      [
+       "Cape Town Stadium",
+       -33.9035,
+       18.411
+      ],
+      [
+       "Camps Bay",
+       -33.95,
+       18.378
+      ],
+      [
+       "Table Mountain",
+       -33.9628,
+       18.4098
+      ],
+      "FACT"
+     ]
+    },
+    {
+     "id": "peninsula",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "The Cape Peninsula",
+      "hu": "A Fok-félsziget"
+     },
+     "desc": {
+      "en": "About an hour: Table Mountain, Chapman's Peak, Cape Point and Boulders Beach.",
+      "hu": "Kb. egy óra: Table Mountain, Chapman's Peak, Cape Point és Boulders Beach."
+     },
+     "pts": [
+      "FACT",
+      [
+       "Table Mountain",
+       -33.9628,
+       18.4098
+      ],
+      [
+       "Chapman's Peak",
+       -34.083,
+       18.367
+      ],
+      [
+       "Boulders Beach",
+       -34.1976,
+       18.4511
+      ],
+      [
+       "Cape Point",
+       -34.3568,
+       18.4971
+      ],
+      [
+       "~",
+       -34.3567,
+       18.5467
+      ],
+      "FACT"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "giza",
+   "continent": "EU",
+   "country": {
+    "en": "Egypt",
+    "hu": "Egyiptom"
+   },
+   "name": {
+    "en": "Cairo and the Pyramids",
+    "hu": "Kairó és a piramisok"
+   },
+   "main": {
+    "en": "Pyramids of Giza",
+    "hu": "Gízai piramisok",
+    "lat": 29.9792,
+    "lon": 31.1342
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "city"
+   ],
+   "desc": {
+    "en": "The Pyramids of Giza, the step pyramid of Saqqara and the Nile cutting through Cairo.",
+    "hu": "A gízai piramisok, a szakkarai lépcsős piramis és a Kairón átfolyó Nílus."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Pyramids loop",
+      "hu": "Piramis-kör"
+     },
+     "desc": {
+      "en": "The Cairo Citadel, the Pyramids of Giza, Saqqara and Dahshur.",
+      "hu": "A kairói fellegvár, a gízai piramisok, Szakkara és Dahsúr."
+     },
+     "pts": [
+      "HECA",
+      [
+       "Cairo Citadel",
+       30.0287,
+       31.2612
+      ],
+      [
+       "Step Pyramid of Djoser",
+       29.8713,
+       31.2165
+      ],
+      [
+       "Red Pyramid",
+       29.8089,
+       31.2062
+      ],
+      [
+       "~",
+       29.8051,
+       31.165
+      ],
+      [
+       "Pyramids of Giza",
+       29.9792,
+       31.1342
+      ],
+      "HECA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "kilimanjaro",
+   "continent": "EU",
+   "country": {
+    "en": "Tanzania",
+    "hu": "Tanzánia"
+   },
+   "name": {
+    "en": "Kilimanjaro and Amboseli",
+    "hu": "Kilimandzsáró és Amboseli"
+   },
+   "main": {
+    "en": "Mount Kilimanjaro",
+    "hu": "Kilimandzsáró",
+    "lat": -3.0674,
+    "lon": 37.3556
+   },
+   "tags": [
+    "mountain",
+    "volcano"
+   ],
+   "desc": {
+    "en": "Africa's highest peak above the savanna: Kilimanjaro, Mount Meru and the elephants of Amboseli.",
+    "hu": "Afrika legmagasabb csúcsa a szavanna felett: a Kilimandzsáró, a Meru-hegy és Amboseli elefántjai."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 10500,
+     "stol": false,
+     "label": {
+      "en": "Kilimanjaro loop",
+      "hu": "Kilimandzsáró-kör"
+     },
+     "desc": {
+      "en": "Mount Meru, Amboseli and the summit of Kilimanjaro.",
+      "hu": "A Meru-hegy, Amboseli és a Kilimandzsáró csúcsa."
+     },
+     "pts": [
+      "HTKJ",
+      [
+       "Mount Meru",
+       -3.2427,
+       36.7478
+      ],
+      [
+       "Amboseli National Park",
+       -2.6527,
+       37.2606
+      ],
+      [
+       "~",
+       -2.6785,
+       37.3639
+      ],
+      [
+       "Mount Kilimanjaro",
+       -3.0674,
+       37.3556
+      ],
+      "HTKJ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "sydney",
+   "continent": "EU",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "Sydney Harbour",
+    "hu": "Sydney kikötő"
+   },
+   "main": {
+    "en": "Sydney Opera House",
+    "hu": "Sydney-i Operaház",
+    "lat": -33.8568,
+    "lon": 151.2153
+   },
+   "tags": [
+    "city",
+    "culture",
+    "coast"
+   ],
+   "desc": {
+    "en": "The Opera House, the Harbour Bridge, Bondi Beach and the sandstone cliffs of the Heads.",
+    "hu": "Az Operaház, a Harbour Bridge, a Bondi-part és a homokkő sziklák a Heads-nél."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Harbour loop",
+      "hu": "Kikötő-kör"
+     },
+     "desc": {
+      "en": "Bondi Beach, the Heads, the Opera House and the Harbour Bridge.",
+      "hu": "Bondi-part, a Heads, az Operaház és a Harbour Bridge."
+     },
+     "pts": [
+      "YSSY",
+      [
+       "Sydney Tower",
+       -33.8704,
+       151.2089
+      ],
+      [
+       "Sydney Opera House",
+       -33.8568,
+       151.2153
+      ],
+      [
+       "Sydney Harbour Bridge",
+       -33.8523,
+       151.2108
+      ],
+      [
+       "Manly Beach",
+       -33.797,
+       151.288
+      ],
+      [
+       "~",
+       -33.8128,
+       151.3269
+      ],
+      [
+       "~",
+       -33.8488,
+       151.3277
+      ],
+      [
+       "Sydney Heads",
+       -33.831,
+       151.286
+      ],
+      [
+       "Bondi Beach",
+       -33.8915,
+       151.2767
+      ],
+      "YSSY"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "whitsundays",
+   "continent": "EU",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "Whitsunday Islands",
+    "hu": "Whitsunday-szigetek"
+   },
+   "main": {
+    "en": "Whitehaven Beach",
+    "hu": "Whitehaven-part",
+    "lat": -20.2818,
+    "lon": 149.0415
+   },
+   "tags": [
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "Silica-white sand and turquoise water: Whitehaven Beach, Hill Inlet and the Great Barrier Reef.",
+    "hu": "Hófehér kvarchomok és türkiz víz: a Whitehaven-part, a Hill Inlet és a Nagy-korallzátony."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1500,
+     "stol": false,
+     "label": {
+      "en": "Whitsunday loop",
+      "hu": "Whitsunday-kör"
+     },
+     "desc": {
+      "en": "Whitehaven Beach, with Hill Inlet at its north end, and the Heart Reef.",
+      "hu": "A Whitehaven-part (északi végén a Hill Inlettel) és a Szív-zátony."
+     },
+     "pts": [
+      "YBHM",
+      [
+       "Heart Reef",
+       -19.78,
+       149.23
+      ],
+      [
+       "~",
+       -19.8157,
+       149.3382
+      ],
+      [
+       "Whitehaven Beach",
+       -20.2818,
+       149.0415
+      ],
+      "YBHM"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "milford-sound",
+   "continent": "EU",
+   "country": {
+    "en": "New Zealand",
+    "hu": "Új-Zéland"
+   },
+   "name": {
+    "en": "Milford Sound",
+    "hu": "Milford Sound"
+   },
+   "main": {
+    "en": "Mitre Peak",
+    "hu": "Mitre Peak",
+    "lat": -44.619,
+    "lon": 167.807
+   },
+   "tags": [
+    "mountain",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "From Queenstown over the Southern Alps into Fiordland: the Remarkables, Lake Wakatipu and Milford Sound.",
+    "hu": "Queenstownból a Déli-Alpok felett Fiordlandbe: a Remarkables, a Wakatipu-tó és a Milford Sound."
+   },
+   "variants": [
+    {
+     "id": "ab",
+     "kind": "ab",
+     "kt": 110,
+     "alt_ft": 8500,
+     "stol": false,
+     "label": {
+      "en": "Queenstown to Milford Sound",
+      "hu": "Queenstowntól Milford Soundig"
+     },
+     "desc": {
+      "en": "A one-way flight over the Southern Alps; keep terrain clearance in mind.",
+      "hu": "Egyirányú repülés a Déli-Alpok felett; figyelj a terep feletti magasságra."
+     },
+     "pts": [
+      "NZQN",
+      [
+       "The Remarkables",
+       -45.05,
+       168.8
+      ],
+      [
+       "~",
+       -45.0848,
+       168.7873
+      ],
+      [
+       "Lake Wakatipu",
+       -45.1,
+       168.4
+      ],
+      [
+       "Mitre Peak",
+       -44.619,
+       167.807
+      ],
+      [
+       "~",
+       -44.5919,
+       167.8401
+      ],
+      "NZMF"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "tokyo-fuji",
+   "continent": "EU",
+   "country": {
+    "en": "Japan",
+    "hu": "Japán"
+   },
+   "name": {
+    "en": "Tokyo and Mount Fuji",
+    "hu": "Tokió és a Fudzsi"
+   },
+   "main": {
+    "en": "Mount Fuji",
+    "hu": "Fudzsi",
+    "lat": 35.3606,
+    "lon": 138.7274
+   },
+   "tags": [
+    "city",
+    "culture",
+    "mountain",
+    "volcano"
+   ],
+   "desc": {
+    "en": "Tokyo Skytree and Tokyo Tower, then west to the perfect cone of Mount Fuji.",
+    "hu": "A Tokyo Skytree és a Tokyo Tower, majd nyugatra a Fudzsi tökéletes kúpja."
+   },
+   "variants": [
+    {
+     "id": "short",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Tokyo short",
+      "hu": "Tokió rövid"
+     },
+     "desc": {
+      "en": "Short loop over the bay: Tokyo Skytree, Tokyo Tower and the Rainbow Bridge.",
+      "hu": "Rövid kör az öböl felett: Tokyo Skytree, Tokyo Tower és a Rainbow Bridge."
+     },
+     "pts": [
+      "RJTT",
+      [
+       "Rainbow Bridge",
+       35.6364,
+       139.763
+      ],
+      [
+       "Tokyo Tower",
+       35.6586,
+       139.7454
+      ],
+      [
+       "Meiji Shrine",
+       35.6764,
+       139.6993
+      ],
+      [
+       "~",
+       35.7124,
+       139.6991
+      ],
+      [
+       "Senso-ji Temple",
+       35.7148,
+       139.7967
+      ],
+      [
+       "Tokyo Skytree",
+       35.7101,
+       139.8107
+      ],
+      [
+       "Tokyo Disneyland",
+       35.6329,
+       139.8804
+      ],
+      "RJTT"
+     ]
+    },
+    {
+     "id": "fuji",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 10500,
+     "stol": false,
+     "label": {
+      "en": "Tokyo and Fuji",
+      "hu": "Tokió és a Fudzsi"
+     },
+     "desc": {
+      "en": "About an hour: Tokyo Tower, Hakone and Mount Fuji, back over Yokohama.",
+      "hu": "Kb. egy óra: Tokyo Tower, Hakone és a Fudzsi, vissza Jokohama felett."
+     },
+     "pts": [
+      "RJTT",
+      [
+       "Tokyo Tower",
+       35.6586,
+       139.7454
+      ],
+      [
+       "Lake Kawaguchi",
+       35.512,
+       138.76
+      ],
+      [
+       "Mount Fuji",
+       35.3606,
+       138.7274
+      ],
+      [
+       "Lake Ashi",
+       35.2,
+       139.025
+      ],
+      [
+       "Yokohama Landmark Tower",
+       35.4545,
+       139.6318
+      ],
+      "RJTT"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "dubai",
+   "continent": "EU",
+   "country": {
+    "en": "United Arab Emirates",
+    "hu": "Egyesült Arab Emírségek"
+   },
+   "name": {
+    "en": "Dubai",
+    "hu": "Dubaj"
+   },
+   "main": {
+    "en": "Burj Khalifa",
+    "hu": "Burdzs Kalifa",
+    "lat": 25.1972,
+    "lon": 55.2744
+   },
+   "tags": [
+    "city",
+    "coast",
+    "island"
+   ],
+   "desc": {
+    "en": "The Burj Khalifa, Palm Jumeirah and the Burj Al Arab: a desert city built on the Gulf.",
+    "hu": "A Burdzs Kalifa, a Palm Jumeirah és a Burdzs al-Arab: sivatagi város a Perzsa-öböl partján."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Dubai loop",
+      "hu": "Dubaj-kör"
+     },
+     "desc": {
+      "en": "The Burj Khalifa, Palm Jumeirah and the Burj Al Arab.",
+      "hu": "A Burdzs Kalifa, a Palm Jumeirah és a Burdzs al-Arab."
+     },
+     "pts": [
+      "OMDB",
+      [
+       "Dubai Marina",
+       25.08,
+       55.14
+      ],
+      [
+       "Palm Jebel Ali",
+       25.002,
+       54.979
+      ],
+      [
+       "~",
+       25.0366,
+       54.9541
+      ],
+      [
+       "Palm Jumeirah",
+       25.1124,
+       55.139
+      ],
+      [
+       "Burj Al Arab",
+       25.1412,
+       55.1853
+      ],
+      [
+       "Burj Khalifa",
+       25.1972,
+       55.2744
+      ],
+      "OMDB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true
+  },
+  {
+   "id": "hong-kong",
+   "continent": "EU",
+   "country": {
+    "en": "Hong Kong",
+    "hu": "Hongkong"
+   },
+   "name": {
+    "en": "Hong Kong",
+    "hu": "Hongkong"
+   },
+   "main": {
+    "en": "Victoria Peak",
+    "hu": "Victoria-csúcs",
+    "lat": 22.2759,
+    "lon": 114.1455
+   },
+   "tags": [
+    "city",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Skyscrapers against green peaks: Victoria Harbour, Victoria Peak and the Tian Tan Buddha on Lantau.",
+    "hu": "Felhőkarcolók zöld csúcsok előtt: a Victoria-kikötő, a Victoria-csúcs és a Tian Tan Buddha Lantau szigetén."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Harbour loop",
+      "hu": "Kikötő-kör"
+     },
+     "desc": {
+      "en": "The Tsing Ma Bridge, Victoria Harbour, Victoria Peak and the Tian Tan Buddha.",
+      "hu": "A Tsing Ma híd, a Victoria-kikötő, a Victoria-csúcs és a Tian Tan Buddha."
+     },
+     "pts": [
+      "VHHH",
+      [
+       "Tsing Ma Bridge",
+       22.35,
+       114.043
+      ],
+      [
+       "Victoria Harbour",
+       22.29,
+       114.17
+      ],
+      [
+       "~",
+       22.2541,
+       114.1716
+      ],
+      [
+       "~",
+       22.2388,
+       114.1364
+      ],
+      [
+       "~",
+       22.2613,
+       114.1061
+      ],
+      [
+       "Victoria Peak",
+       22.2759,
+       114.1455
+      ],
+      [
+       "~",
+       22.3108,
+       114.1363
+      ],
+      [
+       "Tian Tan Buddha",
+       22.254,
+       113.9047
+      ],
+      "VHHH"
+     ]
+    }
+   ],
+   "pois": [],
    "new": true
   }
  ]

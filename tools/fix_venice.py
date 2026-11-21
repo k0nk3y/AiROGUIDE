@@ -20,6 +20,17 @@ v = dict(id="city", kind="loop", kt=95, alt_ft=1800, stol=False,
               ["Murano", 45.459, 12.353], "LIPZ"])
 ven["variants"] = [w for w in ven["variants"] if w["id"] != "city"]
 ven["variants"].insert(0, v)
+# Padova + varos-kor osszefuzve: a regi "padua" valtozat helyere kerul, a "city" marad rovid korként
+pad = dict(id="padua", kind="loop", kt=105, alt_ft=2000, stol=False,
+           label={"en": "Venice, the lagoon and Padua", "hu": "Velence, a lagúna és Padova"},
+           desc={"en": "About 40 minutes: Torcello, Burano, St Mark's and the Lido, then across the Brenta plain to Padua and back over Murano.",
+                 "hu": "Kb. 40 perc: Torcello, Burano, Szent Márk tér és Lido, majd a Brenta-síkság felett Padovába, vissza Murano felett."},
+           pts=["LIPZ", ["Torcello", 45.4975, 12.4177], ["Burano", 45.485, 12.417], ["St Mark's Basilica", 45.434, 12.3397],
+                ["Lido di Venezia", 45.4033, 12.367], ["~", 45.3317, 12.3117], ["~", 45.30, 12.15],
+                ["Prato della Valle, Padua", 45.3985, 11.8774], ["~", 45.478, 11.9038], ["~", 45.43, 12.22],
+                ["Murano", 45.459, 12.353], "LIPZ"])
+ven["variants"] = [w for w in ven["variants"] if w["id"] not in ("padua", "city")]
+ven["variants"].append(pad)
 json.dump(d, open(P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 dol["pois"] = []
 dol["new"] = ven["new"] = True

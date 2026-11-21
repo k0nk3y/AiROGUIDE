@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Utpontok sorrendjenek optimalizalasa: hajtukanyar (>~90 fok) nelkuli, rovid utvonal. A kezdo- es vegpont (repulo) marad.
 Futtatas: add_eu1 -> add_eu2 -> add_var_eu -> tours_order (a tours.json-t modositja)."""
-import gzip, itertools, json, math, os
+import gzip, itertools, json, math, os, sys
 from tours_check import hav, brg, ROOT
 
 
@@ -51,7 +51,10 @@ def main():
     path = os.path.join(ROOT, "data", "tours.json")
     d = json.load(open(path, encoding="utf-8"))
     ch = 0
+    only = set(sys.argv[1:])             # megadott tura-azonositok: csak azokat rendezi (a tobbi erintetlen)
     for t in d["tours"]:
+        if only and t["id"] not in only:
+            continue
         for v in t["variants"]:
             raw = [p for p in v["pts"] if isinstance(p, str) or not str(p[0]).startswith("~")]
             v["pts"] = raw
@@ -74,6 +77,8 @@ def main():
                 print("  atmeneti pont:", t["id"], v["id"], len(P2) - len(P))
     rev = set(open(os.path.join(ROOT, "tools", "reviewed.txt"), encoding="utf-8").read().split())      # mar atnezett turak; a tobbi "Uj" jelolest kap
     for t in d["tours"]:
+        if only:
+            continue
         if t["id"] in rev:
             t.pop("new", None)
         else:
