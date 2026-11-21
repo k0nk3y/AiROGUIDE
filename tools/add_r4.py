@@ -19,9 +19,7 @@ def Pt(n, la, lo): return [n, la, lo]
 # ---------------- Azsia ----------------
 add("AS", "jeju", KR, ("Jeju Island", "Jeju-sziget"), ("Hallasan", "Hallasan", 33.3617, 126.5292), ["island", "volcano", "coast", "unesco"],
     ("Korea's volcanic island: the crater of Hallasan, the tuff cone of Seongsan Ilchulbong and waterfalls plunging into the sea.", "Korea vulkanikus szigete: a Hallasan krátere, a Seongsan Ilchulbong tufakúpja és a tengerbe zuhanó vízesések."), [],
-    [("short", "loop", 100, 3500, ("Hallasan and Seongsan", "Hallasan és Seongsan"), ("From Jeju City over Hallasan to the Seongsan Ilchulbong crater.", "Jeju városából a Hallasan felett a Seongsan Ilchulbong kráteréhez."),
-      ["RKPC", Pt("Hallasan", 33.3617, 126.5292), Pt("Seongsan Ilchulbong", 33.4590, 126.9420), "RKPC"]),
-     ("long", "loop", 105, 4000, ("Around Jeju", "Jeju körül"), ("About an hour: Seongsan, the Jeongbang waterfall, Yongmeori coast and Hallasan.", "Kb. egy óra: Seongsan, a Jeongbang-vízesés, a Yongmeori-part és a Hallasan."),
+    [("long", "loop", 105, 4000, ("Around Jeju", "Jeju körül"), ("About an hour: Seongsan, the Jeongbang waterfall, Yongmeori coast and Hallasan.", "Kb. egy óra: Seongsan, a Jeongbang-vízesés, a Yongmeori-part és a Hallasan."),
       ["RKPC", Pt("Seongsan Ilchulbong", 33.4590, 126.9420), Pt("Jeongbang Falls", 33.2440, 126.5710), Pt("Yongmeori Coast", 33.2310, 126.3120), Pt("Hallasan", 33.3617, 126.5292), "RKPC"])])
 add("AS", "rajasthan", IN, ("Jaipur and Rajasthan", "Jaipur és Rádzsasztán"), ("Amber Fort", "Amber-erőd", 26.9855, 75.8513), ["culture", "city"],
     ("The Pink City, its hilltop forts and the palaces of Rajasthan, with the holy lake of Pushkar and the salt flats of Sambhar.", "A Rózsaszín Város, hegytetői erődjei és Rádzsasztán palotái, a szent Pushkar-tóval és a Sambhar sósivataggal."), [],
@@ -75,9 +73,7 @@ add("NA", "mexico-city", MX, ("Mexico City and Teotihuacan", "Mexikóváros és 
 # ---------------- Del-Amerika ----------------
 add("SA", "nazca", PE, ("Nazca Lines", "Nazca-vonalak"), ("Hummingbird geoglyph", "Kolibri-geoglifa", -14.6917, -75.1458), ["culture", "unesco"],
     ("Giant figures scratched into the desert 2,000 years ago: the hummingbird, the monkey and the spider, best seen from the air.", "2000 éve a sivatagba karcolt óriási alakzatok: a kolibri, a majom és a pók, legjobban a levegőből látszanak."), [],
-    [("short", "loop", 90, 1500, ("Lines of Nazca", "Nazca-vonalak"), ("The Hummingbird geoglyph and the ceremonial centre of Cahuachi.", "A kolibri-geoglifa és Cahuachi szertartási központja."),
-      ["SPZA", Pt("Cahuachi", -14.8183, -75.1156), Pt("Hummingbird geoglyph", -14.6917, -75.1458), "SPZA"]),
-     ("long", "loop", 95, 2000, ("Nazca and Palpa", "Nazca és Palpa"), ("About an hour: Chauchilla cemetery, Cahuachi, the Nazca lines and the Palpa geoglyphs.", "Kb. egy óra: a Chauchilla-temető, Cahuachi, a Nazca-vonalak és a palpai geoglifák."),
+    [("long", "loop", 95, 2000, ("Nazca and Palpa", "Nazca és Palpa"), ("About an hour: Chauchilla cemetery, Cahuachi, the Nazca lines and the Palpa geoglyphs.", "Kb. egy óra: a Chauchilla-temető, Cahuachi, a Nazca-vonalak és a palpai geoglifák."),
       ["SPZA", Pt("Chauchilla Cemetery", -14.9750, -75.0980), Pt("Cahuachi", -14.8183, -75.1156), Pt("Hummingbird geoglyph", -14.6917, -75.1458), Pt("Palpa geoglyphs", -14.5500, -75.1830), "SPZA"])])
 add("SA", "uyuni", BO, ("Salar de Uyuni", "Uyuni sósivatag"), ("Salar de Uyuni", "Uyuni sósivatag", -20.1338, -67.4891), ["culture", "volcano"],
     ("The world's largest salt flat: a mirror of white crust stretching to the horizon, with cactus islands and volcanoes.", "A világ legnagyobb sósivataga: a horizontig nyúló fehér tükör kaktuszszigetekkel és vulkánokkal."), [],
@@ -104,9 +100,7 @@ add("AF", "serengeti-mara", TZ, ("Serengeti and the Mara", "Serengeti és a Mara
       ["HTSN", Pt("Lobo Valley", -1.8500, 35.0000), Pt("Mara River crossing", -1.6500, 34.9500), Pt("Grumeti River", -2.1500, 34.2500), "HTSN"])])
 add("AF", "mauritius", MU, ("Mauritius", "Mauritius"), ("Le Morne Brabant", "Le Morne Brabant", -20.4520, 57.3130), ["island", "coast", "unesco", "volcano"],
     ("Turquoise lagoons, the UNESCO rock of Le Morne and the coloured earths of Chamarel on a volcanic island.", "Türkizkék lagúnák, a világörökségi Le Morne-szikla és Chamarel színes földjei egy vulkanikus szigeten."), [],
-    [("short", "loop", 100, 2500, ("Island tour", "Szigetkör"), ("Île aux Cerfs, Pieter Both, Port Louis and the crater lake of Grand Bassin.", "Île aux Cerfs, a Pieter Both, Port Louis és a Grand Bassin kráter-tó."),
-      ["FIMP", Pt("Île aux Cerfs", -20.2700, 57.8060), Pt("Pieter Both", -20.1750, 57.5900), Pt("Port Louis", -20.1609, 57.5012), Pt("Grand Bassin", -20.4170, 57.4930), "FIMP"]),
-     ("long", "loop", 105, 3000, ("Mauritius from coast to coast", "Mauritius partról partra"), ("About an hour: the lagoons, Port Louis, Chamarel and the Le Morne peninsula.", "Kb. egy óra: a lagúnák, Port Louis, Chamarel és a Le Morne-félsziget."),
+    [("long", "loop", 105, 3000, ("Mauritius from coast to coast", "Mauritius partról partra"), ("About an hour: the lagoons, Port Louis, Chamarel and the Le Morne peninsula.", "Kb. egy óra: a lagúnák, Port Louis, Chamarel és a Le Morne-félsziget."),
       ["FIMP", Pt("Île aux Cerfs", -20.2700, 57.8060), Pt("Pieter Both", -20.1750, 57.5900), Pt("Port Louis", -20.1609, 57.5012), Pt("Chamarel", -20.4400, 57.3800), Pt("Le Morne Brabant", -20.4520, 57.3130), Pt("Blue Bay Marine Park", -20.4440, 57.7120), "FIMP"])])
 add("AF", "zanzibar", TZ, ("Zanzibar", "Zanzibár"), ("Stone Town", "Stone Town", -6.1630, 39.1900), ["island", "coast", "unesco"],
     ("Spice island of the Indian Ocean: the winding alleys of Stone Town, white beaches and the Mnemba coral atoll.", "Az Indiai-óceán fűszerszigete: Stone Town szűk sikátorai, fehér strandok és a Mnemba korallatoll."), [],
