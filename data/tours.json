@@ -1379,8 +1379,8 @@
     "hu": "Olaszország"
    },
    "name": {
-    "en": "Venice and the Dolomites",
-    "hu": "Velence és a Dolomitok"
+    "en": "The Dolomites",
+    "hu": "A Dolomitok"
    },
    "main": {
     "en": "Tre Cime di Lavaredo",
@@ -1390,63 +1390,13 @@
    },
    "tags": [
     "mountain",
-    "unesco",
-    "city"
+    "unesco"
    ],
    "desc": {
-    "en": "From the lagoon of Venice to the pale rock towers of the Dolomites: Cortina, the Tre Cime and the Marmolada glacier.",
-    "hu": "A velencei lagúnától a Dolomitok világos sziklatornyaiig: Cortina, a Tre Cime és a Marmolada-gleccser."
+    "en": "The pale rock towers of the Dolomites from Bolzano: Rosengarten, Sassolungo, Marmolada, the Tre Cime and Lago di Braies.",
+    "hu": "A Dolomitok világos sziklatornyai Bolzanóból: Catinaccio, Sassolungo, Marmolada, a Tre Cime és a Braies-tó."
    },
    "variants": [
-    {
-     "id": "ab",
-     "kind": "ab",
-     "kt": 130,
-     "alt_ft": 12500,
-     "stol": false,
-     "label": {
-      "en": "Venice to Bolzano",
-      "hu": "Velencétől Bolzanóig"
-     },
-     "desc": {
-      "en": "A one-way climb from Venice over the Dolomites to Bolzano; keep terrain clearance in mind.",
-      "hu": "Egyirányú repülés Velencéből a Dolomitok felett Bolzanóba; figyelj a terep feletti magasságra."
-     },
-     "pts": [
-      "LIPZ",
-      [
-       "St Mark's Basilica",
-       45.4343,
-       12.3388
-      ],
-      [
-       "~",
-       45.4343,
-       12.2875
-      ],
-      [
-       "Cortina d'Ampezzo",
-       46.5405,
-       12.1357
-      ],
-      [
-       "Tre Cime di Lavaredo",
-       46.6186,
-       12.3028
-      ],
-      [
-       "~",
-       46.65,
-       12.2772
-      ],
-      [
-       "Marmolada",
-       46.4342,
-       11.8559
-      ],
-      "LIPB"
-     ]
-    },
     {
      "id": "bz-short",
      "kind": "loop",
@@ -1531,13 +1481,8 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Cortina d'Ampezzo",
-     46.5405,
-     12.1357
-    ]
-   ]
+   "pois": [],
+   "new": true
   },
   {
    "id": "cinque-terre",
@@ -4802,6 +4747,65 @@
    },
    "variants": [
     {
+     "id": "city",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Venice highlights",
+      "hu": "Velence látnivalói"
+     },
+     "desc": {
+      "en": "A short loop over Torcello, Burano, St Mark's, the Lido and Murano, circling the southern lagoon.",
+      "hu": "Rövid kör Torcello, Burano, a Szent Márk tér, a Lido és Murano felett, a déli lagúnát megkerülve."
+     },
+     "pts": [
+      "LIPZ",
+      [
+       "Torcello",
+       45.4975,
+       12.4177
+      ],
+      [
+       "Burano",
+       45.485,
+       12.417
+      ],
+      [
+       "St Mark's Basilica",
+       45.434,
+       12.3397
+      ],
+      [
+       "Lido di Venezia",
+       45.4033,
+       12.367
+      ],
+      [
+       "~",
+       45.3317,
+       12.3117
+      ],
+      [
+       "~",
+       45.36,
+       12.21
+      ],
+      [
+       "~",
+       45.44,
+       12.26
+      ],
+      [
+       "Murano",
+       45.459,
+       12.353
+      ],
+      "LIPZ"
+     ]
+    },
+    {
      "id": "lagoon",
      "kind": "loop",
      "kt": 100,
@@ -4906,7 +4910,8 @@
      45.459,
      12.353
     ]
-   ]
+   ],
+   "new": true
   },
   {
    "id": "garda",

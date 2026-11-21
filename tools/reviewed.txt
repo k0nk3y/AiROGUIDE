@@ -7,7 +7,6 @@ balaton
 rome-naples
 amalfi
 tuscany
-dolomites
 cinque-terre
 matterhorn
 lucerne
@@ -34,5 +33,4 @@ peloponnese
 dalmatia
 prague
 zurich-constance
-venice
 garda
