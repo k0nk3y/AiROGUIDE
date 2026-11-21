@@ -90,7 +90,10 @@ tour("oahu", US, ("Hawaiian Islands", "Hawaii szigetei"), ("Diamond Head", "Diam
       ("bigisland", "loop", 110, 14500, ("Big Island volcanoes", "A Nagy-sziget vulkánjai"), ("From Hilo: Akaka Falls, Mauna Kea and the Kilauea crater.", "Hilóból: Akaka-vízesés, Mauna Kea és a Kilauea-kráter."),
        ["PHTO", ["Akaka Falls", 19.8550, -155.1530], ["Mauna Kea", 19.8206, -155.4681], ["Kilauea Crater", 19.4069, -155.2834], ["Rainbow Falls", 19.7220, -155.1100], "PHTO"]),
       ("hop", "ab", 110, 5500, ("Island hop: Oahu to Maui", "Szigetugrás: Oahutól Mauiig"), ("A one-way hop over the channel islands: Diamond Head, Molokai's sea cliffs, Lanai and Molokini.", "Egyirányú szigetugrás: Diamond Head, Molokai tengeri sziklái, Lanai és Molokini."),
-       ["PHNL", ["Diamond Head", 21.2619, -157.8058], ["Kalaupapa", 21.1888, -156.9830], ["Lanai City", 20.8270, -156.9200], ["Molokini Crater", 20.6300, -156.4960], "PHOG"])])
+       ["PHNL", ["Diamond Head", 21.2619, -157.8058], ["Kalaupapa", 21.1888, -156.9830], ["Lanai City", 20.8270, -156.9200], ["Molokini Crater", 20.6300, -156.4960], "PHOG"]),
+      ("all", "ab", 120, 8500, ("All islands: Kauai to the Big Island", "Összes sziget: Kauaitól a Nagy-szigetig"), ("A one-way flight along the whole chain: Kauai's Na Pali coast, Pearl Harbor, Molokai's sea cliffs, Haleakala on Maui, then Mauna Kea and Kilauea on the Big Island.", "Egyirányú repülés az egész szigetláncon: Kauai Na Pali-partja, Pearl Harbor, Molokai tengeri sziklái, Maui Haleakalája, majd a Nagy-sziget Mauna Keája és Kilaueája."),
+       ["PHLI", ["Hanalei Bay", 22.2035, -159.5013], ["Kalalau Valley", 22.1700, -159.6400], ["Waimea Canyon", 22.0714, -159.6638], ["Pearl Harbor", 21.3649, -157.9500], ["Diamond Head", 21.2619, -157.8058],
+        ["Kalaupapa", 21.1888, -156.9830], ["Haleakala Crater", 20.7097, -156.2533], ["Mauna Kea", 19.8206, -155.4681], ["Kilauea Crater", 19.4069, -155.2834], "PHTO"])])
 
 # ---------------- Del-Amerika ----------------
 tour("machu-picchu", PE, ("Machu Picchu and the Sacred Valley", "Machu Picchu és a Szent-völgy"), ("Machu Picchu", "Machu Picchu", -13.1631, -72.5450), ["mountain", "culture", "unesco"],
@@ -163,9 +166,10 @@ for t in T:
     t["continent"] = CONT.get(t["id"], "EU")
 NEW = [t["id"] for t in T]
 save()
+REV = set(open(os.path.join(os.path.dirname(P), "..", "tools", "reviewed.txt"), encoding="utf-8").read().split())
 d = json.load(open(P, encoding="utf-8"))
 for t in d["tours"]:
-    if t["id"] in NEW:
+    if t["id"] in NEW and t["id"] not in REV:
         t["new"] = True
 json.dump(d, open(P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(len(NEW), "uj tura")

@@ -8382,6 +8382,75 @@
       ],
       "PHOG"
      ]
+    },
+    {
+     "id": "all",
+     "kind": "ab",
+     "kt": 120,
+     "alt_ft": 8500,
+     "stol": false,
+     "label": {
+      "en": "All islands: Kauai to the Big Island",
+      "hu": "Összes sziget: Kauaitól a Nagy-szigetig"
+     },
+     "desc": {
+      "en": "A one-way flight along the whole chain: Kauai's Na Pali coast, Pearl Harbor, Molokai's sea cliffs, Haleakala on Maui, then Mauna Kea and Kilauea on the Big Island.",
+      "hu": "Egyirányú repülés az egész szigetláncon: Kauai Na Pali-partja, Pearl Harbor, Molokai tengeri sziklái, Maui Haleakalája, majd a Nagy-sziget Mauna Keája és Kilaueája."
+     },
+     "pts": [
+      "PHLI",
+      [
+       "Hanalei Bay",
+       22.2035,
+       -159.5013
+      ],
+      [
+       "Kalalau Valley",
+       22.17,
+       -159.64
+      ],
+      [
+       "Waimea Canyon",
+       22.0714,
+       -159.6638
+      ],
+      [
+       "Pearl Harbor",
+       21.3649,
+       -157.95
+      ],
+      [
+       "Diamond Head",
+       21.2619,
+       -157.8058
+      ],
+      [
+       "Kalaupapa",
+       21.1888,
+       -156.983
+      ],
+      [
+       "Haleakala Crater",
+       20.7097,
+       -156.2533
+      ],
+      [
+       "Mauna Kea",
+       19.8206,
+       -155.4681
+      ],
+      [
+       "Kilauea Crater",
+       19.4069,
+       -155.2834
+      ],
+      [
+       "~",
+       19.3963,
+       -155.1817
+      ],
+      "PHTO"
+     ]
     }
    ],
    "pois": [],
