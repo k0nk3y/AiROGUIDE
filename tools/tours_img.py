@@ -1,0 +1,31 @@
+#!/usr/bin/env python3
+"""A turak fejlec-kepe: tours.json 'img' = angol Wikipedia-cikk cime; az app a cikk vezerkepet toltI le futaskor (nincs kep a repoban)."""
+import json, os
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+IMG = {
+"agra-taj": "Taj Mahal", "everest": "Mount Everest", "angkor": "Angkor Wat", "bagan": "Bagan", "budapest": "Hungarian Parliament Building", "balaton": "Tihany Abbey",
+"rome-naples": "Colosseum", "amalfi": "Amalfi Coast", "tuscany": "Val d'Orcia", "dolomites": "Tre Cime di Lavaredo", "cinque-terre": "Vernazza", "matterhorn": "Matterhorn",
+"lucerne": "Chapel Bridge", "salzkammergut": "Hallstatt", "loire": "Château de Chambord", "golden-circle": "Gullfoss", "italian-lakes": "Bellagio", "sicily": "Mount Etna",
+"vienna-wachau": "Schönbrunn Palace", "bavaria": "Neuschwanstein Castle", "rhine": "Rhine Gorge", "provence-riviera": "Pont du Gard", "mont-blanc": "Mont Blanc", "normandy": "Mont-Saint-Michel",
+"andalusia": "Alhambra", "barcelona": "Sagrada Família", "london": "Tower Bridge", "scottish-highlands": "Glenfinnan Viaduct", "cornwall": "St Michael's Mount", "edinburgh": "Edinburgh Castle",
+"norway-fjords": "Geirangerfjord", "cyclades": "Santorini", "peloponnese": "Acropolis of Athens", "dalmatia": "Dubrovnik", "prague": "Charles Bridge", "zurich-constance": "Rhine Falls",
+"venice": "Grand Canal (Venice)", "garda": "Sirmione", "krakow-tatras": "Wawel Castle", "stockholm": "Gamla stan", "copenhagen": "Kronborg", "helsinki": "Helsinki Cathedral",
+"lofoten": "Reine, Norway", "slovenia": "Lake Bled", "malta": "Valletta", "transylvania": "Bran Castle", "montenegro": "Bay of Kotor", "netherlands": "Keukenhof",
+"belgium": "Grand-Place", "tatras-slovakia": "High Tatras", "bulgaria": "Rila Monastery", "istria": "Rovinj", "ireland-west": "Cliffs of Moher", "cyprus": "Petra tou Romiou",
+"lisbon-sintra": "Belém Tower", "algarve": "Benagil Cave", "istanbul": "Hagia Sophia", "cappadocia": "Göreme", "mallorca": "Sa Calobra", "crete": "Balos Lagoon",
+"berlin": "Brandenburg Gate", "faroe": "Mulafossur", "brittany": "Côte de Granit Rose", "new-york": "Statue of Liberty", "grand-canyon": "Grand Canyon", "sf-bay": "Golden Gate Bridge",
+"oahu": "Diamond Head, Hawaii", "machu-picchu": "Machu Picchu", "rio": "Christ the Redeemer (statue)", "iguazu": "Iguazu Falls", "cape-town": "Table Mountain", "giza": "Giza pyramid complex",
+"kilimanjaro": "Mount Kilimanjaro", "sydney": "Sydney Opera House", "whitsundays": "Whitehaven Beach", "milford-sound": "Milford Sound", "tokyo-fuji": "Mount Fuji", "dubai": "Burj Khalifa",
+"hong-kong": "Victoria Harbour", "yellowstone": "Grand Prismatic Spring", "las-vegas": "Hoover Dam", "yosemite": "Half Dome", "banff": "Moraine Lake", "yucatan": "Chichen Itza",
+"torres-del-paine": "Torres del Paine National Park", "perito-moreno": "Perito Moreno Glacier", "galapagos": "Galápagos Islands", "buenos-aires": "Buenos Aires Obelisk", "marrakech-atlas": "Koutoubia Mosque",
+"victoria-falls": "Victoria Falls", "luxor": "Karnak", "ngorongoro": "Ngorongoro Conservation Area", "uluru": "Uluru", "great-ocean-road": "Twelve Apostles (Victoria)", "aoraki": "Aoraki / Mount Cook",
+"bora-bora": "Mount Otemanu", "bali": "Tanah Lot", "singapore": "Marina Bay Sands",
+}
+P = os.path.join(ROOT, "data", "tours.json")
+d = json.load(open(P, encoding="utf-8"))
+miss = [t["id"] for t in d["tours"] if t["id"] not in IMG]
+for t in d["tours"]:
+    if t["id"] in IMG:
+        t["img"] = IMG[t["id"]]
+print("hianyzik:", miss)
+json.dump(d, open(P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)

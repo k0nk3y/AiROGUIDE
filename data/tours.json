@@ -232,7 +232,8 @@
      75.8237
     ]
    ],
-   "kw": "Akbar sírja Szikandra Keetham-tó madárrezervátum Baby Taj Itimád-ud-Daula síremléke Holdfény-kert agrai vörös erőd Fatehpur Szikri szellemváros Bharatpur madárpark Amber-erőd Dzsaipur Városi palota Dzsaipur"
+   "kw": "Akbar sírja Szikandra Keetham-tó madárrezervátum Baby Taj Itimád-ud-Daula síremléke Holdfény-kert agrai vörös erőd Fatehpur Szikri szellemváros Bharatpur madárpark Amber-erőd Dzsaipur Városi palota Dzsaipur",
+   "img": "Taj Mahal"
   },
   {
    "id": "everest",
@@ -431,7 +432,8 @@
      86.714
     ]
    ],
-   "kw": "Namche Bazár Tengboche kolostor Dingboche falu Everest alaptábor Kala Patthar csúcs Gokyo-tavak Mount Everest Csomolungma Ama Dablam csúcs"
+   "kw": "Namche Bazár Tengboche kolostor Dingboche falu Everest alaptábor Kala Patthar csúcs Gokyo-tavak Mount Everest Csomolungma Ama Dablam csúcs",
+   "img": "Mount Everest"
   },
   {
    "id": "angkor",
@@ -571,7 +573,8 @@
      104.1125
     ]
    ],
-   "kw": "Angkor Vat Bayon templom Ta Prohm templom fák Tonlé Sap tó Banteay Srei templom Phnom Kulen vízesés"
+   "kw": "Angkor Vat Bayon templom Ta Prohm templom fák Tonlé Sap tó Banteay Srei templom Phnom Kulen vízesés",
+   "img": "Angkor Wat"
   },
   {
    "id": "bagan",
@@ -672,7 +675,8 @@
      95.2497
     ]
    ],
-   "kw": "Shwezigon pagoda Ananda templom Dhammayangyi templom Popa-hegy Sulamani templom"
+   "kw": "Shwezigon pagoda Ananda templom Dhammayangyi templom Popa-hegy Sulamani templom",
+   "img": "Bagan"
   },
   {
    "id": "budapest",
@@ -822,7 +826,8 @@
      19.0452
     ]
    ],
-   "kw": "Gellért-hegy Citadella János-hegy Erzsébet-kilátó Margit-sziget Országház Parlament Budai Vár esztergomi bazilika visegrádi fellegvár Szentendre Hősök tere Halászbástya Margit híd"
+   "kw": "Gellért-hegy Citadella János-hegy Erzsébet-kilátó Margit-sziget Országház Parlament Budai Vár esztergomi bazilika visegrádi fellegvár Szentendre Hősök tere Halászbástya Margit híd",
+   "img": "Hungarian Parliament Building"
   },
   {
    "id": "balaton",
@@ -951,7 +956,8 @@
      17.43
     ]
    ],
-   "kw": "keszthelyi Festetics-kastély Badacsony hegy tihanyi apátság hévízi tó szigligeti vár"
+   "kw": "keszthelyi Festetics-kastély Badacsony hegy tihanyi apátság hévízi tó szigligeti vár",
+   "img": "Tihany Abbey"
   },
   {
    "id": "rome-naples",
@@ -1146,7 +1152,8 @@
      12.4833
     ]
    ],
-   "kw": "Colosseum Kolosszeum Szent Péter-bazilika Vatikán Pompeji Vezúv vulkán Capri sziget Vízvezeték-park Róma Castel Gandolfo pápai nyaraló Villa d'Este Tivoli Ostia Antica Forum Romanum Trevi-kút"
+   "kw": "Colosseum Kolosszeum Szent Péter-bazilika Vatikán Pompeji Vezúv vulkán Capri sziget Vízvezeték-park Róma Castel Gandolfo pápai nyaraló Villa d'Este Tivoli Ostia Antica Forum Romanum Trevi-kút",
+   "img": "Colosseum"
   },
   {
    "id": "amalfi",
@@ -1248,7 +1255,8 @@
      14.243
     ]
    ],
-   "kw": "Capri sziget Sorrento Positano Amalfi Pompeji Vezúv vulkán Villa Rufolo Ravello Marina Piccola Capri"
+   "kw": "Capri sziget Sorrento Positano Amalfi Pompeji Vezúv vulkán Villa Rufolo Ravello Marina Piccola Capri",
+   "img": "Amalfi Coast"
   },
   {
    "id": "tuscany",
@@ -1378,7 +1386,8 @@
      11.6793
     ]
    ],
-   "kw": "firenzei dóm Santa Maria del Fiore pisai ferde torony San Gimignano Siena Pienza Monteriggioni"
+   "kw": "firenzei dóm Santa Maria del Fiore pisai ferde torony San Gimignano Siena Pienza Monteriggioni",
+   "img": "Val d'Orcia"
   },
   {
    "id": "dolomites",
@@ -1491,7 +1500,8 @@
     }
    ],
    "pois": [],
-   "kw": "Catinaccio Rózsakert-hegység Sassolungo Langkofel Seceda csúcs Puez-Odle Marmolada gleccser Három Csúcs Tre Cime Braies-tó Pragser Wildsee"
+   "kw": "Catinaccio Rózsakert-hegység Sassolungo Langkofel Seceda csúcs Puez-Odle Marmolada gleccser Három Csúcs Tre Cime Braies-tó Pragser Wildsee",
+   "img": "Tre Cime di Lavaredo"
   },
   {
    "id": "cinque-terre",
@@ -1600,7 +1610,8 @@
      9.738
     ]
    ],
-   "kw": "Portovenere Vernazza Portofino Monterosso Riomaggiore Cinque Terre"
+   "kw": "Portovenere Vernazza Portofino Monterosso Riomaggiore Cinque Terre",
+   "img": "Vernazza"
   },
   {
    "id": "matterhorn",
@@ -1719,7 +1730,8 @@
      7.8632
     ]
    ],
-   "kw": "Matterhorn Cervino Zermatt Aletsch-gleccser Jungfrau Eiger Interlaken"
+   "kw": "Matterhorn Cervino Zermatt Aletsch-gleccser Jungfrau Eiger Interlaken",
+   "img": "Matterhorn"
   },
   {
    "id": "lucerne",
@@ -1805,7 +1817,8 @@
      8.5906
     ]
    ],
-   "kw": "Rigi Kápolna-híd Luzern Pilatus hegy Titlis Rütli-rét"
+   "kw": "Rigi Kápolna-híd Luzern Pilatus hegy Titlis Rütli-rét",
+   "img": "Chapel Bridge"
   },
   {
    "id": "salzkammergut",
@@ -1970,7 +1983,8 @@
      13.45
     ]
    ],
-   "kw": "Dachstein gleccser Hallstatt Sankt Wolfgang Mondsee salzburgi vár Hohensalzburg Herrenchiemsee kastély Kampenwand Eisriesenwelt jégbarlang Grossglockner Zell am See Wolfgang-tó"
+   "kw": "Dachstein gleccser Hallstatt Sankt Wolfgang Mondsee salzburgi vár Hohensalzburg Herrenchiemsee kastély Kampenwand Eisriesenwelt jégbarlang Grossglockner Zell am See Wolfgang-tó",
+   "img": "Hallstatt"
   },
   {
    "id": "loire",
@@ -2120,7 +2134,8 @@
      0.9843
     ]
    ],
-   "kw": "Eiffel-torony Versailles-i kastély chambordi kastély chenonceau-i kastély amboise-i kastély Sacré-Cœur Montmartre Notre-Dame párizsi székesegyház"
+   "kw": "Eiffel-torony Versailles-i kastély chambordi kastély chenonceau-i kastély amboise-i kastély Sacré-Cœur Montmartre Notre-Dame párizsi székesegyház",
+   "img": "Château de Chambord"
   },
   {
    "id": "golden-circle",
@@ -2260,7 +2275,8 @@
      -21.9266
     ]
    ],
-   "kw": "Thingvellir Geysir gejzír Gullfoss vízesés Kerið kráter Kék Lagúna Hallgrímskirkja templom Reykjavík"
+   "kw": "Thingvellir Geysir gejzír Gullfoss vízesés Kerið kráter Kék Lagúna Hallgrímskirkja templom Reykjavík",
+   "img": "Gullfoss"
   },
   {
    "id": "italian-lakes",
@@ -2380,7 +2396,8 @@
      8.5333
     ]
    ],
-   "kw": "milánói dóm Duomo San Giulio-sziget Orta-tó Isola Bella Borromei-szigetek Villa del Balbianello Bellagio Stresa"
+   "kw": "milánói dóm Duomo San Giulio-sziget Orta-tó Isola Bella Borromei-szigetek Villa del Balbianello Bellagio Stresa",
+   "img": "Bellagio"
   },
   {
    "id": "sicily",
@@ -2496,7 +2513,8 @@
      15.279
     ]
    ],
-   "kw": "Etna vulkán Taormina Ortygia Siracusa Templomok völgye Agrigento palermói katedrális görög színház Siracusa"
+   "kw": "Etna vulkán Taormina Ortygia Siracusa Templomok völgye Agrigento palermói katedrális görög színház Siracusa",
+   "img": "Mount Etna"
   },
   {
    "id": "vienna-wachau",
@@ -2621,7 +2639,8 @@
      16.3656
     ]
    ],
-   "kw": "schönbrunni kastély Bécs Szent István-dóm Bécs Stephansdom Dürnstein Wachau melki apátság Kahlenberg Hofburg"
+   "kw": "schönbrunni kastély Bécs Szent István-dóm Bécs Stephansdom Dürnstein Wachau melki apátság Kahlenberg Hofburg",
+   "img": "Schönbrunn Palace"
   },
   {
    "id": "bavaria",
@@ -2745,7 +2764,8 @@
      10.7355
     ]
    ],
-   "kw": "Neuschwanstein kastély Wieskirche Linderhof kastély Zugspitze müncheni Frauenkirche Hohenschwangau kastély"
+   "kw": "Neuschwanstein kastély Wieskirche Linderhof kastély Zugspitze müncheni Frauenkirche Hohenschwangau kastély",
+   "img": "Neuschwanstein Castle"
   },
   {
    "id": "rhine",
@@ -2875,7 +2895,8 @@
      7.9215
     ]
    ],
-   "kw": "kölni dóm Deutsches Eck Koblenz Marksburg vár Loreley szikla Rüdesheim mainzi dóm Drachenfels"
+   "kw": "kölni dóm Deutsches Eck Koblenz Marksburg vár Loreley szikla Rüdesheim mainzi dóm Drachenfels",
+   "img": "Rhine Gorge"
   },
   {
    "id": "provence-riviera",
@@ -3044,7 +3065,8 @@
      4.8075
     ]
    ],
-   "kw": "Pont du Gard római vízvezeték Pápai palota Avignon Verdon-szurdok Cannes Monaco Monte-Carlo Notre-Dame de la Garde Marseille Cap Canaille arles-i amfiteátrum Les Baux"
+   "kw": "Pont du Gard római vízvezeték Pápai palota Avignon Verdon-szurdok Cannes Monaco Monte-Carlo Notre-Dame de la Garde Marseille Cap Canaille arles-i amfiteátrum Les Baux",
+   "img": "Pont du Gard"
   },
   {
    "id": "mont-blanc",
@@ -3129,7 +3151,8 @@
      6.8694
     ]
    ],
-   "kw": "Annecy-tó Mont Blanc Fehér-hegy Aiguille du Midi Mer de Glace jégtenger gleccser Chamonix"
+   "kw": "Annecy-tó Mont Blanc Fehér-hegy Aiguille du Midi Mer de Glace jégtenger gleccser Chamonix",
+   "img": "Mont Blanc"
   },
   {
    "id": "normandy",
@@ -3259,7 +3282,8 @@
      0.2327
     ]
    ],
-   "kw": "Honfleur Arromanches Omaha Beach normandiai partraszállás Pointe du Hoc Mont-Saint-Michel Pegasus-híd"
+   "kw": "Honfleur Arromanches Omaha Beach normandiai partraszállás Pointe du Hoc Mont-Saint-Michel Pegasus-híd",
+   "img": "Mont-Saint-Michel"
   },
   {
    "id": "andalusia",
@@ -3423,7 +3447,8 @@
      -5.3536
     ]
    ],
-   "kw": "sevillai katedrális córdobai mecset Mezquita Alhambra Granada Ronda Gibraltári szikla Giralda Sevilla"
+   "kw": "sevillai katedrális córdobai mecset Mezquita Alhambra Granada Ronda Gibraltári szikla Giralda Sevilla",
+   "img": "Alhambra"
   },
   {
    "id": "barcelona",
@@ -3543,7 +3568,8 @@
      2.1527
     ]
    ],
-   "kw": "Sagrada Família Barcelona Montserrat kolostor Dalí Színház-Múzeum Figueres Cap de Creus gironai katedrális Park Güell Gaudí"
+   "kw": "Sagrada Família Barcelona Montserrat kolostor Dalí Színház-Múzeum Figueres Cap de Creus gironai katedrális Park Güell Gaudí",
+   "img": "Sagrada Família"
   },
   {
    "id": "london",
@@ -3682,7 +3708,8 @@
      -0.1419
     ]
    ],
-   "kw": "Tower Bridge London parlament Big Ben Westminster Windsori kastély Wembley stadion Szent Pál-székesegyház London greenwichi csillagvizsgáló London Eye óriáskerék Buckingham-palota"
+   "kw": "Tower Bridge London parlament Big Ben Westminster Windsori kastély Wembley stadion Szent Pál-székesegyház London greenwichi csillagvizsgáló London Eye óriáskerék Buckingham-palota",
+   "img": "Tower Bridge"
   },
   {
    "id": "scottish-highlands",
@@ -3797,7 +3824,8 @@
      -5.0833
     ]
    ],
-   "kw": "Glencoe völgy Ben Nevis Glenfinnan viadukt Harry Potter híd Eilean Donan vár Urquhart vár Loch Ness-i szörny stirlingi vár Loch Lomond"
+   "kw": "Glencoe völgy Ben Nevis Glenfinnan viadukt Harry Potter híd Eilean Donan vár Urquhart vár Loch Ness-i szörny stirlingi vár Loch Lomond",
+   "img": "Glenfinnan Viaduct"
   },
   {
    "id": "cornwall",
@@ -3921,7 +3949,8 @@
      -5.6501
     ]
    ],
-   "kw": "Tintagel vár Arthur király Eden Project Szent Mihály-hegy Cornwall Land's End St Ives Minack Színház"
+   "kw": "Tintagel vár Arthur király Eden Project Szent Mihály-hegy Cornwall Land's End St Ives Minack Színház",
+   "img": "St Michael's Mount"
   },
   {
    "id": "edinburgh",
@@ -4012,7 +4041,8 @@
      -3.1618
     ]
    ],
-   "kw": "Kelpie szobrok Falkirk Wheel hajóemelő stirlingi vár Forth-híd edinburghi vár Arthur's Seat"
+   "kw": "Kelpie szobrok Falkirk Wheel hajóemelő stirlingi vár Forth-híd edinburghi vár Arthur's Seat",
+   "img": "Edinburgh Castle"
   },
   {
    "id": "norway-fjords",
@@ -4117,7 +4147,8 @@
      7.1138
     ]
    ],
-   "kw": "Trollstigen Trollok lépcsője Geiranger-fjord Briksdal-gleccser Flåm"
+   "kw": "Trollstigen Trollok lépcsője Geiranger-fjord Briksdal-gleccser Flåm",
+   "img": "Geirangerfjord"
   },
   {
    "id": "cyclades",
@@ -4232,7 +4263,8 @@
      25.2693
     ]
    ],
-   "kw": "Szantorini kaldera Portara Naxosz Délosz Mikonosz"
+   "kw": "Szantorini kaldera Portara Naxosz Délosz Mikonosz",
+   "img": "Santorini"
   },
   {
    "id": "peloponnese",
@@ -4352,7 +4384,8 @@
      24.0247
     ]
    ],
-   "kw": "Akropolisz Athén Korinthoszi-csatorna Mükéné Epidauroszi színház Poszeidón temploma Szúnion"
+   "kw": "Akropolisz Athén Korinthoszi-csatorna Mükéné Epidauroszi színház Poszeidón temploma Szúnion",
+   "img": "Acropolis of Athens"
   },
   {
    "id": "dalmatia",
@@ -4496,7 +4529,8 @@
      16.4411
     ]
    ],
-   "kw": "Dubrovnik óváros Hvar Diocletianus-palota Split Krka-vízesések Mljet Zlatni Rat Aranyszarv Brač"
+   "kw": "Dubrovnik óváros Hvar Diocletianus-palota Split Krka-vízesések Mljet Zlatni Rat Aranyszarv Brač",
+   "img": "Dubrovnik"
   },
   {
    "id": "prague",
@@ -4621,7 +4655,8 @@
      14.4114
     ]
    ],
-   "kw": "Karlštejn vár Szent Borbála-templom Kutná Hora Károly-híd Prága Prágai vár Vyšehrad"
+   "kw": "Karlštejn vár Szent Borbála-templom Kutná Hora Károly-híd Prága Prágai vár Vyšehrad",
+   "img": "Charles Bridge"
   },
   {
    "id": "zurich-constance",
@@ -4751,7 +4786,8 @@
      9.343
     ]
    ],
-   "kw": "Grossmünster Zürich Rajnai-vízesés Mainau-sziget virágsziget Säntis"
+   "kw": "Grossmünster Zürich Rajnai-vízesés Mainau-sziget virágsziget Säntis",
+   "img": "Rhine Falls"
   },
   {
    "id": "venice",
@@ -4912,7 +4948,8 @@
      12.353
     ]
    ],
-   "kw": "Lido Velence Chioggia Szent Márk-bazilika Velence Burano Torcello Padova Prato della Valle Murano üveg Rialto-híd"
+   "kw": "Lido Velence Chioggia Szent Márk-bazilika Velence Burano Torcello Padova Prato della Valle Murano üveg Rialto-híd",
+   "img": "Grand Canal (Venice)"
   },
   {
    "id": "garda",
@@ -5003,7 +5040,8 @@
      10.5226
     ]
    ],
-   "kw": "veronai Aréna Júlia Monte Baldo Riva del Garda Salò Sirmione Scaligeri-vár Sirmione"
+   "kw": "veronai Aréna Júlia Monte Baldo Riva del Garda Salò Sirmione Scaligeri-vár Sirmione",
+   "img": "Sirmione"
   },
   {
    "id": "krakow-tatras",
@@ -5124,7 +5162,8 @@
      20.055
     ]
    ],
-   "kw": "Wawel Krakkó wieliczkai sóbánya Niepołomice vár Giewont Zakopane Tátra"
+   "kw": "Wawel Krakkó wieliczkai sóbánya Niepołomice vár Giewont Zakopane Tátra",
+   "img": "Wawel Castle"
   },
   {
    "id": "stockholm",
@@ -5206,7 +5245,8 @@
      17.886
     ]
    ],
-   "kw": "Gamla Stan Stockholm óváros Vasa Múzeum Sandhamn Vaxholm erőd Drottningholm kastély"
+   "kw": "Gamla Stan Stockholm óváros Vasa Múzeum Sandhamn Vaxholm erőd Drottningholm kastély",
+   "img": "Gamla stan"
   },
   {
    "id": "copenhagen",
@@ -5331,7 +5371,8 @@
      12.5911
     ]
    ],
-   "kw": "Öresund-híd Kronborg Hamlet kastély Kis hableány Koppenhága Møns Klint krétasziklák roskildei dóm Nyhavn"
+   "kw": "Öresund-híd Kronborg Hamlet kastély Kis hableány Koppenhága Møns Klint krétasziklák roskildei dóm Nyhavn",
+   "img": "Kronborg"
   },
   {
    "id": "helsinki",
@@ -5408,7 +5449,8 @@
      24.9255
     ]
    ],
-   "kw": "helsinki székesegyház Suomenlinna erőd Porvoo Sziklatemplom Helsinki"
+   "kw": "helsinki székesegyház Suomenlinna erőd Porvoo Sziklatemplom Helsinki",
+   "img": "Helsinki Cathedral"
   },
   {
    "id": "lofoten",
@@ -5533,7 +5575,8 @@
      13.133
     ]
    ],
-   "kw": "Å Lofoten Reine Lofoten Hamnøy Henningsvær Svolvær"
+   "kw": "Å Lofoten Reine Lofoten Hamnøy Henningsvær Svolvær",
+   "img": "Reine, Norway"
   },
   {
    "id": "slovenia",
@@ -5653,7 +5696,8 @@
      14.5086
     ]
    ],
-   "kw": "ljubljanai vár Bledi-tó Kranj Predjama barlangvár Triglav"
+   "kw": "ljubljanai vár Bledi-tó Kranj Predjama barlangvár Triglav",
+   "img": "Lake Bled"
   },
   {
    "id": "malta",
@@ -5735,7 +5779,8 @@
      14.4025
     ]
    ],
-   "kw": "Dingli-sziklák Málta Dwejra Azúr-ablak Gozo Ggantija templom Gozo Valletta Mdina"
+   "kw": "Dingli-sziklák Málta Dwejra Azúr-ablak Gozo Ggantija templom Gozo Valletta Mdina",
+   "img": "Valletta"
   },
   {
    "id": "transylvania",
@@ -5855,7 +5900,8 @@
      24.1519
     ]
    ],
-   "kw": "Nagydisznód Bâlea-tó Fogarasi-havasok Nagyszeben Tanácstorony Törcsvári kastély Drakula Peleș-kastély Sinaia Fekete templom Brassó"
+   "kw": "Nagydisznód Bâlea-tó Fogarasi-havasok Nagyszeben Tanácstorony Törcsvári kastély Drakula Peleș-kastély Sinaia Fekete templom Brassó",
+   "img": "Bran Castle"
   },
   {
    "id": "montenegro",
@@ -5965,7 +6011,8 @@
      18.8912
     ]
    ],
-   "kw": "Shkodra-tó Szkadari-tó Sveti Stefan Kotori-öböl Durmitor Tara-híd"
+   "kw": "Shkodra-tó Szkadari-tó Sveti Stefan Kotori-öböl Durmitor Tara-híd",
+   "img": "Bay of Kotor"
   },
   {
    "id": "netherlands",
@@ -6090,7 +6137,8 @@
      4.89
     ]
    ],
-   "kw": "Amszterdam csatornagyűrű Zandvoort Keukenhof tulipán Kinderdijk szélmalmok Oosterschelde vihar-gát Deltaművek"
+   "kw": "Amszterdam csatornagyűrű Zandvoort Keukenhof tulipán Kinderdijk szélmalmok Oosterschelde vihar-gát Deltaművek",
+   "img": "Keukenhof"
   },
   {
    "id": "belgium",
@@ -6210,7 +6258,8 @@
      4.3415
     ]
    ],
-   "kw": "Waterloo oroszlán dombja Brüsszel Grand-Place Nagy tér Atomium Menin-kapu Ypres Brugge harangtorony Gravensteen Gent"
+   "kw": "Waterloo oroszlán dombja Brüsszel Grand-Place Nagy tér Atomium Menin-kapu Ypres Brugge harangtorony Gravensteen Gent",
+   "img": "Grand-Place"
   },
   {
    "id": "tatras-slovakia",
@@ -6335,7 +6384,8 @@
      20.06
     ]
    ],
-   "kw": "Késmárki vár Lomnici-csúcs Gerlachfalvi-csúcs Csorba-tó Szepesi vár"
+   "kw": "Késmárki vár Lomnici-csúcs Gerlachfalvi-csúcs Csorba-tó Szepesi vár",
+   "img": "High Tatras"
   },
   {
    "id": "bulgaria",
@@ -6446,7 +6496,8 @@
      23.3328
     ]
    ],
-   "kw": "Pancsarevo-tó Vitosa Cserni Vrah Bojana-templom Alekszandr Nyevszkij-székesegyház Szófia Musala Rilai kolostor"
+   "kw": "Pancsarevo-tó Vitosa Cserni Vrah Bojana-templom Alekszandr Nyevszkij-székesegyház Szófia Musala Rilai kolostor",
+   "img": "Rila Monastery"
   },
   {
    "id": "istria",
@@ -6527,7 +6578,8 @@
      13.765
     ]
    ],
-   "kw": "Motovun Rovinj Brijuni-szigetek pulai amfiteátrum"
+   "kw": "Motovun Rovinj Brijuni-szigetek pulai amfiteátrum",
+   "img": "Rovinj"
   },
   {
    "id": "ireland-west",
@@ -6652,7 +6704,8 @@
      -8.8115
     ]
    ],
-   "kw": "Bunratty vár Moheri-sziklák Kilrush Dún Aonghasa Aran-szigetek Poulnabrone dolmen Burren"
+   "kw": "Bunratty vár Moheri-sziklák Kilrush Dún Aonghasa Aran-szigetek Poulnabrone dolmen Burren",
+   "img": "Cliffs of Moher"
   },
   {
    "id": "cyprus",
@@ -6772,7 +6825,8 @@
      32.407
     ]
    ],
-   "kw": "Aphrodité sziklája Ciprus Kourion Királysírok Páfosz Kék Lagúna Akamas Olümposz Troodosz"
+   "kw": "Aphrodité sziklája Ciprus Kourion Királysírok Páfosz Kék Lagúna Akamas Olümposz Troodosz",
+   "img": "Petra tou Romiou"
   },
   {
    "id": "lisbon-sintra",
@@ -6912,7 +6966,8 @@
     }
    ],
    "pois": [],
-   "kw": "Vasco da Gama-híd Lisszabon Kereskedelmi tér Lisszabon Cristo Rei Krisztus-szobor Lisszabon Április 25. híd Lisszabon Jerónimos-kolostor Belémi torony Cascais Cabo da Roca Európa legnyugatibb pontja Pena-palota Sintra Sintrai Nemzeti Palota"
+   "kw": "Vasco da Gama-híd Lisszabon Kereskedelmi tér Lisszabon Cristo Rei Krisztus-szobor Lisszabon Április 25. híd Lisszabon Jerónimos-kolostor Belémi torony Cascais Cabo da Roca Európa legnyugatibb pontja Pena-palota Sintra Sintrai Nemzeti Palota",
+   "img": "Belém Tower"
   },
   {
    "id": "algarve",
@@ -7040,7 +7095,8 @@
     }
    ],
    "pois": [],
-   "kw": "Ponta da Piedade Lagos Benagili barlang Praia da Marinha Albufeira Lagos Algarve Szent Vince-fok világítótorony Sagres Ria Formosa lagúna"
+   "kw": "Ponta da Piedade Lagos Benagili barlang Praia da Marinha Albufeira Lagos Algarve Szent Vince-fok világítótorony Sagres Ria Formosa lagúna",
+   "img": "Benagil Cave"
   },
   {
    "id": "istanbul",
@@ -7170,7 +7226,8 @@
     }
    ],
    "pois": [],
-   "kw": "Büyükada Hercegek-szigetei Boszporusz-híd Dolmabahçe-palota Galata-torony Hagia Sophia Ayasofya Szent Zsófia Fatih Szultán Mehmed-híd"
+   "kw": "Büyükada Hercegek-szigetei Boszporusz-híd Dolmabahçe-palota Galata-torony Hagia Sophia Ayasofya Szent Zsófia Fatih Szultán Mehmed-híd",
+   "img": "Hagia Sophia"
   },
   {
    "id": "cappadocia",
@@ -7294,7 +7351,8 @@
     }
    ],
    "pois": [],
-   "kw": "Uçhisar vár Göreme Ürgüp Szerelem-völgy Kappadókia Derinkuyu földalatti város Erciyes-hegy Avanos"
+   "kw": "Uçhisar vár Göreme Ürgüp Szerelem-völgy Kappadókia Derinkuyu földalatti város Erciyes-hegy Avanos",
+   "img": "Göreme"
   },
   {
    "id": "mallorca",
@@ -7418,7 +7476,8 @@
     }
    ],
    "pois": [],
-   "kw": "Sa Calobra Sóller Valldemossa palmai katedrális Pollença Alcúdia Formentor-fok"
+   "kw": "Sa Calobra Sóller Valldemossa palmai katedrális Pollença Alcúdia Formentor-fok",
+   "img": "Sa Calobra"
   },
   {
    "id": "crete",
@@ -7588,7 +7647,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Knósszoszi palota Kréta Phaisztosz Matala Ida-hegy Szamaria-szurdok Elafonisi Balosz-lagúna Hanya régi kikötő Spinalonga Vai pálmaliget Zakrosz Chrissi-sziget"
+   "kw": "Knósszoszi palota Kréta Phaisztosz Matala Ida-hegy Szamaria-szurdok Elafonisi Balosz-lagúna Hanya régi kikötő Spinalonga Vai pálmaliget Zakrosz Chrissi-sziget",
+   "img": "Balos Lagoon"
   },
   {
    "id": "berlin",
@@ -7712,7 +7772,8 @@
     }
    ],
    "pois": [],
-   "kw": "Siegessäule Győzelmi oszlop Berlin Brandenburgi kapu Berlini tévétorony Fernsehturm East Side Gallery Berlini fal Tempelhof repülőtér Sanssouci Potsdam Charlottenburg-palota Müggel-tó"
+   "kw": "Siegessäule Győzelmi oszlop Berlin Brandenburgi kapu Berlini tévétorony Fernsehturm East Side Gallery Berlini fal Tempelhof repülőtér Sanssouci Potsdam Charlottenburg-palota Müggel-tó",
+   "img": "Brandenburg Gate"
   },
   {
    "id": "faroe",
@@ -7836,7 +7897,8 @@
     }
    ],
    "pois": [],
-   "kw": "Tórshavn Saksun Múlafossur vízesés Gásadalur Kallur világítótorony Kalsoy Vestmanna madárszirtek"
+   "kw": "Tórshavn Saksun Múlafossur vízesés Gásadalur Kallur világítótorony Kalsoy Vestmanna madárszirtek",
+   "img": "Mulafossur"
   },
   {
    "id": "brittany",
@@ -7970,7 +8032,8 @@
     }
    ],
    "pois": [],
-   "kw": "Saint-Malo La Latte-erőd Cap Fréhel Dinan Perros-Guirec Rózsaszín gránitpart Bréhat-sziget Mont-Dol"
+   "kw": "Saint-Malo La Latte-erőd Cap Fréhel Dinan Perros-Guirec Rózsaszín gránitpart Bréhat-sziget Mont-Dol",
+   "img": "Côte de Granit Rose"
   },
   {
    "id": "new-york",
@@ -8060,7 +8123,8 @@
     }
    ],
    "pois": [],
-   "kw": "Brooklyn-híd Szabadság-szobor One World Trade Center Empire State Building Central Park Yankee Stadion"
+   "kw": "Brooklyn-híd Szabadság-szobor One World Trade Center Empire State Building Central Park Yankee Stadion",
+   "img": "Statue of Liberty"
   },
   {
    "id": "grand-canyon",
@@ -8130,7 +8194,8 @@
     }
    ],
    "pois": [],
-   "kw": "Desert View őrtorony Bright Angel Point Grand Canyon Village"
+   "kw": "Desert View őrtorony Bright Angel Point Grand Canyon Village",
+   "img": "Grand Canyon"
   },
   {
    "id": "sf-bay",
@@ -8200,7 +8265,8 @@
     }
    ],
    "pois": [],
-   "kw": "Ocean Beach Golden Gate híd Alcatraz Bay Bridge"
+   "kw": "Ocean Beach Golden Gate híd Alcatraz Bay Bridge",
+   "img": "Golden Gate Bridge"
   },
   {
    "id": "oahu",
@@ -8521,7 +8587,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Diamond Head Hanauma-öböl Makapuu világítótorony Kualoa Pearl Harbor Waimea-kanyon Kalalau-völgy Na Pali Hanalei-öböl Wailua-vízesés Iao-völgy Lahaina Molokini-kráter Haleakala-kráter Hana Kilauea vulkán Mauna Kea Akaka-vízesés Szivárvány-vízesés Hilo Kalaupapa Molokai Lanai"
+   "kw": "Diamond Head Hanauma-öböl Makapuu világítótorony Kualoa Pearl Harbor Waimea-kanyon Kalalau-völgy Na Pali Hanalei-öböl Wailua-vízesés Iao-völgy Lahaina Molokini-kráter Haleakala-kráter Hana Kilauea vulkán Mauna Kea Akaka-vízesés Szivárvány-vízesés Hilo Kalaupapa Molokai Lanai",
+   "img": "Diamond Head, Hawaii"
   },
   {
    "id": "machu-picchu",
@@ -8640,7 +8707,8 @@
     }
    ],
    "pois": [],
-   "kw": "Pisac Moray inka terasz Sacsayhuamán Cusco Ollantaytambo Machu Picchu"
+   "kw": "Pisac Moray inka terasz Sacsayhuamán Cusco Ollantaytambo Machu Picchu",
+   "img": "Machu Picchu"
   },
   {
    "id": "rio",
@@ -8726,7 +8794,8 @@
     }
    ],
    "pois": [],
-   "kw": "Maracanã stadion Pedra da Gávea Megváltó Krisztus-szobor Corcovado Copacabana Cukorsüveg-hegy Pão de Açúcar Rio-Niterói híd"
+   "kw": "Maracanã stadion Pedra da Gávea Megváltó Krisztus-szobor Corcovado Copacabana Cukorsüveg-hegy Pão de Açúcar Rio-Niterói híd",
+   "img": "Christ the Redeemer (statue)"
   },
   {
    "id": "iguazu",
@@ -8801,7 +8870,8 @@
     }
    ],
    "pois": [],
-   "kw": "Iguazú-vízesés Iguaçu Hármashatár Itaipu-gát"
+   "kw": "Iguazú-vízesés Iguaçu Hármashatár Itaipu-gát",
+   "img": "Iguazu Falls"
   },
   {
    "id": "cape-town",
@@ -8920,7 +8990,8 @@
     }
    ],
    "pois": [],
-   "kw": "Robben-sziget Mandela Fokvárosi stadion Camps Bay Table Mountain Asztal-hegy Chapman's Peak Boulders Beach pingvinek Jó Remény foka Cape Point"
+   "kw": "Robben-sziget Mandela Fokvárosi stadion Camps Bay Table Mountain Asztal-hegy Chapman's Peak Boulders Beach pingvinek Jó Remény foka Cape Point",
+   "img": "Table Mountain"
   },
   {
    "id": "giza",
@@ -9045,7 +9116,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Kairói fellegvár Szaladin Dzsószer lépcsős piramisa Szakkara Vörös piramis Dahsúr gízai piramisok Kheopsz Szfinx meidumi piramis Qarún-tó Fajjúm"
+   "kw": "Kairói fellegvár Szaladin Dzsószer lépcsős piramisa Szakkara Vörös piramis Dahsúr gízai piramisok Kheopsz Szfinx meidumi piramis Qarún-tó Fajjúm",
+   "img": "Giza pyramid complex"
   },
   {
    "id": "kilimanjaro",
@@ -9114,7 +9186,8 @@
     }
    ],
    "pois": [],
-   "kw": "Meru-hegy Amboseli Kilimandzsáró"
+   "kw": "Meru-hegy Amboseli Kilimandzsáró",
+   "img": "Mount Kilimanjaro"
   },
   {
    "id": "sydney",
@@ -9204,7 +9277,8 @@
     }
    ],
    "pois": [],
-   "kw": "Sydney-torony Sydney-i Operaház Sydney Harbour Bridge Vaskarika Manly Beach Sydney Heads Bondi-part"
+   "kw": "Sydney-torony Sydney-i Operaház Sydney Harbour Bridge Vaskarika Manly Beach Sydney Heads Bondi-part",
+   "img": "Sydney Opera House"
   },
   {
    "id": "whitsundays",
@@ -9268,7 +9342,8 @@
     }
    ],
    "pois": [],
-   "kw": "Szív-zátony Whitehaven-part Whitsunday"
+   "kw": "Szív-zátony Whitehaven-part Whitsunday",
+   "img": "Whitehaven Beach"
   },
   {
    "id": "milford-sound",
@@ -9343,7 +9418,8 @@
     }
    ],
    "pois": [],
-   "kw": "Remarkables hegység Wakatipu-tó Mitre-csúcs Milford Sound"
+   "kw": "Remarkables hegység Wakatipu-tó Mitre-csúcs Milford Sound",
+   "img": "Milford Sound"
   },
   {
    "id": "tokyo-fuji",
@@ -9473,7 +9549,8 @@
     }
    ],
    "pois": [],
-   "kw": "Szivárványhíd Tokió Tokyo Tower Meidzsi szentély Szenszódzsi templom Asakusa Tokyo Skytree Tokyo Disneyland Kavagucsi-tó Fudzsi-hegy Fuji Asi-tó Hakone Yokohama Landmark Tower"
+   "kw": "Szivárványhíd Tokió Tokyo Tower Meidzsi szentély Szenszódzsi templom Asakusa Tokyo Skytree Tokyo Disneyland Kavagucsi-tó Fudzsi-hegy Fuji Asi-tó Hakone Yokohama Landmark Tower",
+   "img": "Mount Fuji"
   },
   {
    "id": "dubai",
@@ -9553,7 +9630,8 @@
     }
    ],
    "pois": [],
-   "kw": "Dubai Marina Palm Jebel Ali Palm Jumeirah pálma-sziget Burdzs al-Arab vitorlás szálloda Burdzs Kalifa"
+   "kw": "Dubai Marina Palm Jebel Ali Palm Jumeirah pálma-sziget Burdzs al-Arab vitorlás szálloda Burdzs Kalifa",
+   "img": "Burj Khalifa"
   },
   {
    "id": "hong-kong",
@@ -9643,7 +9721,8 @@
     }
    ],
    "pois": [],
-   "kw": "Tsing Ma híd Victoria-kikötő Victoria-csúcs Tian Tan Buddha Nagy Buddha Lantau"
+   "kw": "Tsing Ma híd Victoria-kikötő Victoria-csúcs Tian Tan Buddha Nagy Buddha Lantau",
+   "img": "Victoria Harbour"
   },
   {
    "id": "yellowstone",
@@ -9768,7 +9847,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Oxbow Bend Jackson-tó Jenny-tó Grand Teton Yellowstone-tó Yellowstone-vízesés Grand Prismatic Spring szivárványos forrás Old Faithful gejzír"
+   "kw": "Oxbow Bend Jackson-tó Jenny-tó Grand Teton Yellowstone-tó Yellowstone-vízesés Grand Prismatic Spring szivárványos forrás Old Faithful gejzír",
+   "img": "Grand Prismatic Spring"
   },
   {
    "id": "las-vegas",
@@ -9893,7 +9973,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Hoover-gát Las Vegas Strip Red Rock-kanyon Tűz völgye Valley of Fire Mead-tó"
+   "kw": "Hoover-gát Las Vegas Strip Red Rock-kanyon Tűz völgye Valley of Fire Mead-tó",
+   "img": "Hoover Dam"
   },
   {
    "id": "yosemite",
@@ -9973,7 +10054,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Glacier Point Half Dome Tuolumne Meadows Yosemite-vízesés El Capitan"
+   "kw": "Glacier Point Half Dome Tuolumne Meadows Yosemite-vízesés El Capitan",
+   "img": "Half Dome"
   },
   {
    "id": "banff",
@@ -10087,7 +10169,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Rundle-hegy Banff Moraine-tó Lake Louise Louise-tó Peyto-tó"
+   "kw": "Rundle-hegy Banff Moraine-tó Lake Louise Louise-tó Peyto-tó",
+   "img": "Moraine Lake"
   },
   {
    "id": "yucatan",
@@ -10212,7 +10295,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Isla Mujeres Cancún szállodasor Tulum Cobá Chichén Itzá Kukulkán piramis"
+   "kw": "Isla Mujeres Cancún szállodasor Tulum Cobá Chichén Itzá Kukulkán piramis",
+   "img": "Chichen Itza"
   },
   {
    "id": "torres-del-paine",
@@ -10287,7 +10371,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Pehoé-tó Cuernos del Paine Szarvak Grey-gleccser Torres del Paine"
+   "kw": "Pehoé-tó Cuernos del Paine Szarvak Grey-gleccser Torres del Paine",
+   "img": "Torres del Paine National Park"
   },
   {
    "id": "perito-moreno",
@@ -10391,7 +10476,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Upsala-gleccser Perito Moreno-gleccser Lago Argentino Viedma-tó Fitz Roy Cerro Torre"
+   "kw": "Upsala-gleccser Perito Moreno-gleccser Lago Argentino Viedma-tó Fitz Roy Cerro Torre",
+   "img": "Perito Moreno Glacier"
   },
   {
    "id": "galapagos",
@@ -10472,7 +10558,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Daphne Major Darwin pintyek Sullivan-öböl lávamező Pinnacle Rock Bartolomé Puerto Ayora"
+   "kw": "Daphne Major Darwin pintyek Sullivan-öböl lávamező Pinnacle Rock Bartolomé Puerto Ayora",
+   "img": "Galápagos Islands"
   },
   {
    "id": "buenos-aires",
@@ -10558,7 +10645,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Martín García-sziget Recoleta temető Evita Obeliszk Buenos Aires Puerto Madero La Boca Caminito Bombonera"
+   "kw": "Martín García-sziget Recoleta temető Evita Obeliszk Buenos Aires Puerto Madero La Boca Caminito Bombonera",
+   "img": "Buenos Aires Obelisk"
   },
   {
    "id": "marrakech-atlas",
@@ -10679,7 +10767,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Koutoubia-mecset Marrakesh Oukaïmeden Imlil Toubkal Aït Benhaddou"
+   "kw": "Koutoubia-mecset Marrakesh Oukaïmeden Imlil Toubkal Aït Benhaddou",
+   "img": "Koutoubia Mosque"
   },
   {
    "id": "victoria-falls",
@@ -10750,7 +10839,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Batoka-szurdok Viktória-vízesés Mosi-oa-Tunya Zambezi-szigetek"
+   "kw": "Batoka-szurdok Viktória-vízesés Mosi-oa-Tunya Zambezi-szigetek",
+   "img": "Victoria Falls"
   },
   {
    "id": "luxor",
@@ -10869,7 +10959,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "denderai templom Hathor Királyok völgye Luxor karnaki templom Memnón-kolosszusok Abüdosz"
+   "kw": "denderai templom Hathor Királyok völgye Luxor karnaki templom Memnón-kolosszusok Abüdosz",
+   "img": "Karnak"
   },
   {
    "id": "ngorongoro",
@@ -10940,7 +11031,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Manyara-tó Ngorongoro-kráter Ol Doinyo Lengai Meru-hegy"
+   "kw": "Manyara-tó Ngorongoro-kráter Ol Doinyo Lengai Meru-hegy",
+   "img": "Ngorongoro Conservation Area"
   },
   {
    "id": "uluru",
@@ -11054,7 +11146,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Kata Tjuta Olgák Mount Olga kilátó Uluru Ayers Rock Kings Canyon Conner-hegy"
+   "kw": "Kata Tjuta Olgák Mount Olga kilátó Uluru Ayers Rock Kings Canyon Conner-hegy",
+   "img": "Uluru"
   },
   {
    "id": "great-ocean-road",
@@ -11128,7 +11221,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Bells Beach szörf Cape Otway világítótorony Tizenkét Apostol 12 Apostol sziklák Loch Ard-szurdok Port Campbell"
+   "kw": "Bells Beach szörf Cape Otway világítótorony Tizenkét Apostol 12 Apostol sziklák Loch Ard-szurdok Port Campbell",
+   "img": "Twelve Apostles (Victoria)"
   },
   {
    "id": "aoraki",
@@ -11203,7 +11297,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Pukaki-tó Tasman-gleccser Aoraki Mount Cook Hooker-gleccser"
+   "kw": "Pukaki-tó Tasman-gleccser Aoraki Mount Cook Hooker-gleccser",
+   "img": "Aoraki / Mount Cook"
   },
   {
    "id": "bora-bora",
@@ -11284,7 +11379,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Otemanu-hegy Matira-part Taputapuatea marae Raiatea Maupiti"
+   "kw": "Otemanu-hegy Matira-part Taputapuatea marae Raiatea Maupiti",
+   "img": "Mount Otemanu"
   },
   {
    "id": "bali",
@@ -11410,7 +11506,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Uluwatu templom Tanah Lot Nusa Penida Kelingking Tegallalang rizsteraszok Batur-hegy Agung-hegy"
+   "kw": "Uluwatu templom Tanah Lot Nusa Penida Kelingking Tegallalang rizsteraszok Batur-hegy Agung-hegy",
+   "img": "Tanah Lot"
   },
   {
    "id": "singapore",
@@ -11486,7 +11583,8 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Marina Bay Sands Sentosa Jurong-tó Pulau Ubin"
+   "kw": "Marina Bay Sands Sentosa Jurong-tó Pulau Ubin",
+   "img": "Marina Bay Sands"
   }
  ]
 }
