@@ -3,6 +3,13 @@
 import json, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMG = {
+"hamburg-lubeck": "Elbphilharmonie|Holstentor", "black-forest": "Triberg Waterfalls|Black Forest", "bordeaux": "Dune of Pilat|Saint-Émilion", "corsica": "Scandola Nature Reserve|Calvi, Haute-Corse", "basque-coast": "San Sebastián|Gaztelugatxe",
+"costa-brava": "Cadaqués|Tossa de Mar", "douro": "Douro Valley|Pinhão", "gdansk": "Gdańsk|Long Market", "belgrade-novi-sad": "Belgrade Fortress|Petrovaradin Fortress", "seoul": "Gyeongbokgung|N Seoul Tower",
+"manila-taal": "Taal Volcano|Intramuros", "kuala-lumpur": "Petronas Towers|Batu Caves", "chiang-mai": "Doi Suthep|Doi Inthanon", "muscat": "Sultan Qaboos Grand Mosque|Muscat", "antalya": "Aspendos|Antalya",
+"boston-cape-cod": "Cape Cod|Provincetown, Massachusetts", "new-orleans": "French Quarter|New Orleans", "san-diego": "La Jolla|Coronado Bridge", "denver-rockies": "Pikes Peak|Garden of the Gods", "sedona": "Sedona, Arizona|Cathedral Rock (Arizona)",
+"quebec": "Château Frontenac|Quebec City", "entebbe-nile": "Source of the Nile|Jinja, Uganda", "swakopmund": "Sandwich Harbour|Swakopmund", "fes": "Fes el Bali|Fes, Morocco", "mombasa-diani": "Fort Jesus|Diani Beach",
+"florianopolis": "Hercílio Luz Bridge|Florianópolis", "quito-cotopaxi": "Cotopaxi|Quito", "salta-humahuaca": "Quebrada de Humahuaca|Purmamarca", "wellington-marlborough": "Marlborough Sounds|Wellington", "blue-mountains": "Three Sisters (New South Wales)|Blue Mountains (New South Wales)",
+"darwin-kakadu": "Jim Jim Falls|Kakadu National Park", "brisbane-moreton": "Moreton Island|Brisbane",
 "nairobi-rift": "Lake Naivasha|Hell's Gate National Park", "kigali-volcanoes": "Volcanoes National Park|Mount Karisimbi", "tunis-carthage": "Sidi Bou Said|Carthage", "morondava-tsingy": "Avenue of the Baobabs|Tsingy de Bemaraha Strict Nature Reserve",
 "kruger-blyde": "Blyde River Canyon|Kruger National Park", "aswan-abu-simbel": "Abu Simbel temples|Philae", "perth-rottnest": "Rottnest Island|Perth", "gold-coast": "Surfers Paradise, Queensland|Gold Coast, Queensland",
 "melbourne-phillip": "Phillip Island|Melbourne", "bay-of-islands": "Hole in the Rock (Piercy Island)|Bay of Islands", "rotorua-tongariro": "Wai-O-Tapu|Tongariro National Park", "palau": "Jellyfish Lake|Koror|Peleliu|Rock Islands Southern Lagoon",

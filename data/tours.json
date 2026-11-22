@@ -3558,7 +3558,7 @@
      2.1527
     ]
    ],
-   "kw": "Sagrada Família Barcelona Montserrat kolostor Dalí Színház-Múzeum Figueres Cap de Creus gironai katedrális Park Güell Gaudí",
+   "kw": "Sagrada Família Barcelona Montserrat kolostor Dalí Színház-Múzeum Figueres Cap de Creus Cap de Creus Dalí gironai katedrális Park Güell Gaudí",
    "img": "Sagrada Família"
   },
   {
@@ -9264,7 +9264,7 @@
     }
    ],
    "pois": [],
-   "kw": "Sydney-torony Sydney-i Operaház Sydney Harbour Bridge Vaskarika Manly Beach Sydney Heads Bondi-part",
+   "kw": "Sydney-torony Sydney-i Operaház Sydney Harbour Bridge Sydney híd Manly Beach Sydney Heads Bondi-part",
    "img": "Sydney Opera House"
   },
   {
@@ -20789,6 +20789,2544 @@
    "new": true,
    "kw": "Aínsa Ainsa Pireneusok Monte Perdido Monte Perdido Ordesa Aneto Aneto Pireneusok legmagasabb Pica d'Estats Pica d'Estats Andorra la Vella Andorra",
    "img": "Aneto|Pica d'Estats"
+  },
+  {
+   "id": "hamburg-lubeck",
+   "continent": "EU",
+   "country": {
+    "en": "Germany",
+    "hu": "Németország"
+   },
+   "name": {
+    "en": "Hamburg, Lübeck and the Kiel Canal",
+    "hu": "Hamburg, Lübeck és a Kieli-csatorna"
+   },
+   "main": {
+    "en": "Elbphilharmonie",
+    "hu": "Elbphilharmonie",
+    "lat": 53.5413,
+    "lon": 9.9841
+   },
+   "tags": [
+    "city",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Europe's third-largest port, the brick Gothic Holstentor of Lübeck, the Baltic fjord of Kiel and the High Bridge over the world's busiest artificial waterway.",
+    "hu": "Európa harmadik legnagyobb kikötője, Lübeck téglagótikus Holstentorja, a kieli Balti-tengeri fjord és a világ legforgalmasabb mesterséges vízi útja feletti magas híd."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Hanseatic loop",
+      "hu": "Hanza-kör"
+     },
+     "desc": {
+      "en": "Lübeck, Laboe, Rendsburg, Brunsbüttel and the Hamburg harbour.",
+      "hu": "Lübeck, Laboe, Rendsburg, Brunsbüttel és a hamburgi kikötő."
+     },
+     "pts": [
+      "EDDH",
+      [
+       "Holstentor",
+       53.8667,
+       10.6844
+      ],
+      [
+       "Laboe Naval Memorial",
+       54.404,
+       10.226
+      ],
+      [
+       "Rendsburg High Bridge",
+       54.3,
+       9.665
+      ],
+      [
+       "Brunsbüttel Locks",
+       53.912,
+       9.145
+      ],
+      [
+       "Elbphilharmonie",
+       53.5413,
+       9.9841
+      ],
+      [
+       "~",
+       53.5571,
+       10.0385
+      ],
+      "EDDH"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Holstentor Lübeck Holstentor kapu Laboe haditengerészeti emlékmű Laboe Kiel emlékmű Rendsburgi magas híd Rendsburg híd Kieli-csatorna Brunsbütteli zsilipek Brunsbüttel zsilip Kieli-csatorna Elbphilharmonie Elbphilharmonie Hamburg",
+   "img": "Elbphilharmonie|Holstentor"
+  },
+  {
+   "id": "black-forest",
+   "continent": "EU",
+   "country": {
+    "en": "Germany",
+    "hu": "Németország"
+   },
+   "name": {
+    "en": "Black Forest and Strasbourg",
+    "hu": "Fekete-erdő és Strasbourg"
+   },
+   "main": {
+    "en": "Triberg Waterfalls",
+    "hu": "Triberg-vízesés",
+    "lat": 48.13,
+    "lon": 8.23
+   },
+   "tags": [
+    "mountain",
+    "culture"
+   ],
+   "desc": {
+    "en": "Dark fir-covered ridges, the highest waterfalls in Germany at Triberg, Lake Titisee, the Feldberg and the red Gothic cathedral of Strasbourg.",
+    "hu": "Sötét fenyves gerincek, Németország legmagasabb vízesései Tribergben, a Titisee, a Feldberg és Strasbourg vörös gótikus katedrálisa."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Schwarzwald loop",
+      "hu": "Schwarzwald-kör"
+     },
+     "desc": {
+      "en": "Triberg, Lake Titisee, the Feldberg, Freiburg and Strasbourg.",
+      "hu": "Triberg, a Titisee, a Feldberg, Freiburg és Strasbourg."
+     },
+     "pts": [
+      "EDSB",
+      [
+       "Triberg Waterfalls",
+       48.13,
+       8.23
+      ],
+      [
+       "Lake Titisee",
+       47.9,
+       8.15
+      ],
+      [
+       "Feldberg",
+       47.874,
+       8.004
+      ],
+      [
+       "Freiburg",
+       47.996,
+       7.853
+      ],
+      [
+       "Strasbourg Cathedral",
+       48.5819,
+       7.7507
+      ],
+      "EDSB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Triberg-vízesés Triberg vízesés Fekete-erdő Titisee Titisee tó Feldberg Feldberg Fekete-erdő Freiburg Freiburg Münster Strasbourgi katedrális Strasbourg katedrális",
+   "img": "Triberg Waterfalls|Black Forest"
+  },
+  {
+   "id": "bordeaux",
+   "continent": "EU",
+   "country": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "name": {
+    "en": "Bordeaux and the Arcachon Bay",
+    "hu": "Bordeaux és az Arcachon-öböl"
+   },
+   "main": {
+    "en": "Dune du Pilat",
+    "hu": "Dune du Pilat",
+    "lat": 44.59,
+    "lon": -1.213
+   },
+   "tags": [
+    "coast",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Europe's tallest sand dune, the oyster bay of Cap Ferret, the wine villages of Saint-Émilion and the stone bridge over the Garonne.",
+    "hu": "Európa legmagasabb homokdűnéje, Cap Ferret osztrigás öble, Saint-Émilion borfalvai és a Garonne feletti kőhíd."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Dune and vineyards",
+      "hu": "Dűne és szőlők"
+     },
+     "desc": {
+      "en": "Cap Ferret, the Dune du Pilat, Saint-Émilion and Bordeaux.",
+      "hu": "Cap Ferret, a Dune du Pilat, Saint-Émilion és Bordeaux."
+     },
+     "pts": [
+      "LFBD",
+      [
+       "Cap Ferret",
+       44.64,
+       -1.25
+      ],
+      [
+       "Dune du Pilat",
+       44.59,
+       -1.213
+      ],
+      [
+       "Saint-Émilion",
+       44.894,
+       -0.155
+      ],
+      [
+       "~",
+       44.9641,
+       -0.1848
+      ],
+      [
+       "Bordeaux Pont de Pierre",
+       44.837,
+       -0.56
+      ],
+      "LFBD"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Cap Ferret Cap Ferret Arcachon Dune du Pilat Pilat dűne Arcachon Saint-Émilion Saint-Emilion borvidék Bordeaux kőhíd Bordeaux Pont de Pierre Garonne",
+   "img": "Dune of Pilat|Saint-Émilion"
+  },
+  {
+   "id": "corsica",
+   "continent": "EU",
+   "country": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "name": {
+    "en": "Corsica",
+    "hu": "Korzika"
+   },
+   "main": {
+    "en": "Scandola",
+    "hu": "Scandola",
+    "lat": 42.379,
+    "lon": 8.55
+   },
+   "tags": [
+    "island",
+    "mountain",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The island of beauty: the finger of Cap Corse, the citadel of Calvi, the red cliffs of Scandola and the 2,700-metre peaks of Monte Cinto.",
+    "hu": "A szépség szigete: a Cap Corse ujja, Calvi fellegvára, Scandola vörös sziklái és a Monte Cinto 2700 méteres csúcsai."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Island of beauty",
+      "hu": "A szépség szigete"
+     },
+     "desc": {
+      "en": "Cap Corse, Saint-Florent, Calvi, Scandola and Monte Cinto.",
+      "hu": "Cap Corse, Saint-Florent, Calvi, Scandola és a Monte Cinto."
+     },
+     "pts": [
+      "LFKB",
+      [
+       "Saint-Florent",
+       42.68,
+       9.3
+      ],
+      [
+       "Monte Cinto",
+       42.383,
+       8.95
+      ],
+      [
+       "Scandola",
+       42.379,
+       8.55
+      ],
+      [
+       "~",
+       42.4335,
+       8.5143
+      ],
+      [
+       "Calvi",
+       42.567,
+       8.757
+      ],
+      [
+       "Cap Corse",
+       43.0,
+       9.38
+      ],
+      [
+       "~",
+       42.966,
+       9.52
+      ],
+      "LFKB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Saint-Florent Saint-Florent Korzika Monte Cinto Monte Cinto Korzika Scandola Scandola természetvédelmi terület Calvi Calvi fellegvár Cap Corse Cap Corse félsziget",
+   "img": "Scandola Nature Reserve|Calvi, Haute-Corse"
+  },
+  {
+   "id": "basque-coast",
+   "continent": "EU",
+   "country": {
+    "en": "Spain",
+    "hu": "Spanyolország"
+   },
+   "name": {
+    "en": "Basque Coast",
+    "hu": "Baszk tengerpart"
+   },
+   "main": {
+    "en": "Gaztelugatxe",
+    "hu": "Gaztelugatxe",
+    "lat": 43.447,
+    "lon": -2.785
+   },
+   "tags": [
+    "coast",
+    "culture"
+   ],
+   "desc": {
+    "en": "The titanium Guggenheim of Bilbao, the islet of Gaztelugatxe, the shell-shaped bay of San Sebastián and Biarritz across the border.",
+    "hu": "Bilbao titánium Guggenheimja, a Gaztelugatxe-szigetke, San Sebastián kagyló alakú öble és a határ túloldalán Biarritz."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Bay of Biscay loop",
+      "hu": "Vizcayai-öböl kör"
+     },
+     "desc": {
+      "en": "Gaztelugatxe, San Sebastián, Biarritz, La Rhune and Bilbao.",
+      "hu": "Gaztelugatxe, San Sebastián, Biarritz, La Rhune és Bilbao."
+     },
+     "pts": [
+      "LEBB",
+      [
+       "Guggenheim Bilbao",
+       43.2687,
+       -2.934
+      ],
+      [
+       "~",
+       43.2386,
+       -2.9069
+      ],
+      [
+       "San Sebastián",
+       43.318,
+       -1.986
+      ],
+      [
+       "La Rhune",
+       43.31,
+       -1.637
+      ],
+      [
+       "Biarritz",
+       43.492,
+       -1.561
+      ],
+      [
+       "Gaztelugatxe",
+       43.447,
+       -2.785
+      ],
+      "LEBB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Bilbao Guggenheim Guggenheim múzeum Bilbao San Sebastián San Sebastian Concha La Rhune La Rhune hegy Biarritz Biarritz Gaztelugatxe Gaztelugatxe Sárkánykő",
+   "img": "San Sebastián|Gaztelugatxe"
+  },
+  {
+   "id": "costa-brava",
+   "continent": "EU",
+   "country": {
+    "en": "Spain",
+    "hu": "Spanyolország"
+   },
+   "name": {
+    "en": "Costa Brava",
+    "hu": "Costa Brava"
+   },
+   "main": {
+    "en": "Cap de Creus",
+    "hu": "Cap de Creus",
+    "lat": 42.319,
+    "lon": 3.316
+   },
+   "tags": [
+    "coast",
+    "culture"
+   ],
+   "desc": {
+    "en": "Rugged rocky coves, Dalí's Cadaqués, the Medes Islands and the walled seaside town of Tossa de Mar.",
+    "hu": "Zord sziklás öblök, Dalí Cadaqués-e, a Medes-szigetek és a várfallal övezett Tossa de Mar."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Wild Coast",
+      "hu": "A vad part"
+     },
+     "desc": {
+      "en": "Tossa de Mar, the Medes Islands, Cadaqués, Cap de Creus and Girona.",
+      "hu": "Tossa de Mar, a Medes-szigetek, Cadaqués, Cap de Creus és Girona."
+     },
+     "pts": [
+      "LEGE",
+      [
+       "Tossa de Mar",
+       41.719,
+       2.931
+      ],
+      [
+       "Medes Islands",
+       42.049,
+       3.225
+      ],
+      [
+       "Cap de Creus",
+       42.319,
+       3.316
+      ],
+      [
+       "~",
+       42.3364,
+       3.2734
+      ],
+      [
+       "~",
+       42.3173,
+       3.2322
+      ],
+      [
+       "Cadaqués",
+       42.289,
+       3.277
+      ],
+      [
+       "Girona",
+       41.9794,
+       2.8214
+      ],
+      "LEGE"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Tossa de Mar Tossa de Mar vár Medes-szigetek Medes szigetek L'Estartit Cap de Creus Cap de Creus Dalí Cadaqués Cadaques Dalí Girona Girona színes házak",
+   "img": "Cadaqués|Tossa de Mar"
+  },
+  {
+   "id": "douro",
+   "continent": "EU",
+   "country": {
+    "en": "Portugal",
+    "hu": "Portugália"
+   },
+   "name": {
+    "en": "Porto and the Douro Valley",
+    "hu": "Porto és a Douro-völgy"
+   },
+   "main": {
+    "en": "Pinhão",
+    "hu": "Pinhão",
+    "lat": 41.19,
+    "lon": -7.545
+   },
+   "tags": [
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The terraced vineyards of the oldest demarcated wine region in the world, Guimarães, birthplace of Portugal, and Braga's pilgrim stairway.",
+    "hu": "A világ legrégebbi védett borvidékének teraszos szőlői, Guimarães, Portugália bölcsője és Braga zarándoklépcsője."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Douro loop",
+      "hu": "Douro-kör"
+     },
+     "desc": {
+      "en": "Régua, Pinhão, Guimarães, Braga and the Porto riverfront.",
+      "hu": "Régua, Pinhão, Guimarães, Braga és a portói folyópart."
+     },
+     "pts": [
+      "LPPR",
+      [
+       "Ribeira Porto",
+       41.1405,
+       -8.6111
+      ],
+      [
+       "Régua",
+       41.165,
+       -7.788
+      ],
+      [
+       "Pinhão",
+       41.19,
+       -7.545
+      ],
+      [
+       "~",
+       41.2357,
+       -7.5361
+      ],
+      [
+       "Guimarães",
+       41.444,
+       -8.296
+      ],
+      [
+       "Bom Jesus do Monte",
+       41.555,
+       -8.377
+      ],
+      "LPPR"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Ribeira, Porto Porto Ribeira Douro Régua Peso da Régua Douro Pinhão Pinhao Douro Guimarães Guimaraes vár Bom Jesus do Monte Braga Bom Jesus lépcső",
+   "img": "Douro Valley|Pinhão"
+  },
+  {
+   "id": "gdansk",
+   "continent": "EU",
+   "country": {
+    "en": "Poland",
+    "hu": "Lengyelország"
+   },
+   "name": {
+    "en": "Gdańsk and the Hel Peninsula",
+    "hu": "Gdańsk és a Hel-félsziget"
+   },
+   "main": {
+    "en": "Gdańsk Old Town",
+    "hu": "Gdańsk óvárosa",
+    "lat": 54.352,
+    "lon": 18.656
+   },
+   "tags": [
+    "city",
+    "coast",
+    "culture"
+   ],
+   "desc": {
+    "en": "The Hanseatic port with its colourful Long Market, the red brick castle of the Teutonic Knights in Malbork and a 35 km sand spit into the Baltic.",
+    "hu": "A hanza-kikötő színes Hosszú Piaccal, a Német Lovagrend vörös téglás vára Malborkban és egy 35 km-es homokzátony a Balti-tengerbe."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Baltic loop",
+      "hu": "Balti-tengeri kör"
+     },
+     "desc": {
+      "en": "Malbork Castle, Gdańsk, Westerplatte, the Hel Peninsula and Sopot.",
+      "hu": "A malborki vár, Gdańsk, Westerplatte, a Hel-félsziget és Sopot."
+     },
+     "pts": [
+      "EPGD",
+      [
+       "Sopot Pier",
+       54.447,
+       18.571
+      ],
+      [
+       "Westerplatte",
+       54.406,
+       18.668
+      ],
+      [
+       "Gdańsk Old Town",
+       54.352,
+       18.656
+      ],
+      [
+       "Malbork Castle",
+       54.039,
+       19.029
+      ],
+      [
+       "~",
+       54.078,
+       19.1773
+      ],
+      [
+       "Hel",
+       54.6,
+       18.8
+      ],
+      "EPGD"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Sopoti móló Sopot móló Westerplatte Westerplatte Gdansk Gdański óváros Gdansk óváros Hosszú Piac Malborki vár Malbork Marienburg vár Hel Hel-félsziget",
+   "img": "Gdańsk|Long Market"
+  },
+  {
+   "id": "belgrade-novi-sad",
+   "continent": "EU",
+   "country": {
+    "en": "Serbia",
+    "hu": "Szerbia"
+   },
+   "name": {
+    "en": "Belgrade and Novi Sad",
+    "hu": "Belgrád és Újvidék"
+   },
+   "main": {
+    "en": "Kalemegdan Fortress",
+    "hu": "Kalemegdan-erőd",
+    "lat": 44.8225,
+    "lon": 20.45
+   },
+   "tags": [
+    "city",
+    "culture"
+   ],
+   "desc": {
+    "en": "The confluence of the Sava and the Danube under the Kalemegdan fortress, the Petrovaradin Fortress above Novi Sad and the monasteries of Fruška Gora.",
+    "hu": "A Száva és a Duna összefolyása a Kalemegdan-erőd alatt, a péterváradi erőd Újvidék felett és a Fruška Gora kolostorai."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Danube loop",
+      "hu": "Duna-kör"
+     },
+     "desc": {
+      "en": "Petrovaradin, Fruška Gora, Belgrade, Smederevo and Avala.",
+      "hu": "Péterváradi erőd, Fruška Gora, Belgrád, Szendrő és Avala."
+     },
+     "pts": [
+      "LYBE",
+      [
+       "Kalemegdan Fortress",
+       44.8225,
+       20.45
+      ],
+      [
+       "Avala Tower",
+       44.69,
+       20.515
+      ],
+      [
+       "Smederevo Fortress",
+       44.664,
+       20.929
+      ],
+      [
+       "~",
+       44.7326,
+       20.9674
+      ],
+      [
+       "Petrovaradin Fortress",
+       45.253,
+       19.868
+      ],
+      [
+       "Fruška Gora",
+       45.15,
+       19.72
+      ],
+      "LYBE"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Kalemegdan-erőd Kalemegdan Belgrád erőd Avala-torony Avala torony Szendrői vár Szendrő Smederevo erőd Péterváradi erőd Péterváradi vár Újvidék Fruška Gora Tarcal-hegység Fruska Gora",
+   "img": "Belgrade Fortress|Petrovaradin Fortress"
+  },
+  {
+   "id": "seoul",
+   "continent": "AS",
+   "country": {
+    "en": "South Korea",
+    "hu": "Dél-Korea"
+   },
+   "name": {
+    "en": "Seoul",
+    "hu": "Szöul"
+   },
+   "main": {
+    "en": "Gyeongbokgung Palace",
+    "hu": "Kjongbokkung-palota",
+    "lat": 37.5796,
+    "lon": 126.977
+   },
+   "tags": [
+    "city",
+    "mountain",
+    "culture"
+   ],
+   "desc": {
+    "en": "The royal palace under Bukhansan's granite peaks, the Namsan tower, the Han River with its 30 bridges and the Incheon Bridge across the bay.",
+    "hu": "A királyi palota a Bukhan gránitcsúcsai alatt, a Namszan-torony, a harminc hídjával átszelt Han-folyó és az incshoni híd az öböl felett."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Capital loop",
+      "hu": "Fővárosi kör"
+     },
+     "desc": {
+      "en": "Bukhansan, Gyeongbokgung, N Seoul Tower, Lotte World Tower and the Incheon Bridge.",
+      "hu": "Bukhansan, Kjongbokkung, az N Seoul Tower, a Lotte World Tower és az incshoni híd."
+     },
+     "pts": [
+      "RKSS",
+      [
+       "Bukhansan",
+       37.66,
+       126.977
+      ],
+      [
+       "Lotte World Tower",
+       37.5126,
+       127.1026
+      ],
+      [
+       "Incheon Bridge",
+       37.388,
+       126.592
+      ],
+      [
+       "~",
+       37.47,
+       126.5498
+      ],
+      [
+       "N Seoul Tower",
+       37.5512,
+       126.9882
+      ],
+      [
+       "Gyeongbokgung Palace",
+       37.5796,
+       126.977
+      ],
+      "RKSS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Bukhansan Bukhan hegy Szöul Lotte World Tower Lotte torony Szöul Incshoni híd Incheon híd N Seoul Tower Namszan torony Szöul Kjongbokkung-palota Gyeongbokgung palota",
+   "img": "Gyeongbokgung|N Seoul Tower"
+  },
+  {
+   "id": "manila-taal",
+   "continent": "AS",
+   "country": {
+    "en": "Philippines",
+    "hu": "Fülöp-szigetek"
+   },
+   "name": {
+    "en": "Manila and Taal Volcano",
+    "hu": "Manila és a Taal-vulkán"
+   },
+   "main": {
+    "en": "Taal Volcano",
+    "hu": "Taal-vulkán",
+    "lat": 14.01,
+    "lon": 120.993
+   },
+   "tags": [
+    "volcano",
+    "city",
+    "island"
+   ],
+   "desc": {
+    "en": "A volcano island inside a lake inside a volcano, the fortress island of Corregidor and the walled city of Intramuros.",
+    "hu": "Egy tóban álló vulkánsziget egy vulkánban, Corregidor erődszigete és Intramuros fallal körülvett városa."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Manila Bay and Taal",
+      "hu": "Manila-öböl és Taal"
+     },
+     "desc": {
+      "en": "Intramuros, Corregidor, Taal Volcano and Mount Makiling.",
+      "hu": "Intramuros, Corregidor, a Taal-vulkán és a Mount Makiling."
+     },
+     "pts": [
+      "RPLL",
+      [
+       "Mount Makiling",
+       14.136,
+       121.196
+      ],
+      [
+       "Taal Volcano",
+       14.01,
+       120.993
+      ],
+      [
+       "Corregidor",
+       14.385,
+       120.574
+      ],
+      [
+       "Intramuros",
+       14.59,
+       120.975
+      ],
+      "RPLL"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Mount Makiling Makiling hegy Taal-vulkán Taal vulkán Tagaytay Corregidor Corregidor sziget Intramuros Intramuros Manila erőd",
+   "img": "Taal Volcano|Intramuros"
+  },
+  {
+   "id": "kuala-lumpur",
+   "continent": "AS",
+   "country": {
+    "en": "Malaysia",
+    "hu": "Malajzia"
+   },
+   "name": {
+    "en": "Kuala Lumpur",
+    "hu": "Kuala Lumpur"
+   },
+   "main": {
+    "en": "Petronas Towers",
+    "hu": "Petronas-tornyok",
+    "lat": 3.1578,
+    "lon": 101.7116
+   },
+   "tags": [
+    "city",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The twin towers, the Batu Caves with their giant golden statue, the hill resort of Genting and the pink-domed administrative capital Putrajaya.",
+    "hu": "Az ikertornyok, a Batu-barlangok óriási aranyszobrukkal, a genting-i hegyi üdülőhely és a rózsaszín kupolás közigazgatási főváros, Putrajaya."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Twin Towers loop",
+      "hu": "Ikertorony-kör"
+     },
+     "desc": {
+      "en": "Putrajaya, the Petronas Towers, the Batu Caves and Genting Highlands.",
+      "hu": "Putrajaya, a Petronas-tornyok, a Batu-barlangok és a Genting-fennsík."
+     },
+     "pts": [
+      "WMKK",
+      [
+       "Genting Highlands",
+       3.423,
+       101.793
+      ],
+      [
+       "~",
+       3.4402,
+       101.7421
+      ],
+      [
+       "Batu Caves",
+       3.2379,
+       101.684
+      ],
+      [
+       "Petronas Towers",
+       3.1578,
+       101.7116
+      ],
+      [
+       "Putrajaya",
+       2.9264,
+       101.6964
+      ],
+      "WMKK"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Genting-fennsík Genting Highlands Batu-barlangok Batu barlangok Kuala Lumpur Petronas-tornyok Petronas ikertorony Putrajaya Putrajaya",
+   "img": "Petronas Towers|Batu Caves"
+  },
+  {
+   "id": "chiang-mai",
+   "continent": "AS",
+   "country": {
+    "en": "Thailand",
+    "hu": "Thaiföld"
+   },
+   "name": {
+    "en": "Chiang Mai and Doi Inthanon",
+    "hu": "Chiang Mai és a Doi Inthanon"
+   },
+   "main": {
+    "en": "Doi Inthanon",
+    "hu": "Doi Inthanon",
+    "lat": 18.588,
+    "lon": 98.487
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "jungle"
+   ],
+   "desc": {
+    "en": "The rose of the north: the highest peak of Thailand, the golden temple on Doi Suthep and the limestone massif of Chiang Dao.",
+    "hu": "Az északi rózsa: Thaiföld legmagasabb csúcsa, az aranytemplom a Doi Suthepen és a Chiang Dao mészkőhegysége."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6000,
+     "stol": false,
+     "label": {
+      "en": "Northern Thailand",
+      "hu": "Észak-Thaiföld"
+     },
+     "desc": {
+      "en": "Doi Inthanon, Doi Suthep and Chiang Dao.",
+      "hu": "Doi Inthanon, Doi Suthep és Chiang Dao."
+     },
+     "pts": [
+      "VTCC",
+      [
+       "Doi Inthanon",
+       18.588,
+       98.487
+      ],
+      [
+       "~",
+       18.6676,
+       98.4101
+      ],
+      [
+       "Chiang Dao",
+       19.4,
+       98.92
+      ],
+      [
+       "~",
+       19.3692,
+       99.0297
+      ],
+      [
+       "Doi Suthep",
+       18.805,
+       98.922
+      ],
+      "VTCC"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Doi Inthanon Doi Inthanon Thaiföld legmagasabb Chiang Dao Chiang Dao hegy Doi Suthep Doi Suthep templom",
+   "img": "Doi Suthep|Doi Inthanon"
+  },
+  {
+   "id": "muscat",
+   "continent": "AS",
+   "country": {
+    "en": "Oman",
+    "hu": "Omán"
+   },
+   "name": {
+    "en": "Muscat and Jebel Akhdar",
+    "hu": "Maszkat és a Dzsebel Akhdar"
+   },
+   "main": {
+    "en": "Sultan Qaboos Grand Mosque",
+    "hu": "Szultán Kábúsz Nagymecset",
+    "lat": 23.5859,
+    "lon": 58.3829
+   },
+   "tags": [
+    "city",
+    "coast",
+    "mountain",
+    "culture"
+   ],
+   "desc": {
+    "en": "White Omani harbour town on the Gulf of Oman, the Daymaniyat islands, the fort of Nakhal and the 3,000-metre Green Mountain.",
+    "hu": "Fehér ománi kikötőváros az Ománi-öbölnél, a Daymaniyat-szigetek, Nakhal erődje és a háromezer méteres Zöld-hegység."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Muscat loop",
+      "hu": "Maszkat-kör"
+     },
+     "desc": {
+      "en": "Muttrah, the Daymaniyat Islands, Nakhal Fort and Jebel Akhdar.",
+      "hu": "Muttrah, a Daymaniyat-szigetek, a Nakhal-erőd és a Dzsebel Akhdar."
+     },
+     "pts": [
+      "OOMS",
+      [
+       "Jebel Akhdar",
+       23.082,
+       57.658
+      ],
+      [
+       "~",
+       23.1351,
+       57.5832
+      ],
+      [
+       "Nakhal Fort",
+       23.391,
+       57.831
+      ],
+      [
+       "Daymaniyat Islands",
+       23.86,
+       58.1
+      ],
+      [
+       "Muttrah Corniche",
+       23.618,
+       58.569
+      ],
+      [
+       "~",
+       23.5545,
+       58.5533
+      ],
+      "OOMS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Dzsebel Akhdar Jebel Akhdar Zöld-hegység Nakhal-erőd Nakhal erőd Omán Daymaniyat-szigetek Daymaniyat szigetek Muttrah korzó Muttrah Corniche Maszkat",
+   "img": "Sultan Qaboos Grand Mosque|Muscat"
+  },
+  {
+   "id": "antalya",
+   "continent": "AS",
+   "country": {
+    "en": "Turkey",
+    "hu": "Törökország"
+   },
+   "name": {
+    "en": "Antalya and the Turquoise Coast",
+    "hu": "Antalya és a Türkiz-part"
+   },
+   "main": {
+    "en": "Aspendos",
+    "hu": "Aszpendosz",
+    "lat": 36.939,
+    "lon": 31.172
+   },
+   "tags": [
+    "coast",
+    "culture",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The Roman theatre of Aspendos, the Old Town harbour of Kaleiçi, Termessos in the Taurus Mountains and the eternal flames of the Chimaera.",
+    "hu": "Aszpendosz római színháza, Kaleiçi óvárosi kikötője, Termessos a Taurusz-hegységben és a Khimaira örök lángjai."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Turquoise loop",
+      "hu": "Türkiz kör"
+     },
+     "desc": {
+      "en": "Aspendos, Kaleiçi, Termessos and Olympos.",
+      "hu": "Aszpendosz, Kaleiçi, Termessos és Olümposz."
+     },
+     "pts": [
+      "LTAI",
+      [
+       "Kaleiçi",
+       36.885,
+       30.704
+      ],
+      [
+       "Termessos",
+       37.0,
+       30.466
+      ],
+      [
+       "~",
+       36.9725,
+       30.4055
+      ],
+      [
+       "Olympos",
+       36.4,
+       30.472
+      ],
+      [
+       "~",
+       36.3625,
+       30.5977
+      ],
+      [
+       "Aspendos",
+       36.939,
+       31.172
+      ],
+      [
+       "~",
+       37.0042,
+       31.1257
+      ],
+      "LTAI"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Kaleiçi Kaleici Antalya óváros Termessos Termessos romváros Olümposz (Lükia) Olympos Chimaera Cirali Aszpendosz Aspendos színház",
+   "img": "Aspendos|Antalya"
+  },
+  {
+   "id": "boston-cape-cod",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Boston and Cape Cod",
+    "hu": "Boston és Cape Cod"
+   },
+   "main": {
+    "en": "Provincetown",
+    "hu": "Provincetown",
+    "lat": 42.0527,
+    "lon": -70.186
+   },
+   "tags": [
+    "coast",
+    "island",
+    "city"
+   ],
+   "desc": {
+    "en": "Colonial Plymouth, the sand hook of Cape Cod, the islands of Nantucket and Martha's Vineyard with the clay cliffs of Gay Head.",
+    "hu": "A gyarmati Plymouth, Cape Cod homokkampója, Nantucket és Martha's Vineyard szigetei és Gay Head agyagszirtjei."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Islands loop",
+      "hu": "Szigetek köre"
+     },
+     "desc": {
+      "en": "Provincetown, Nantucket, Gay Head and Plymouth.",
+      "hu": "Provincetown, Nantucket, Gay Head és Plymouth."
+     },
+     "pts": [
+      "KBOS",
+      [
+       "Plymouth Rock",
+       41.958,
+       -70.662
+      ],
+      [
+       "Gay Head Cliffs",
+       41.351,
+       -70.835
+      ],
+      [
+       "Nantucket",
+       41.2835,
+       -70.0995
+      ],
+      [
+       "Provincetown",
+       42.0527,
+       -70.186
+      ],
+      "KBOS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Plymouth Rock Plymouth zarándokok Gay Head-sziklák Gay Head Martha's Vineyard Aquinnah Nantucket Nantucket sziget Provincetown Provincetown Cape Cod",
+   "img": "Cape Cod|Provincetown, Massachusetts"
+  },
+  {
+   "id": "new-orleans",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "New Orleans and the Bayous",
+    "hu": "New Orleans és a mocsárvidék"
+   },
+   "main": {
+    "en": "French Quarter",
+    "hu": "Francia negyed",
+    "lat": 29.9584,
+    "lon": -90.0644
+   },
+   "tags": [
+    "city",
+    "culture"
+   ],
+   "desc": {
+    "en": "A crescent city on the Mississippi, the 38-km Causeway over Lake Pontchartrain and the oak-lined Oak Alley Plantation.",
+    "hu": "Félhold alakú város a Mississippin, a 38 km-es híd a Pontchartrain-tó felett és a tölgyfasoros Oak Alley ültetvény."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Crescent City loop",
+      "hu": "Félhold-város kör"
+     },
+     "desc": {
+      "en": "The French Quarter, the Causeway, Mandeville and Oak Alley.",
+      "hu": "A Francia negyed, a Causeway-híd, Mandeville és Oak Alley."
+     },
+     "pts": [
+      "KMSY",
+      [
+       "Oak Alley Plantation",
+       30.007,
+       -90.777
+      ],
+      [
+       "~",
+       30.1117,
+       -90.8072
+      ],
+      [
+       "Mandeville",
+       30.358,
+       -90.065
+      ],
+      [
+       "~",
+       30.3286,
+       -90.0276
+      ],
+      [
+       "Lake Pontchartrain Causeway",
+       30.19,
+       -90.12
+      ],
+      [
+       "French Quarter",
+       29.9584,
+       -90.0644
+      ],
+      "KMSY"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Oak Alley ültetvény Oak Alley tölgyfasor Mandeville Mandeville Louisiana Pontchartrain-tavi Causeway Pontchartrain híd Causeway Francia negyed French Quarter New Orleans",
+   "img": "French Quarter|New Orleans"
+  },
+  {
+   "id": "san-diego",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "San Diego",
+    "hu": "San Diego"
+   },
+   "main": {
+    "en": "La Jolla Cove",
+    "hu": "La Jolla-öböl",
+    "lat": 32.85,
+    "lon": -117.273
+   },
+   "tags": [
+    "city",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The Coronado Bridge over the harbour, Cabrillo Point, the sea cliffs of La Jolla and Torrey Pines and the pine forests of the Cuyamaca mountains.",
+    "hu": "A Coronado-híd a kikötő felett, Cabrillo-fok, La Jolla és Torrey Pines tengeri sziklái és a Cuyamaca-hegység fenyvesei."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Harbour and cliffs",
+      "hu": "Kikötő és sziklák"
+     },
+     "desc": {
+      "en": "Point Loma, La Jolla, Torrey Pines, Cuyamaca Peak and the Coronado Bridge.",
+      "hu": "Point Loma, La Jolla, Torrey Pines, a Cuyamaca-csúcs és a Coronado-híd."
+     },
+     "pts": [
+      "KSAN",
+      [
+       "Cuyamaca Peak",
+       32.942,
+       -116.58
+      ],
+      [
+       "~",
+       33.0475,
+       -116.6072
+      ],
+      [
+       "Torrey Pines",
+       32.919,
+       -117.254
+      ],
+      [
+       "La Jolla Cove",
+       32.85,
+       -117.273
+      ],
+      [
+       "Cabrillo Point",
+       32.67,
+       -117.241
+      ],
+      [
+       "Coronado Bridge",
+       32.688,
+       -117.148
+      ],
+      "KSAN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Cuyamaca-csúcs Cuyamaca hegy Torrey Pines Torrey Pines sziklák La Jolla-öböl La Jolla Cove fókák Cabrillo-fok Point Loma Cabrillo Coronado-híd Coronado híd San Diego",
+   "img": "La Jolla|Coronado Bridge"
+  },
+  {
+   "id": "denver-rockies",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Denver and the Colorado Rockies",
+    "hu": "Denver és a Colorádói-Sziklás-hegység"
+   },
+   "main": {
+    "en": "Pikes Peak",
+    "hu": "Pikes Peak",
+    "lat": 38.841,
+    "lon": -105.042
+   },
+   "tags": [
+    "mountain",
+    "city"
+   ],
+   "desc": {
+    "en": "Fourteeners along the Front Range: Longs Peak, Mount Evans, Pikes Peak that inspired America the Beautiful and the red rocks of the Garden of the Gods.",
+    "hu": "Tizennégyezresek a Front Range mentén: a Longs Peak, a Mount Evans, az America the Beautiful dalt ihlető Pikes Peak és a Garden of the Gods vörös sziklái."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 15000,
+     "stol": false,
+     "label": {
+      "en": "Front Range",
+      "hu": "Front Range"
+     },
+     "desc": {
+      "en": "Longs Peak, Mount Evans, Pikes Peak and the Garden of the Gods.",
+      "hu": "A Longs Peak, a Mount Evans, a Pikes Peak és a Garden of the Gods."
+     },
+     "pts": [
+      "KDEN",
+      [
+       "Garden of the Gods",
+       38.878,
+       -104.889
+      ],
+      [
+       "Pikes Peak",
+       38.841,
+       -105.042
+      ],
+      [
+       "Mount Evans",
+       39.588,
+       -105.644
+      ],
+      [
+       "Longs Peak",
+       40.255,
+       -105.615
+      ],
+      "KDEN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Garden of the Gods Istenek kertje Colorado Springs Pikes Peak Pikes Peak Mount Evans Mount Evans Colorado Longs Peak Longs Peak Rocky Mountain",
+   "img": "Pikes Peak|Garden of the Gods"
+  },
+  {
+   "id": "sedona",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Sedona and the Verde Valley",
+    "hu": "Sedona és a Verde-völgy"
+   },
+   "main": {
+    "en": "Cathedral Rock",
+    "hu": "Cathedral Rock",
+    "lat": 34.82,
+    "lon": -111.79
+   },
+   "tags": [
+    "mountain",
+    "culture"
+   ],
+   "desc": {
+    "en": "Red rock buttes and spires, Oak Creek Canyon, the cliff dwellings of Montezuma Castle and the snowy San Francisco Peaks.",
+    "hu": "Vörös sziklatornyok, az Oak Creek-kanyon, a Montezuma-kastély sziklalakásai és a havas San Francisco-csúcsok."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 9000,
+     "stol": false,
+     "label": {
+      "en": "Red Rock Country",
+      "hu": "A vörös sziklák országa"
+     },
+     "desc": {
+      "en": "Oak Creek Canyon, Humphreys Peak, Montezuma Castle and Jerome.",
+      "hu": "Oak Creek-kanyon, Humphreys Peak, Montezuma-kastély és Jerome."
+     },
+     "pts": [
+      "KSEZ",
+      [
+       "Oak Creek Canyon",
+       34.98,
+       -111.75
+      ],
+      [
+       "Humphreys Peak",
+       35.346,
+       -111.678
+      ],
+      [
+       "~",
+       35.3777,
+       -111.7848
+      ],
+      [
+       "Jerome",
+       34.749,
+       -112.114
+      ],
+      [
+       "Montezuma Castle",
+       34.612,
+       -111.84
+      ],
+      "KSEZ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Oak Creek-kanyon Oak Creek kanyon Sedona Humphreys Peak Humphreys Peak Arizona legmagasabb Jerome Jerome kísértetváros Montezuma-kastély Montezuma Castle sziklalakás",
+   "img": "Sedona, Arizona|Cathedral Rock (Arizona)"
+  },
+  {
+   "id": "quebec",
+   "continent": "NA",
+   "country": {
+    "en": "Canada",
+    "hu": "Kanada"
+   },
+   "name": {
+    "en": "Quebec City and the St. Lawrence",
+    "hu": "Québec és a Szent Lőrinc-folyó"
+   },
+   "main": {
+    "en": "Château Frontenac",
+    "hu": "Château Frontenac",
+    "lat": 46.812,
+    "lon": -71.205
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The only walled city north of Mexico, the Montmorency Falls that are taller than Niagara, Île d'Orléans and the basilica of Sainte-Anne-de-Beaupré.",
+    "hu": "Mexikótól északra az egyetlen fallal körülvett város, a Niagaránál magasabb Montmorency-vízesés, az Île d'Orléans és a Sainte-Anne-de-Beaupré bazilika."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Old Quebec loop",
+      "hu": "A régi Québec köre"
+     },
+     "desc": {
+      "en": "Montmorency Falls, Château Frontenac, Île d'Orléans and Cap Tourmente.",
+      "hu": "A Montmorency-vízesés, a Château Frontenac, az Île d'Orléans és a Cap Tourmente."
+     },
+     "pts": [
+      "CYQB",
+      [
+       "Château Frontenac",
+       46.812,
+       -71.205
+      ],
+      [
+       "Montmorency Falls",
+       46.891,
+       -71.148
+      ],
+      [
+       "Île d'Orléans",
+       46.9,
+       -70.9
+      ],
+      [
+       "Cap Tourmente",
+       47.075,
+       -70.78
+      ],
+      [
+       "~",
+       47.1064,
+       -70.8339
+      ],
+      "CYQB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Château Frontenac Frontenac kastély Québec Montmorency-vízesés Montmorency vízesés Île d'Orléans Orléans sziget Québec Cap Tourmente Cap Tourmente hóliba",
+   "img": "Château Frontenac|Quebec City"
+  },
+  {
+   "id": "entebbe-nile",
+   "continent": "AF",
+   "country": {
+    "en": "Uganda",
+    "hu": "Uganda"
+   },
+   "name": {
+    "en": "Lake Victoria and the Source of the Nile",
+    "hu": "A Viktória-tó és a Nílus forrása"
+   },
+   "main": {
+    "en": "Source of the Nile",
+    "hu": "A Nílus forrása",
+    "lat": 0.424,
+    "lon": 33.211
+   },
+   "tags": [
+    "coast",
+    "island",
+    "city"
+   ],
+   "desc": {
+    "en": "The largest lake of Africa, Kampala's seven hills and Jinja where the Nile starts its 6,650-kilometre journey to the Mediterranean.",
+    "hu": "Afrika legnagyobb tava, Kampala hét dombja és Jinja, ahol a Nílus 6650 kilométeres útjára indul a Földközi-tenger felé."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Pearl of Africa",
+      "hu": "Afrika gyöngye"
+     },
+     "desc": {
+      "en": "Kampala, Jinja and the Ngamba Island.",
+      "hu": "Kampala, Jinja és a Ngamba-sziget."
+     },
+     "pts": [
+      "HUEN",
+      [
+       "Ngamba Island",
+       0.11,
+       32.65
+      ],
+      [
+       "Source of the Nile",
+       0.424,
+       33.211
+      ],
+      [
+       "~",
+       0.5266,
+       33.1775
+      ],
+      [
+       "Kampala",
+       0.3476,
+       32.5825
+      ],
+      "HUEN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Ngamba-sziget Ngamba sziget csimpánz A Nílus forrása Nílus forrás Jinja Kampala Kampala",
+   "img": "Source of the Nile|Jinja, Uganda"
+  },
+  {
+   "id": "swakopmund",
+   "continent": "AF",
+   "country": {
+    "en": "Namibia",
+    "hu": "Namíbia"
+   },
+   "name": {
+    "en": "Swakopmund and the Namib Coast",
+    "hu": "Swakopmund és a Namíb-part"
+   },
+   "main": {
+    "en": "Sandwich Harbour",
+    "hu": "Sandwich Harbour",
+    "lat": -23.38,
+    "lon": 14.48
+   },
+   "tags": [
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Where the Namib dunes plunge into the Atlantic: Sandwich Harbour, the Moon Landscape of the Swakop valley and the flamingos of Walvis Bay.",
+    "hu": "Ahol a Namíb dűnéi az Atlanti-óceánba zuhannak: Sandwich Harbour, a Swakop-völgy holdbéli tája és a Walvis Bay flamingói."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Coast and desert",
+      "hu": "Part és sivatag"
+     },
+     "desc": {
+      "en": "The Moon Landscape, Dune 7, Sandwich Harbour and the Walvis Bay lagoon.",
+      "hu": "A Holdbéli táj, a Dune 7, Sandwich Harbour és a Walvis Bay-i lagúna."
+     },
+     "pts": [
+      "FYSM",
+      [
+       "Moon Landscape",
+       -22.62,
+       14.98
+      ],
+      [
+       "~",
+       -22.7006,
+       15.0358
+      ],
+      [
+       "Sandwich Harbour",
+       -23.38,
+       14.48
+      ],
+      [
+       "~",
+       -23.3438,
+       14.3696
+      ],
+      [
+       "Walvis Bay Lagoon",
+       -22.95,
+       14.5
+      ],
+      [
+       "Dune 7",
+       -22.917,
+       14.54
+      ],
+      "FYSM"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Holdbéli táj Moon Landscape Swakopmund Sandwich Harbour Sandwich Harbour dűne Walvis Bay-i lagúna Walvis Bay lagúna flamingó Dune 7 Dune 7 Walvis Bay",
+   "img": "Sandwich Harbour|Swakopmund"
+  },
+  {
+   "id": "fes",
+   "continent": "AF",
+   "country": {
+    "en": "Morocco",
+    "hu": "Marokkó"
+   },
+   "name": {
+    "en": "Fes, Meknes and the Middle Atlas",
+    "hu": "Fez, Meknes és a Közép-Atlasz"
+   },
+   "main": {
+    "en": "Fes Medina",
+    "hu": "Fez medina",
+    "lat": 34.065,
+    "lon": -4.973
+   },
+   "tags": [
+    "culture",
+    "unesco",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The largest car-free urban area in the world, the Roman ruins of Volubilis, imperial Meknes and the cedar forests of Ifrane.",
+    "hu": "A világ legnagyobb autómentes városi területe, Volubilis római romjai, a császári Meknes és az ifrane-i cédruserdők."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Imperial cities",
+      "hu": "Császárvárosok"
+     },
+     "desc": {
+      "en": "Volubilis, Meknes, Ifrane and Fes Medina.",
+      "hu": "Volubilis, Meknes, Ifrane és a fezi medina."
+     },
+     "pts": [
+      "GMFF",
+      [
+       "Fes Medina",
+       34.065,
+       -4.973
+      ],
+      [
+       "Volubilis",
+       34.072,
+       -5.554
+      ],
+      [
+       "Meknes",
+       33.895,
+       -5.555
+      ],
+      [
+       "Ifrane",
+       33.533,
+       -5.107
+      ],
+      "GMFF"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Fezi medina Fes medina Volubilis Volubilis római Meknes Meknes Ifrane Ifrane cédrus",
+   "img": "Fes el Bali|Fes, Morocco"
+  },
+  {
+   "id": "mombasa-diani",
+   "continent": "AF",
+   "country": {
+    "en": "Kenya",
+    "hu": "Kenya"
+   },
+   "name": {
+    "en": "Mombasa and Diani Beach",
+    "hu": "Mombasa és a Diani-part"
+   },
+   "main": {
+    "en": "Fort Jesus",
+    "hu": "Fort Jesus",
+    "lat": -4.062,
+    "lon": 39.679
+   },
+   "tags": [
+    "coast",
+    "culture",
+    "jungle"
+   ],
+   "desc": {
+    "en": "A Portuguese fort of the 16th century, the white sand of Diani, the Shimba Hills forest and the coral reefs of Wasini.",
+    "hu": "16. századi portugál erőd, Diani fehér homokja, a Shimba-hegyek erdeje és a Wasini korallzátonyai."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Swahili coast",
+      "hu": "Szuahéli part"
+     },
+     "desc": {
+      "en": "Fort Jesus, Diani Beach, Shimba Hills and Wasini.",
+      "hu": "Fort Jesus, a Diani-part, a Shimba-hegyek és Wasini."
+     },
+     "pts": [
+      "HKMO",
+      [
+       "Shimba Hills",
+       -4.25,
+       39.4
+      ],
+      [
+       "Wasini Island",
+       -4.66,
+       39.37
+      ],
+      [
+       "~",
+       -4.6903,
+       39.4685
+      ],
+      [
+       "Diani Beach",
+       -4.3,
+       39.58
+      ],
+      [
+       "Fort Jesus",
+       -4.062,
+       39.679
+      ],
+      "HKMO"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Shimba-hegyek Shimba Hills Wasini-sziget Wasini sziget Diani-part Diani Beach Fort Jesus Fort Jesus Mombasa",
+   "img": "Fort Jesus|Diani Beach"
+  },
+  {
+   "id": "florianopolis",
+   "continent": "SA",
+   "country": {
+    "en": "Brazil",
+    "hu": "Brazília"
+   },
+   "name": {
+    "en": "Florianópolis",
+    "hu": "Florianópolis"
+   },
+   "main": {
+    "en": "Joaquina Dunes",
+    "hu": "Joaquina-dűnék",
+    "lat": -27.63,
+    "lon": -48.45
+   },
+   "tags": [
+    "island",
+    "coast",
+    "city"
+   ],
+   "desc": {
+    "en": "The Magic Island of 42 beaches: sand dunes at Joaquina, the lagoon of Conceição and the steel Hercílio Luz Bridge.",
+    "hu": "A 42 strandú varázslatos sziget: homokdűnék Joaquinánál, a Conceição-lagúna és a Hercílio Luz acélhíd."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Magic Island",
+      "hu": "Varázslatos sziget"
+     },
+     "desc": {
+      "en": "Campeche Island, the Joaquina Dunes, Lagoa da Conceição, Jurerê and the Hercílio Luz Bridge.",
+      "hu": "A Campeche-sziget, a Joaquina-dűnék, Lagoa da Conceição, Jurerê és a Hercílio Luz híd."
+     },
+     "pts": [
+      "SBFL",
+      [
+       "Hercílio Luz Bridge",
+       -27.599,
+       -48.564
+      ],
+      [
+       "Jurerê",
+       -27.438,
+       -48.493
+      ],
+      [
+       "~",
+       -27.442,
+       -48.4468
+      ],
+      [
+       "Lagoa da Conceição",
+       -27.6,
+       -48.46
+      ],
+      [
+       "Joaquina Dunes",
+       -27.63,
+       -48.45
+      ],
+      [
+       "Campeche Island",
+       -27.687,
+       -48.47
+      ],
+      "SBFL"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Hercílio Luz híd Hercilio Luz híd Florianopolis Jurerê Jurere Florianopolis Lagoa da Conceição Conceicao lagúna Joaquina-dűnék Joaquina dűne Campeche-sziget Campeche sziget",
+   "img": "Hercílio Luz Bridge|Florianópolis"
+  },
+  {
+   "id": "quito-cotopaxi",
+   "continent": "SA",
+   "country": {
+    "en": "Ecuador",
+    "hu": "Ecuador"
+   },
+   "name": {
+    "en": "Quito and the Avenue of Volcanoes",
+    "hu": "Quito és a Vulkánok sétánya"
+   },
+   "main": {
+    "en": "Cotopaxi",
+    "hu": "Cotopaxi",
+    "lat": -0.684,
+    "lon": -78.438
+   },
+   "tags": [
+    "volcano",
+    "mountain",
+    "city",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The best-preserved colonial capital at 2,850 m surrounded by glaciated volcanoes: Cayambe on the equator, Antisana, Cotopaxi and Iliniza.",
+    "hu": "A legjobban megőrzött gyarmati főváros 2850 méteren, gleccseres vulkánokkal körülvéve: az egyenlítői Cayambe, az Antisana, a Cotopaxi és az Iliniza."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 16000,
+     "stol": false,
+     "label": {
+      "en": "Avenue of Volcanoes",
+      "hu": "Vulkánok sétánya"
+     },
+     "desc": {
+      "en": "Cayambe, Antisana, Cotopaxi, Iliniza and Quito Old Town.",
+      "hu": "Cayambe, Antisana, Cotopaxi, Iliniza és Quito óvárosa."
+     },
+     "pts": [
+      "SEQM",
+      [
+       "Cayambe",
+       0.03,
+       -77.986
+      ],
+      [
+       "~",
+       -0.0368,
+       -77.9117
+      ],
+      [
+       "Antisana",
+       -0.48,
+       -78.14
+      ],
+      [
+       "Cotopaxi",
+       -0.684,
+       -78.438
+      ],
+      [
+       "Iliniza",
+       -0.659,
+       -78.714
+      ],
+      [
+       "Quito Old Town",
+       -0.22,
+       -78.512
+      ],
+      "SEQM"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Cayambe Cayambe vulkán Antisana Antisana vulkán Cotopaxi Cotopaxi vulkán Iliniza Iliniza Quito óvárosa Quito óváros",
+   "img": "Cotopaxi|Quito"
+  },
+  {
+   "id": "salta-humahuaca",
+   "continent": "SA",
+   "country": {
+    "en": "Argentina",
+    "hu": "Argentína"
+   },
+   "name": {
+    "en": "Salta and the Quebrada de Humahuaca",
+    "hu": "Salta és a Humahuaca-szurdok"
+   },
+   "main": {
+    "en": "Purmamarca",
+    "hu": "Purmamarca",
+    "lat": -23.744,
+    "lon": -65.493
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Hill of Seven Colours, the white salt flats of Salinas Grandes and the rainbow ridge of Hornocal.",
+    "hu": "A Hét Szín Dombja, a Salinas Grandes fehér sósivataga és a Hornocal szivárványos gerince."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 14000,
+     "stol": false,
+     "label": {
+      "en": "Seven Colours loop",
+      "hu": "Hét színű kör"
+     },
+     "desc": {
+      "en": "Tilcara, Hornocal, Purmamarca and Salinas Grandes.",
+      "hu": "Tilcara, Hornocal, Purmamarca és Salinas Grandes."
+     },
+     "pts": [
+      "SASA",
+      [
+       "Salinas Grandes",
+       -23.62,
+       -65.8
+      ],
+      [
+       "Hornocal",
+       -23.21,
+       -65.1
+      ],
+      [
+       "~",
+       -23.289,
+       -65.02
+      ],
+      [
+       "Tilcara",
+       -23.58,
+       -65.4
+      ],
+      [
+       "Purmamarca",
+       -23.744,
+       -65.493
+      ],
+      "SASA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Salinas Grandes Salinas Grandes sósivatag Hornocal Hornocal hegy 14 szín Tilcara Tilcara Pucará Purmamarca Purmamarca hét színű domb",
+   "img": "Quebrada de Humahuaca|Purmamarca"
+  },
+  {
+   "id": "wellington-marlborough",
+   "continent": "OC",
+   "country": {
+    "en": "New Zealand",
+    "hu": "Új-Zéland"
+   },
+   "name": {
+    "en": "Wellington and the Marlborough Sounds",
+    "hu": "Wellington és a Marlborough Sounds"
+   },
+   "main": {
+    "en": "Marlborough Sounds",
+    "hu": "Marlborough Sounds",
+    "lat": -41.29,
+    "lon": 174.005
+   },
+   "tags": [
+    "city",
+    "coast",
+    "island"
+   ],
+   "desc": {
+    "en": "The windy capital on its harbour, Kapiti Island and the drowned valleys of the Marlborough Sounds on the far side of Cook Strait.",
+    "hu": "A szeles főváros a kikötője partján, a Kapiti-sziget és a Marlborough Sounds elsüllyedt völgyei a Cook-szoros túloldalán."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Cook Strait loop",
+      "hu": "Cook-szoros kör"
+     },
+     "desc": {
+      "en": "Kapiti Island, the Marlborough Sounds at Picton and Mount Victoria.",
+      "hu": "A Kapiti-sziget, a Marlborough Sounds Pictonnál és a Mount Victoria."
+     },
+     "pts": [
+      "NZWN",
+      [
+       "Mount Victoria",
+       -41.297,
+       174.797
+      ],
+      [
+       "Kapiti Island",
+       -40.85,
+       174.92
+      ],
+      [
+       "~",
+       -40.7889,
+       174.8025
+      ],
+      [
+       "Picton",
+       -41.29,
+       174.005
+      ],
+      [
+       "~",
+       -41.3925,
+       174.0498
+      ],
+      "NZWN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Mount Victoria Mount Victoria Wellington Kapiti-sziget Kapiti sziget Picton Picton Marlborough Sounds",
+   "img": "Marlborough Sounds|Wellington"
+  },
+  {
+   "id": "blue-mountains",
+   "continent": "OC",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "Sydney and the Blue Mountains",
+    "hu": "Sydney és a Kék-hegység"
+   },
+   "main": {
+    "en": "Three Sisters",
+    "hu": "Három Nővér",
+    "lat": -33.732,
+    "lon": 150.312
+   },
+   "tags": [
+    "mountain",
+    "city",
+    "unesco"
+   ],
+   "desc": {
+    "en": "From Sydney Harbour Bridge across the Hawkesbury river to the sandstone cliffs and eucalyptus haze of the Blue Mountains.",
+    "hu": "A Sydney Harbour Bridge-től a Hawkesbury folyón át a Kék-hegység homokkő szikláiig és eukaliptuszködéig."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Blue Mountains loop",
+      "hu": "Kék-hegységi kör"
+     },
+     "desc": {
+      "en": "The Harbour Bridge, the Hawkesbury, the Three Sisters, Wentworth Falls and the Royal National Park.",
+      "hu": "A Harbour Bridge, a Hawkesbury, a Három Nővér, a Wentworth-vízesés és a Royal National Park."
+     },
+     "pts": [
+      "YSSY",
+      [
+       "Sydney Harbour Bridge",
+       -33.8519,
+       151.2108
+      ],
+      [
+       "Hawkesbury River",
+       -33.55,
+       151.193
+      ],
+      [
+       "Wentworth Falls",
+       -33.714,
+       150.372
+      ],
+      [
+       "Three Sisters",
+       -33.732,
+       150.312
+      ],
+      [
+       "~",
+       -33.7678,
+       150.3077
+      ],
+      [
+       "Royal National Park",
+       -34.1,
+       151.05
+      ],
+      "YSSY"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Sydney Harbour Bridge Sydney híd Hawkesbury-folyó Hawkesbury folyó Wentworth-vízesés Wentworth Falls Blue Mountains Három Nővér Three Sisters Katoomba Royal National Park Royal Nemzeti Park Sydney",
+   "img": "Three Sisters (New South Wales)|Blue Mountains (New South Wales)"
+  },
+  {
+   "id": "darwin-kakadu",
+   "continent": "OC",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "Darwin and Kakadu",
+    "hu": "Darwin és a Kakadu"
+   },
+   "main": {
+    "en": "Ubirr",
+    "hu": "Ubirr",
+    "lat": -12.87,
+    "lon": 132.95
+   },
+   "tags": [
+    "jungle",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Floodplains, wetlands full of crocodiles and birds, the Aboriginal rock art of Ubirr and the 215-metre Jim Jim Falls.",
+    "hu": "Elárasztott síkságok, krokodilokkal és madarakkal teli mocsarak, az ubirri őslakos sziklafestészet és a 215 méteres Jim Jim-vízesés."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Kakadu loop",
+      "hu": "Kakadu-kör"
+     },
+     "desc": {
+      "en": "Fogg Dam, Ubirr, Jim Jim Falls and Mary River.",
+      "hu": "Fogg Dam, Ubirr, a Jim Jim-vízesés és a Mary River."
+     },
+     "pts": [
+      "YPDN",
+      [
+       "Fogg Dam",
+       -12.57,
+       131.3
+      ],
+      [
+       "Mamukala Wetlands",
+       -12.69,
+       132.54
+      ],
+      [
+       "Ubirr",
+       -12.87,
+       132.95
+      ],
+      [
+       "Jim Jim Falls",
+       -13.3,
+       132.83
+      ],
+      [
+       "Mary River",
+       -12.95,
+       131.7
+      ],
+      "YPDN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Fogg Dam Fogg Dam madarak Mamukala-mocsarak Mamukala Kakadu mocsár Ubirr Ubirr sziklafestés Kakadu Jim Jim-vízesés Jim Jim Falls Kakadu Mary River Mary River Nemzeti Park",
+   "img": "Jim Jim Falls|Kakadu National Park"
+  },
+  {
+   "id": "brisbane-moreton",
+   "continent": "OC",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "Brisbane and Moreton Bay",
+    "hu": "Brisbane és a Moreton-öböl"
+   },
+   "main": {
+    "en": "Moreton Island",
+    "hu": "Moreton-sziget",
+    "lat": -27.18,
+    "lon": 153.37
+   },
+   "tags": [
+    "city",
+    "island",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The river city, the great sand island of Moreton with its shipwrecks and the volcanic plugs of the Glass House Mountains.",
+    "hu": "A folyóparti város, a Moreton-homoksziget hajóroncsaival és a Glass House-hegység vulkáni dugói."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Moreton Bay loop",
+      "hu": "Moreton-öböl kör"
+     },
+     "desc": {
+      "en": "Tangalooma, the Glass House Mountains, Mount Coot-tha and Point Lookout.",
+      "hu": "Tangalooma, a Glass House-hegység, a Mount Coot-tha és Point Lookout."
+     },
+     "pts": [
+      "YBBN",
+      [
+       "Mount Coot-tha",
+       -27.475,
+       152.958
+      ],
+      [
+       "~",
+       -27.455,
+       152.9164
+      ],
+      [
+       "Glass House Mountains",
+       -26.905,
+       152.954
+      ],
+      [
+       "~",
+       -26.8595,
+       153.0637
+      ],
+      [
+       "Tangalooma",
+       -27.18,
+       153.37
+      ],
+      [
+       "Point Lookout",
+       -27.438,
+       153.545
+      ],
+      [
+       "~",
+       -27.5008,
+       153.4982
+      ],
+      "YBBN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Mount Coot-tha Coot-tha Brisbane kilátó Glass House-hegység Glass House Mountains Tangalooma Tangalooma hajóroncs Moreton Point Lookout Point Lookout Stradbroke",
+   "img": "Moreton Island|Brisbane"
   }
  ]
 }

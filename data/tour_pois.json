@@ -590,7 +590,8 @@
 "k":"Dalí Színház-Múzeum Figueres"
 },
 "Cap de Creus":{
-"hu":"Cap de Creus"
+"hu":"Cap de Creus",
+"k":"Cap de Creus Cap de Creus Dalí"
 },
 "Girona Cathedral":{
 "hu":"gironai katedrális"
@@ -1539,7 +1540,7 @@
 },
 "Sydney Harbour Bridge":{
 "hu":"Sydney Harbour Bridge",
-"k":"Sydney Harbour Bridge Vaskarika"
+"k":"Sydney Harbour Bridge Sydney híd"
 },
 "Manly Beach":{
 "hu":"Manly Beach"
@@ -3844,6 +3845,566 @@
 "Andorra la Vella":{
 "hu":"Andorra la Vella",
 "k":"Andorra la Vella Andorra"
+},
+"Holstentor":{
+"hu":"Holstentor",
+"k":"Holstentor Lübeck Holstentor kapu"
+},
+"Laboe Naval Memorial":{
+"hu":"Laboe haditengerészeti emlékmű",
+"k":"Laboe haditengerészeti emlékmű Laboe Kiel emlékmű"
+},
+"Rendsburg High Bridge":{
+"hu":"Rendsburgi magas híd",
+"k":"Rendsburgi magas híd Rendsburg híd Kieli-csatorna"
+},
+"Brunsbüttel Locks":{
+"hu":"Brunsbütteli zsilipek",
+"k":"Brunsbütteli zsilipek Brunsbüttel zsilip Kieli-csatorna"
+},
+"Elbphilharmonie":{
+"hu":"Elbphilharmonie",
+"k":"Elbphilharmonie Elbphilharmonie Hamburg"
+},
+"Triberg Waterfalls":{
+"hu":"Triberg-vízesés",
+"k":"Triberg-vízesés Triberg vízesés Fekete-erdő"
+},
+"Lake Titisee":{
+"hu":"Titisee",
+"k":"Titisee Titisee tó"
+},
+"Feldberg":{
+"hu":"Feldberg",
+"k":"Feldberg Feldberg Fekete-erdő"
+},
+"Freiburg":{
+"hu":"Freiburg",
+"k":"Freiburg Freiburg Münster"
+},
+"Strasbourg Cathedral":{
+"hu":"Strasbourgi katedrális",
+"k":"Strasbourgi katedrális Strasbourg katedrális"
+},
+"Cap Ferret":{
+"hu":"Cap Ferret",
+"k":"Cap Ferret Cap Ferret Arcachon"
+},
+"Dune du Pilat":{
+"hu":"Dune du Pilat",
+"k":"Dune du Pilat Pilat dűne Arcachon"
+},
+"Saint-Émilion":{
+"hu":"Saint-Émilion",
+"k":"Saint-Émilion Saint-Emilion borvidék"
+},
+"Bordeaux Pont de Pierre":{
+"hu":"Bordeaux kőhíd",
+"k":"Bordeaux kőhíd Bordeaux Pont de Pierre Garonne"
+},
+"Saint-Florent":{
+"hu":"Saint-Florent",
+"k":"Saint-Florent Saint-Florent Korzika"
+},
+"Monte Cinto":{
+"hu":"Monte Cinto",
+"k":"Monte Cinto Monte Cinto Korzika"
+},
+"Scandola":{
+"hu":"Scandola",
+"k":"Scandola Scandola természetvédelmi terület"
+},
+"Calvi":{
+"hu":"Calvi",
+"k":"Calvi Calvi fellegvár"
+},
+"Cap Corse":{
+"hu":"Cap Corse",
+"k":"Cap Corse Cap Corse félsziget"
+},
+"Guggenheim Bilbao":{
+"hu":"Bilbao Guggenheim",
+"k":"Bilbao Guggenheim Guggenheim múzeum Bilbao"
+},
+"San Sebastián":{
+"hu":"San Sebastián",
+"k":"San Sebastián San Sebastian Concha"
+},
+"La Rhune":{
+"hu":"La Rhune",
+"k":"La Rhune La Rhune hegy"
+},
+"Biarritz":{
+"hu":"Biarritz",
+"k":"Biarritz Biarritz"
+},
+"Gaztelugatxe":{
+"hu":"Gaztelugatxe",
+"k":"Gaztelugatxe Gaztelugatxe Sárkánykő"
+},
+"Tossa de Mar":{
+"hu":"Tossa de Mar",
+"k":"Tossa de Mar Tossa de Mar vár"
+},
+"Medes Islands":{
+"hu":"Medes-szigetek",
+"k":"Medes-szigetek Medes szigetek L'Estartit"
+},
+"Cadaqués":{
+"hu":"Cadaqués",
+"k":"Cadaqués Cadaques Dalí"
+},
+"Girona":{
+"hu":"Girona",
+"k":"Girona Girona színes házak"
+},
+"Ribeira Porto":{
+"hu":"Ribeira, Porto",
+"k":"Ribeira, Porto Porto Ribeira Douro"
+},
+"Régua":{
+"hu":"Régua",
+"k":"Régua Peso da Régua Douro"
+},
+"Pinhão":{
+"hu":"Pinhão",
+"k":"Pinhão Pinhao Douro"
+},
+"Guimarães":{
+"hu":"Guimarães",
+"k":"Guimarães Guimaraes vár"
+},
+"Bom Jesus do Monte":{
+"hu":"Bom Jesus do Monte",
+"k":"Bom Jesus do Monte Braga Bom Jesus lépcső"
+},
+"Sopot Pier":{
+"hu":"Sopoti móló",
+"k":"Sopoti móló Sopot móló"
+},
+"Westerplatte":{
+"hu":"Westerplatte",
+"k":"Westerplatte Westerplatte Gdansk"
+},
+"Gdańsk Old Town":{
+"hu":"Gdański óváros",
+"k":"Gdański óváros Gdansk óváros Hosszú Piac"
+},
+"Malbork Castle":{
+"hu":"Malborki vár",
+"k":"Malborki vár Malbork Marienburg vár"
+},
+"Hel":{
+"hu":"Hel",
+"k":"Hel Hel-félsziget"
+},
+"Kalemegdan Fortress":{
+"hu":"Kalemegdan-erőd",
+"k":"Kalemegdan-erőd Kalemegdan Belgrád erőd"
+},
+"Avala Tower":{
+"hu":"Avala-torony",
+"k":"Avala-torony Avala torony"
+},
+"Smederevo Fortress":{
+"hu":"Szendrői vár",
+"k":"Szendrői vár Szendrő Smederevo erőd"
+},
+"Petrovaradin Fortress":{
+"hu":"Péterváradi erőd",
+"k":"Péterváradi erőd Péterváradi vár Újvidék"
+},
+"Fruška Gora":{
+"hu":"Fruška Gora",
+"k":"Fruška Gora Tarcal-hegység Fruska Gora"
+},
+"Bukhansan":{
+"hu":"Bukhansan",
+"k":"Bukhansan Bukhan hegy Szöul"
+},
+"Lotte World Tower":{
+"hu":"Lotte World Tower",
+"k":"Lotte World Tower Lotte torony Szöul"
+},
+"Incheon Bridge":{
+"hu":"Incshoni híd",
+"k":"Incshoni híd Incheon híd"
+},
+"N Seoul Tower":{
+"hu":"N Seoul Tower",
+"k":"N Seoul Tower Namszan torony Szöul"
+},
+"Gyeongbokgung Palace":{
+"hu":"Kjongbokkung-palota",
+"k":"Kjongbokkung-palota Gyeongbokgung palota"
+},
+"Mount Makiling":{
+"hu":"Mount Makiling",
+"k":"Mount Makiling Makiling hegy"
+},
+"Taal Volcano":{
+"hu":"Taal-vulkán",
+"k":"Taal-vulkán Taal vulkán Tagaytay"
+},
+"Corregidor":{
+"hu":"Corregidor",
+"k":"Corregidor Corregidor sziget"
+},
+"Intramuros":{
+"hu":"Intramuros",
+"k":"Intramuros Intramuros Manila erőd"
+},
+"Genting Highlands":{
+"hu":"Genting-fennsík",
+"k":"Genting-fennsík Genting Highlands"
+},
+"Batu Caves":{
+"hu":"Batu-barlangok",
+"k":"Batu-barlangok Batu barlangok Kuala Lumpur"
+},
+"Petronas Towers":{
+"hu":"Petronas-tornyok",
+"k":"Petronas-tornyok Petronas ikertorony"
+},
+"Putrajaya":{
+"hu":"Putrajaya",
+"k":"Putrajaya Putrajaya"
+},
+"Doi Inthanon":{
+"hu":"Doi Inthanon",
+"k":"Doi Inthanon Doi Inthanon Thaiföld legmagasabb"
+},
+"Chiang Dao":{
+"hu":"Chiang Dao",
+"k":"Chiang Dao Chiang Dao hegy"
+},
+"Doi Suthep":{
+"hu":"Doi Suthep",
+"k":"Doi Suthep Doi Suthep templom"
+},
+"Jebel Akhdar":{
+"hu":"Dzsebel Akhdar",
+"k":"Dzsebel Akhdar Jebel Akhdar Zöld-hegység"
+},
+"Nakhal Fort":{
+"hu":"Nakhal-erőd",
+"k":"Nakhal-erőd Nakhal erőd Omán"
+},
+"Daymaniyat Islands":{
+"hu":"Daymaniyat-szigetek",
+"k":"Daymaniyat-szigetek Daymaniyat szigetek"
+},
+"Muttrah Corniche":{
+"hu":"Muttrah korzó",
+"k":"Muttrah korzó Muttrah Corniche Maszkat"
+},
+"Kaleiçi":{
+"hu":"Kaleiçi",
+"k":"Kaleiçi Kaleici Antalya óváros"
+},
+"Termessos":{
+"hu":"Termessos",
+"k":"Termessos Termessos romváros"
+},
+"Olympos":{
+"hu":"Olümposz (Lükia)",
+"k":"Olümposz (Lükia) Olympos Chimaera Cirali"
+},
+"Aspendos":{
+"hu":"Aszpendosz",
+"k":"Aszpendosz Aspendos színház"
+},
+"Plymouth Rock":{
+"hu":"Plymouth Rock",
+"k":"Plymouth Rock Plymouth zarándokok"
+},
+"Gay Head Cliffs":{
+"hu":"Gay Head-sziklák",
+"k":"Gay Head-sziklák Gay Head Martha's Vineyard Aquinnah"
+},
+"Nantucket":{
+"hu":"Nantucket",
+"k":"Nantucket Nantucket sziget"
+},
+"Provincetown":{
+"hu":"Provincetown",
+"k":"Provincetown Provincetown Cape Cod"
+},
+"Oak Alley Plantation":{
+"hu":"Oak Alley ültetvény",
+"k":"Oak Alley ültetvény Oak Alley tölgyfasor"
+},
+"Mandeville":{
+"hu":"Mandeville",
+"k":"Mandeville Mandeville Louisiana"
+},
+"Lake Pontchartrain Causeway":{
+"hu":"Pontchartrain-tavi Causeway",
+"k":"Pontchartrain-tavi Causeway Pontchartrain híd Causeway"
+},
+"French Quarter":{
+"hu":"Francia negyed",
+"k":"Francia negyed French Quarter New Orleans"
+},
+"Cuyamaca Peak":{
+"hu":"Cuyamaca-csúcs",
+"k":"Cuyamaca-csúcs Cuyamaca hegy"
+},
+"Torrey Pines":{
+"hu":"Torrey Pines",
+"k":"Torrey Pines Torrey Pines sziklák"
+},
+"La Jolla Cove":{
+"hu":"La Jolla-öböl",
+"k":"La Jolla-öböl La Jolla Cove fókák"
+},
+"Cabrillo Point":{
+"hu":"Cabrillo-fok",
+"k":"Cabrillo-fok Point Loma Cabrillo"
+},
+"Coronado Bridge":{
+"hu":"Coronado-híd",
+"k":"Coronado-híd Coronado híd San Diego"
+},
+"Garden of the Gods":{
+"hu":"Garden of the Gods",
+"k":"Garden of the Gods Istenek kertje Colorado Springs"
+},
+"Pikes Peak":{
+"hu":"Pikes Peak",
+"k":"Pikes Peak Pikes Peak"
+},
+"Mount Evans":{
+"hu":"Mount Evans",
+"k":"Mount Evans Mount Evans Colorado"
+},
+"Longs Peak":{
+"hu":"Longs Peak",
+"k":"Longs Peak Longs Peak Rocky Mountain"
+},
+"Oak Creek Canyon":{
+"hu":"Oak Creek-kanyon",
+"k":"Oak Creek-kanyon Oak Creek kanyon Sedona"
+},
+"Humphreys Peak":{
+"hu":"Humphreys Peak",
+"k":"Humphreys Peak Humphreys Peak Arizona legmagasabb"
+},
+"Jerome":{
+"hu":"Jerome",
+"k":"Jerome Jerome kísértetváros"
+},
+"Montezuma Castle":{
+"hu":"Montezuma-kastély",
+"k":"Montezuma-kastély Montezuma Castle sziklalakás"
+},
+"Château Frontenac":{
+"hu":"Château Frontenac",
+"k":"Château Frontenac Frontenac kastély Québec"
+},
+"Montmorency Falls":{
+"hu":"Montmorency-vízesés",
+"k":"Montmorency-vízesés Montmorency vízesés"
+},
+"Île d'Orléans":{
+"hu":"Île d'Orléans",
+"k":"Île d'Orléans Orléans sziget Québec"
+},
+"Cap Tourmente":{
+"hu":"Cap Tourmente",
+"k":"Cap Tourmente Cap Tourmente hóliba"
+},
+"Ngamba Island":{
+"hu":"Ngamba-sziget",
+"k":"Ngamba-sziget Ngamba sziget csimpánz"
+},
+"Source of the Nile":{
+"hu":"A Nílus forrása",
+"k":"A Nílus forrása Nílus forrás Jinja"
+},
+"Kampala":{
+"hu":"Kampala",
+"k":"Kampala Kampala"
+},
+"Dune 7":{
+"hu":"Dune 7",
+"k":"Dune 7 Dune 7 Walvis Bay"
+},
+"Walvis Bay Lagoon":{
+"hu":"Walvis Bay-i lagúna",
+"k":"Walvis Bay-i lagúna Walvis Bay lagúna flamingó"
+},
+"Sandwich Harbour":{
+"hu":"Sandwich Harbour",
+"k":"Sandwich Harbour Sandwich Harbour dűne"
+},
+"Cape Cross":{
+"hu":"Cape Cross",
+"k":"Cape Cross Cape Cross fókatelep"
+},
+"Spitzkoppe":{
+"hu":"Spitzkoppe",
+"k":"Spitzkoppe Spitzkoppe gránit"
+},
+"Fes Medina":{
+"hu":"Fezi medina",
+"k":"Fezi medina Fes medina"
+},
+"Volubilis":{
+"hu":"Volubilis",
+"k":"Volubilis Volubilis római"
+},
+"Meknes":{
+"hu":"Meknes",
+"k":"Meknes Meknes"
+},
+"Ifrane":{
+"hu":"Ifrane",
+"k":"Ifrane Ifrane cédrus"
+},
+"Shimba Hills":{
+"hu":"Shimba-hegyek",
+"k":"Shimba-hegyek Shimba Hills"
+},
+"Wasini Island":{
+"hu":"Wasini-sziget",
+"k":"Wasini-sziget Wasini sziget"
+},
+"Diani Beach":{
+"hu":"Diani-part",
+"k":"Diani-part Diani Beach"
+},
+"Fort Jesus":{
+"hu":"Fort Jesus",
+"k":"Fort Jesus Fort Jesus Mombasa"
+},
+"Hercílio Luz Bridge":{
+"hu":"Hercílio Luz híd",
+"k":"Hercílio Luz híd Hercilio Luz híd Florianopolis"
+},
+"Jurerê":{
+"hu":"Jurerê",
+"k":"Jurerê Jurere Florianopolis"
+},
+"Lagoa da Conceição":{
+"hu":"Lagoa da Conceição",
+"k":"Lagoa da Conceição Conceicao lagúna"
+},
+"Joaquina Dunes":{
+"hu":"Joaquina-dűnék",
+"k":"Joaquina-dűnék Joaquina dűne"
+},
+"Campeche Island":{
+"hu":"Campeche-sziget",
+"k":"Campeche-sziget Campeche sziget"
+},
+"Cayambe":{
+"hu":"Cayambe",
+"k":"Cayambe Cayambe vulkán"
+},
+"Antisana":{
+"hu":"Antisana",
+"k":"Antisana Antisana vulkán"
+},
+"Cotopaxi":{
+"hu":"Cotopaxi",
+"k":"Cotopaxi Cotopaxi vulkán"
+},
+"Iliniza":{
+"hu":"Iliniza",
+"k":"Iliniza Iliniza"
+},
+"Quito Old Town":{
+"hu":"Quito óvárosa",
+"k":"Quito óvárosa Quito óváros"
+},
+"Salinas Grandes":{
+"hu":"Salinas Grandes",
+"k":"Salinas Grandes Salinas Grandes sósivatag"
+},
+"Hornocal":{
+"hu":"Hornocal",
+"k":"Hornocal Hornocal hegy 14 szín"
+},
+"Tilcara":{
+"hu":"Tilcara",
+"k":"Tilcara Tilcara Pucará"
+},
+"Purmamarca":{
+"hu":"Purmamarca",
+"k":"Purmamarca Purmamarca hét színű domb"
+},
+"Mount Victoria":{
+"hu":"Mount Victoria",
+"k":"Mount Victoria Mount Victoria Wellington"
+},
+"Kapiti Island":{
+"hu":"Kapiti-sziget",
+"k":"Kapiti-sziget Kapiti sziget"
+},
+"Picton":{
+"hu":"Picton",
+"k":"Picton Picton Marlborough Sounds"
+},
+"Hawkesbury River":{
+"hu":"Hawkesbury-folyó",
+"k":"Hawkesbury-folyó Hawkesbury folyó"
+},
+"Wentworth Falls":{
+"hu":"Wentworth-vízesés",
+"k":"Wentworth-vízesés Wentworth Falls Blue Mountains"
+},
+"Three Sisters":{
+"hu":"Három Nővér",
+"k":"Három Nővér Three Sisters Katoomba"
+},
+"Royal National Park":{
+"hu":"Royal National Park",
+"k":"Royal National Park Royal Nemzeti Park Sydney"
+},
+"Ubirr":{
+"hu":"Ubirr",
+"k":"Ubirr Ubirr sziklafestés Kakadu"
+},
+"Jim Jim Falls":{
+"hu":"Jim Jim-vízesés",
+"k":"Jim Jim-vízesés Jim Jim Falls Kakadu"
+},
+"Mary River":{
+"hu":"Mary River",
+"k":"Mary River Mary River Nemzeti Park"
+},
+"Fogg Dam":{
+"hu":"Fogg Dam",
+"k":"Fogg Dam Fogg Dam madarak"
+},
+"Mount Coot-tha":{
+"hu":"Mount Coot-tha",
+"k":"Mount Coot-tha Coot-tha Brisbane kilátó"
+},
+"Glass House Mountains":{
+"hu":"Glass House-hegység",
+"k":"Glass House-hegység Glass House Mountains"
+},
+"Tangalooma":{
+"hu":"Tangalooma",
+"k":"Tangalooma Tangalooma hajóroncs Moreton"
+},
+"Point Lookout":{
+"hu":"Point Lookout",
+"k":"Point Lookout Point Lookout Stradbroke"
+},
+"Moon Landscape":{
+"hu":"Holdbéli táj",
+"k":"Holdbéli táj Moon Landscape Swakopmund"
+},
+"Mamukala Wetlands":{
+"hu":"Mamukala-mocsarak",
+"k":"Mamukala-mocsarak Mamukala Kakadu mocsár"
+},
+"Marlborough Sounds":{
+"hu":"Marlborough Sounds",
+"k":"Marlborough Sounds Marlborough Sounds Picton"
 }
 }
 }
