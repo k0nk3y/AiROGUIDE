@@ -76,14 +76,6 @@ add("EU", "lake-district", UK, ("Lake District and Hadrian's Wall", "Lake Distri
     ("England's lakeland with Scafell Pike and Windermere, then the Roman wall striding across the hills.", "Anglia tóvidéke a Scafell Pike-kal és a Windermere-rel, majd a dombokon átvonuló római fal."),
     [("loop", "loop", 100, 4000, ("Lakes and the Wall", "Tavak és a fal"), ("Keswick, Scafell Pike, Windermere and Hadrian's Wall at Housesteads.", "Keswick, a Scafell Pike, Windermere és a Hadrianus-fal Housesteadsnél."),
       ["EGNC", Pt("Keswick", 54.6000, -3.1340), Pt("Scafell Pike", 54.4542, -3.2116), Pt("Windermere", 54.3700, -2.9300), Pt("Housesteads", 55.0270, -2.3270), "EGNC"])])
-add("EU", "danube-bend", HU, ("Danube Bend", "Dunakanyar"), ("Visegrád", "Visegrád", 47.7890, 18.9690), ["culture", "city"],
-    ("The Danube cutting through the Visegrád hills: the Esztergom basilica, the royal castle and the artists' town of Szentendre.", "A Duna a Visegrádi-hegységen át: az esztergomi bazilika, a királyi vár és a művészváros, Szentendre."),
-    [("short", "loop", 100, 3000, ("Danube Bend", "Dunakanyar"), ("Szentendre, Visegrád, Esztergom and Vác.", "Szentendre, Visegrád, Esztergom és Vác."),
-      ["LHBP", Pt("Szentendre", 47.6700, 19.0750), Pt("Visegrád", 47.7890, 18.9690), Pt("Esztergom Basilica", 47.7990, 18.7390), Pt("Vác", 47.7800, 19.1330), "LHBP"])])
-add("EU", "tokaj-eger", HU, ("Eger, Bükk and Tokaj", "Eger, Bükk és Tokaj"), ("Tokaj", "Tokaj", 48.1180, 21.4090), ["culture", "mountain"],
-    ("Two wine regions in one flight: Eger's baroque castle town under the Bükk hills and the volcanic Tokaj hill with its vineyards.", "Két borvidék egy repülésben: Eger barokk vára a Bükk alatt és a vulkáni Tokaj-hegy szőlői."),
-    [("long", "loop", 105, 4000, ("Wine route", "Borút"), ("Eger, the Bükk plateau, Tokaj and the Zemplén hills.", "Eger, a Bükk fennsík, Tokaj és a Zempléni-hegység."),
-      ["LHBP", Pt("Eger", 47.9020, 20.3770), Pt("Bükk plateau", 48.0700, 20.5000), Pt("Tokaj", 48.1180, 21.4090), Pt("Zemplén Hills", 48.3500, 21.4000), "LHBP"])])
 add("AS", "hokkaido", JP, ("Hokkaido: Lake Toya and Sapporo", "Hokkaidó: Tója-tó és Szapporo"), ("Lake Toya", "Tója-tó", 42.6000, 140.8500), ["volcano", "mountain", "city"],
     ("Crater lakes, the steaming valleys of Noboribetsu, perfect Mount Yotei and Sapporo.", "Kráterek tavai, Noboribetsu gőzölgő völgyei, a tökéletes Mount Yotei és Szapporo."),
     [("loop", "loop", 120, 6000, ("Crater lakes", "Kráter-tavak"), ("Sapporo, Mount Yotei, Lake Toya, Noboribetsu and Lake Shikotsu.", "Szapporo, a Mount Yotei, a Tója-tó, Noboribetsu és a Sikocu-tó."),
@@ -92,10 +84,6 @@ add("AS", "taiwan", TW, ("Taiwan: Taroko Gorge and Sun Moon Lake", "Tajvan: Taro
     ("Taipei 101, the marble gorge of Taroko, Yushan and Sun Moon Lake on a single sweep over the island.", "A Taipei 101, a Taroko márványszurdoka, a Jade-hegy és a Nap-Hold-tó egyetlen körrepülésben."),
     [("long", "loop", 120, 9000, ("Around Taiwan's heart", "Tajvan szíve körül"), ("Taipei, Jiufen, Taroko Gorge, Yushan and Sun Moon Lake.", "Tajpej, Csiufen, a Taroko-szurdok, a Jade-hegy és a Nap-Hold-tó."),
       ["RCSS", Pt("Taipei 101", 25.0330, 121.5654), Pt("Jiufen", 25.1090, 121.8440), Pt("Taroko Gorge", 24.1590, 121.6220), Pt("Yushan", 23.4700, 120.9570), Pt("Sun Moon Lake", 23.8570, 120.9150), "RCSS"])])
-add("NA", "big-island", US, ("Big Island of Hawaii", "Hawaii Nagy-sziget"), ("Kīlauea", "Kīlauea", 19.4069, -155.2834), ["volcano", "island", "coast"],
-    ("The only place on earth where you can fly past an erupting volcano, snow on Mauna Kea and the Waipi'o valley.", "Az egyetlen hely a Földön, ahol kitörő vulkán mellett repülhetsz el, a Mauna Kea havával és a Waipi'o-völggyel."),
-    [("loop", "loop", 110, 9000, ("Volcanoes", "Vulkánok"), ("Hilo, Mauna Kea, Waipi'o and Kīlauea.", "Hilo, a Mauna Kea, Waipi'o és a Kīlauea."),
-      ["PHTO", Pt("Akaka Falls", 19.8540, -155.1520), Pt("Waipi'o Valley", 20.1170, -155.5830), Pt("Mauna Kea", 19.8200, -155.4680), Pt("Kīlauea", 19.4069, -155.2834), "PHTO"])])
 add("NA", "los-angeles", US, ("Los Angeles", "Los Angeles"), ("Hollywood Sign", "Hollywood-felirat", 34.1341, -118.3215), ["city", "coast"],
     ("The Hollywood sign, Griffith Observatory, Downtown and the Pacific coast from Santa Monica to Malibu.", "A Hollywood-felirat, a Griffith Obszervatórium, Downtown és a Csendes-óceán partja Santa Monicától Malibuig."),
     [("short", "loop", 100, 3000, ("Hollywood and the Coast", "Hollywood és a part"), ("Santa Monica, Hollywood sign, Downtown LA and Malibu.", "Santa Monica, Hollywood-felirat, Downtown LA és Malibu."),
@@ -112,10 +100,6 @@ add("SA", "bariloche", AR, ("Bariloche and the Lake District", "Bariloche és a 
     ("Patagonia's lake district: Nahuel Huapi, the glaciers of Tronador and the Circuito Chico.", "Patagónia tóvidéke: a Nahuel Huapi, a Tronador gleccserei és a Circuito Chico."),
     [("loop", "loop", 100, 8000, ("Nahuel Huapi", "Nahuel Huapi"), ("Cerro Catedral, Cerro Tronador and Lake Nahuel Huapi.", "A Cerro Catedral, a Cerro Tronador és a Nahuel Huapi-tó."),
       ["SAZS", Pt("Cerro Catedral", -41.1700, -71.4400), Pt("Cerro Tronador", -41.1670, -71.8840), Pt("Isla Victoria", -40.9100, -71.5400), "SAZS"])])
-add("OC", "kauai", US, ("Kauai: Na Pali and Waimea", "Kauai: Na Pali és Waimea"), ("Na Pali Coast", "Na Pali-part", 22.1700, -159.6500), ["island", "coast", "mountain"],
-    ("Emerald cliffs of the Na Pali, Waimea Canyon and Mount Waialeale, the wettest spot on earth.", "A Na Pali smaragd sziklái, a Waimea-kanyon és a Mount Waialeale, a Föld egyik legcsapadékosabb pontja."),
-    [("loop", "loop", 100, 4000, ("Garden Island", "A kert-sziget"), ("Waimea Canyon, the Na Pali coast, Hanalei and Mount Waialeale.", "A Waimea-kanyon, a Na Pali-part, Hanalei és a Mount Waialeale."),
-      ["PHLI", Pt("Waimea Canyon", 22.0710, -159.6620), Pt("Na Pali Coast", 22.1700, -159.6500), Pt("Hanalei Bay", 22.2100, -159.5000), Pt("Mount Waialeale", 22.0700, -159.4950), "PHLI"])])
 add("OC", "tahiti-moorea", PF, ("Tahiti and Moorea", "Tahiti és Moorea"), ("Moorea", "Moorea", -17.5388, -149.8295), ["island", "coast", "volcano"],
     ("Moorea's jagged peaks above lagoons, the surf of Teahupo'o and Tahiti's green volcanic interior.", "Moorea csipkézett csúcsai a lagúnák felett, Teahupo'o hullámai és Tahiti zöld vulkáni belseje."),
     [("loop", "loop", 100, 3500, ("Tahiti and Moorea", "Tahiti és Moorea"), ("Papeete, Moorea, Teahupo'o and Tahiti's interior.", "Papeete, Moorea, Teahupo'o és Tahiti belseje."),

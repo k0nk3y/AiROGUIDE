@@ -758,52 +758,42 @@
      "id": "bend",
      "kind": "loop",
      "kt": 105,
-     "alt_ft": 2000,
+     "alt_ft": 3000,
      "stol": false,
      "label": {
       "en": "Danube Bend",
       "hu": "Dunakanyar"
      },
      "desc": {
-      "en": "The city landmarks plus the Danube Bend: Szentendre, the Visegrád citadel and Esztergom Basilica.",
-      "hu": "A városi látnivalók és a Dunakanyar: Szentendre, a visegrádi fellegvár és az esztergomi bazilika."
+      "en": "The Danube Bend: Esztergom Basilica, the Visegrád citadel, Vác and Szentendre.",
+      "hu": "A Dunakanyar: az esztergomi bazilika, a visegrádi fellegvár, Vác és Szentendre."
      },
      "pts": [
       "LHBP",
       [
-       "Buda Castle",
-       47.4961,
-       19.0396
-      ],
-      [
        "Esztergom Basilica",
-       47.7993,
+       47.799,
        18.739
       ],
       [
        "~",
-       47.8327,
-       18.7678
+       47.8341,
+       18.7634
       ],
       [
-       "Visegrád Citadel",
-       47.7889,
-       18.9686
+       "Visegrád",
+       47.789,
+       18.969
+      ],
+      [
+       "Vác",
+       47.78,
+       19.133
       ],
       [
        "Szentendre",
-       47.6694,
-       19.0756
-      ],
-      [
-       "Hungarian Parliament",
-       47.5072,
-       19.0456
-      ],
-      [
-       "Gellért Hill",
-       47.4862,
-       19.046
+       47.67,
+       19.075
       ],
       "LHBP"
      ]
@@ -826,7 +816,7 @@
      19.0452
     ]
    ],
-   "kw": "Gellért-hegy Citadella János-hegy Erzsébet-kilátó Margit-sziget Országház Parlament Budai Vár Esztergomi bazilika Esztergom bazilika visegrádi fellegvár Szentendre Szentendre művészváros Hősök tere Halászbástya Margit híd",
+   "kw": "Gellért-hegy Citadella János-hegy Erzsébet-kilátó Margit-sziget Országház Parlament Budai Vár Esztergomi bazilika Esztergom bazilika Visegrád Visegrád fellegvár Dunakanyar Vác Vác Szentendre Szentendre művészváros Hősök tere Halászbástya Margit híd",
    "img": "Hungarian Parliament Building"
   },
   {
@@ -17705,153 +17695,6 @@
    "img": "Windermere|Lake District"
   },
   {
-   "id": "danube-bend",
-   "continent": "EU",
-   "country": {
-    "en": "Hungary",
-    "hu": "Magyarország"
-   },
-   "name": {
-    "en": "Danube Bend",
-    "hu": "Dunakanyar"
-   },
-   "main": {
-    "en": "Visegrád",
-    "hu": "Visegrád",
-    "lat": 47.789,
-    "lon": 18.969
-   },
-   "tags": [
-    "culture",
-    "city"
-   ],
-   "desc": {
-    "en": "The Danube cutting through the Visegrád hills: the Esztergom basilica, the royal castle and the artists' town of Szentendre.",
-    "hu": "A Duna a Visegrádi-hegységen át: az esztergomi bazilika, a királyi vár és a művészváros, Szentendre."
-   },
-   "variants": [
-    {
-     "id": "short",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 3000,
-     "stol": false,
-     "label": {
-      "en": "Danube Bend",
-      "hu": "Dunakanyar"
-     },
-     "desc": {
-      "en": "Szentendre, Visegrád, Esztergom and Vác.",
-      "hu": "Szentendre, Visegrád, Esztergom és Vác."
-     },
-     "pts": [
-      "LHBP",
-      [
-       "Esztergom Basilica",
-       47.799,
-       18.739
-      ],
-      [
-       "~",
-       47.8341,
-       18.7634
-      ],
-      [
-       "Visegrád",
-       47.789,
-       18.969
-      ],
-      [
-       "Vác",
-       47.78,
-       19.133
-      ],
-      [
-       "Szentendre",
-       47.67,
-       19.075
-      ],
-      "LHBP"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Esztergomi bazilika Esztergom bazilika Visegrád Visegrád fellegvár Dunakanyar Vác Vác Szentendre Szentendre művészváros",
-   "img": "Danube Bend|Visegrád"
-  },
-  {
-   "id": "tokaj-eger",
-   "continent": "EU",
-   "country": {
-    "en": "Hungary",
-    "hu": "Magyarország"
-   },
-   "name": {
-    "en": "Eger, Bükk and Tokaj",
-    "hu": "Eger, Bükk és Tokaj"
-   },
-   "main": {
-    "en": "Tokaj",
-    "hu": "Tokaj",
-    "lat": 48.118,
-    "lon": 21.409
-   },
-   "tags": [
-    "culture",
-    "mountain"
-   ],
-   "desc": {
-    "en": "Two wine regions in one flight: Eger's baroque castle town under the Bükk hills and the volcanic Tokaj hill with its vineyards.",
-    "hu": "Két borvidék egy repülésben: Eger barokk vára a Bükk alatt és a vulkáni Tokaj-hegy szőlői."
-   },
-   "variants": [
-    {
-     "id": "long",
-     "kind": "loop",
-     "kt": 105,
-     "alt_ft": 4000,
-     "stol": false,
-     "label": {
-      "en": "Wine route",
-      "hu": "Borút"
-     },
-     "desc": {
-      "en": "Eger, the Bükk plateau, Tokaj and the Zemplén hills.",
-      "hu": "Eger, a Bükk fennsík, Tokaj és a Zempléni-hegység."
-     },
-     "pts": [
-      "LHBP",
-      [
-       "Tokaj",
-       48.118,
-       21.409
-      ],
-      [
-       "Zemplén Hills",
-       48.35,
-       21.4
-      ],
-      [
-       "Bükk plateau",
-       48.07,
-       20.5
-      ],
-      [
-       "Eger",
-       47.902,
-       20.377
-      ],
-      "LHBP"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Tokaj Tokaj-hegy borvidék Zempléni-hegység Zemplén Bükki-fennsík Bükk Szilvásvárad Eger Eger vár Egri csillagok",
-   "img": "Eger Castle|Tokaj"
-  },
-  {
    "id": "hokkaido",
    "continent": "AS",
    "country": {
@@ -18004,88 +17847,6 @@
    "new": true,
    "kw": "Csiufen Jiufen bányászváros Taroko-szurdok Taroko Nemzeti Park Yushan Jade-hegy Tajvan legmagasabb Nap-Hold-tó Sun Moon Lake Taipei 101 Tajpej felhőkarcoló",
    "img": "Taroko National Park|Taipei 101"
-  },
-  {
-   "id": "big-island",
-   "continent": "NA",
-   "country": {
-    "en": "United States",
-    "hu": "Egyesült Államok"
-   },
-   "name": {
-    "en": "Big Island of Hawaii",
-    "hu": "Hawaii Nagy-sziget"
-   },
-   "main": {
-    "en": "Kīlauea",
-    "hu": "Kīlauea",
-    "lat": 19.4069,
-    "lon": -155.2834
-   },
-   "tags": [
-    "volcano",
-    "island",
-    "coast"
-   ],
-   "desc": {
-    "en": "The only place on earth where you can fly past an erupting volcano, snow on Mauna Kea and the Waipi'o valley.",
-    "hu": "Az egyetlen hely a Földön, ahol kitörő vulkán mellett repülhetsz el, a Mauna Kea havával és a Waipi'o-völggyel."
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 110,
-     "alt_ft": 9000,
-     "stol": false,
-     "label": {
-      "en": "Volcanoes",
-      "hu": "Vulkánok"
-     },
-     "desc": {
-      "en": "Hilo, Mauna Kea, Waipi'o and Kīlauea.",
-      "hu": "Hilo, a Mauna Kea, Waipi'o és a Kīlauea."
-     },
-     "pts": [
-      "PHTO",
-      [
-       "Kīlauea",
-       19.4069,
-       -155.2834
-      ],
-      [
-       "~",
-       19.4176,
-       -155.3851
-      ],
-      [
-       "Mauna Kea",
-       19.82,
-       -155.468
-      ],
-      [
-       "Waipi'o Valley",
-       20.117,
-       -155.583
-      ],
-      [
-       "~",
-       20.1662,
-       -155.5172
-      ],
-      [
-       "Akaka Falls",
-       19.854,
-       -155.152
-      ],
-      "PHTO"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Kīlauea Kilauea vulkán Mauna Kea Mauna Kea csillagvizsgáló Waipi'o-völgy Waipio völgy Akaka-vízesés Akaka Hilo",
-   "img": "Kīlauea|Mauna Kea"
   },
   {
    "id": "los-angeles",
@@ -18387,78 +18148,6 @@
    "new": true,
    "kw": "Victoria-sziget Isla Victoria Nahuel Huapi Cerro Tronador Tronador gleccserek Cerro Catedral Catedral Bariloche síközpont",
    "img": "Nahuel Huapi National Park|Cerro Tronador"
-  },
-  {
-   "id": "kauai",
-   "continent": "OC",
-   "country": {
-    "en": "United States",
-    "hu": "Egyesült Államok"
-   },
-   "name": {
-    "en": "Kauai: Na Pali and Waimea",
-    "hu": "Kauai: Na Pali és Waimea"
-   },
-   "main": {
-    "en": "Na Pali Coast",
-    "hu": "Na Pali-part",
-    "lat": 22.17,
-    "lon": -159.65
-   },
-   "tags": [
-    "island",
-    "coast",
-    "mountain"
-   ],
-   "desc": {
-    "en": "Emerald cliffs of the Na Pali, Waimea Canyon and Mount Waialeale, the wettest spot on earth.",
-    "hu": "A Na Pali smaragd sziklái, a Waimea-kanyon és a Mount Waialeale, a Föld egyik legcsapadékosabb pontja."
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 4000,
-     "stol": false,
-     "label": {
-      "en": "Garden Island",
-      "hu": "A kert-sziget"
-     },
-     "desc": {
-      "en": "Waimea Canyon, the Na Pali coast, Hanalei and Mount Waialeale.",
-      "hu": "A Waimea-kanyon, a Na Pali-part, Hanalei és a Mount Waialeale."
-     },
-     "pts": [
-      "PHLI",
-      [
-       "Mount Waialeale",
-       22.07,
-       -159.495
-      ],
-      [
-       "Waimea Canyon",
-       22.071,
-       -159.662
-      ],
-      [
-       "Na Pali Coast",
-       22.17,
-       -159.65
-      ],
-      [
-       "Hanalei Bay",
-       22.21,
-       -159.5
-      ],
-      "PHLI"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Mount Waialeale Waialeale legcsapadékosabb Waimea-kanyon Waimea kanyon Kauai Na Pali-part Na Pali Kauai Hanalei-öböl Hanalei",
-   "img": "Nā Pali Coast|Waimea Canyon"
   },
   {
    "id": "tahiti-moorea",
