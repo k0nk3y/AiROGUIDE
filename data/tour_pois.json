@@ -1457,7 +1457,8 @@
 "k":"Megváltó Krisztus-szobor Corcovado"
 },
 "Copacabana":{
-"hu":"Copacabana"
+"hu":"Copacabana",
+"k":"Copacabana Copacabana Titicaca"
 },
 "Sugarloaf Mountain":{
 "hu":"Cukorsüveg-hegy",
@@ -3291,6 +3292,558 @@
 "Mount Orohena":{
 "hu":"Mount Orohena",
 "k":"Mount Orohena Orohena Tahiti"
+},
+"Nairobi National Park":{
+"hu":"Nairobi Nemzeti Park",
+"k":"Nairobi Nemzeti Park Nairobi nemzeti park zsiráf"
+},
+"Ngong Hills":{
+"hu":"Ngong-dombok",
+"k":"Ngong-dombok Ngong dombok Nairobi"
+},
+"Hell's Gate":{
+"hu":"Hell's Gate",
+"k":"Hell's Gate Hell's Gate nemzeti park szurdok"
+},
+"Lake Naivasha":{
+"hu":"Naivasha-tó",
+"k":"Naivasha-tó Naivasha tó"
+},
+"Mount Longonot":{
+"hu":"Mount Longonot",
+"k":"Mount Longonot Longonot kráter vulkán"
+},
+"Mount Bisoke":{
+"hu":"Bisoke",
+"k":"Bisoke Bisoke vulkán gorilla"
+},
+"Karisimbi":{
+"hu":"Karisimbi",
+"k":"Karisimbi Karisimbi vulkán"
+},
+"Nyiragongo":{
+"hu":"Nyiragongo",
+"k":"Nyiragongo Nyiragongo lávató vulkán"
+},
+"Lake Kivu":{
+"hu":"Kivu-tó",
+"k":"Kivu-tó Kivu tó"
+},
+"Kigali":{
+"hu":"Kigali",
+"k":"Kigali Kigali Ruanda"
+},
+"Zaghouan":{
+"hu":"Zaghuan",
+"k":"Zaghuan Zaghouan vízvezeték"
+},
+"Hammamet":{
+"hu":"Hammamet",
+"k":"Hammamet Hammamet"
+},
+"Kelibia":{
+"hu":"Kelibia",
+"k":"Kelibia Kelibia Bon-fok"
+},
+"Sidi Bou Said":{
+"hu":"Sidi Bou Said",
+"k":"Sidi Bou Said Sidi Bou Said kék fehér"
+},
+"Carthage":{
+"hu":"Karthágó",
+"k":"Karthágó Karthágó romok"
+},
+"Tsingy de Bemaraha":{
+"hu":"Tsingy de Bemaraha",
+"k":"Tsingy de Bemaraha Tsingy kőerdő Madagaszkár"
+},
+"Tsiribihina River":{
+"hu":"Tsiribihina folyó",
+"k":"Tsiribihina folyó Tsiribihina"
+},
+"Avenue of the Baobabs":{
+"hu":"Baobabok sétánya",
+"k":"Baobabok sétánya Baobab fasor Morondava"
+},
+"Pilgrim's Rest":{
+"hu":"Pilgrim's Rest",
+"k":"Pilgrim's Rest Pilgrim's Rest aranyásó város"
+},
+"Bourke's Luck Potholes":{
+"hu":"Bourke's Luck lyukak",
+"k":"Bourke's Luck lyukak Bourke's Luck potholes Blyde"
+},
+"Three Rondavels":{
+"hu":"Three Rondavels",
+"k":"Three Rondavels Három Rondavel Blyde kanyon"
+},
+"Skukuza":{
+"hu":"Skukuza",
+"k":"Skukuza Skukuza Kruger tábor"
+},
+"Philae":{
+"hu":"Philae",
+"k":"Philae Philae templom Asszuán"
+},
+"Aswan High Dam":{
+"hu":"Asszuáni nagy gát",
+"k":"Asszuáni nagy gát Asszuán gát Nasszer tó"
+},
+"Qasr Ibrim":{
+"hu":"Qasr Ibrim",
+"k":"Qasr Ibrim Qasr Ibrim Nasszer tó"
+},
+"Perth CBD":{
+"hu":"Perth belvárosa",
+"k":"Perth belvárosa Perth belváros Swan River"
+},
+"Scarborough Beach":{
+"hu":"Scarborough Beach",
+"k":"Scarborough Beach Scarborough strand Perth"
+},
+"Rottnest Island":{
+"hu":"Rottnest-sziget",
+"k":"Rottnest-sziget Rottnest quokka"
+},
+"Garden Island":{
+"hu":"Garden Island",
+"k":"Garden Island Garden Island Perth"
+},
+"Cape Byron":{
+"hu":"Cape Byron",
+"k":"Cape Byron Byron Bay világítótorony"
+},
+"Mount Warning":{
+"hu":"Mount Warning",
+"k":"Mount Warning Warning vulkán Wollumbin"
+},
+"Springbrook":{
+"hu":"Springbrook",
+"k":"Springbrook Springbrook esőerdő"
+},
+"Surfers Paradise":{
+"hu":"Surfers Paradise",
+"k":"Surfers Paradise Surfers Paradise Gold Coast"
+},
+"Cape Woolamai":{
+"hu":"Cape Woolamai",
+"k":"Cape Woolamai Woolamai Phillip-sziget"
+},
+"The Nobbies":{
+"hu":"The Nobbies",
+"k":"The Nobbies Nobbies pingvin Phillip-sziget"
+},
+"Cape Schanck":{
+"hu":"Cape Schanck",
+"k":"Cape Schanck Schanck világítótorony Mornington"
+},
+"Portsea":{
+"hu":"Portsea",
+"k":"Portsea Portsea Mornington"
+},
+"Melbourne CBD":{
+"hu":"Melbourne belvárosa",
+"k":"Melbourne belvárosa Melbourne belváros Yarra"
+},
+"Whangaroa Harbour":{
+"hu":"Whangaroa-kikötő",
+"k":"Whangaroa-kikötő Whangaroa kikötő"
+},
+"Cape Brett":{
+"hu":"Cape Brett",
+"k":"Cape Brett Hole in the Rock Piercy"
+},
+"Russell":{
+"hu":"Russell",
+"k":"Russell Russell Új-Zéland első fővárosa"
+},
+"Waitangi":{
+"hu":"Waitangi",
+"k":"Waitangi Waitangi egyezmény"
+},
+"Wai-O-Tapu":{
+"hu":"Wai-O-Tapu",
+"k":"Wai-O-Tapu Wai-O-Tapu geotermikus"
+},
+"Lake Taupo":{
+"hu":"Taupō-tó",
+"k":"Taupō-tó Taupo tó"
+},
+"Mount Ngauruhoe":{
+"hu":"Mount Ngauruhoe",
+"k":"Mount Ngauruhoe Ngauruhoe Végzet hegye"
+},
+"Mount Ruapehu":{
+"hu":"Mount Ruapehu",
+"k":"Mount Ruapehu Ruapehu vulkán"
+},
+"Mount Tarawera":{
+"hu":"Mount Tarawera",
+"k":"Mount Tarawera Tarawera vulkán"
+},
+"Koror":{
+"hu":"Koror",
+"k":"Koror Koror Palau"
+},
+"Jellyfish Lake":{
+"hu":"Medúza-tó",
+"k":"Medúza-tó Jellyfish lake Palau"
+},
+"Peleliu":{
+"hu":"Peleliu",
+"k":"Peleliu Peleliu csata"
+},
+"Ngeremlengui Bay":{
+"hu":"Ngeremlengui-öböl",
+"k":"Ngeremlengui-öböl Ngeremlengui"
+},
+"Cartagena Old Town":{
+"hu":"Cartagena óvárosa",
+"k":"Cartagena óvárosa Cartagena óváros"
+},
+"Rosario Islands":{
+"hu":"Rosario-szigetek",
+"k":"Rosario-szigetek Rosario szigetek"
+},
+"Isla Barú":{
+"hu":"Barú-sziget",
+"k":"Barú-sziget Isla Baru"
+},
+"Totumo Volcano":{
+"hu":"Totumo-vulkán",
+"k":"Totumo-vulkán Totumo iszapvulkán"
+},
+"Guatapé":{
+"hu":"Guatapé",
+"k":"Guatapé Guatape"
+},
+"Parque Arví":{
+"hu":"Parque Arví",
+"k":"Parque Arví Arvi park Medellin"
+},
+"Medellín":{
+"hu":"Medellín",
+"k":"Medellín Medellin"
+},
+"Callao":{
+"hu":"Callao",
+"k":"Callao Callao kikötő Lima"
+},
+"Miraflores":{
+"hu":"Miraflores",
+"k":"Miraflores Miraflores Lima"
+},
+"Pachacamac":{
+"hu":"Pachacamac",
+"k":"Pachacamac Pachacamac templom"
+},
+"San Lorenzo Island":{
+"hu":"San Lorenzo-sziget",
+"k":"San Lorenzo-sziget San Lorenzo sziget Lima"
+},
+"Illimani":{
+"hu":"Illimani",
+"k":"Illimani Illimani csúcs La Paz"
+},
+"Huayna Potosí":{
+"hu":"Huayna Potosí",
+"k":"Huayna Potosí Huayna Potosi"
+},
+"Isla del Sol":{
+"hu":"Isla del Sol",
+"k":"Isla del Sol Nap-sziget Titicaca"
+},
+"Tiwanaku":{
+"hu":"Tiwanaku",
+"k":"Tiwanaku Tiwanaku romok"
+},
+"Llaima":{
+"hu":"Llaima",
+"k":"Llaima Llaima vulkán"
+},
+"Lanín":{
+"hu":"Lanín",
+"k":"Lanín Lanin vulkán"
+},
+"Lake Calafquén":{
+"hu":"Calafquén-tó",
+"k":"Calafquén-tó Calafquen tó"
+},
+"Villarrica Volcano":{
+"hu":"Villarrica vulkán",
+"k":"Villarrica vulkán Villarrica vulkán"
+},
+"Pucón":{
+"hu":"Pucón",
+"k":"Pucón Pucon"
+},
+"Thiksey Monastery":{
+"hu":"Thiksey-kolostor",
+"k":"Thiksey-kolostor Thiksey kolostor Ladakh"
+},
+"Hemis Monastery":{
+"hu":"Hemis-kolostor",
+"k":"Hemis-kolostor Hemis kolostor"
+},
+"Stok Kangri":{
+"hu":"Stok Kangri",
+"k":"Stok Kangri Stok Kangri csúcs"
+},
+"Alchi":{
+"hu":"Alchi",
+"k":"Alchi Alchi kolostor"
+},
+"Khardung La":{
+"hu":"Khardung La",
+"k":"Khardung La Khardung La hágó"
+},
+"Phewa Lake":{
+"hu":"Phewa-tó",
+"k":"Phewa-tó Phewa tó Pokhara"
+},
+"Poon Hill":{
+"hu":"Poon Hill",
+"k":"Poon Hill Poon Hill kilátó"
+},
+"Dhaulagiri":{
+"hu":"Dhaulagiri",
+"k":"Dhaulagiri Dhaulagiri nyolcezres"
+},
+"Annapurna I":{
+"hu":"Annapurna I",
+"k":"Annapurna I Annapurna nyolcezres"
+},
+"Machapuchare":{
+"hu":"Machapuchare",
+"k":"Machapuchare Machapuchare Halfarok"
+},
+"Kure":{
+"hu":"Kure",
+"k":"Kure Kure kikötő Hiroshima"
+},
+"Kintai Bridge":{
+"hu":"Kintai-híd",
+"k":"Kintai-híd Kintai híd Iwakuni"
+},
+"Itsukushima Shrine":{
+"hu":"Icukusima-szentély",
+"k":"Icukusima-szentély Itsukushima Miyajima torii"
+},
+"Peace Memorial":{
+"hu":"Béke-emlékmű",
+"k":"Béke-emlékmű Hiroshima Peace Memorial Genbaku"
+},
+"Kerama Islands":{
+"hu":"Kerama-szigetek",
+"k":"Kerama-szigetek Kerama szigetek"
+},
+"Cape Zanpa":{
+"hu":"Zanpa-fok",
+"k":"Zanpa-fok Zanpa fok világítótorony"
+},
+"Churaumi Aquarium":{
+"hu":"Csurauminál akvárium",
+"k":"Csurauminál akvárium Churaumi akvárium Okinawa"
+},
+"Kouri Bridge":{
+"hu":"Kouri-híd",
+"k":"Kouri-híd Kouri híd"
+},
+"Nakagusuku Castle":{
+"hu":"Nakagusuku-vár",
+"k":"Nakagusuku-vár Nakagusuku vár"
+},
+"Hoi An":{
+"hu":"Hoi An",
+"k":"Hoi An Hoi An lampion"
+},
+"Cham Islands":{
+"hu":"Cham-szigetek",
+"k":"Cham-szigetek Cham szigetek"
+},
+"Hai Van Pass":{
+"hu":"Hai Van-hágó",
+"k":"Hai Van-hágó Hai Van hágó"
+},
+"Ba Na Hills":{
+"hu":"Ba Na-hegység",
+"k":"Ba Na-hegység Ba Na Hills Arany híd"
+},
+"My Son":{
+"hu":"Mỹ Sơn",
+"k":"Mỹ Sơn My Son cham templom"
+},
+"Marble Mountains":{
+"hu":"Márvány-hegyek",
+"k":"Márvány-hegyek Marble Mountains Da Nang"
+},
+"Telavi":{
+"hu":"Telavi",
+"k":"Telavi Telavi Kakheti"
+},
+"Gergeti Trinity Church":{
+"hu":"Gergeti Szentháromság-templom",
+"k":"Gergeti Szentháromság-templom Gergeti templom Kazbegi"
+},
+"Mount Kazbek":{
+"hu":"Kazbek",
+"k":"Kazbek Kazbek hegy"
+},
+"Gudauri":{
+"hu":"Gudauri",
+"k":"Gudauri Gudauri síközpont"
+},
+"Ananuri":{
+"hu":"Ananuri",
+"k":"Ananuri Ananuri erőd"
+},
+"Jvari Monastery":{
+"hu":"Dzsvari-kolostor",
+"k":"Dzsvari-kolostor Jvari kolostor Mtskheta"
+},
+"El Morro":{
+"hu":"El Morro",
+"k":"El Morro El Morro San Juan erőd"
+},
+"El Yunque":{
+"hu":"El Yunque",
+"k":"El Yunque El Yunque esőerdő"
+},
+"Fajardo":{
+"hu":"Fajardo",
+"k":"Fajardo Fajardo"
+},
+"Flamenco Beach":{
+"hu":"Flamenco-strand",
+"k":"Flamenco-strand Flamenco Beach Culebra"
+},
+"Cabo Pulmo":{
+"hu":"Cabo Pulmo",
+"k":"Cabo Pulmo Cabo Pulmo zátony"
+},
+"Sierra de la Laguna":{
+"hu":"Sierra de la Laguna",
+"k":"Sierra de la Laguna Sierra Laguna"
+},
+"Todos Santos":{
+"hu":"Todos Santos",
+"k":"Todos Santos Todos Santos Baja"
+},
+"El Arco":{
+"hu":"El Arco",
+"k":"El Arco Cabo San Lucas sziklaív"
+},
+"Turneffe Atoll":{
+"hu":"Turneffe-atoll",
+"k":"Turneffe-atoll Turneffe atoll"
+},
+"Half Moon Caye":{
+"hu":"Half Moon Caye",
+"k":"Half Moon Caye Half Moon Caye Lighthouse Reef"
+},
+"Great Blue Hole":{
+"hu":"Nagy Kék Lyuk",
+"k":"Nagy Kék Lyuk Great Blue Hole Belize"
+},
+"Caye Caulker":{
+"hu":"Caye Caulker",
+"k":"Caye Caulker Caye Caulker"
+},
+"Irazú":{
+"hu":"Irazú",
+"k":"Irazú Irazu vulkán"
+},
+"Turrialba Volcano":{
+"hu":"Turrialba-vulkán",
+"k":"Turrialba-vulkán Turrialba vulkán"
+},
+"Poás":{
+"hu":"Poás",
+"k":"Poás Poas vulkán kráter"
+},
+"Arenal":{
+"hu":"Arenal",
+"k":"Arenal Arenal vulkán"
+},
+"Monteverde":{
+"hu":"Monteverde",
+"k":"Monteverde Monteverde köderdő"
+},
+"Lo Manthang":{
+"hu":"Lo Manthang",
+"k":"Lo Manthang Lo Manthang Mustang"
+},
+"Nilgiri":{
+"hu":"Nilgiri",
+"k":"Nilgiri Nilgiri csúcs"
+},
+"Muktinath":{
+"hu":"Muktinath",
+"k":"Muktinath Muktinath templom"
+},
+"Kagbeni":{
+"hu":"Kagbeni",
+"k":"Kagbeni Kagbeni"
+},
+"Kokoda Track":{
+"hu":"Kokoda Track",
+"k":"Kokoda Track Kokoda ösvény Owen Stanley"
+},
+"Iona":{
+"hu":"Iona",
+"k":"Iona Iona apátság"
+},
+"Ben More":{
+"hu":"Ben More",
+"k":"Ben More Ben More Mull"
+},
+"Staffa":{
+"hu":"Staffa",
+"k":"Staffa Staffa Fingal barlang"
+},
+"Coll":{
+"hu":"Coll",
+"k":"Coll Coll sziget"
+},
+"Bernina Pass":{
+"hu":"Bernina-hágó",
+"k":"Bernina-hágó Bernina hágó"
+},
+"Piz Palü":{
+"hu":"Piz Palü",
+"k":"Piz Palü Piz Palu"
+},
+"Piz Bernina":{
+"hu":"Piz Bernina",
+"k":"Piz Bernina Piz Bernina"
+},
+"Lake Sils":{
+"hu":"Sils-tó",
+"k":"Sils-tó Sils tó Engadin"
+},
+"St. Moritz":{
+"hu":"St. Moritz",
+"k":"St. Moritz Sankt Moritz"
+},
+"Ainsa":{
+"hu":"Aínsa",
+"k":"Aínsa Ainsa Pireneusok"
+},
+"Monte Perdido":{
+"hu":"Monte Perdido",
+"k":"Monte Perdido Monte Perdido Ordesa"
+},
+"Aneto":{
+"hu":"Aneto",
+"k":"Aneto Aneto Pireneusok legmagasabb"
+},
+"Pica d'Estats":{
+"hu":"Pica d'Estats",
+"k":"Pica d'Estats Pica d'Estats"
+},
+"Andorra la Vella":{
+"hu":"Andorra la Vella",
+"k":"Andorra la Vella Andorra"
 }
 }
 }
