@@ -4,7 +4,7 @@ import json, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMG = {
 "hamburg-lubeck": "Elbphilharmonie|Holstentor", "black-forest": "Triberg Waterfalls|Black Forest", "bordeaux": "Dune of Pilat|Saint-Émilion", "corsica": "Scandola Nature Reserve|Calvi, Haute-Corse", "basque-coast": "San Sebastián|Gaztelugatxe",
-"costa-brava": "Cadaqués|Tossa de Mar", "douro": "Douro Valley|Pinhão", "gdansk": "Gdańsk|Long Market", "belgrade-novi-sad": "Belgrade Fortress|Petrovaradin Fortress", "seoul": "Gyeongbokgung|N Seoul Tower",
+"costa-brava": "Cadaqués|Tossa de Mar", "douro": "Dom Luís I Bridge|Porto|Douro Valley", "gdansk": "Gdańsk|Long Market", "belgrade-novi-sad": "Belgrade Fortress|Petrovaradin Fortress", "seoul": "Gyeongbokgung|N Seoul Tower",
 "manila-taal": "Taal Volcano|Intramuros", "kuala-lumpur": "Petronas Towers|Batu Caves", "chiang-mai": "Doi Suthep|Doi Inthanon", "muscat": "Sultan Qaboos Grand Mosque|Muscat", "antalya": "Aspendos|Antalya",
 "boston-cape-cod": "Cape Cod|Provincetown, Massachusetts", "new-orleans": "French Quarter|New Orleans", "san-diego": "La Jolla|Coronado Bridge", "denver-rockies": "Pikes Peak|Garden of the Gods", "sedona": "Sedona, Arizona|Cathedral Rock (Arizona)",
 "quebec": "Château Frontenac|Quebec City", "entebbe-nile": "Source of the Nile|Jinja, Uganda", "swakopmund": "Sandwich Harbour|Swakopmund", "fes": "Fes el Bali|Fes, Morocco", "mombasa-diani": "Fort Jesus|Diani Beach",
