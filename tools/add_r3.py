@@ -94,7 +94,7 @@ add("NA", "toronto-niagara", CA, ("Toronto and Niagara Falls", "Toronto és a Ni
       ["CYTZ", Pt("CN Tower", 43.6426, -79.3871), Pt("Casa Loma", 43.6780, -79.4094), Pt("Scarborough Bluffs", 43.7050, -79.2300), Pt("Mississauga Skyline", 43.5930, -79.6430), "CYTZ"]),
      ("niagara", "loop", 105, 3500, ("Niagara loop", "Niagara-kör"), ("About an hour: Toronto's skyline, Hamilton and Niagara Falls over Lake Ontario.", "Kb. egy óra: Toronto látképe, Hamilton és a Niagara-vízesés az Ontario-tó felett."),
       ["CYTZ", Pt("CN Tower", 43.6426, -79.3871), Pt("Hamilton Skyway", 43.2790, -79.8000), Pt("Niagara Falls", 43.0896, -79.0849), Pt("Scarborough Bluffs", 43.7050, -79.2300), "CYTZ"])])
-add("NA", "florida-keys", US, ("Florida Keys", "Florida Keys"), ("Seven Mile Bridge", "Seven Mile Bridge", 24.7050, -81.1500), ["coast", "island"],
+add("NA", "florida-keys", US, ("Florida Keys (or Vice City)", "Florida Keys (vagy Vice City)"), ("Seven Mile Bridge", "Seven Mile Bridge", 24.7050, -81.1500), ["coast", "island"],
     ("A chain of islands strung on a road over the sea: Key Biscayne, Key Largo, the Seven Mile Bridge and Key West.", "Szigetlánc egy tenger feletti úton: Key Biscayne, Key Largo, a Seven Mile Bridge és Key West."), [],
     [("run", "ab", 110, 1500, ("Miami to Key West", "Miamitól Key Westig"), ("A one-way run along the Keys, from Miami over Key Largo and the Seven Mile Bridge to Key West.", "Egyirányú repülés a Keys mentén Miamitól Key Largón és a Seven Mile Bridge-en át Key Westig."),
       ["KMIA", Pt("Key Biscayne Lighthouse", 25.6667, -80.1560), Pt("Key Largo", 25.0864, -80.4473), Pt("Seven Mile Bridge", 24.7050, -81.1500), "KEYW"]),

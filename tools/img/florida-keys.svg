@@ -1,8 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 360" preserveAspectRatio="xMidYMid slice">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff3d9a"/><stop offset="1" stop-color="#27e0ff"/></linearGradient></defs>
-<rect x="0" y="0" width="560" height="360" fill="#ff3d9a" opacity=".10"/>
-<g font-family="'Arial Black',Impact,Arial,sans-serif" font-style="italic" font-weight="900" paint-order="stroke" stroke-linejoin="round">
-<text x="20" y="132" font-size="34" fill="#ff7ac0" stroke="#2a0b4d" stroke-width="7" letter-spacing="1">NOT VICE CITY.</text>
-<text x="22" y="166" font-size="24" fill="#7ff5ff" stroke="#2a0b4d" stroke-width="6" letter-spacing="3">(YET.)</text></g>
-<rect x="22" y="178" width="210" height="4" rx="2" fill="url(#g)"/>
+<defs>
+<radialGradient id="s" cx="0.86" cy="0.82" r="0.62"><stop offset="0" stop-color="#ffb347" stop-opacity=".95"/><stop offset=".35" stop-color="#ff4fa3" stop-opacity=".75"/><stop offset=".7" stop-color="#7a2cff" stop-opacity=".45"/><stop offset="1" stop-color="#7a2cff" stop-opacity="0"/></radialGradient>
+<linearGradient id="h" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff3d9a"/><stop offset="1" stop-color="#27e0ff"/></linearGradient>
+</defs>
+<rect x="0" y="0" width="560" height="360" fill="url(#s)"/>
+<g fill="none" stroke="#2a0b4d" stroke-linecap="round" opacity=".92">
+<path d="M392 290 C 398 250 404 224 414 196" stroke-width="6"/>
+<path d="M414 196 C 394 182 374 186 356 200 M414 196 C 400 172 380 164 360 168 M414 196 C 424 170 442 160 466 164 M414 196 C 436 184 456 190 472 206 M414 196 C 414 176 418 160 428 148" stroke-width="5"/>
+<path d="M474 290 C 478 262 482 246 490 228" stroke-width="5"/>
+<path d="M490 228 C 474 218 460 222 448 232 M490 228 C 480 210 466 206 452 208 M490 228 C 500 210 514 206 530 212 M490 228 C 506 224 520 232 528 244" stroke-width="4"/>
+</g>
+<rect x="300" y="262" width="260" height="3" fill="url(#h)" opacity=".85"/>
 </svg>
