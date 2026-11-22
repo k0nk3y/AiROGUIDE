@@ -117,13 +117,15 @@
 "hu":"Budai Vár"
 },
 "Esztergom Basilica":{
-"hu":"esztergomi bazilika"
+"hu":"Esztergomi bazilika",
+"k":"Esztergomi bazilika Esztergom bazilika"
 },
 "Visegrád Citadel":{
 "hu":"visegrádi fellegvár"
 },
 "Szentendre":{
-"hu":"Szentendre"
+"hu":"Szentendre",
+"k":"Szentendre Szentendre művészváros"
 },
 "Heroes' Square":{
 "hu":"Hősök tere"
@@ -278,10 +280,12 @@
 "hu":"Jungfrau"
 },
 "Eiger":{
-"hu":"Eiger"
+"hu":"Eiger",
+"k":"Eiger Eiger északi fal"
 },
 "Interlaken":{
-"hu":"Interlaken"
+"hu":"Interlaken",
+"k":"Interlaken Interlaken"
 },
 "Rigi Kulm":{
 "hu":"Rigi"
@@ -327,7 +331,8 @@
 "k":"Eisriesenwelt jégbarlang"
 },
 "Grossglockner":{
-"hu":"Grossglockner"
+"hu":"Grossglockner",
+"k":"Grossglockner Großglockner Ausztria legmagasabb"
 },
 "Zell am See":{
 "hu":"Zell am See"
@@ -452,7 +457,8 @@
 "hu":"Linderhof kastély"
 },
 "Zugspitze":{
-"hu":"Zugspitze"
+"hu":"Zugspitze",
+"k":"Zugspitze Zugspitze Németország legmagasabb"
 },
 "Munich Frauenkirche":{
 "hu":"müncheni Frauenkirche"
@@ -1373,14 +1379,16 @@
 "hu":"Pearl Harbor"
 },
 "Waimea Canyon":{
-"hu":"Waimea-kanyon"
+"hu":"Waimea-kanyon",
+"k":"Waimea-kanyon Waimea kanyon Kauai"
 },
 "Kalalau Valley":{
 "hu":"Kalalau-völgy",
 "k":"Kalalau-völgy Na Pali"
 },
 "Hanalei Bay":{
-"hu":"Hanalei-öböl"
+"hu":"Hanalei-öböl",
+"k":"Hanalei-öböl Hanalei"
 },
 "Wailua Falls":{
 "hu":"Wailua-vízesés"
@@ -1404,10 +1412,12 @@
 "hu":"Kilauea vulkán"
 },
 "Mauna Kea":{
-"hu":"Mauna Kea"
+"hu":"Mauna Kea",
+"k":"Mauna Kea Mauna Kea csillagvizsgáló"
 },
 "Akaka Falls":{
-"hu":"Akaka-vízesés"
+"hu":"Akaka-vízesés",
+"k":"Akaka-vízesés Akaka Hilo"
 },
 "Rainbow Falls":{
 "hu":"Szivárvány-vízesés Hilo"
@@ -2897,6 +2907,390 @@
 "Mount Sneffels":{
 "hu":"Mount Sneffels",
 "k":"Mount Sneffels Sneffels"
+},
+"Thun":{
+"hu":"Thun",
+"k":"Thun Thuni-tó"
+},
+"Jungfraujoch":{
+"hu":"Jungfraujoch",
+"k":"Jungfraujoch Jungfrau Európa teteje"
+},
+"Konkordiaplatz":{
+"hu":"Konkordiaplatz",
+"k":"Konkordiaplatz Aletsch gleccser"
+},
+"Grindelwald":{
+"hu":"Grindelwald",
+"k":"Grindelwald Grindelwald"
+},
+"Hekla":{
+"hu":"Hekla",
+"k":"Hekla Hekla vulkán"
+},
+"Eyjafjallajökull":{
+"hu":"Eyjafjallajökull",
+"k":"Eyjafjallajökull Eyjafjallajökull gleccser vulkán"
+},
+"Seljalandsfoss":{
+"hu":"Seljalandsfoss",
+"k":"Seljalandsfoss Seljalandsfoss vízesés"
+},
+"Skógafoss":{
+"hu":"Skógafoss",
+"k":"Skógafoss Skógafoss vízesés"
+},
+"Vík í Mýrdal":{
+"hu":"Vík",
+"k":"Vík Vík fekete part Reynisfjara"
+},
+"Vestmannaeyjar":{
+"hu":"Vestmann-szigetek",
+"k":"Vestmann-szigetek Vestmannaeyjar Heimaey"
+},
+"Tromsø":{
+"hu":"Tromsø",
+"k":"Tromsø Tromsö sarkvidéki katedrális"
+},
+"Jiehkkevárri":{
+"hu":"Jiehkkevárri",
+"k":"Jiehkkevárri Lyngen-Alpok csúcs"
+},
+"Lyngenfjord":{
+"hu":"Lyngen-fjord",
+"k":"Lyngen-fjord Lyngenfjord"
+},
+"Kvaløya":{
+"hu":"Kvaløya",
+"k":"Kvaløya Kvaløya sziget"
+},
+"Kozani":{
+"hu":"Kozani",
+"k":"Kozani Kozani"
+},
+"Veria":{
+"hu":"Veria",
+"k":"Veria Veria"
+},
+"Mount Olympus":{
+"hu":"Olümposz",
+"k":"Olümposz Olimposz hegy görög istenek Mytikas"
+},
+"Meteora":{
+"hu":"Meteora",
+"k":"Meteora Meteora kolostorok"
+},
+"Corfu Old Town":{
+"hu":"Korfu óvárosa",
+"k":"Korfu óvárosa Kerkyra Korfu óváros"
+},
+"Sidari":{
+"hu":"Sidari",
+"k":"Sidari Canal d'Amour Sidari"
+},
+"Butrint":{
+"hu":"Butrint",
+"k":"Butrint Butrint albán romok"
+},
+"Paxos":{
+"hu":"Paxosz",
+"k":"Paxosz Paxos sziget"
+},
+"Kavos":{
+"hu":"Kavos",
+"k":"Kavos Kavos Korfu"
+},
+"Rhodes Old Town":{
+"hu":"Rodosz óvárosa",
+"k":"Rodosz óvárosa Rodosz lovagok városa"
+},
+"Lindos":{
+"hu":"Lindosz",
+"k":"Lindosz Lindos akropolisz"
+},
+"Symi":{
+"hu":"Szümi",
+"k":"Szümi Symi sziget kikötő"
+},
+"Monolithos":{
+"hu":"Monolithos",
+"k":"Monolithos Monolithos vár Rodosz"
+},
+"Porto Cervo":{
+"hu":"Porto Cervo",
+"k":"Porto Cervo Costa Smeralda"
+},
+"La Maddalena":{
+"hu":"La Maddalena",
+"k":"La Maddalena Maddalena-szigetcsoport"
+},
+"Bonifacio":{
+"hu":"Bonifacio",
+"k":"Bonifacio Bonifacio Korzika sziklák"
+},
+"Capo Testa":{
+"hu":"Capo Testa",
+"k":"Capo Testa Santa Teresa Gallura"
+},
+"Ostuni":{
+"hu":"Ostuni",
+"k":"Ostuni Ostuni fehér város"
+},
+"Alberobello":{
+"hu":"Alberobello",
+"k":"Alberobello Alberobello trulli"
+},
+"Polignano a Mare":{
+"hu":"Polignano a Mare",
+"k":"Polignano a Mare Polignano sziklaperem"
+},
+"Otranto":{
+"hu":"Otranto",
+"k":"Otranto Otranto Adria"
+},
+"Lecce":{
+"hu":"Lecce",
+"k":"Lecce Lecce barokk"
+},
+"Timanfaya":{
+"hu":"Timanfaya",
+"k":"Timanfaya Timanfaya Tűzhegyek Lanzarote"
+},
+"Jameos del Agua":{
+"hu":"Jameos del Agua",
+"k":"Jameos del Agua Manrique lávabarlang"
+},
+"La Graciosa":{
+"hu":"La Graciosa",
+"k":"La Graciosa Graciosa sziget"
+},
+"Playa Papagayo":{
+"hu":"Papagayo-strand",
+"k":"Papagayo-strand Papagayo Playa Blanca"
+},
+"Wilder Kaiser":{
+"hu":"Wilder Kaiser",
+"k":"Wilder Kaiser Kaisergebirge"
+},
+"Kitzbühel":{
+"hu":"Kitzbühel",
+"k":"Kitzbühel Kitzbühel Hahnenkamm"
+},
+"Zillertal Alps":{
+"hu":"Zillertali-Alpok",
+"k":"Zillertali-Alpok Zillertal Hintertux gleccser"
+},
+"Jet d'Eau":{
+"hu":"Jet d'Eau",
+"k":"Jet d'Eau Genf szökőkút"
+},
+"Lausanne":{
+"hu":"Lausanne",
+"k":"Lausanne Lausanne"
+},
+"Lavaux":{
+"hu":"Lavaux",
+"k":"Lavaux Lavaux szőlőteraszok"
+},
+"Chillon Castle":{
+"hu":"Chillon-vár",
+"k":"Chillon-vár Chillon Montreux"
+},
+"Killarney":{
+"hu":"Killarney",
+"k":"Killarney Killarney tavak"
+},
+"Skellig Michael":{
+"hu":"Skellig Michael",
+"k":"Skellig Michael Skellig kolostor Star Wars"
+},
+"Slea Head":{
+"hu":"Slea Head",
+"k":"Slea Head Slea Head Dingle"
+},
+"Dingle":{
+"hu":"Dingle",
+"k":"Dingle Dingle félsziget"
+},
+"Conwy Castle":{
+"hu":"Conwy-vár",
+"k":"Conwy-vár Conwy vár"
+},
+"Snowdon":{
+"hu":"Snowdon",
+"k":"Snowdon Yr Wyddfa Snowdon"
+},
+"Portmeirion":{
+"hu":"Portmeirion",
+"k":"Portmeirion Portmeirion falu"
+},
+"Caernarfon Castle":{
+"hu":"Caernarfon-vár",
+"k":"Caernarfon-vár Caernarfon vár"
+},
+"South Stack":{
+"hu":"South Stack",
+"k":"South Stack South Stack világítótorony Anglesey"
+},
+"Keswick":{
+"hu":"Keswick",
+"k":"Keswick Keswick Derwentwater"
+},
+"Scafell Pike":{
+"hu":"Scafell Pike",
+"k":"Scafell Pike Scafell Pike Anglia legmagasabb"
+},
+"Windermere":{
+"hu":"Windermere",
+"k":"Windermere Windermere tó Lake District"
+},
+"Housesteads":{
+"hu":"Housesteads",
+"k":"Housesteads Hadrianus-fal Housesteads"
+},
+"Visegrád":{
+"hu":"Visegrád",
+"k":"Visegrád Visegrád fellegvár Dunakanyar"
+},
+"Vác":{
+"hu":"Vác",
+"k":"Vác Vác"
+},
+"Eger":{
+"hu":"Eger",
+"k":"Eger Eger vár Egri csillagok"
+},
+"Bükk plateau":{
+"hu":"Bükki-fennsík",
+"k":"Bükki-fennsík Bükk Szilvásvárad"
+},
+"Tokaj":{
+"hu":"Tokaj",
+"k":"Tokaj Tokaj-hegy borvidék"
+},
+"Zemplén Hills":{
+"hu":"Zempléni-hegység",
+"k":"Zempléni-hegység Zemplén"
+},
+"Mount Yotei":{
+"hu":"Mount Yotei",
+"k":"Mount Yotei Jotei Hokkaido Fuji"
+},
+"Lake Toya":{
+"hu":"Tója-tó",
+"k":"Tója-tó Toya tó kaldera"
+},
+"Noboribetsu":{
+"hu":"Noboribetsu",
+"k":"Noboribetsu Noboribetsu Pokolvölgy"
+},
+"Lake Shikotsu":{
+"hu":"Sikocu-tó",
+"k":"Sikocu-tó Shikotsu tó"
+},
+"Taipei 101":{
+"hu":"Taipei 101",
+"k":"Taipei 101 Tajpej felhőkarcoló"
+},
+"Jiufen":{
+"hu":"Csiufen",
+"k":"Csiufen Jiufen bányászváros"
+},
+"Taroko Gorge":{
+"hu":"Taroko-szurdok",
+"k":"Taroko-szurdok Taroko Nemzeti Park"
+},
+"Yushan":{
+"hu":"Yushan",
+"k":"Yushan Jade-hegy Tajvan legmagasabb"
+},
+"Sun Moon Lake":{
+"hu":"Nap-Hold-tó",
+"k":"Nap-Hold-tó Sun Moon Lake"
+},
+"Waipi'o Valley":{
+"hu":"Waipi'o-völgy",
+"k":"Waipi'o-völgy Waipio völgy"
+},
+"Santa Monica Pier":{
+"hu":"Santa Monica móló",
+"k":"Santa Monica móló Santa Monica"
+},
+"Hollywood Sign":{
+"hu":"Hollywood-felirat",
+"k":"Hollywood-felirat Hollywood sign"
+},
+"Downtown Los Angeles":{
+"hu":"Downtown Los Angeles",
+"k":"Downtown Los Angeles Los Angeles belváros"
+},
+"Malibu Pier":{
+"hu":"Malibu móló",
+"k":"Malibu móló Malibu"
+},
+"Stanley Park":{
+"hu":"Stanley Park",
+"k":"Stanley Park Stanley Park Vancouver"
+},
+"Grouse Mountain":{
+"hu":"Grouse Mountain",
+"k":"Grouse Mountain Grouse hegy"
+},
+"Howe Sound":{
+"hu":"Howe Sound",
+"k":"Howe Sound Howe Sound fjord"
+},
+"Whistler":{
+"hu":"Whistler",
+"k":"Whistler Whistler síközpont"
+},
+"Santiago":{
+"hu":"Santiago",
+"k":"Santiago Santiago de Chile"
+},
+"Aconcagua":{
+"hu":"Aconcagua",
+"k":"Aconcagua Aconcagua Amerika legmagasabb"
+},
+"Valparaíso":{
+"hu":"Valparaíso",
+"k":"Valparaíso Valparaiso színes dombok"
+},
+"Cerro Catedral":{
+"hu":"Cerro Catedral",
+"k":"Cerro Catedral Catedral Bariloche síközpont"
+},
+"Cerro Tronador":{
+"hu":"Cerro Tronador",
+"k":"Cerro Tronador Tronador gleccserek"
+},
+"Isla Victoria":{
+"hu":"Victoria-sziget",
+"k":"Victoria-sziget Isla Victoria Nahuel Huapi"
+},
+"Na Pali Coast":{
+"hu":"Na Pali-part",
+"k":"Na Pali-part Na Pali Kauai"
+},
+"Mount Waialeale":{
+"hu":"Mount Waialeale",
+"k":"Mount Waialeale Waialeale legcsapadékosabb"
+},
+"Moorea":{
+"hu":"Moorea",
+"k":"Moorea Moorea sziget"
+},
+"Cook's Bay":{
+"hu":"Cook-öböl",
+"k":"Cook-öböl Cook's Bay Moorea"
+},
+"Teahupo'o":{
+"hu":"Teahupo'o",
+"k":"Teahupo'o Teahupoo szörf"
+},
+"Mount Orohena":{
+"hu":"Mount Orohena",
+"k":"Mount Orohena Orohena Tahiti"
 }
 }
 }
