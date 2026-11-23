@@ -5054,14 +5054,14 @@
 "Charlotte Amalie":{
 "hu":"Charlotte Amalie Charlotte Amalie kikötő St Thomas"
 },
-"Magens Bay":{
-"hu":"Magens-öböl Magens Bay St Thomas"
+"Coral Bay":{
+"hu":"Coral Bay Coral Bay St John"
 },
 "Trunk Bay":{
 "hu":"Trunk-öböl Trunk Bay St John"
 },
-"Coral Bay":{
-"hu":"Coral Bay Coral Bay St John"
+"Magens Bay":{
+"hu":"Magens-öböl Magens Bay St Thomas"
 },
 "Monte Albán":{
 "hu":"Monte Albán Monte Alban zapoték romváros"
@@ -5186,9 +5186,6 @@
 "Muri Lagoon":{
 "hu":"Muri-lagúna Muri lagúna Rarotonga"
 },
-"Great Wall Station":{
-"hu":"Great Wall állomás Great Wall Antarktisz kínai állomás"
-},
 "Ardley Island":{
 "hu":"Ardley-sziget Ardley sziget pingvin Antarktisz"
 },
@@ -5197,9 +5194,6 @@
 },
 "Admiralty Bay":{
 "hu":"Admiralty-öböl Admiralty Bay King George sziget"
-},
-"Collins Glacier":{
-"hu":"Collins-gleccser Collins gleccser Bellingshausen"
 },
 "Snow Hill Island":{
 "hu":"Snow Hill-sziget Snow Hill sziget császárpingvin"

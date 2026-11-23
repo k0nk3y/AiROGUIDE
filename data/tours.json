@@ -27232,6 +27232,16 @@
        18.35,
        -64.93
       ],
+      [
+       "~",
+       18.39,
+       -65.09
+      ],
+      [
+       "~",
+       18.33,
+       -65.1
+      ],
       "TIST"
      ]
     }
@@ -28049,7 +28059,7 @@
     "coast"
    ],
    "desc": {
-    "en": "The international research village of the Antarctic: the Chinese, Russian, Chilean and Uruguayan stations on the Fildes Peninsula, penguin colonies on Ardley Island and the ice cap of Collins.",
+    "en": "The international research village of the Antarctic: the Chinese, Russian, Chilean and Uruguayan stations on the Fildes Peninsula, penguin colonies on Ardley Island and the Collins ice cap.",
     "hu": "Az Antarktisz nemzetközi kutatófaluja: a kínai, orosz, chilei és uruguayi állomások a Fildes-félszigeten, pingvintelepek az Ardley-szigeten és a Collins-jégsapka."
    },
    "variants": [
@@ -28064,15 +28074,20 @@
       "hu": "Fildes és Admiralty-öböl"
      },
      "desc": {
-      "en": "Great Wall Station, Ardley Island, Jubany, Admiralty Bay and the Collins Glacier.",
-      "hu": "Great Wall állomás, az Ardley-sziget, Jubany, az Admiralty-öböl és a Collins-gleccser."
+      "en": "Ardley Island, Jubany Station and Admiralty Bay.",
+      "hu": "Az Ardley-sziget, a Jubany állomás és az Admiralty-öböl."
      },
      "pts": [
       "SCRM",
       [
-       "Collins Glacier",
-       -62.16,
-       -58.88
+       "Ardley Island",
+       -62.215,
+       -58.93
+      ],
+      [
+       "Jubany Station",
+       -62.238,
+       -58.6667
       ],
       [
        "Admiralty Bay",
@@ -28081,23 +28096,8 @@
       ],
       [
        "~",
-       -62.1305,
-       -58.446
-      ],
-      [
-       "Jubany Station",
-       -62.238,
-       -58.6667
-      ],
-      [
-       "Ardley Island",
-       -62.215,
-       -58.93
-      ],
-      [
-       "Great Wall Station",
-       -62.217,
-       -58.964
+       -62.0,
+       -58.8
       ],
       "SCRM"
      ]
@@ -28105,7 +28105,7 @@
    ],
    "pois": [],
    "new": true,
-   "kw": "Collins-gleccser Collins gleccser Bellingshausen Admiralty-öböl Admiralty Bay King George sziget Jubany állomás Jubany Carlini állomás Potter Cove Ardley-sziget Ardley sziget pingvin Antarktisz Great Wall állomás Great Wall Antarktisz kínai állomás",
+   "kw": "Ardley-sziget Ardley sziget pingvin Antarktisz Jubany állomás Jubany Carlini állomás Potter Cove Admiralty-öböl Admiralty Bay King George sziget",
    "img": "King George Island (South Shetland Islands)|Great Wall Station"
   },
   {
