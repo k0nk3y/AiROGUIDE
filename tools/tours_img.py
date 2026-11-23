@@ -42,7 +42,7 @@ IMG = {
 "lucerne": "Chapel Bridge", "salzkammergut": "Hallstatt", "loire": "Château de Chambord", "golden-circle": "Gullfoss", "italian-lakes": "Lake Como", "sicily": "Mount Etna",
 "vienna-wachau": "Schönbrunn Palace", "bavaria": "Neuschwanstein Castle", "rhine": "Rhine Gorge", "provence-riviera": "Pont du Gard", "mont-blanc": "Mont Blanc", "normandy": "Mont-Saint-Michel",
 "andalusia": "Alhambra", "barcelona": "Sagrada Família", "london": "Tower Bridge", "scottish-highlands": "Glenfinnan Viaduct", "cornwall": "St Michael's Mount", "edinburgh": "Edinburgh Castle",
-"norway-fjords": "Geirangerfjord", "cyclades": "Santorini", "peloponnese": "Acropolis of Athens", "dalmatia": "Dubrovnik", "prague": "Charles Bridge", "zurich-constance": "Rhine Falls",
+"norway-fjords": "Geirangerfjord", "cyclades": "Oia, Greece|Mykonos|Santorini", "peloponnese": "Acropolis of Athens", "dalmatia": "Dubrovnik", "prague": "Charles Bridge", "zurich-constance": "Rhine Falls",
 "venice": "Grand Canal (Venice)", "garda": "Sirmione", "krakow-tatras": "Wawel Castle", "stockholm": "Gamla stan", "copenhagen": "Kronborg", "helsinki": "Helsinki Cathedral",
 "lofoten": "Reine, Norway", "slovenia": "Lake Bled", "malta": "Valletta", "transylvania": "Bran Castle", "montenegro": "Bay of Kotor", "netherlands": "Keukenhof",
 "belgium": "Grand-Place", "tatras-slovakia": "High Tatras", "bulgaria": "Rila Monastery", "istria": "Rovinj", "ireland-west": "Cliffs of Moher", "cyprus": "Petra tou Romiou",
