@@ -4384,7 +4384,7 @@
      24.0247
     ]
    ],
-   "kw": "Akropolisz Akropolisz Parthenón Athén Korinthoszi-csatorna Korinthoszi csatorna Mükéné Epidauroszi színház Poszeidón temploma Szúnion",
+   "kw": "Akropolisz Athén Korinthoszi-csatorna Mükéné Epidauroszi színház Poszeidón temploma Szúnion",
    "img": "Acropolis of Athens"
   },
   {
@@ -8585,7 +8585,7 @@
     }
    ],
    "pois": [],
-   "kw": "Diamond Head Hanauma-öböl Makapuu világítótorony Kualoa Pearl Harbor Waimea-kanyon Waimea kanyon Kauai Kalalau-völgy Na Pali Hanalei-öböl Hanalei öböl Kauai Wailua-vízesés Wailua vízesés Kauai Iao-völgy Lahaina Lahaina Maui Molokini-kráter Haleakala-kráter Hana Hana Road to Hana Maui Kilauea vulkán Mauna Kea Mauna Kea csúcs csillagvizsgáló Akaka-vízesés Akaka Hilo Szivárvány-vízesés Hilo Kalaupapa Molokai Lanai",
+   "kw": "Diamond Head Hanauma-öböl Makapuu világítótorony Kualoa Pearl Harbor Waimea-kanyon Waimea kanyon Kauai Kalalau-völgy Na Pali Hanalei-öböl Hanalei Wailua-vízesés Iao-völgy Lahaina Molokini-kráter Haleakala-kráter Hana Kilauea vulkán Mauna Kea Mauna Kea csillagvizsgáló Akaka-vízesés Akaka Hilo Szivárvány-vízesés Hilo Kalaupapa Molokai Lanai",
    "img": "Diamond Head, Hawaii"
   },
   {
@@ -9843,7 +9843,7 @@
     }
    ],
    "pois": [],
-   "kw": "Oxbow Bend Oxbow Bend Snake River Jackson-tó Jackson Lake Teton Jenny-tó Jenny Lake Teton Grand Teton Grand Teton csúcs Yellowstone-tó Yellowstone-vízesés Grand Prismatic Spring szivárványos forrás Old Faithful gejzír",
+   "kw": "Oxbow Bend Jackson-tó Jenny-tó Grand Teton Yellowstone-tó Yellowstone-vízesés Grand Prismatic Spring szivárványos forrás Old Faithful gejzír",
    "img": "Grand Prismatic Spring"
   },
   {
@@ -12337,7 +12337,7 @@
     }
    ],
    "pois": [],
-   "kw": "Hoan Kiem-tó Hanoi Hoan Kiem tó Tam Cốc Tam Coc Ninh Binh Tam Dao Tam Đảo hegy Cat Ba-sziget Cát Bà Bai Chay-híd Bãi Cháy Ha Long-öböl Ha Long Halong Hạ Long Bay Bai Tu Long-öböl Bái Tử Long",
+   "kw": "Hoan Kiem-tó Hoàn Kiếm Kardtó Hanoi Tam Coc Ninh Binh Tam Cốc szárazföldi Ha Long Tam Dao Tam Đảo hegy Cat Ba-sziget Cát Bà Bai Chay-híd Bãi Cháy Ha Long-öböl Ha Long Halong Hạ Long Bay Bai Tu Long-öböl Bái Tử Long",
    "img": "Ha Long Bay"
   },
   {
@@ -23269,89 +23269,6 @@
    "img": "Moreton Island|Brisbane"
   },
   {
-   "id": "athens-saronic",
-   "continent": "EU",
-   "country": {
-    "en": "Greece",
-    "hu": "Görögország"
-   },
-   "name": {
-    "en": "Athens and the Saronic Gulf",
-    "hu": "Athén és a Szaróni-öböl"
-   },
-   "main": {
-    "en": "Acropolis",
-    "hu": "Akropolisz",
-    "lat": 37.9715,
-    "lon": 23.7257
-   },
-   "tags": [
-    "city",
-    "coast",
-    "culture",
-    "unesco"
-   ],
-   "desc": {
-    "en": "The Parthenon above the city, Cape Sounion's temple of Poseidon, the car-free island of Hydra and the Corinth Canal cut through solid rock.",
-    "hu": "A Parthenón a város felett, a Sounion-fok Poszeidón-temploma, a autómentes Hydra szigete és a sziklába vágott Korinthoszi-csatorna."
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 3500,
-     "stol": false,
-     "label": {
-      "en": "Saronic loop",
-      "hu": "Szaróni-kör"
-     },
-     "desc": {
-      "en": "Cape Sounion, Hydra, Aegina, the Corinth Canal and the Acropolis.",
-      "hu": "Sounion-fok, Hydra, Aegina, a Korinthoszi-csatorna és az Akropolisz."
-     },
-     "pts": [
-      "LGAV",
-      [
-       "Cape Sounion",
-       37.65,
-       24.025
-      ],
-      [
-       "Hydra",
-       37.35,
-       23.464
-      ],
-      [
-       "Corinth Canal",
-       37.933,
-       22.983
-      ],
-      [
-       "~",
-       38.0158,
-       23.0708
-      ],
-      [
-       "Temple of Aphaia",
-       37.751,
-       23.527
-      ],
-      [
-       "Acropolis",
-       37.9715,
-       23.7257
-      ],
-      "LGAV"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Sounion-fok Sounion Poszeidón templom Hydra Hydra sziget Görögország Korinthoszi-csatorna Korinthoszi csatorna Aphaia-templom Aegina Aphaia templom Akropolisz Akropolisz Parthenón Athén",
-   "img": "Acropolis of Athens|Cape Sounion"
-  },
-  {
    "id": "sarajevo-mostar",
    "continent": "EU",
    "country": {
@@ -24231,94 +24148,6 @@
    "img": "Padar|Komodo National Park"
   },
   {
-   "id": "hanoi-ninh-binh",
-   "continent": "AS",
-   "country": {
-    "en": "Vietnam",
-    "hu": "Vietnam"
-   },
-   "name": {
-    "en": "Hanoi and Ninh Binh",
-    "hu": "Hanoi és Ninh Binh"
-   },
-   "main": {
-    "en": "Trang An",
-    "hu": "Tràng An",
-    "lat": 20.252,
-    "lon": 105.921
-   },
-   "tags": [
-    "culture",
-    "city",
-    "mountain",
-    "unesco"
-   ],
-   "desc": {
-    "en": "The quarter-million streets of Hanoi's old town around Hoan Kiem Lake and 'Ha Long Bay on land': limestone karsts rising from rice fields at Trang An and Tam Coc.",
-    "hu": "Hanoi óvárosa a Hoan Kiem-tó körül és a „szárazföldi Ha Long-öböl”: mészkő karsztok a rizsföldekből Tràng Annál és Tam Cocnál."
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 3000,
-     "stol": false,
-     "label": {
-      "en": "Karst loop",
-      "hu": "Karszt-kör"
-     },
-     "desc": {
-      "en": "Hoan Kiem Lake, Hoa Lu, Trang An, Tam Coc and Ba Vi.",
-      "hu": "A Hoan Kiem-tó, Hoa Lư, Tràng An, Tam Cốc és a Ba Vì."
-     },
-     "pts": [
-      "VVNB",
-      [
-       "Hoan Kiem Lake",
-       21.0285,
-       105.8525
-      ],
-      [
-       "Tam Coc",
-       20.215,
-       105.937
-      ],
-      [
-       "~",
-       20.2064,
-       105.8998
-      ],
-      [
-       "~",
-       20.2339,
-       105.8751
-      ],
-      [
-       "Trang An",
-       20.252,
-       105.921
-      ],
-      [
-       "Hoa Lu",
-       20.288,
-       105.904
-      ],
-      [
-       "Ba Vi Mountain",
-       21.06,
-       105.37
-      ],
-      "VVNB"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Hoan Kiem-tó Hanoi Hoan Kiem tó Tam Cốc Tam Coc Ninh Binh Tràng An Trang An Ninh Binh Hoa Lư Hoa Lu ókori főváros Ba Vì-hegy Ba Vi hegy Hanoi",
-   "img": "Tràng An|Ninh Bình"
-  },
-  {
    "id": "guilin",
    "continent": "AS",
    "country": {
@@ -24637,258 +24466,6 @@
    "img": "Wat Arun|Ayutthaya (city)"
   },
   {
-   "id": "maui",
-   "continent": "NA",
-   "country": {
-    "en": "United States",
-    "hu": "Egyesült Államok"
-   },
-   "name": {
-    "en": "Maui",
-    "hu": "Maui"
-   },
-   "main": {
-    "en": "Haleakalā",
-    "hu": "Haleakalā",
-    "lat": 20.7097,
-    "lon": -156.2533
-   },
-   "tags": [
-    "island",
-    "volcano",
-    "coast"
-   ],
-   "desc": {
-    "en": "The Valley Isle: the 3,000 m summit crater of Haleakalā above the clouds, the sea cliffs of Hana, the flooded caldera of Molokini and the Iao Valley needle.",
-    "hu": "A Völgyek szigete: a 3000 méteres Haleakalā csúcskráter a felhők felett, Hana tengeri sziklái, a Molokini elöntött kalderája és az Iao-völgy tűje."
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 4500,
-     "stol": false,
-     "label": {
-      "en": "Valley Isle loop",
-      "hu": "Völgyek szigete kör"
-     },
-     "desc": {
-      "en": "Iao Valley, Lahaina, Molokini, Haleakalā and Hana.",
-      "hu": "Iao-völgy, Lahaina, Molokini, Haleakalā és Hana."
-     },
-     "pts": [
-      "PHOG",
-      [
-       "Iao Valley Needle",
-       20.881,
-       -156.544
-      ],
-      [
-       "Lahaina",
-       20.878,
-       -156.682
-      ],
-      [
-       "~",
-       20.8459,
-       -156.6993
-      ],
-      [
-       "Molokini",
-       20.631,
-       -156.496
-      ],
-      [
-       "Haleakalā",
-       20.7097,
-       -156.2533
-      ],
-      [
-       "Hana",
-       20.758,
-       -155.99
-      ],
-      [
-       "~",
-       20.8206,
-       -155.9856
-      ],
-      "PHOG"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Iao-völgy tűje Iao Valley Needle Maui Lahaina Lahaina Maui Molokini Molokini kráter sziget Haleakalā Haleakala kráter Maui Hana Hana Road to Hana Maui",
-   "img": "Haleakalā|Maui"
-  },
-  {
-   "id": "kauai",
-   "continent": "NA",
-   "country": {
-    "en": "United States",
-    "hu": "Egyesült Államok"
-   },
-   "name": {
-    "en": "Kauai",
-    "hu": "Kauai"
-   },
-   "main": {
-    "en": "Nā Pali Coast",
-    "hu": "Nā Pali-part",
-    "lat": 22.163,
-    "lon": -159.66
-   },
-   "tags": [
-    "island",
-    "coast",
-    "mountain",
-    "jungle"
-   ],
-   "desc": {
-    "en": "The Garden Isle: the 1,000 m fluted sea cliffs of the Nā Pali Coast, the Grand Canyon of the Pacific at Waimea and wet Mount Waialeale above the rain.",
-    "hu": "A Kert-sziget: a Nā Pali-part 1000 méteres hullámos tengeri sziklái, a Csendes-óceán Grand Canyonja Waimeánál és az esős Waialeale-hegy."
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 3500,
-     "stol": false,
-     "label": {
-      "en": "Garden Isle loop",
-      "hu": "Kert-sziget kör"
-     },
-     "desc": {
-      "en": "Wailua Falls, Mount Waialeale, Waimea Canyon, Nā Pali and Hanalei Bay.",
-      "hu": "Wailua-vízesés, a Waialeale, a Waimea-kanyon, a Nā Pali és a Hanalei-öböl."
-     },
-     "pts": [
-      "PHLI",
-      [
-       "Wailua Falls",
-       22.051,
-       -159.379
-      ],
-      [
-       "Mount Waialeale",
-       22.07,
-       -159.497
-      ],
-      [
-       "Waimea Canyon",
-       22.071,
-       -159.664
-      ],
-      [
-       "Nā Pali Coast",
-       22.163,
-       -159.66
-      ],
-      [
-       "Hanalei Bay",
-       22.209,
-       -159.5
-      ],
-      [
-       "Kilauea Lighthouse",
-       22.23,
-       -159.402
-      ],
-      "PHLI"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Wailua-vízesés Wailua vízesés Kauai Waialeale-hegy Waialeale Kauai eső Waimea-kanyon Waimea kanyon Kauai Nā Pali-part Napali Coast Kalalau Hanalei-öböl Hanalei öböl Kauai Kilauea világítótorony Kilauea világítótorony Kauai",
-   "img": "Nā Pali Coast|Waimea Canyon"
-  },
-  {
-   "id": "big-island",
-   "continent": "NA",
-   "country": {
-    "en": "United States",
-    "hu": "Egyesült Államok"
-   },
-   "name": {
-    "en": "Big Island of Hawaii",
-    "hu": "Hawaii Nagy-sziget"
-   },
-   "main": {
-    "en": "Kīlauea",
-    "hu": "Kīlauea",
-    "lat": 19.407,
-    "lon": -155.283
-   },
-   "tags": [
-    "island",
-    "volcano",
-    "mountain"
-   ],
-   "desc": {
-    "en": "The youngest island in the chain, still growing: the glowing Halemaʻumaʻu crater of Kīlauea, the snowy summit of Mauna Kea and the hidden Waipiʻo Valley.",
-    "hu": "A lánc legfiatalabb, még növekvő szigete: a Kīlauea izzó Halemaʻumaʻu krátere, a Mauna Kea hóborította csúcsa és a rejtett Waipiʻo-völgy."
-   },
-   "variants": [
-    {
-     "id": "long",
-     "kind": "loop",
-     "kt": 120,
-     "alt_ft": 8000,
-     "stol": false,
-     "label": {
-      "en": "Volcano loop",
-      "hu": "Vulkán-kör"
-     },
-     "desc": {
-      "en": "Kealakekua Bay, Mauna Loa, Kīlauea, Waipiʻo Valley and Mauna Kea.",
-      "hu": "Kealakekua-öböl, a Mauna Loa, a Kīlauea, a Waipiʻo-völgy és a Mauna Kea."
-     },
-     "pts": [
-      "PHKO",
-      [
-       "Kealakekua Bay",
-       19.478,
-       -155.926
-      ],
-      [
-       "Mauna Loa",
-       19.475,
-       -155.602
-      ],
-      [
-       "Kīlauea Caldera",
-       19.407,
-       -155.283
-      ],
-      [
-       "~",
-       19.4661,
-       -155.2305
-      ],
-      [
-       "Mauna Kea",
-       19.8206,
-       -155.4681
-      ],
-      [
-       "Waipiʻo Valley",
-       20.119,
-       -155.591
-      ],
-      "PHKO"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Kealakekua-öböl Kealakekua öböl Cook kapitány Mauna Loa Mauna Loa vulkán Hawaii Kīlauea-kaldera Kilauea Halemaumau Hawaii vulkán Mauna Kea Mauna Kea csúcs csillagvizsgáló Waipiʻo-völgy Waipio völgy Hawaii",
-   "img": "Kīlauea|Mauna Kea"
-  },
-  {
    "id": "glacier-np",
    "continent": "NA",
    "country": {
@@ -24963,86 +24540,6 @@
    "new": true,
    "kw": "St. Mary-tó St Mary Lake Wild Goose Island Many Glacier Many Glacier Swiftcurrent tó Logan-hágó Logan Pass Going-to-the-Sun McDonald-tó Lake McDonald Glacier Park",
    "img": "Going-to-the-Sun Road|Lake McDonald (Montana)"
-  },
-  {
-   "id": "grand-teton",
-   "continent": "NA",
-   "country": {
-    "en": "United States",
-    "hu": "Egyesült Államok"
-   },
-   "name": {
-    "en": "Grand Teton and Jackson Hole",
-    "hu": "Grand Teton és Jackson Hole"
-   },
-   "main": {
-    "en": "Grand Teton",
-    "hu": "Grand Teton",
-    "lat": 43.741,
-    "lon": -110.802
-   },
-   "tags": [
-    "mountain"
-   ],
-   "desc": {
-    "en": "The jagged Teton Range rising straight from the valley floor: Grand Teton, glacial Jenny Lake, Jackson Lake and the Snake River at Oxbow Bend.",
-    "hu": "A csipkézett Teton-hegység, amely közvetlenül a völgyaljból emelkedik: Grand Teton, a gleccser-eredetű Jenny-tó, a Jackson-tó és a Snake River az Oxbow-kanyarnál."
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 110,
-     "alt_ft": 10000,
-     "stol": false,
-     "label": {
-      "en": "Teton loop",
-      "hu": "Teton-kör"
-     },
-     "desc": {
-      "en": "Mormon Row, Jenny Lake, Grand Teton, Jackson Lake and Oxbow Bend.",
-      "hu": "Mormon Row, a Jenny-tó, a Grand Teton, a Jackson-tó és az Oxbow Bend."
-     },
-     "pts": [
-      "KJAC",
-      [
-       "Mormon Row",
-       43.658,
-       -110.697
-      ],
-      [
-       "Oxbow Bend",
-       43.867,
-       -110.524
-      ],
-      [
-       "~",
-       43.8953,
-       -110.5549
-      ],
-      [
-       "Jackson Lake",
-       43.85,
-       -110.6
-      ],
-      [
-       "Jenny Lake",
-       43.757,
-       -110.728
-      ],
-      [
-       "Grand Teton",
-       43.741,
-       -110.802
-      ],
-      "KJAC"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Mormon Row Mormon Row istálló Teton Oxbow Bend Oxbow Bend Snake River Jackson-tó Jackson Lake Teton Jenny-tó Jenny Lake Teton Grand Teton Grand Teton csúcs",
-   "img": "Grand Teton|Jenny Lake"
   },
   {
    "id": "black-hills",
@@ -25287,7 +24784,7 @@
    "pois": [],
    "new": true,
    "kw": "Casco Viejo Panama Casco Viejo óváros Amerikák hídja Panama Bridge of the Americas Miraflores-zsilipek Panama csatorna Miraflores Centennial-híd Panama Centennial híd Gatún-zsilipek Panama csatorna Gatun",
-   "img": "Miraflores Locks|Panama Canal"
+   "img": "Panama Canal|Panama City|Bridge of the Americas|Casco Viejo, Panama City"
   },
   {
    "id": "antigua-atitlan",

@@ -716,10 +716,10 @@
 },
 "Acropolis":{
 "hu":"Akropolisz",
-"k":"Akropolisz Akropolisz Parthenón Athén"
+"k":"Akropolisz Athén"
 },
 "Corinth Canal":{
-"hu":"Korinthoszi-csatorna Korinthoszi csatorna"
+"hu":"Korinthoszi-csatorna"
 },
 "Mycenae":{
 "hu":"Mükéné"
@@ -1389,16 +1389,16 @@
 },
 "Hanalei Bay":{
 "hu":"Hanalei-öböl",
-"k":"Hanalei-öböl Hanalei öböl Kauai"
+"k":"Hanalei-öböl Hanalei"
 },
 "Wailua Falls":{
-"hu":"Wailua-vízesés Wailua vízesés Kauai"
+"hu":"Wailua-vízesés"
 },
 "Iao Valley":{
 "hu":"Iao-völgy"
 },
 "Lahaina":{
-"hu":"Lahaina Lahaina Maui"
+"hu":"Lahaina"
 },
 "Molokini Crater":{
 "hu":"Molokini-kráter"
@@ -1407,14 +1407,14 @@
 "hu":"Haleakala-kráter"
 },
 "Hana":{
-"hu":"Hana Hana Road to Hana Maui"
+"hu":"Hana"
 },
 "Kilauea Crater":{
 "hu":"Kilauea vulkán"
 },
 "Mauna Kea":{
 "hu":"Mauna Kea",
-"k":"Mauna Kea Mauna Kea csúcs csillagvizsgáló"
+"k":"Mauna Kea Mauna Kea csillagvizsgáló"
 },
 "Akaka Falls":{
 "hu":"Akaka-vízesés",
@@ -1629,16 +1629,16 @@
 "k":"Tian Tan Buddha Nagy Buddha Lantau"
 },
 "Oxbow Bend":{
-"hu":"Oxbow Bend Oxbow Bend Snake River"
+"hu":"Oxbow Bend"
 },
 "Jackson Lake":{
-"hu":"Jackson-tó Jackson Lake Teton"
+"hu":"Jackson-tó"
 },
 "Jenny Lake":{
-"hu":"Jenny-tó Jenny Lake Teton"
+"hu":"Jenny-tó"
 },
 "Grand Teton":{
-"hu":"Grand Teton Grand Teton csúcs"
+"hu":"Grand Teton"
 },
 "Yellowstone Lake":{
 "hu":"Yellowstone-tó"
@@ -2052,11 +2052,11 @@
 },
 "Hoan Kiem Lake":{
 "hu":"Hoan Kiem-tó",
-"k":"Hoan Kiem-tó Hanoi Hoan Kiem tó"
+"k":"Hoan Kiem-tó Hoàn Kiếm Kardtó Hanoi"
 },
 "Tam Coc":{
 "hu":"Tam Coc",
-"k":"Tam Cốc Tam Coc Ninh Binh"
+"k":"Tam Coc Ninh Binh Tam Cốc szárazföldi Ha Long"
 },
 "Tam Dao":{
 "hu":"Tam Dao",
@@ -2208,7 +2208,7 @@
 },
 "Mauna Loa":{
 "hu":"Mauna Loa",
-"k":"Mauna Loa Mauna Loa vulkán Hawaii"
+"k":"Mauna Loa Mauna Loa vulkán"
 },
 "Punaluʻu Black Sand Beach":{
 "hu":"Punaluʻu fekete homokstrand",
@@ -2224,7 +2224,7 @@
 },
 "Waipiʻo Valley":{
 "hu":"Waipiʻo-völgy",
-"k":"Waipiʻo-völgy Waipio völgy Hawaii"
+"k":"Waipiʻo-völgy Waipio"
 },
 "Key Biscayne Lighthouse":{
 "hu":"Key Biscayne világítótorony",
@@ -3276,7 +3276,7 @@
 },
 "Mount Waialeale":{
 "hu":"Mount Waialeale",
-"k":"Waialeale-hegy Waialeale Kauai eső"
+"k":"Mount Waialeale Waialeale legcsapadékosabb"
 },
 "Moorea":{
 "hu":"Moorea",
@@ -4406,15 +4406,6 @@
 "hu":"Marlborough Sounds",
 "k":"Marlborough Sounds Marlborough Sounds Picton"
 },
-"Cape Sounion":{
-"hu":"Sounion-fok Sounion Poszeidón templom"
-},
-"Hydra":{
-"hu":"Hydra Hydra sziget Görögország"
-},
-"Temple of Aphaia":{
-"hu":"Aphaia-templom Aegina Aphaia templom"
-},
 "Latin Bridge, Sarajevo":{
 "hu":"Latin-híd, Szarajevó Szarajevó Latin híd Ferenc Ferdinánd"
 },
@@ -4559,15 +4550,6 @@
 "Komodo Island":{
 "hu":"Komodo-sziget Komodo sziget sárkány"
 },
-"Hoa Lu":{
-"hu":"Hoa Lư Hoa Lu ókori főváros"
-},
-"Trang An":{
-"hu":"Tràng An Trang An Ninh Binh"
-},
-"Ba Vi Mountain":{
-"hu":"Ba Vì-hegy Ba Vi hegy Hanoi"
-},
 "Elephant Trunk Hill":{
 "hu":"Elefántormány-hegy Guilin Elephant Trunk Hill"
 },
@@ -4619,27 +4601,6 @@
 "Ayutthaya Historical Park":{
 "hu":"Ayutthaya történelmi park Ayutthaya romváros Wat Mahathat"
 },
-"Iao Valley Needle":{
-"hu":"Iao-völgy tűje Iao Valley Needle Maui"
-},
-"Molokini":{
-"hu":"Molokini Molokini kráter sziget"
-},
-"Haleakalā":{
-"hu":"Haleakalā Haleakala kráter Maui"
-},
-"Nā Pali Coast":{
-"hu":"Nā Pali-part Napali Coast Kalalau"
-},
-"Kilauea Lighthouse":{
-"hu":"Kilauea világítótorony Kilauea világítótorony Kauai"
-},
-"Kealakekua Bay":{
-"hu":"Kealakekua-öböl Kealakekua öböl Cook kapitány"
-},
-"Kīlauea Caldera":{
-"hu":"Kīlauea-kaldera Kilauea Halemaumau Hawaii vulkán"
-},
 "Lake McDonald":{
 "hu":"McDonald-tó Lake McDonald Glacier Park"
 },
@@ -4651,9 +4612,6 @@
 },
 "Many Glacier":{
 "hu":"Many Glacier Many Glacier Swiftcurrent tó"
-},
-"Mormon Row":{
-"hu":"Mormon Row Mormon Row istálló Teton"
 },
 "Crazy Horse Memorial":{
 "hu":"Crazy Horse emlékmű Crazy Horse Memorial Dél-Dakota"

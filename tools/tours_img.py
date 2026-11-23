@@ -3,11 +3,11 @@
 import json, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMG = {
-"athens-saronic": "Acropolis of Athens|Cape Sounion", "sarajevo-mostar": "Stari Most|Mostar", "vilnius-trakai": "Trakai Island Castle|Vilnius", "kiruna-abisko": "Abisko National Park|Kebnekaise", "svalbard": "Longyearbyen|Pyramiden",
+"sarajevo-mostar": "Stari Most|Mostar", "vilnius-trakai": "Trakai Island Castle|Vilnius", "kiruna-abisko": "Abisko National Park|Kebnekaise", "svalbard": "Longyearbyen|Pyramiden",
 "azores-sao-miguel": "Sete Cidades|Lagoa do Fogo", "orkney": "Ring of Brodgar|Skara Brae", "albanian-alps": "Valbona Valley National Park|Theth", "yerevan-ararat": "Khor Virap|Mount Ararat", "samarkand": "Registan|Samarkand",
-"kerala": "Kerala backwaters|Fort Kochi", "komodo": "Padar|Komodo National Park", "hanoi-ninh-binh": "Tràng An|Ninh Bình", "guilin": "Li River|Guilin", "kyushu-aso": "Mount Aso|Beppu", "busan": "Haeundae Beach|Gamcheon Culture Village", "bangkok-ayutthaya": "Wat Arun|Ayutthaya (city)",
-"maui": "Haleakalā|Maui", "kauai": "Nā Pali Coast|Waimea Canyon", "big-island": "Kīlauea|Mauna Kea", "glacier-np": "Going-to-the-Sun Road|Lake McDonald (Montana)", "grand-teton": "Grand Teton|Jenny Lake", "black-hills": "Mount Rushmore|Badlands National Park", "moab-arches": "Delicate Arch|Arches National Park",
-"panama-canal": "Miraflores Locks|Panama Canal", "antigua-atitlan": "Volcán de Fuego|Lake Atitlán", "havana-vinales": "Viñales Valley|Havana", "ilulissat": "Ilulissat Icefjord|Ilulissat",
+"kerala": "Kerala backwaters|Fort Kochi", "komodo": "Padar|Komodo National Park", "guilin": "Li River|Guilin", "kyushu-aso": "Mount Aso|Beppu", "busan": "Haeundae Beach|Gamcheon Culture Village", "bangkok-ayutthaya": "Wat Arun|Ayutthaya (city)",
+"glacier-np": "Going-to-the-Sun Road|Lake McDonald (Montana)", "black-hills": "Mount Rushmore|Badlands National Park", "moab-arches": "Delicate Arch|Arches National Park",
+"panama-canal": "Panama Canal|Panama City|Bridge of the Americas|Casco Viejo, Panama City", "antigua-atitlan": "Volcán de Fuego|Lake Atitlán", "havana-vinales": "Viñales Valley|Havana", "ilulissat": "Ilulissat Icefjord|Ilulissat",
 "puerto-varas": "Osorno (volcano)|Puerto Varas", "ushuaia-beagle": "Ushuaia|Les Eclaireurs Lighthouse", "bogota-zipaquira": "Monserrate|Salt Cathedral of Zipaquirá", "red-sea-sinai": "Mount Sinai|Ras Mohammed National Park", "reunion": "Piton de la Fournaise|Cirque de Mafate",
 "adelaide-kangaroo": "Remarkable Rocks|Kangaroo Island", "alice-springs": "Ormiston Gorge|Alice Springs", "christchurch-banks": "Akaroa|Banks Peninsula",
 "hamburg-lubeck": "Elbphilharmonie|Holstentor", "black-forest": "Triberg Waterfalls|Black Forest", "bordeaux": "Dune of Pilat|Saint-Émilion", "corsica": "Scandola Nature Reserve|Calvi, Haute-Corse", "basque-coast": "San Sebastián|Gaztelugatxe",
@@ -28,8 +28,8 @@ IMG = {
 "jungfrau": "Jungfrau|Eiger", "iceland-south": "Skógafoss|Seljalandsfoss", "tromso": "Tromsø|Tromsdalen", "meteora": "Meteora", "corfu": "Corfu (city)|Corfu", "rhodes": "Lindos|Rhodes (city)",
 "sardinia": "Costa Smeralda|La Maddalena", "puglia": "Alberobello", "lanzarote": "Timanfaya National Park|Lanzarote", "tyrol": "Innsbruck|Zugspitze", "lake-geneva": "Château de Chillon|Lavaux",
 "kerry": "Skellig Michael|Dingle Peninsula", "snowdonia": "Snowdon|Conwy Castle", "lake-district": "Windermere|Lake District", "danube-bend": "Danube Bend|Visegrád", "tokaj-eger": "Eger Castle|Tokaj",
-"hokkaido": "Lake Tōya|Mount Yōtei", "taiwan": "Taroko National Park|Taipei 101", "big-island": "Kīlauea|Mauna Kea", "los-angeles": "Hollywood Sign|Griffith Observatory", "vancouver": "Stanley Park|Grouse Mountain",
-"santiago-andes": "Santiago|Aconcagua", "bariloche": "Nahuel Huapi National Park|Cerro Tronador", "kauai": "Nā Pali Coast|Waimea Canyon", "tahiti-moorea": "Moorea|Teahupo'o",
+"hokkaido": "Lake Tōya|Mount Yōtei", "taiwan": "Taroko National Park|Taipei 101", "los-angeles": "Hollywood Sign|Griffith Observatory", "vancouver": "Stanley Park|Grouse Mountain",
+"santiago-andes": "Santiago|Aconcagua", "bariloche": "Nahuel Huapi National Park|Cerro Tronador", "tahiti-moorea": "Moorea|Teahupo'o",
 "courchevel": "Courchevel Altiport|Courchevel", "barra-st-kilda": "Barra Airport|St Kilda, Scotland", "saba-statia": "Saba|Mount Scenery", "st-barth": "Maho Beach|Princess Juliana International Airport|Gustavia, Saint Barthélemy", "mccarthy": "Kennecott, Alaska|McCarthy, Alaska", "telluride": "Telluride, Colorado|Mount Sneffels",
 "jeju": "Hallasan|Jeju Island", "rajasthan": "Amber Fort|Jaipur", "java": "Borobudur", "bhutan": "Paro Taktsang", "sri-lanka": "Sigiriya", "chicago": "Chicago|Willis Tower",
 "seattle-rainier": "Mount Rainier", "zion-bryce": "Bryce Canyon", "mexico-city": "Teotihuacan", "nazca": "Nazca Lines", "uyuni": "Salar de Uyuni", "angel-falls": "Angel Falls",
