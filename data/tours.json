@@ -4194,14 +4194,19 @@
        25.372
       ],
       [
-       "Delos",
-       37.3959,
-       25.2693
+       "~",
+       37.3,
+       25.4
       ],
       [
        "Mykonos Town",
        37.4467,
        25.3289
+      ],
+      [
+       "Delos",
+       37.3959,
+       25.2693
       ],
       "LGMK"
      ]
@@ -4254,7 +4259,7 @@
     ]
    ],
    "kw": "Szantorini kaldera Portara Naxosz Délosz Mikonosz",
-   "img": "Santorini"
+   "img": "Oia, Greece|Mykonos|Santorini"
   },
   {
    "id": "peloponnese",
@@ -7086,7 +7091,7 @@
    ],
    "pois": [],
    "kw": "Ponta da Piedade Lagos Benagili barlang Praia da Marinha Albufeira Lagos Algarve Szent Vince-fok világítótorony Sagres Ria Formosa lagúna",
-   "img": "Benagil Cave"
+   "img": "Praia da Marinha|Algarve|Lagos, Portugal|Benagil Cave"
   },
   {
    "id": "istanbul",
@@ -7887,7 +7892,7 @@
    ],
    "pois": [],
    "kw": "Tórshavn Saksun Múlafossur vízesés Gásadalur Kallur világítótorony Kalsoy Vestmanna madárszirtek",
-   "img": "Mulafossur"
+   "img": "Gásadalur|Faroe Islands|Saksun|Vágar"
   },
   {
    "id": "brittany",
