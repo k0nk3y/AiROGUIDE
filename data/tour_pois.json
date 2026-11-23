@@ -2584,7 +2584,7 @@
 },
 "Mount St. Helens":{
 "hu":"Mount St. Helens",
-"k":"Mount St. Helens Szent Ilona-hegy vulkán"
+"k":"Mount St. Helens Mount St Helens vulkán"
 },
 "Kolob Canyons":{
 "hu":"Kolob-kanyonok",
@@ -4807,6 +4807,441 @@
 },
 "Arthur's Pass":{
 "hu":"Arthur-hágó Arthurs Pass Déli-Alpok"
+},
+"City of Arts and Sciences":{
+"hu":"Művészetek és Tudományok Városa Valencia Ciudad de las Artes Calatrava"
+},
+"La Albufera":{
+"hu":"Albufera Albufera lagúna Valencia rizs"
+},
+"Peñón de Ifach":{
+"hu":"Peñón de Ifach Calpe Penon de Ifach szikla"
+},
+"Guadalest":{
+"hu":"Guadalest Guadalest vár falu"
+},
+"Sagunto Castle":{
+"hu":"Sagunto vára Sagunto vár római"
+},
+"Las Canteras":{
+"hu":"Las Canteras-part Las Palmas Las Canteras strand"
+},
+"Tejeda":{
+"hu":"Tejeda Tejeda Gran Canaria falu"
+},
+"Roque Nublo":{
+"hu":"Roque Nublo Roque Nublo Gran Canaria szikla"
+},
+"Puerto de Mogán":{
+"hu":"Puerto de Mogán Puerto de Mogan kikötő"
+},
+"Maspalomas Dunes":{
+"hu":"Maspalomas-dűnék Maspalomas dűne Gran Canaria"
+},
+"Dalt Vila":{
+"hu":"Dalt Vila Ibiza Dalt Vila óváros"
+},
+"Cala Comte":{
+"hu":"Cala Comte Cala Comte Ibiza naplemente"
+},
+"Es Vedrà":{
+"hu":"Es Vedrà Es Vedra szikla Ibiza"
+},
+"Ses Illetes":{
+"hu":"Ses Illetes Ses Illetes Formentera strand"
+},
+"La Mola Lighthouse":{
+"hu":"La Mola világítótorony Formentera La Mola világítótorony"
+},
+"Titanic Belfast":{
+"hu":"Titanic Belfast Belfast Titanic múzeum"
+},
+"Carrick-a-Rede":{
+"hu":"Carrick-a-Rede Carrick a Rede kötélhíd"
+},
+"Giant's Causeway":{
+"hu":"Giant's Causeway Giants Causeway bazalt oszlopok"
+},
+"Dunluce Castle":{
+"hu":"Dunluce-vár Dunluce vár Észak-Írország"
+},
+"Slieve Donard":{
+"hu":"Slieve Donard Mourne hegység Slieve Donard"
+},
+"Visby":{
+"hu":"Visby Visby ring fal Gotland"
+},
+"Lummelunda Cave":{
+"hu":"Lummelunda-barlang Lummelunda barlang Gotland"
+},
+"Fårö Rauks":{
+"hu":"Fårö raukok Faro Langhammars rauk Gotland"
+},
+"Hoburgen":{
+"hu":"Hoburgen Hoburgen szikla Gotland"
+},
+"Goðafoss":{
+"hu":"Goðafoss Godafoss vízesés"
+},
+"Lake Mývatn":{
+"hu":"Mývatn-tó Myvatn tó vulkán"
+},
+"Dettifoss":{
+"hu":"Dettifoss Dettifoss vízesés"
+},
+"Ásbyrgi":{
+"hu":"Ásbyrgi Asbyrgi kanyon Izland"
+},
+"Húsavík":{
+"hu":"Húsavík Husavik bálna Izland"
+},
+"Pergamon":{
+"hu":"Pergamon Pergamon akropolisz Bergama"
+},
+"Library of Celsus":{
+"hu":"Celsus-könyvtár Epheszosz Celsus könyvtár"
+},
+"Pamukkale":{
+"hu":"Pamukkale Pamukkale travertin terasz Hierapolisz"
+},
+"Kok-Tobe":{
+"hu":"Kok-Tobe Almati Kok Tobe domb"
+},
+"Medeu":{
+"hu":"Medeu Medeu jégpálya Almati"
+},
+"Big Almaty Lake":{
+"hu":"Nagy Almati-tó Big Almaty Lake Tien-san"
+},
+"Talgar Peak":{
+"hu":"Talgar-csúcs Talgar csúcs Zailijszkij Alatau"
+},
+"Gandan Monastery":{
+"hu":"Gandan-kolostor Gandan kolostor Ulánbátor"
+},
+"Zaisan Memorial":{
+"hu":"Zaiszan-emlékmű Zaisan emlékmű Ulánbátor"
+},
+"Chinggis Khan Statue":{
+"hu":"Dzsingisz kán-szobor Chinggis Khan szobor Tsonjin Boldog"
+},
+"Turtle Rock":{
+"hu":"Teknős-szikla Terelj Turtle Rock Gorkhi"
+},
+"Matsumoto Castle":{
+"hu":"Macumotói vár Matsumoto vár Japán"
+},
+"Mount Yari":{
+"hu":"Jari-hegy Yarigatake Japán-Alpok"
+},
+"Kamikochi":{
+"hu":"Kamikocsi Kamikochi völgy Japán-Alpok"
+},
+"Mount Norikura":{
+"hu":"Norikura-hegy Norikura vulkán"
+},
+"Tianmen Mountain":{
+"hu":"Tianmen-hegy Tianmen hegy Zhangjiajie mennyország kapu"
+},
+"Baofeng Lake":{
+"hu":"Baofeng-tó Baofeng tó Wulingyuan"
+},
+"Wulingyuan":{
+"hu":"Wulingyuan Wulingyuan Avatar hegyek Zhangjiajie"
+},
+"Big Wild Goose Pagoda":{
+"hu":"Nagy Vadlúd-pagoda Xian Nagy Vadlúd pagoda"
+},
+"Xi'an City Wall":{
+"hu":"Hszian városfal Xian Ming városfal"
+},
+"Terracotta Army":{
+"hu":"Terrakotta hadsereg Xian terrakotta sereg"
+},
+"Mount Hua":{
+"hu":"Hua-hegy Huashan szent hegy"
+},
+"Pigeon Rocks":{
+"hu":"Galamb-szikla Bejrút Raouche Pigeon Rocks"
+},
+"Byblos":{
+"hu":"Byblos Byblos föníciai kikötő Libanon"
+},
+"Jeita Grotto":{
+"hu":"Jeita-barlang Jeita barlang Libanon"
+},
+"Cedars of God":{
+"hu":"Isten cédrusai Cedars of God Libanon cédrus"
+},
+"Baalbek":{
+"hu":"Baalbek Baalbek római templom"
+},
+"Cellular Jail":{
+"hu":"Cellular Jail Port Blair Cellular Jail börtön"
+},
+"Ross Island":{
+"hu":"Ross-sziget Ross sziget Andaman brit romok"
+},
+"Radhanagar Beach":{
+"hu":"Radhanagar-part Radhanagar strand Havelock"
+},
+"Barren Island":{
+"hu":"Barren-sziget Barren Island vulkán Andaman"
+},
+"Gili Trawangan":{
+"hu":"Gili Trawangan Gili Trawangan sziget Lombok"
+},
+"Mount Rinjani":{
+"hu":"Rinjani-hegy Rinjani vulkán Lombok"
+},
+"Kuta Lombok":{
+"hu":"Kuta Lombok Kuta Mandalika Lombok strand"
+},
+"Beluga Point":{
+"hu":"Beluga Point Turnagain Arm Beluga Point"
+},
+"Alyeska":{
+"hu":"Alyeska Alyeska síközpont Girdwood"
+},
+"Portage Glacier":{
+"hu":"Portage-gleccser Portage gleccser Alaszka"
+},
+"Matanuska Glacier":{
+"hu":"Matanuska-gleccser Matanuska gleccser Alaszka"
+},
+"Downtown Anchorage":{
+"hu":"Anchorage belvárosa Anchorage belváros"
+},
+"Cannery Row":{
+"hu":"Cannery Row Monterey Cannery Row akvárium"
+},
+"Point Lobos":{
+"hu":"Point Lobos Point Lobos Carmel"
+},
+"Bixby Bridge":{
+"hu":"Bixby-híd Bixby Bridge Big Sur"
+},
+"McWay Falls":{
+"hu":"McWay-vízesés McWay Falls Big Sur"
+},
+"Hearst Castle":{
+"hu":"Hearst-kastély Hearst Castle San Simeon"
+},
+"Portland Skyline":{
+"hu":"Portland látképe Portland belváros Oregon"
+},
+"Mount Hood":{
+"hu":"Mount Hood Mount Hood vulkán Oregon"
+},
+"Multnomah Falls":{
+"hu":"Multnomah-vízesés Multnomah Falls Columbia szurdok"
+},
+"The Pentagon":{
+"hu":"Pentagon Pentagon Washington"
+},
+"Lincoln Memorial":{
+"hu":"Lincoln-emlékmű Lincoln Memorial Washington"
+},
+"Washington Monument":{
+"hu":"Washington-emlékmű Washington Monument obeliszk"
+},
+"US Capitol":{
+"hu":"Capitolium Capitol Washington"
+},
+"Mount Vernon":{
+"hu":"Mount Vernon Mount Vernon George Washington"
+},
+"Charlotte Amalie":{
+"hu":"Charlotte Amalie Charlotte Amalie kikötő St Thomas"
+},
+"Magens Bay":{
+"hu":"Magens-öböl Magens Bay St Thomas"
+},
+"Trunk Bay":{
+"hu":"Trunk-öböl Trunk Bay St John"
+},
+"Coral Bay":{
+"hu":"Coral Bay Coral Bay St John"
+},
+"Monte Albán":{
+"hu":"Monte Albán Monte Alban zapoték romváros"
+},
+"Árbol del Tule":{
+"hu":"Árbol del Tule Tule fa Oaxaca"
+},
+"Mitla":{
+"hu":"Mitla Mitla romváros Oaxaca"
+},
+"Hierve el Agua":{
+"hu":"Hierve el Agua Hierve el Agua megkövült vízesés"
+},
+"Flores":{
+"hu":"Flores Flores Peten Itza sziget"
+},
+"Yaxhá":{
+"hu":"Yaxhá Yaxha maja romváros"
+},
+"Tikal Temple IV":{
+"hu":"Tikal IV. templom Tikal maja piramis"
+},
+"Uaxactún":{
+"hu":"Uaxactún Uaxactun maja romok"
+},
+"El Misti":{
+"hu":"El Misti Misti vulkán Arequipa"
+},
+"Chachani":{
+"hu":"Chachani Chachani vulkán Arequipa"
+},
+"Colca Canyon":{
+"hu":"Colca-kanyon Colca kanyon Cruz del Condor"
+},
+"Arequipa Plaza de Armas":{
+"hu":"Arequipa főtere Arequipa Plaza de Armas"
+},
+"Punta Ballena":{
+"hu":"Punta Ballena Punta Ballena Uruguay"
+},
+"Casapueblo":{
+"hu":"Casapueblo Casapueblo Punta del Este"
+},
+"Isla de Lobos":{
+"hu":"Isla de Lobos Isla de Lobos fókák Punta del Este"
+},
+"José Ignacio Lighthouse":{
+"hu":"José Ignacio világítótorony Jose Ignacio világítótorony"
+},
+"Puerto Pirámides":{
+"hu":"Puerto Pirámides Puerto Piramides bálna Valdes"
+},
+"Punta Norte":{
+"hu":"Punta Norte Punta Norte Valdes elefántfóka"
+},
+"Caleta Valdés":{
+"hu":"Caleta Valdés Caleta Valdes elefántfóka pingvin"
+},
+"Cap Spartel":{
+"hu":"Cap Spartel Cap Spartel Tanger világítótorony"
+},
+"Caves of Hercules":{
+"hu":"Herkules-barlangok Herkules barlang Tanger"
+},
+"Jebel Musa":{
+"hu":"Jebel Musa Jebel Musa Gibraltári szoros"
+},
+"Chefchaouen":{
+"hu":"Chefchaouen Chefchaouen kék város"
+},
+"Tangier Medina":{
+"hu":"Tangeri medina Tanger medina"
+},
+"Baldwin Street":{
+"hu":"Baldwin Street Baldwin Street Dunedin legmeredekebb"
+},
+"Larnach Castle":{
+"hu":"Larnach-kastély Larnach Castle Dunedin"
+},
+"Otago Peninsula":{
+"hu":"Otago-félsziget Otago félsziget albatrosz"
+},
+"Moeraki Boulders":{
+"hu":"Moeraki-kövek Moeraki Boulders gömb kövek"
+},
+"Nugget Point":{
+"hu":"Nugget Point Nugget Point világítótorony Catlins"
+},
+"Split Apple Rock":{
+"hu":"Split Apple Rock Split Apple Rock Abel Tasman"
+},
+"Abel Tasman National Park":{
+"hu":"Abel Tasman Nemzeti Park Abel Tasman Nemzeti Park Torrent Bay"
+},
+"Wharariki Beach":{
+"hu":"Wharariki-part Wharariki Beach Golden Bay"
+},
+"Farewell Spit":{
+"hu":"Farewell Spit Farewell Spit homokzátony"
+},
+"Malabar Hill":{
+"hu":"Malabar-domb Lord Howe Malabar Hill"
+},
+"Mount Gower":{
+"hu":"Mount Gower Mount Gower Lord Howe"
+},
+"Ball's Pyramid":{
+"hu":"Ball's Pyramid Balls Pyramid tengeri torony"
+},
+"Avarua":{
+"hu":"Avarua Avarua Rarotonga főváros"
+},
+"Arorangi":{
+"hu":"Arorangi Arorangi Rarotonga strand"
+},
+"Te Rua Manga":{
+"hu":"Te Rua Manga Te Rua Manga tű Rarotonga"
+},
+"Titikaveka":{
+"hu":"Titikaveka Titikaveka Rarotonga strand"
+},
+"Muri Lagoon":{
+"hu":"Muri-lagúna Muri lagúna Rarotonga"
+},
+"Great Wall Station":{
+"hu":"Great Wall állomás Great Wall Antarktisz kínai állomás"
+},
+"Ardley Island":{
+"hu":"Ardley-sziget Ardley sziget pingvin Antarktisz"
+},
+"Jubany Station":{
+"hu":"Jubany állomás Jubany Carlini állomás Potter Cove"
+},
+"Admiralty Bay":{
+"hu":"Admiralty-öböl Admiralty Bay King George sziget"
+},
+"Collins Glacier":{
+"hu":"Collins-gleccser Collins gleccser Bellingshausen"
+},
+"Snow Hill Island":{
+"hu":"Snow Hill-sziget Snow Hill sziget császárpingvin"
+},
+"Devil Island":{
+"hu":"Devil-sziget Devil Island Antarktisz pingvin"
+},
+"Brown Bluff":{
+"hu":"Brown Bluff Brown Bluff Antarktisz"
+},
+"Paulet Island":{
+"hu":"Paulet-sziget Paulet sziget adélie pingvin"
+},
+"Hut Point":{
+"hu":"Hut Point Hut Point Discovery Hut McMurdo"
+},
+"Cape Evans":{
+"hu":"Cape Evans Cape Evans Scott kunyhó"
+},
+"Cape Royds":{
+"hu":"Cape Royds Cape Royds Shackleton kunyhó"
+},
+"Mount Erebus":{
+"hu":"Erebus-hegy Erebus vulkán Antarktisz"
+},
+"Scott Base":{
+"hu":"Scott Base Scott Base Új-zélandi állomás"
+},
+"Taylor Valley":{
+"hu":"Taylor-völgy Taylor Valley Dry Valleys Száraz völgyek"
+},
+"Canada Glacier":{
+"hu":"Canada-gleccser Canada gleccser Taylor völgy"
+},
+"Mount Tyree":{
+"hu":"Tyree-hegy Mount Tyree Ellsworth"
+},
+"Vinson Massif":{
+"hu":"Vinson-masszívum Vinson masszívum Antarktisz legmagasabb"
+},
+"Minnesota Glacier":{
+"hu":"Minnesota-gleccser Minnesota gleccser Ellsworth"
 }
 }
 }

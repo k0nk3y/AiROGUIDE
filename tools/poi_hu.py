@@ -101,7 +101,8 @@ try:
     from poi_r7 import NEW as _N7
     from poi_r8 import NEW as _N8
     from poi_r9 import NEW as _N9
-    for _k, (_h, _x) in list(_N3.items()) + list(_N4.items()) + list(_N5.items()) + list(_N6.items()) + list(_N7.items()) + list(_N8.items()) + list(_N9.items()):
+    from poi_r10 import NEW as _N10
+    for _k, (_h, _x) in list(_N3.items()) + list(_N4.items()) + list(_N5.items()) + list(_N6.items()) + list(_N7.items()) + list(_N8.items()) + list(_N9.items()) + list(_N10.items()):
         HU[_k] = (_h + " " + _x).strip()
 except ImportError:
     pass
