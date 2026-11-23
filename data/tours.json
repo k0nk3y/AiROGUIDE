@@ -12981,14 +12981,9 @@
      "pts": [
       "CYTZ",
       [
-       "CN Tower",
-       43.6426,
-       -79.3871
-      ],
-      [
-       "Scarborough Bluffs",
-       43.705,
-       -79.23
+       "Hamilton Skyway",
+       43.279,
+       -79.8
       ],
       [
        "Niagara Falls",
@@ -12996,9 +12991,9 @@
        -79.0849
       ],
       [
-       "Hamilton Skyway",
-       43.279,
-       -79.8
+       "Scarborough Bluffs",
+       43.705,
+       -79.23
       ],
       "CYTZ"
      ]
