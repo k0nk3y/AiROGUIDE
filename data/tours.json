@@ -28365,6 +28365,641 @@
    "new": true,
    "kw": "Minnesota-gleccser Minnesota gleccser Ellsworth Tyree-hegy Mount Tyree Ellsworth Vinson-masszívum Vinson masszívum Antarktisz legmagasabb",
    "img": "Vinson Massif|Ellsworth Mountains"
+  },
+  {
+   "id": "lamu",
+   "continent": "AF",
+   "country": {
+    "en": "Kenya",
+    "hu": "Kenya"
+   },
+   "name": {
+    "en": "Lamu Archipelago",
+    "hu": "Lamu-szigetcsoport"
+   },
+   "main": {
+    "en": "Lamu Old Town",
+    "hu": "Lamu óvárosa",
+    "lat": -2.2717,
+    "lon": 40.902
+   },
+   "tags": [
+    "island",
+    "coast",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Swahili stone town of Lamu, where donkeys are the traffic, the endless dunes of Shela Beach, the ruins of Takwa and the ancient trading port of Pate Island.",
+    "hu": "Lamu szuahéli kővárosa, ahol a szamarak a közlekedés, a Shela-part végtelen dűnéi, Takwa romjai és Pate-sziget ősi kereskedővárosa."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Swahili coast loop",
+      "hu": "Szuahéli part-kör"
+     },
+     "desc": {
+      "en": "Takwa ruins, Lamu Old Town, Shela Beach and Pate.",
+      "hu": "Takwa romjai, Lamu óvárosa, a Shela-part és Pate."
+     },
+     "pts": [
+      "HKLU",
+      [
+       "Lamu Old Town",
+       -2.2717,
+       40.902
+      ],
+      [
+       "Shela Beach",
+       -2.29,
+       40.91
+      ],
+      [
+       "~",
+       -2.32,
+       40.94
+      ],
+      [
+       "~",
+       -2.18,
+       41.12
+      ],
+      [
+       "Pate Town",
+       -2.123,
+       41.06
+      ],
+      [
+       "Takwa Ruins",
+       -2.24,
+       40.98
+      ],
+      "HKLU"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Lamu óvárosa Lamu óváros szuahéli Shela-part Shela strand Lamu Pate Pate sziget város Takwa romjai Takwa romok Manda sziget",
+   "img": "Lamu|Shela"
+  },
+  {
+   "id": "langkawi",
+   "continent": "AS",
+   "country": {
+    "en": "Malaysia",
+    "hu": "Malajzia"
+   },
+   "name": {
+    "en": "Langkawi",
+    "hu": "Langkawi"
+   },
+   "main": {
+    "en": "Langkawi Sky Bridge",
+    "hu": "Langkawi Sky Bridge",
+    "lat": 6.386,
+    "lon": 99.665
+   },
+   "tags": [
+    "island",
+    "coast",
+    "mountain",
+    "jungle"
+   ],
+   "desc": {
+    "en": "A jungle archipelago of 99 islands: the curved Sky Bridge on Mount Mat Cincang, Pantai Cenang beach, the marble lake of Dayang Bunting and the mangrove Kilim Geoforest.",
+    "hu": "99 szigetből álló dzsungel szigetvilág: az ívelt Sky Bridge a Mat Cincang-hegyen, a Pantai Cenang-part, a Dayang Bunting márvány-tava és a mangrove Kilim Geopark."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Langkawi loop",
+      "hu": "Langkawi-kör"
+     },
+     "desc": {
+      "en": "Pantai Cenang, the Sky Bridge, Kilim and Dayang Bunting.",
+      "hu": "Pantai Cenang, a Sky Bridge, Kilim és Dayang Bunting."
+     },
+     "pts": [
+      "WMKL",
+      [
+       "Langkawi Sky Bridge",
+       6.386,
+       99.665
+      ],
+      [
+       "~",
+       6.4207,
+       99.6747
+      ],
+      [
+       "Kilim Geoforest",
+       6.42,
+       99.85
+      ],
+      [
+       "Dayang Bunting",
+       6.226,
+       99.801
+      ],
+      [
+       "Pantai Cenang",
+       6.29,
+       99.72
+      ],
+      "WMKL"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Langkawi Sky Bridge Langkawi Sky Bridge Mat Cincang Kilim Geopark Kilim Karst Geoforest Park Langkawi Dayang Bunting Dayang Bunting tó Langkawi Pantai Cenang Pantai Cenang Langkawi strand",
+   "img": "Langkawi|Langkawi Sky Bridge"
+  },
+  {
+   "id": "kota-kinabalu",
+   "continent": "AS",
+   "country": {
+    "en": "Malaysia",
+    "hu": "Malajzia"
+   },
+   "name": {
+    "en": "Kota Kinabalu and Mount Kinabalu",
+    "hu": "Kota Kinabalu és a Kinabalu-hegy"
+   },
+   "main": {
+    "en": "Mount Kinabalu",
+    "hu": "Kinabalu-hegy",
+    "lat": 6.075,
+    "lon": 116.558
+   },
+   "tags": [
+    "mountain",
+    "island",
+    "jungle",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The 4,095 m granite summit of Mount Kinabalu, the highest peak of Borneo, rising behind the sunset city of Kota Kinabalu and the coral islands of Tunku Abdul Rahman Park.",
+    "hu": "A Kinabalu 4095 méteres gránitcsúcsa, Borneó legmagasabb hegye a naplementés Kota Kinabalu és a Tunku Abdul Rahman Park korallszigetei mögött."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6000,
+     "stol": false,
+     "label": {
+      "en": "Borneo summit loop",
+      "hu": "Borneói csúcs-kör"
+     },
+     "desc": {
+      "en": "The City Mosque, Mount Kinabalu, Poring and Gaya Island.",
+      "hu": "A Városi mecset, a Kinabalu-hegy, Poring és a Gaya-sziget."
+     },
+     "pts": [
+      "WBKK",
+      [
+       "Kota Kinabalu City Mosque",
+       5.96,
+       116.062
+      ],
+      [
+       "Poring Hot Springs",
+       6.043,
+       116.705
+      ],
+      [
+       "~",
+       6.0804,
+       116.7066
+      ],
+      [
+       "Mount Kinabalu",
+       6.075,
+       116.558
+      ],
+      [
+       "Gaya Island",
+       5.993,
+       115.99
+      ],
+      [
+       "~",
+       5.9589,
+       115.9784
+      ],
+      "WBKK"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Kota Kinabalu Városi mecset Kota Kinabalu City Mosque Poring forrásai Poring Hot Springs Kinabalu Kinabalu-hegy Kinabalu hegy Borneó Gaya-sziget Gaya sziget Tunku Abdul Rahman Park",
+   "img": "Mount Kinabalu|Kota Kinabalu"
+  },
+  {
+   "id": "baku",
+   "continent": "AS",
+   "country": {
+    "en": "Azerbaijan",
+    "hu": "Azerbajdzsán"
+   },
+   "name": {
+    "en": "Baku and Gobustan",
+    "hu": "Baku és Gobusztán"
+   },
+   "main": {
+    "en": "Flame Towers",
+    "hu": "Lángtornyok",
+    "lat": 40.36,
+    "lon": 49.826
+   },
+   "tags": [
+    "city",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Flame Towers above the Caspian shore, the walled Old City, the Zoroastrian fire temple of Ateshgah, the ever-burning hillside of Yanar Dag and the rock art of Gobustan.",
+    "hu": "A Lángtornyok a Káspi-tenger partja felett, a falakkal övezett óváros, az Ateshgah tűztemplom, a Yanar Dag örökké égő lejtője és Gobusztán sziklarajzai."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Land of Fire loop",
+      "hu": "Tűz földje kör"
+     },
+     "desc": {
+      "en": "The Flame Towers, Ateshgah, Yanar Dag and Gobustan.",
+      "hu": "A Lángtornyok, az Ateshgah, a Yanar Dag és Gobusztán."
+     },
+     "pts": [
+      "UBBB",
+      [
+       "Yanar Dag",
+       40.5,
+       50.17
+      ],
+      [
+       "~",
+       40.4676,
+       50.1905
+      ],
+      [
+       "Ateshgah",
+       40.417,
+       50.012
+      ],
+      [
+       "Gobustan",
+       40.11,
+       49.383
+      ],
+      [
+       "~",
+       40.1935,
+       49.2994
+      ],
+      [
+       "Flame Towers",
+       40.36,
+       49.826
+      ],
+      "UBBB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Yanar Dag Yanar Dag égő hegy Ateshgah tűztemplom Ateshgah Baku tűztemplom Gobusztán Gobustan sziklarajzok Lángtornyok Baku Flame Towers",
+   "img": "Flame Towers|Gobustan National Park"
+  },
+  {
+   "id": "lake-baikal",
+   "continent": "AS",
+   "country": {
+    "en": "Russia",
+    "hu": "Oroszország"
+   },
+   "name": {
+    "en": "Lake Baikal",
+    "hu": "Bajkál-tó"
+   },
+   "main": {
+    "en": "Lake Baikal",
+    "hu": "Bajkál-tó",
+    "lat": 53.2,
+    "lon": 107.34
+   },
+   "tags": [
+    "coast",
+    "island",
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The deepest and oldest lake on Earth: the shore town of Listvyanka, the Circum-Baikal mountains, the shamanic rock of Olkhon Island and the vast frozen blue expanse.",
+    "hu": "A Föld legmélyebb és legöregebb tava: a parti Listvjanka, a Bajkál-hegyek, az Olhon-sziget sámánsziklája és a végtelen kék víztükör."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 6000,
+     "stol": false,
+     "label": {
+      "en": "Baikal loop",
+      "hu": "Bajkál-kör"
+     },
+     "desc": {
+      "en": "Listvyanka, Port Baikal and Olkhon Island.",
+      "hu": "Listvjanka, Port Bajkal és az Olhon-sziget."
+     },
+     "pts": [
+      "UIII",
+      [
+       "Listvyanka",
+       51.85,
+       104.87
+      ],
+      [
+       "Olkhon Island",
+       53.2,
+       107.34
+      ],
+      [
+       "Cape Khoboy",
+       53.42,
+       107.75
+      ],
+      [
+       "~",
+       53.4872,
+       107.6703
+      ],
+      "UIII"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Listvjanka Listvyanka Bajkál Olhon-sziget Olkhon sziget Khuzhir Bajkál Hoboj-fok Khoboy fok Olkhon",
+   "img": "Lake Baikal|Olkhon Island"
+  },
+  {
+   "id": "kamchatka",
+   "continent": "AS",
+   "country": {
+    "en": "Russia",
+    "hu": "Oroszország"
+   },
+   "name": {
+    "en": "Kamchatka Volcanoes",
+    "hu": "Kamcsatkai vulkánok"
+   },
+   "main": {
+    "en": "Avachinsky Volcano",
+    "hu": "Avacsinszkij-vulkán",
+    "lat": 53.256,
+    "lon": 158.83
+   },
+   "tags": [
+    "volcano",
+    "mountain",
+    "coast"
+   ],
+   "desc": {
+    "en": "The land of fire and ice: the twin cones of Avachinsky and Koryaksky above Petropavlovsk, Vilyuchinsky and the steaming crater of Mutnovsky.",
+    "hu": "A tűz és jég földje: az Avacsinszkij és Korjakszkij ikerkúpjai Petropavlovszk felett, a Vilucsinszkij és a gőzölgő Mutnovszkij-kráter."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 9000,
+     "stol": false,
+     "label": {
+      "en": "Volcano ring",
+      "hu": "Vulkán-gyűrű"
+     },
+     "desc": {
+      "en": "Koryaksky, Avachinsky, Mutnovsky and Vilyuchinsky.",
+      "hu": "A Korjakszkij, az Avacsinszkij, a Mutnovszkij és a Vilucsinszkij."
+     },
+     "pts": [
+      "UHPP",
+      [
+       "Koryaksky",
+       53.32,
+       158.712
+      ],
+      [
+       "Avachinsky Volcano",
+       53.256,
+       158.83
+      ],
+      [
+       "Mutnovsky",
+       52.45,
+       158.2
+      ],
+      [
+       "~",
+       52.4699,
+       158.1007
+      ],
+      [
+       "Vilyuchinsky",
+       52.7,
+       158.28
+      ],
+      "UHPP"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Korjakszkij-vulkán Korjakszkij vulkán Kamcsatka Avacsinszkij-vulkán Avacsinszkij vulkán Kamcsatka Mutnovszkij Mutnovsky vulkán Kamcsatka Vilucsinszkij Vilyuchinsky vulkán Kamcsatka",
+   "img": "Avachinsky|Koryaksky"
+  },
+  {
+   "id": "galicia",
+   "continent": "EU",
+   "country": {
+    "en": "Spain",
+    "hu": "Spanyolország"
+   },
+   "name": {
+    "en": "Galicia and Santiago de Compostela",
+    "hu": "Galícia és Santiago de Compostela"
+   },
+   "main": {
+    "en": "Santiago de Compostela Cathedral",
+    "hu": "Santiago de Compostela-i katedrális",
+    "lat": 42.8806,
+    "lon": -8.5446
+   },
+   "tags": [
+    "coast",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The pilgrim cathedral of Santiago, the wild Costa da Morte, the lighthouse cape of Fisterra and the white-sand Cíes Islands of the Atlantic Rías Baixas.",
+    "hu": "A zarándok-katedrális Santiagóban, a vad Costa da Morte, Fisterra világítótornyos foka és az Atlanti Rías Baixas fehér homokú Cíes-szigetei."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Atlantic Galicia loop",
+      "hu": "Atlanti Galícia kör"
+     },
+     "desc": {
+      "en": "Santiago, Muxía, Fisterra and the Cíes Islands.",
+      "hu": "Santiago, Muxía, Fisterra és a Cíes-szigetek."
+     },
+     "pts": [
+      "LEST",
+      [
+       "Cíes Islands",
+       42.225,
+       -8.906
+      ],
+      [
+       "~",
+       42.2308,
+       -9.0515
+      ],
+      [
+       "Cape Finisterre",
+       42.883,
+       -9.273
+      ],
+      [
+       "Muxía",
+       43.107,
+       -9.217
+      ],
+      [
+       "Santiago Cathedral",
+       42.8806,
+       -8.5446
+      ],
+      "LEST"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Cíes-szigetek Cies szigetek Vigo Fisterra-fok Fisterra világítótorony fok Muxía Muxia Costa da Morte Santiago-i katedrális Santiago de Compostela katedrális",
+   "img": "Santiago de Compostela Cathedral|Cíes Islands"
+  },
+  {
+   "id": "fernando-de-noronha",
+   "continent": "SA",
+   "country": {
+    "en": "Brazil",
+    "hu": "Brazília"
+   },
+   "name": {
+    "en": "Fernando de Noronha",
+    "hu": "Fernando de Noronha"
+   },
+   "main": {
+    "en": "Morro do Pico",
+    "hu": "Morro do Pico",
+    "lat": -3.834,
+    "lon": -32.429
+   },
+   "tags": [
+    "island",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "A volcanic Atlantic archipelago of dolphins and turquoise bays: the 323 m phonolite spire of Morro do Pico, the Baía do Sancho and the twin rocks of Dois Irmãos.",
+    "hu": "Vulkáni atlanti szigetcsoport delfinekkel és türkizkék öblökkel: a Morro do Pico 323 méteres kőtornya, a Baía do Sancho és a Dois Irmãos ikersziklái."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 70,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Archipelago loop",
+      "hu": "Szigetcsoport-kör"
+     },
+     "desc": {
+      "en": "Praia do Leão, Baía do Sancho, Dois Irmãos and Morro do Pico.",
+      "hu": "Praia do Leão, a Baía do Sancho, Dois Irmãos és a Morro do Pico."
+     },
+     "pts": [
+      "SBFN",
+      [
+       "~",
+       -3.9,
+       -32.5
+      ],
+      [
+       "~",
+       -3.95,
+       -32.45
+      ],
+      [
+       "Praia do Leão",
+       -3.875,
+       -32.417
+      ],
+      [
+       "Baía do Sancho",
+       -3.853,
+       -32.446
+      ],
+      [
+       "Dois Irmãos",
+       -3.831,
+       -32.448
+      ],
+      [
+       "Morro do Pico",
+       -3.834,
+       -32.429
+      ],
+      "SBFN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Praia do Leão Praia do Leao Fernando de Noronha Baía do Sancho Baia do Sancho Fernando de Noronha Dois Irmãos Dois Irmaos Fernando de Noronha Morro do Pico Morro do Pico Fernando de Noronha",
+   "img": "Fernando de Noronha|Morro do Pico"
   }
  ]
 }
