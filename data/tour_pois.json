@@ -716,10 +716,10 @@
 },
 "Acropolis":{
 "hu":"Akropolisz",
-"k":"Akropolisz Athén"
+"k":"Akropolisz Akropolisz Parthenón Athén"
 },
 "Corinth Canal":{
-"hu":"Korinthoszi-csatorna"
+"hu":"Korinthoszi-csatorna Korinthoszi csatorna"
 },
 "Mycenae":{
 "hu":"Mükéné"
@@ -1389,16 +1389,16 @@
 },
 "Hanalei Bay":{
 "hu":"Hanalei-öböl",
-"k":"Hanalei-öböl Hanalei"
+"k":"Hanalei-öböl Hanalei öböl Kauai"
 },
 "Wailua Falls":{
-"hu":"Wailua-vízesés"
+"hu":"Wailua-vízesés Wailua vízesés Kauai"
 },
 "Iao Valley":{
 "hu":"Iao-völgy"
 },
 "Lahaina":{
-"hu":"Lahaina"
+"hu":"Lahaina Lahaina Maui"
 },
 "Molokini Crater":{
 "hu":"Molokini-kráter"
@@ -1407,14 +1407,14 @@
 "hu":"Haleakala-kráter"
 },
 "Hana":{
-"hu":"Hana"
+"hu":"Hana Hana Road to Hana Maui"
 },
 "Kilauea Crater":{
 "hu":"Kilauea vulkán"
 },
 "Mauna Kea":{
 "hu":"Mauna Kea",
-"k":"Mauna Kea Mauna Kea csillagvizsgáló"
+"k":"Mauna Kea Mauna Kea csúcs csillagvizsgáló"
 },
 "Akaka Falls":{
 "hu":"Akaka-vízesés",
@@ -1629,16 +1629,16 @@
 "k":"Tian Tan Buddha Nagy Buddha Lantau"
 },
 "Oxbow Bend":{
-"hu":"Oxbow Bend"
+"hu":"Oxbow Bend Oxbow Bend Snake River"
 },
 "Jackson Lake":{
-"hu":"Jackson-tó"
+"hu":"Jackson-tó Jackson Lake Teton"
 },
 "Jenny Lake":{
-"hu":"Jenny-tó"
+"hu":"Jenny-tó Jenny Lake Teton"
 },
 "Grand Teton":{
-"hu":"Grand Teton"
+"hu":"Grand Teton Grand Teton csúcs"
 },
 "Yellowstone Lake":{
 "hu":"Yellowstone-tó"
@@ -2052,11 +2052,11 @@
 },
 "Hoan Kiem Lake":{
 "hu":"Hoan Kiem-tó",
-"k":"Hoan Kiem-tó Hoàn Kiếm Kardtó Hanoi"
+"k":"Hoan Kiem-tó Hanoi Hoan Kiem tó"
 },
 "Tam Coc":{
 "hu":"Tam Coc",
-"k":"Tam Coc Ninh Binh Tam Cốc szárazföldi Ha Long"
+"k":"Tam Cốc Tam Coc Ninh Binh"
 },
 "Tam Dao":{
 "hu":"Tam Dao",
@@ -2208,7 +2208,7 @@
 },
 "Mauna Loa":{
 "hu":"Mauna Loa",
-"k":"Mauna Loa Mauna Loa vulkán"
+"k":"Mauna Loa Mauna Loa vulkán Hawaii"
 },
 "Punaluʻu Black Sand Beach":{
 "hu":"Punaluʻu fekete homokstrand",
@@ -2224,7 +2224,7 @@
 },
 "Waipiʻo Valley":{
 "hu":"Waipiʻo-völgy",
-"k":"Waipiʻo-völgy Waipio"
+"k":"Waipiʻo-völgy Waipio völgy Hawaii"
 },
 "Key Biscayne Lighthouse":{
 "hu":"Key Biscayne világítótorony",
@@ -3276,7 +3276,7 @@
 },
 "Mount Waialeale":{
 "hu":"Mount Waialeale",
-"k":"Mount Waialeale Waialeale legcsapadékosabb"
+"k":"Waialeale-hegy Waialeale Kauai eső"
 },
 "Moorea":{
 "hu":"Moorea",
@@ -3704,7 +3704,7 @@
 },
 "El Morro":{
 "hu":"El Morro",
-"k":"El Morro El Morro San Juan erőd"
+"k":"El Morro El Morro Havanna vár"
 },
 "El Yunque":{
 "hu":"El Yunque",
@@ -4405,6 +4405,450 @@
 "Marlborough Sounds":{
 "hu":"Marlborough Sounds",
 "k":"Marlborough Sounds Marlborough Sounds Picton"
+},
+"Cape Sounion":{
+"hu":"Sounion-fok Sounion Poszeidón templom"
+},
+"Hydra":{
+"hu":"Hydra Hydra sziget Görögország"
+},
+"Temple of Aphaia":{
+"hu":"Aphaia-templom Aegina Aphaia templom"
+},
+"Latin Bridge, Sarajevo":{
+"hu":"Latin-híd, Szarajevó Szarajevó Latin híd Ferenc Ferdinánd"
+},
+"Blagaj Tekke":{
+"hu":"Blagaji dervisház Blagaj Buna forrás dervisház"
+},
+"Mostar Old Bridge":{
+"hu":"Mostari Öreg híd Mostar Stari Most híd"
+},
+"Počitelj":{
+"hu":"Počitelj Pocitelj erődváros"
+},
+"Kravica Waterfalls":{
+"hu":"Kravica-vízesés Kravice vízesés Trebižat"
+},
+"Gediminas Tower":{
+"hu":"Gediminas-torony Vilnius Gediminas torony óváros"
+},
+"Trakai Island Castle":{
+"hu":"Trakai vízivár Trakai vár Galvė"
+},
+"Kernavė":{
+"hu":"Kernavė Kernave ősi főváros dombvárak"
+},
+"Vilnius TV Tower":{
+"hu":"Vilniusi tévétorony Vilnius tévétorony"
+},
+"Icehotel Jukkasjärvi":{
+"hu":"Jégszálloda, Jukkasjärvi Jukkasjarvi Icehotel jégszálloda"
+},
+"Torneträsk":{
+"hu":"Torneträsk Torneträsk tó Abisko"
+},
+"Abisko":{
+"hu":"Abisko Abisko Nemzeti Park"
+},
+"Kebnekaise":{
+"hu":"Kebnekaise Kebnekaise Svédország legmagasabb"
+},
+"Barentsburg":{
+"hu":"Barentsburg Barentsburg orosz bányászváros"
+},
+"Pyramiden":{
+"hu":"Pyramiden Pyramiden szovjet szellemváros"
+},
+"Longyearbyen":{
+"hu":"Longyearbyen Longyearbyen Spitzbergák"
+},
+"Sete Cidades":{
+"hu":"Sete Cidades Sete Cidades kráter tó Azori"
+},
+"Lagoa do Fogo":{
+"hu":"Lagoa do Fogo Fogo tó kráter Sao Miguel"
+},
+"Furnas Lake":{
+"hu":"Furnas-tó Furnas tó forró forrás"
+},
+"Ponta do Arnel Lighthouse":{
+"hu":"Ponta do Arnel világítótorony Arnel világítótorony Nordeste"
+},
+"Vila Franca Islet":{
+"hu":"Vila Franca-szigetke Vila Franca do Campo kráter sziget"
+},
+"Skara Brae":{
+"hu":"Skara Brae Skara Brae kőkorszaki falu"
+},
+"Ring of Brodgar":{
+"hu":"Brodgar-kőkör Ring of Brodgar kőkör Orkney"
+},
+"Old Man of Hoy":{
+"hu":"Hoy-i Öreg Old Man of Hoy tengeri szikla"
+},
+"Italian Chapel":{
+"hu":"Olasz kápolna Italian Chapel Orkney Scapa Flow"
+},
+"St Magnus Cathedral":{
+"hu":"Szent Magnus-székesegyház Kirkwall katedrális"
+},
+"Krujë Castle":{
+"hu":"Krujë vára Kruja Skanderbeg vár"
+},
+"Lake Koman":{
+"hu":"Koman-tó Koman tó fjord komp"
+},
+"Valbona Valley":{
+"hu":"Valbona-völgy Valbona völgy Albán-Alpok"
+},
+"Theth":{
+"hu":"Theth Theth Albán-Alpok"
+},
+"Rozafa Castle":{
+"hu":"Rozafa-vár Shkodër Rozafa vár Skadar"
+},
+"Khor Virap":{
+"hu":"Khor Virap Khor Virap Ararát kolostor"
+},
+"Temple of Garni":{
+"hu":"Garni-templom Garni pogány templom"
+},
+"Geghard Monastery":{
+"hu":"Geghard-kolostor Geghard sziklakolostor"
+},
+"Sevanavank":{
+"hu":"Sevanavank Sevan tó kolostor"
+},
+"Yerevan Cascade":{
+"hu":"Jereváni Kaszkád Jereván Cascade"
+},
+"Ulugh Beg Observatory":{
+"hu":"Ulugh Beg-obszervatórium Ulugh Beg csillagvizsgáló"
+},
+"Shah-i-Zinda":{
+"hu":"Shah-i-Zinda Shah-i-Zinda mauzóleum sor"
+},
+"Registan":{
+"hu":"Regisztán Szamarkand Regisztán tér"
+},
+"Gur-e-Amir":{
+"hu":"Gur-i Emir Gur-e-Amir Timur mauzóleum"
+},
+"Ak-Saray Palace":{
+"hu":"Ak-Saray palota Shahrisabz Ak-Saray Timur palota"
+},
+"Fort Kochi":{
+"hu":"Fort Kochi Kochi kínai halászháló"
+},
+"Alleppey Backwaters":{
+"hu":"Alappuzha holtágai Alleppey Alappuzha lakóhajó holtág"
+},
+"Munnar Tea Gardens":{
+"hu":"Munnar teaültetvények Munnar tea ültetvény"
+},
+"Athirappilly Falls":{
+"hu":"Athirappilly-vízesés Athirappilly vízesés"
+},
+"Rinca Island":{
+"hu":"Rinca-sziget Rinca sziget komodói varánusz"
+},
+"Padar Island":{
+"hu":"Padar-sziget Padar sziget háromszoros öböl"
+},
+"Komodo Island":{
+"hu":"Komodo-sziget Komodo sziget sárkány"
+},
+"Hoa Lu":{
+"hu":"Hoa Lư Hoa Lu ókori főváros"
+},
+"Trang An":{
+"hu":"Tràng An Trang An Ninh Binh"
+},
+"Ba Vi Mountain":{
+"hu":"Ba Vì-hegy Ba Vi hegy Hanoi"
+},
+"Elephant Trunk Hill":{
+"hu":"Elefántormány-hegy Guilin Elephant Trunk Hill"
+},
+"Li River Xingping":{
+"hu":"Li-folyó, Xingping Xingping Li folyó karszt"
+},
+"Yangshuo":{
+"hu":"Yangshuo Yangshuo West Street karszt"
+},
+"Longji Rice Terraces":{
+"hu":"Longji rizsteraszok Longji rizs terasz Sárkánygerinc"
+},
+"Dazaifu Tenmangu":{
+"hu":"Dazaifu Tenmangu Dazaifu szentély Fukuoka"
+},
+"Mount Aso":{
+"hu":"Aso-hegy Aso vulkán kaldera"
+},
+"Mount Yufu":{
+"hu":"Jufu-hegy Yufu hegy Yufuin"
+},
+"Beppu Hells":{
+"hu":"Beppu poklai Beppu forró forrás Jigoku"
+},
+"Gamcheon Culture Village":{
+"hu":"Gamcheon kulturális falu Gamcheon Busan színes falu"
+},
+"Taejongdae":{
+"hu":"Taejongdae Taejongdae Busan szikla"
+},
+"Gwangan Bridge":{
+"hu":"Gwangan-híd Gwangandaegyo Busan híd"
+},
+"Haeundae Beach":{
+"hu":"Haeundae-part Haeundae Busan tengerpart"
+},
+"Haedong Yonggungsa":{
+"hu":"Haedong Yonggungsa Haedong Yonggungsa tengeri templom"
+},
+"Grand Palace":{
+"hu":"Királyi palota Bangkok Grand Palace Királyi palota"
+},
+"Wat Arun":{
+"hu":"Wat Arun Wat Arun Hajnal temploma Bangkok"
+},
+"Bang Pa-In Palace":{
+"hu":"Bang Pa-In palota Bang Pa-In nyári palota"
+},
+"Ayutthaya Historical Park":{
+"hu":"Ayutthaya történelmi park Ayutthaya romváros Wat Mahathat"
+},
+"Iao Valley Needle":{
+"hu":"Iao-völgy tűje Iao Valley Needle Maui"
+},
+"Molokini":{
+"hu":"Molokini Molokini kráter sziget"
+},
+"Haleakalā":{
+"hu":"Haleakalā Haleakala kráter Maui"
+},
+"Nā Pali Coast":{
+"hu":"Nā Pali-part Napali Coast Kalalau"
+},
+"Kilauea Lighthouse":{
+"hu":"Kilauea világítótorony Kilauea világítótorony Kauai"
+},
+"Kealakekua Bay":{
+"hu":"Kealakekua-öböl Kealakekua öböl Cook kapitány"
+},
+"Kīlauea Caldera":{
+"hu":"Kīlauea-kaldera Kilauea Halemaumau Hawaii vulkán"
+},
+"Lake McDonald":{
+"hu":"McDonald-tó Lake McDonald Glacier Park"
+},
+"Logan Pass":{
+"hu":"Logan-hágó Logan Pass Going-to-the-Sun"
+},
+"St. Mary Lake":{
+"hu":"St. Mary-tó St Mary Lake Wild Goose Island"
+},
+"Many Glacier":{
+"hu":"Many Glacier Many Glacier Swiftcurrent tó"
+},
+"Mormon Row":{
+"hu":"Mormon Row Mormon Row istálló Teton"
+},
+"Crazy Horse Memorial":{
+"hu":"Crazy Horse emlékmű Crazy Horse Memorial Dél-Dakota"
+},
+"Mount Rushmore":{
+"hu":"Rushmore-hegy Mount Rushmore elnökök"
+},
+"Needles Highway":{
+"hu":"Needles Highway Custer State Park Needles"
+},
+"Badlands National Park":{
+"hu":"Badlands Nemzeti Park Badlands Dél-Dakota"
+},
+"Mesa Arch":{
+"hu":"Mesa Arch Mesa Arch Canyonlands"
+},
+"Dead Horse Point":{
+"hu":"Dead Horse Point Dead Horse Point Colorado kanyon"
+},
+"Delicate Arch":{
+"hu":"Delicate Arch Delicate Arch Arches Nemzeti Park"
+},
+"Fisher Towers":{
+"hu":"Fisher Towers Fisher Towers Moab"
+},
+"Bridge of the Americas":{
+"hu":"Amerikák hídja Panama Bridge of the Americas"
+},
+"Miraflores Locks":{
+"hu":"Miraflores-zsilipek Panama csatorna Miraflores"
+},
+"Centennial Bridge":{
+"hu":"Centennial-híd Panama Centennial híd"
+},
+"Gatún Locks":{
+"hu":"Gatún-zsilipek Panama csatorna Gatun"
+},
+"Casco Viejo":{
+"hu":"Casco Viejo Panama Casco Viejo óváros"
+},
+"Pacaya":{
+"hu":"Pacaya Pacaya vulkán Guatemala"
+},
+"Antigua Guatemala":{
+"hu":"Antigua Guatemala Antigua Guatemala gyarmati város"
+},
+"Acatenango":{
+"hu":"Acatenango Acatenango vulkán"
+},
+"Volcán de Fuego":{
+"hu":"Volcán de Fuego Fuego vulkán Guatemala"
+},
+"Lake Atitlán":{
+"hu":"Atitlán-tó Atitlan tó vulkán Guatemala"
+},
+"Malecón":{
+"hu":"Malecón Havanna Malecón tengerpart"
+},
+"Soroa Waterfall":{
+"hu":"Soroa-vízesés Soroa vízesés Kuba"
+},
+"Viñales Valley":{
+"hu":"Viñales-völgy Vinales völgy mogote dohány"
+},
+"Ilulissat Icefjord":{
+"hu":"Ilulissat-jégfjord Ilulissat jégfjord Kangia"
+},
+"Sermermiut":{
+"hu":"Sermermiut Sermermiut völgy Ilulissat"
+},
+"Disko Bay Icebergs":{
+"hu":"Disko-öböl jéghegyei Disko öböl jéghegy"
+},
+"Jakobshavn Glacier":{
+"hu":"Jakobshavn-gleccser Sermeq Kujalleq Jakobshavn Isbrae gleccser"
+},
+"Eqip Sermia":{
+"hu":"Eqip Sermia Eqip Sermia gleccser Grönland"
+},
+"Puerto Varas":{
+"hu":"Puerto Varas Puerto Varas Llanquihue"
+},
+"Calbuco":{
+"hu":"Calbuco Calbuco vulkán"
+},
+"Osorno Volcano":{
+"hu":"Osorno-vulkán Osorno vulkán Chile"
+},
+"Petrohué Falls":{
+"hu":"Petrohué-vízesés Petrohue vízesés"
+},
+"Lago Todos los Santos":{
+"hu":"Todos los Santos-tó Todos los Santos tó"
+},
+"Martial Glacier":{
+"hu":"Martial-gleccser Martial gleccser Ushuaia"
+},
+"Tierra del Fuego National Park":{
+"hu":"Tűzföldi Nemzeti Park Tierra del Fuego Nemzeti Park Lapataia"
+},
+"Lake Fagnano":{
+"hu":"Fagnano-tó Fagnano tó Tűzföld"
+},
+"Les Éclaireurs Lighthouse":{
+"hu":"Les Éclaireurs világítótorony Les Eclaireurs világítótorony Beagle"
+},
+"Ushuaia":{
+"hu":"Ushuaia Ushuaia világ vége"
+},
+"Monserrate":{
+"hu":"Monserrate Monserrate Bogota hegy"
+},
+"Zipaquirá Salt Cathedral":{
+"hu":"Zipaquirái sókatedrális Zipaquira sókatedrális"
+},
+"Lake Guatavita":{
+"hu":"Guatavita-tó Guatavita tó El Dorado"
+},
+"Tequendama Falls":{
+"hu":"Tequendama-vízesés Tequendama vízesés Bogota"
+},
+"Ras Mohammed":{
+"hu":"Ras Mohammed Ras Mohammed Nemzeti Park korall"
+},
+"Tiran Island":{
+"hu":"Tiran-sziget Tiran sziget Sarm"
+},
+"Blue Hole, Dahab":{
+"hu":"Kék lyuk, Dahab Dahab Blue Hole"
+},
+"Mount Sinai":{
+"hu":"Sínai-hegy Sínai hegy Mózes"
+},
+"St Catherine's Monastery":{
+"hu":"Szent Katalin-kolostor Szent Katalin kolostor Sínai"
+},
+"Naama Bay":{
+"hu":"Naama-öböl Naama Bay Sarm el-Sejk"
+},
+"Piton des Neiges":{
+"hu":"Piton des Neiges Piton des Neiges Réunion"
+},
+"Cirque de Mafate":{
+"hu":"Mafate-katlan Mafate katlan Réunion"
+},
+"Cirque de Salazie":{
+"hu":"Salazie-katlan Salazie katlan Hell-Bourg"
+},
+"Piton de la Fournaise":{
+"hu":"Piton de la Fournaise Piton de la Fournaise vulkán Réunion"
+},
+"Adelaide Oval":{
+"hu":"Adelaide Oval Adelaide Oval stadion"
+},
+"Granite Island":{
+"hu":"Granite-sziget Victor Harbor Granite Island"
+},
+"Seal Bay":{
+"hu":"Seal Bay Seal Bay Kangaroo Island fóka"
+},
+"Cape du Couedic Lighthouse":{
+"hu":"Cape du Couedic világítótorony Cape du Couedic világítótorony"
+},
+"Remarkable Rocks":{
+"hu":"Remarkable Rocks Remarkable Rocks Flinders Chase"
+},
+"Cape Jervis":{
+"hu":"Cape Jervis Cape Jervis világítótorony Fleurieu"
+},
+"Alice Springs Telegraph Station":{
+"hu":"Alice Springs távíró-állomás Alice Springs Telegraph Station"
+},
+"Simpsons Gap":{
+"hu":"Simpsons Gap Simpsons Gap MacDonnell"
+},
+"Ormiston Gorge":{
+"hu":"Ormiston-szurdok Ormiston Gorge MacDonnell"
+},
+"Mount Sonder":{
+"hu":"Mount Sonder Mount Sonder Rwetyepme"
+},
+"Glen Helen Gorge":{
+"hu":"Glen Helen-szurdok Glen Helen Gorge Finke folyó"
+},
+"Lyttelton Harbour":{
+"hu":"Lyttelton-kikötő Lyttelton kikötő Christchurch"
+},
+"Akaroa Harbour":{
+"hu":"Akaroa-kikötő Akaroa kikötő Banks félsziget"
+},
+"Castle Hill":{
+"hu":"Castle Hill Castle Hill Basin Új-Zéland"
+},
+"Arthur's Pass":{
+"hu":"Arthur-hágó Arthurs Pass Déli-Alpok"
 }
 }
 }

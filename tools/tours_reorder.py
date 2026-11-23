@@ -42,7 +42,10 @@ def evalp(pts):
 
 d = json.load(open(os.path.join(ROOT, "data", "tours.json"), encoding="utf-8"))
 chg = 0
+ONLY = set(os.environ.get("ONLY", "").split())
 for t in d["tours"]:
+    if ONLY and t["id"] not in ONLY:
+        continue
     for v in t["variants"]:
         raw = v["pts"]
         if len(raw) < 5 or not isinstance(raw[0], str) or raw[0] != raw[-1] or v.get("kind", "loop") != "loop":

@@ -3,6 +3,13 @@
 import json, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMG = {
+"athens-saronic": "Acropolis of Athens|Cape Sounion", "sarajevo-mostar": "Stari Most|Mostar", "vilnius-trakai": "Trakai Island Castle|Vilnius", "kiruna-abisko": "Abisko National Park|Kebnekaise", "svalbard": "Longyearbyen|Pyramiden",
+"azores-sao-miguel": "Sete Cidades|Lagoa do Fogo", "orkney": "Ring of Brodgar|Skara Brae", "albanian-alps": "Valbona Valley National Park|Theth", "yerevan-ararat": "Khor Virap|Mount Ararat", "samarkand": "Registan|Samarkand",
+"kerala": "Kerala backwaters|Fort Kochi", "komodo": "Padar|Komodo National Park", "hanoi-ninh-binh": "Tràng An|Ninh Bình", "guilin": "Li River|Guilin", "kyushu-aso": "Mount Aso|Beppu", "busan": "Haeundae Beach|Gamcheon Culture Village", "bangkok-ayutthaya": "Wat Arun|Ayutthaya (city)",
+"maui": "Haleakalā|Maui", "kauai": "Nā Pali Coast|Waimea Canyon", "big-island": "Kīlauea|Mauna Kea", "glacier-np": "Going-to-the-Sun Road|Lake McDonald (Montana)", "grand-teton": "Grand Teton|Jenny Lake", "black-hills": "Mount Rushmore|Badlands National Park", "moab-arches": "Delicate Arch|Arches National Park",
+"panama-canal": "Miraflores Locks|Panama Canal", "antigua-atitlan": "Volcán de Fuego|Lake Atitlán", "havana-vinales": "Viñales Valley|Havana", "ilulissat": "Ilulissat Icefjord|Ilulissat",
+"puerto-varas": "Osorno (volcano)|Puerto Varas", "ushuaia-beagle": "Ushuaia|Les Eclaireurs Lighthouse", "bogota-zipaquira": "Monserrate|Salt Cathedral of Zipaquirá", "red-sea-sinai": "Mount Sinai|Ras Mohammed National Park", "reunion": "Piton de la Fournaise|Cirque de Mafate",
+"adelaide-kangaroo": "Remarkable Rocks|Kangaroo Island", "alice-springs": "Ormiston Gorge|Alice Springs", "christchurch-banks": "Akaroa|Banks Peninsula",
 "hamburg-lubeck": "Elbphilharmonie|Holstentor", "black-forest": "Triberg Waterfalls|Black Forest", "bordeaux": "Dune of Pilat|Saint-Émilion", "corsica": "Scandola Nature Reserve|Calvi, Haute-Corse", "basque-coast": "San Sebastián|Gaztelugatxe",
 "costa-brava": "Cadaqués|Tossa de Mar", "douro": "Dom Luís I Bridge|Porto|Douro Valley", "gdansk": "Gdańsk|Long Market", "belgrade-novi-sad": "Belgrade Fortress|Petrovaradin Fortress", "seoul": "Gyeongbokgung|N Seoul Tower",
 "manila-taal": "Taal Volcano|Intramuros", "kuala-lumpur": "Petronas Towers|Batu Caves", "chiang-mai": "Doi Suthep|Doi Inthanon", "muscat": "Sultan Qaboos Grand Mosque|Muscat", "antalya": "Aspendos|Antalya",
