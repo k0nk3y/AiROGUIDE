@@ -17387,562 +17387,2050 @@
 "zh":"皮科山"
 },
 "Lalibela Rock-Hewn Churches":{
-"hu":"Lalibela sziklatemplomai Lalibela sziklatemplom etióp"
+"hu":"Lalibela sziklatemplomai Lalibela sziklatemplom etióp",
+"de":"Felsenkirchen von Lalibela",
+"es":"Iglesias excavadas en la roca de Lalibela",
+"fr":"Églises rupestres de Lalibela",
+"it":"Chiese rupestri di Lalibela",
+"pl":"Kościoły skalne w Lalibela",
+"ru":"Высеченные в скалах церкви Лалибелы",
+"sk":"Skalné kostoly v Lalibele",
+"zh":"拉利贝拉岩石教堂"
 },
 "Bete Giyorgis":{
-"hu":"Bete Giyorgis Szent György templom Lalibela"
+"hu":"Bete Giyorgis Szent György templom Lalibela",
+"de":"Bete Giyorgis",
+"es":"Bete Giyorgis",
+"fr":"Bete Giyorgis",
+"it":"Bete Giyorgis",
+"pl":"Bete Giyorgis",
+"ru":"Бете-Гиоргис",
+"sk":"Bete Giyorgis",
+"zh":"贝特吉奥吉斯教堂"
 },
 "Mount Abuna Yosef":{
-"hu":"Abuna Yosef-hegy Abuna Yosef hegy Etiópia"
+"hu":"Abuna Yosef-hegy Abuna Yosef hegy Etiópia",
+"de":"Abuna Yosef",
+"es":"Monte Abuna Yosef",
+"fr":"Mont Abuna Yosef",
+"it":"Monte Abuna Yosef",
+"pl":"Góra Abuna Yosef",
+"ru":"Гора Абуна-Йосеф",
+"sk":"Hora Abuna Yosef",
+"zh":"阿布纳约瑟夫山"
 },
 "Cidade Velha":{
-"hu":"Cidade Velha Cidade Velha Zöld-foki gyarmati"
+"hu":"Cidade Velha Cidade Velha Zöld-foki gyarmati",
+"de":"Cidade Velha",
+"es":"Cidade Velha",
+"fr":"Cidade Velha",
+"it":"Cidade Velha",
+"pl":"Cidade Velha",
+"ru":"Сидади-Велья",
+"sk":"Cidade Velha",
+"zh":"旧城"
 },
 "Pico do Fogo":{
-"hu":"Pico do Fogo Fogo vulkán Zöld-foki"
+"hu":"Pico do Fogo Fogo vulkán Zöld-foki",
+"de":"Pico do Fogo",
+"es":"Pico do Fogo",
+"fr":"Pico do Fogo",
+"it":"Pico do Fogo",
+"pl":"Pico do Fogo",
+"ru":"Пику-ду-Фогу",
+"sk":"Pico do Fogo",
+"zh":"福古火山"
 },
 "Tarrafal":{
-"hu":"Tarrafal Tarrafal Santiago fekete strand"
+"hu":"Tarrafal Tarrafal Santiago fekete strand",
+"de":"Tarrafal",
+"es":"Tarrafal",
+"fr":"Tarrafal",
+"it":"Tarrafal",
+"pl":"Tarrafal",
+"ru":"Тарафал",
+"sk":"Tarrafal",
+"zh":"塔拉法尔"
 },
 "Bazaruto Island Dunes":{
-"hu":"Bazaruto-sziget dűnéi Bazaruto dűne sziget Mozambik"
+"hu":"Bazaruto-sziget dűnéi Bazaruto dűne sziget Mozambik",
+"de":"Dünen der Insel Bazaruto",
+"es":"Dunas de la isla de Bazaruto",
+"fr":"Dunes de l'île de Bazaruto",
+"it":"Dune dell'isola di Bazaruto",
+"pl":"Wydmy wyspy Bazaruto",
+"ru":"Дюны острова Базаруту",
+"sk":"Piesočné duny ostrova Bazaruto",
+"zh":"巴扎鲁托岛沙丘"
 },
 "Benguerra Island":{
-"hu":"Benguerra-sziget Benguerra sziget"
+"hu":"Benguerra-sziget Benguerra sziget",
+"de":"Insel Benguerra",
+"es":"Isla de Benguerra",
+"fr":"Île de Benguerra",
+"it":"Isola di Benguerra",
+"pl":"Wyspa Benguerra",
+"ru":"Остров Бенгера",
+"sk":"Ostrov Benguerra",
+"zh":"本盖拉岛"
 },
 "Magaruque Island":{
-"hu":"Magaruque-sziget Magaruque sziget"
+"hu":"Magaruque-sziget Magaruque sziget",
+"de":"Insel Magaruque",
+"es":"Isla de Magaruque",
+"fr":"Île de Magaruque",
+"it":"Isola di Magaruque",
+"pl":"Wyspa Magaruque",
+"ru":"Остров Магарука",
+"sk":"Ostrov Magaruque",
+"zh":"马加鲁克岛"
 },
 "Senga Bay":{
-"hu":"Senga-öböl Senga Bay Malawi tó"
+"hu":"Senga-öböl Senga Bay Malawi tó",
+"de":"Senga Bay",
+"es":"Bahía de Senga",
+"fr":"Senga Bay",
+"it":"Senga Bay",
+"pl":"Senga Bay",
+"ru":"Залив Сенга",
+"sk":"Senga Bay",
+"zh":"森加湾"
 },
 "Cape Maclear":{
-"hu":"Cape Maclear Cape Maclear Malawi tó nemzeti park"
+"hu":"Cape Maclear Cape Maclear Malawi tó nemzeti park",
+"de":"Cape Maclear",
+"es":"Cabo Maclear",
+"fr":"Cape Maclear",
+"it":"Cape Maclear",
+"pl":"Cape Maclear",
+"ru":"Кейп-Маклир",
+"sk":"Cape Maclear",
+"zh":"马克利尔角"
 },
 "Dedza Mountain":{
-"hu":"Dedza-hegy Dedza hegy Malawi"
+"hu":"Dedza-hegy Dedza hegy Malawi",
+"de":"Dedza-Berg",
+"es":"Montaña Dedza",
+"fr":"Mont Dedza",
+"it":"Monte Dedza",
+"pl":"Góra Dedza",
+"ru":"Гора Дедза",
+"sk":"Hora Dedza",
+"zh":"杰扎山"
 },
 "Kolmanskop Ghost Town":{
-"hu":"Kolmanskop szellemváros Kolmanskop szellemváros Namíbia"
+"hu":"Kolmanskop szellemváros Kolmanskop szellemváros Namíbia",
+"de":"Geisterstadt Kolmanskop",
+"es":"Pueblo fantasma de Kolmanskop",
+"fr":"Ville fantôme de Kolmanskop",
+"it":"Città fantasma di Kolmanskop",
+"pl":"Miasto widmo Kolmanskop",
+"ru":"Город-призрак Кольманскоп",
+"sk":"Mesto duchov Kolmanskop",
+"zh":"科尔曼斯科普鬼城"
 },
 "Elizabeth Bay":{
-"hu":"Elizabeth Bay Elizabeth Bay szellemváros gyémánt"
+"hu":"Elizabeth Bay Elizabeth Bay szellemváros gyémánt",
+"de":"Elizabeth Bay",
+"es":"Bahía Elizabeth",
+"fr":"Elizabeth Bay",
+"it":"Elizabeth Bay",
+"pl":"Elizabeth Bay",
+"ru":"Залив Элизабет",
+"sk":"Elizabeth Bay",
+"zh":"伊丽莎白湾"
 },
 "Diaz Point":{
-"hu":"Diaz-fok Diaz Point Lüderitz kereszt"
+"hu":"Diaz-fok Diaz Point Lüderitz kereszt",
+"de":"Diaz-Spitze",
+"es":"Punta Diaz",
+"fr":"Pointe Diaz",
+"it":"Diaz Point",
+"pl":"Przylądek Diaza",
+"ru":"Мыс Диаш",
+"sk":"Diaz Point",
+"zh":"迪亚斯角"
 },
 "Lüderitz":{
-"hu":"Lüderitz Lüderitz szecessziós kikötő"
+"hu":"Lüderitz Lüderitz szecessziós kikötő",
+"de":"Lüderitz",
+"es":"Lüderitz",
+"fr":"Lüderitz",
+"it":"Lüderitz",
+"pl":"Lüderitz",
+"ru":"Людериц",
+"sk":"Lüderitz",
+"zh":"吕德里茨"
 },
 "Mount Kenya":{
-"hu":"Kenya-hegy Kenya hegy gleccser Egyenlítő"
+"hu":"Kenya-hegy Kenya hegy gleccser Egyenlítő",
+"de":"Mount Kenya",
+"es":"Monte Kenia",
+"fr":"Mont Kenya",
+"it":"Monte Kenya",
+"pl":"Mount Kenya",
+"ru":"Гора Кения",
+"sk":"Mount Kenya",
+"zh":"肯尼亚山"
 },
 "Lewa Wildlife Conservancy":{
-"hu":"Lewa vadrezervátum Lewa Conservancy orrszarvú"
+"hu":"Lewa vadrezervátum Lewa Conservancy orrszarvú",
+"de":"Lewa Wildlife Conservancy",
+"es":"Reserva de Vida Silvestre de Lewa",
+"fr":"Réserve faunique de Lewa",
+"it":"Riserva faunistica di Lewa",
+"pl":"Rezerwat Lewa Wildlife Conservancy",
+"ru":"Заповедник Лева",
+"sk":"Rezervácia Lewa Wildlife Conservancy",
+"zh":"莱瓦野生动物保护区"
 },
 "Ol Pejeta Conservancy":{
-"hu":"Ol Pejeta rezervátum Ol Pejeta orrszarvú szentély"
+"hu":"Ol Pejeta rezervátum Ol Pejeta orrszarvú szentély",
+"de":"Ol Pejeta Conservancy",
+"es":"Reserva de Ol Pejeta",
+"fr":"Réserve d'Ol Pejeta",
+"it":"Riserva di Ol Pejeta",
+"pl":"Rezerwat Ol Pejeta",
+"ru":"Заповедник Ол-Педжета",
+"sk":"Rezervácia Ol Pejeta Conservancy",
+"zh":"奥尔佩杰塔保护区"
 },
 "Mount Satima":{
-"hu":"Satima-hegy Aberdare Satima hegy"
+"hu":"Satima-hegy Aberdare Satima hegy",
+"de":"Mount Satima",
+"es":"Monte Satima",
+"fr":"Mont Satima",
+"it":"Monte Satima",
+"pl":"Góra Satima",
+"ru":"Гора Сатима",
+"sk":"Hora Satima",
+"zh":"萨蒂马山"
 },
 "Lac Rose":{
-"hu":"Lac Rose Lac Rose Retba rózsaszín tó"
+"hu":"Lac Rose Lac Rose Retba rózsaszín tó",
+"de":"Lac Rose",
+"es":"Lago Rosa",
+"fr":"Lac Rose",
+"it":"Lac Rose",
+"pl":"Jezioro Różowe",
+"ru":"Озеро Ретба",
+"sk":"Lac Rose",
+"zh":"玫瑰湖"
 },
 "Gorée Island":{
-"hu":"Gorée-sziget Gorée sziget rabszolga ház"
+"hu":"Gorée-sziget Gorée sziget rabszolga ház",
+"de":"Insel Gorée",
+"es":"Isla de Gorea",
+"fr":"Île de Gorée",
+"it":"Isola di Gorée",
+"pl":"Wyspa Gorée",
+"ru":"Остров Горе",
+"sk":"Ostrov Gorée",
+"zh":"戈雷岛"
 },
 "African Renaissance Monument":{
-"hu":"Afrikai Reneszánsz Emlékmű Afrikai reneszánsz emlékmű Dakar"
+"hu":"Afrikai Reneszánsz Emlékmű Afrikai reneszánsz emlékmű Dakar",
+"de":"Denkmal der Afrikanischen Renaissance",
+"es":"Monumento al Renacimiento Africano",
+"fr":"Monument de la Renaissance africaine",
+"it":"Monumento al Rinascimento Africano",
+"pl":"Pomnik Afrykańskiego Renesansu",
+"ru":"Монумент Африканского возрождения",
+"sk":"Pamätník africkej renesancie",
+"zh":"非洲复兴纪念碑"
 },
 "Fadiouth":{
-"hu":"Fadiouth Fadiouth kagylósziget"
+"hu":"Fadiouth Fadiouth kagylósziget",
+"de":"Fadiouth",
+"es":"Fadiouth",
+"fr":"Fadiouth",
+"it":"Fadiouth",
+"pl":"Fadiouth",
+"ru":"Фадиут",
+"sk":"Fadiouth",
+"zh":"法迪乌特"
 },
 "Assekrem Hermitage":{
-"hu":"Assekrem remetelak Assekrem remetelak Foucauld"
+"hu":"Assekrem remetelak Assekrem remetelak Foucauld",
+"de":"Einsiedelei Assekrem",
+"es":"Ermita de Assekrem",
+"fr":"Ermitage de l'Assekrem",
+"it":"Eremo dell'Assekrem",
+"pl":"Pustelnia Assekrem",
+"ru":"Обитель Ассекрем",
+"sk":"Pustovňa Assekrem",
+"zh":"阿塞克雷姆隐修所"
 },
 "Mount Tahat":{
-"hu":"Tahat-hegy Tahat hegy Hoggar Algéria"
+"hu":"Tahat-hegy Tahat hegy Hoggar Algéria",
+"de":"Mount Tahat",
+"es":"Monte Tahat",
+"fr":"Mont Tahat",
+"it":"Monte Tahat",
+"pl":"Góra Tahat",
+"ru":"Гора Тахат",
+"sk":"Hora Tahat",
+"zh":"塔哈特山"
 },
 "Abalessa":{
-"hu":"Abalessa Abalessa Tin Hinan sírja"
+"hu":"Abalessa Abalessa Tin Hinan sírja",
+"de":"Abalessa",
+"es":"Abalessa",
+"fr":"Abalessa",
+"it":"Abalessa",
+"pl":"Abalessa",
+"ru":"Абалесса",
+"sk":"Abalessa",
+"zh":"阿巴莱萨"
 },
 "Dixam Plateau":{
-"hu":"Dixam-fennsík Dixam fennsík sárkányvérfa Szokotra"
+"hu":"Dixam-fennsík Dixam fennsík sárkányvérfa Szokotra",
+"de":"Dixam-Plateau",
+"es":"Meseta de Dixam",
+"fr":"Plateau de Dixam",
+"it":"Altopiano di Dixam",
+"pl":"Płaskowyż Dixam",
+"ru":"Плато Диксам",
+"sk":"Planina Dixam",
+"zh":"迪克萨姆高原"
 },
 "Detwah Lagoon":{
-"hu":"Detwah-lagúna Detwah lagúna Szokotra"
+"hu":"Detwah-lagúna Detwah lagúna Szokotra",
+"de":"Detwah-Lagune",
+"es":"Laguna de Detwah",
+"fr":"Lagune de Detwah",
+"it":"Laguna di Detwah",
+"pl":"Laguna Detwah",
+"ru":"Лагуна Детвах",
+"sk":"Lagúna Detwah",
+"zh":"代特瓦潟湖"
 },
 "Hadibu":{
-"hu":"Hadibu Hadibu Szokotra főváros"
+"hu":"Hadibu Hadibu Szokotra főváros",
+"de":"Hadibu",
+"es":"Hadibu",
+"fr":"Hadibu",
+"it":"Hadibu",
+"pl":"Hadibu",
+"ru":"Хадибу",
+"sk":"Hadibu",
+"zh":"哈迪布"
 },
 "Qalansiyah":{
-"hu":"Qalansiyah Qalansiyah Szokotra part"
+"hu":"Qalansiyah Qalansiyah Szokotra part",
+"de":"Qalansiyah",
+"es":"Qalansiyah",
+"fr":"Qalansiyah",
+"it":"Qalansiyah",
+"pl":"Qalansiyah",
+"ru":"Каланшия",
+"sk":"Qalansiyah",
+"zh":"盖拉尼耶"
 },
 "Persepolis":{
-"hu":"Perszepolisz Perszepolisz Akhaimenida"
+"hu":"Perszepolisz Perszepolisz Akhaimenida",
+"de":"Persepolis",
+"es":"Persépolis",
+"fr":"Persépolis",
+"it":"Persepoli",
+"pl":"Persepolis",
+"ru":"Персеполь",
+"sk":"Persepolis",
+"zh":"波斯波利斯"
 },
 "Naqsh-e Rustam":{
-"hu":"Naqsh-e Rustam Naqsh-e Rustam sziklasír"
+"hu":"Naqsh-e Rustam Naqsh-e Rustam sziklasír",
+"de":"Naqsch-e Rostam",
+"es":"Naqsh-e Rustam",
+"fr":"Naqsh-e Rostam",
+"it":"Naqsh-e Rustam",
+"pl":"Naksz-e Rustam",
+"ru":"Накше-Рустам",
+"sk":"Naqsh-e Rustam",
+"zh":"纳克什·鲁斯塔姆"
 },
 "Pasargadae":{
-"hu":"Pasargadai Pasargadai Küroszsír"
+"hu":"Pasargadai Pasargadai Küroszsír",
+"de":"Pasargadae",
+"es":"Pasargada",
+"fr":"Pasargades",
+"it":"Pasargade",
+"pl":"Pasargady",
+"ru":"Пасаргады",
+"sk":"Pasargady",
+"zh":"帕萨尔加德"
 },
 "Eram Garden":{
-"hu":"Eram-kert Eram kert Shiraz"
+"hu":"Eram-kert Eram kert Shiraz",
+"de":"Eram-Garten",
+"es":"Jardín de Eram",
+"fr":"Jardin d'Eram",
+"it":"Giardino di Eram",
+"pl":"Ogród Eram",
+"ru":"Сад Эрам",
+"sk":"Záhrada Eram",
+"zh":"伊拉姆花园"
 },
 "Khasab Fort":{
-"hu":"Khasab erőd Khasab erőd portugál"
+"hu":"Khasab erőd Khasab erőd portugál",
+"de":"Fort Khasab",
+"es":"Fuerte de Khasab",
+"fr":"Fort de Khasab",
+"it":"Forte di Khasab",
+"pl":"Fort w Chasab",
+"ru":"Форт Хасаб",
+"sk":"Pevnosť Khasab",
+"zh":"哈塞布堡垒"
 },
 "Khor Najd":{
-"hu":"Khor Najd Khor Najd fjord Musandam"
+"hu":"Khor Najd Khor Najd fjord Musandam",
+"de":"Khor Najd",
+"es":"Khor Najd",
+"fr":"Khor Najd",
+"it":"Khor Najd",
+"pl":"Khor Najd",
+"ru":"Хор-Наджд",
+"sk":"Khor Najd",
+"zh":"霍尔纳杰德"
 },
 "Kumzar":{
-"hu":"Kumzar Kumzar falu Musandam"
+"hu":"Kumzar Kumzar falu Musandam",
+"de":"Kumzar",
+"es":"Kumzar",
+"fr":"Kumzar",
+"it":"Kumzar",
+"pl":"Kumzar",
+"ru":"Кумзар",
+"sk":"Kumzar",
+"zh":"库姆扎尔"
 },
 "Jebel Harim":{
-"hu":"Jebel Harim Jebel Harim Musandam hegy"
+"hu":"Jebel Harim Jebel Harim Musandam hegy",
+"de":"Jebel Harim",
+"es":"Jebel Harim",
+"fr":"Jebel Harim",
+"it":"Jebel Harim",
+"pl":"Jebel Harim",
+"ru":"Джебель-Харим",
+"sk":"Jebel Harim",
+"zh":"哈里姆山"
 },
 "K2":{
-"hu":"K2 K2 hegy Karakorum"
+"hu":"K2 K2 hegy Karakorum",
+"de":"K2",
+"es":"K2",
+"fr":"K2",
+"it":"K2",
+"pl":"K2",
+"ru":"К2",
+"sk":"K2",
+"zh":"K2"
 },
 "Baltoro Glacier":{
-"hu":"Baltoro-gleccser Baltoro gleccser Concordia"
+"hu":"Baltoro-gleccser Baltoro gleccser Concordia",
+"de":"Baltoro-Gletscher",
+"es":"Glaciar Baltoro",
+"fr":"Glacier de Baltoro",
+"it":"Ghiacciaio del Baltoro",
+"pl":"Lodowiec Baltoro",
+"ru":"Ледник Балторо",
+"sk":"Ľadovec Baltoro",
+"zh":"巴尔托罗冰川"
 },
 "Deosai Plains":{
-"hu":"Deosai-fennsík Deosai fennsík Pakisztán"
+"hu":"Deosai-fennsík Deosai fennsík Pakisztán",
+"de":"Deosai-Ebene",
+"es":"Llanuras de Deosai",
+"fr":"Plateau de Deosai",
+"it":"Altipiani del Deosai",
+"pl":"Równiny Deosai",
+"ru":"Плато Деосаи",
+"sk":"Planiny Deosai",
+"zh":"代奥赛平原"
 },
 "Nanga Parbat":{
-"hu":"Nanga Parbat Nanga Parbat hegy"
+"hu":"Nanga Parbat Nanga Parbat hegy",
+"de":"Nanga Parbat",
+"es":"Nanga Parbat",
+"fr":"Nanga Parbat",
+"it":"Nanga Parbat",
+"pl":"Nanga Parbat",
+"ru":"Нанга-Парбат",
+"sk":"Nanga Parbat",
+"zh":"南迦帕尔巴特"
 },
 "Cholpon-Ata Petroglyphs":{
-"hu":"Cholpon-Ata sziklarajzai Cholpon-Ata petroglif Issyk-Kul"
+"hu":"Cholpon-Ata sziklarajzai Cholpon-Ata petroglif Issyk-Kul",
+"de":"Petroglyphen von Tscholpon-Ata",
+"es":"Petroglifos de Cholpon-Ata",
+"fr":"Pétroglyphes de Tcholpon-Ata",
+"it":"Petroglifi di Cholpon-Ata",
+"pl":"Petroglify w Czolpon-Ata",
+"ru":"Петроглифы Чолпон-Аты",
+"sk":"Petroglyfy v Čolpon-Ate",
+"zh":"乔尔蓬阿塔岩画"
 },
 "Karakol":{
-"hu":"Karakol Karakol Issyk-Kul város"
+"hu":"Karakol Karakol Issyk-Kul város",
+"de":"Karakol",
+"es":"Karakol",
+"fr":"Karakol",
+"it":"Karakol",
+"pl":"Karakoł",
+"ru":"Каракол",
+"sk":"Karakol",
+"zh":"卡拉科尔"
 },
 "Jeti-Ögüz":{
-"hu":"Jeti-Ögüz Jeti-Oguz hét bika szikla"
+"hu":"Jeti-Ögüz Jeti-Oguz hét bika szikla",
+"de":"Jeti-Ögüz",
+"es":"Jeti-Ögüz",
+"fr":"Jeti-Ögüz",
+"it":"Jeti-Ögüz",
+"pl":"Dżety-Ögüz",
+"ru":"Джеты-Огуз",
+"sk":"Jeti-Ögüz",
+"zh":"七头牛悬崖"
 },
 "Skazka Canyon":{
-"hu":"Skazka-kanyon Skazka kanyon Mesekanyon"
+"hu":"Skazka-kanyon Skazka kanyon Mesekanyon",
+"de":"Skazka-Canyon",
+"es":"Cañón Skazka",
+"fr":"Canyon de Skazka",
+"it":"Canyon Skazka",
+"pl":"Kanion Skazka",
+"ru":"Каньон Сказка",
+"sk":"Kaňon Skazka",
+"zh":"童话峡谷"
 },
 "Hissar Fortress":{
-"hu":"Hisszári erőd Hissar erőd Tádzsikisztán"
+"hu":"Hisszári erőd Hissar erőd Tádzsikisztán",
+"de":"Festung Hissar",
+"es":"Fortaleza de Hissar",
+"fr":"Forteresse de Hissar",
+"it":"Fortezza di Hissar",
+"pl":"Twierdza Hissar",
+"ru":"Крепость Гиссар",
+"sk":"Pevnosť Hissar",
+"zh":"希萨尔要塞"
 },
 "Iskanderkul":{
-"hu":"Iszkanderkul Iskanderkul Nagy Sándor tó"
+"hu":"Iszkanderkul Iskanderkul Nagy Sándor tó",
+"de":"Iskanderkul",
+"es":"Iskanderkul",
+"fr":"Iskanderkoul",
+"it":"Iskanderkul",
+"pl":"Iskanderkul",
+"ru":"Искандеркуль",
+"sk":"Iskanderkul",
+"zh":"伊斯坎德尔湖"
 },
 "Chimtarga":{
-"hu":"Csimtarga Chimtarga csúcs Fan hegység"
+"hu":"Csimtarga Chimtarga csúcs Fan hegység",
+"de":"Chimtarga",
+"es":"Chimtarga",
+"fr":"Chimtarga",
+"it":"Chimtarga",
+"pl":"Czimtarga",
+"ru":"Чимтарга",
+"sk":"Čimtarga",
+"zh":"奇姆塔尔加峰"
 },
 "Arch of Neutrality":{
-"hu":"Semlegesség íve Semlegesség íve Asgabat"
+"hu":"Semlegesség íve Semlegesség íve Asgabat",
+"de":"Neutralitätsbogen",
+"es":"Arco de la Neutralidad",
+"fr":"Arc de la Neutralité",
+"it":"Arco della Neutralità",
+"pl":"Łuk Neutralności",
+"ru":"Арка Нейтралитета",
+"sk":"Oblúk neutrality",
+"zh":"中立拱门"
 },
 "Nisa Fortress":{
-"hu":"Nisa erőd Nisa pártus erőd"
+"hu":"Nisa erőd Nisa pártus erőd",
+"de":"Festung Nisa",
+"es":"Fortaleza de Nisa",
+"fr":"Forteresse de Nisa",
+"it":"Fortezza di Nisa",
+"pl":"Twierdza Nisa",
+"ru":"Крепость Ниса",
+"sk":"Pevnosť Nisa",
+"zh":"尼萨要塞"
 },
 "Darvaza Gas Crater":{
-"hu":"Darvaza gázkráter Darvaza gázkráter Pokol kapuja"
+"hu":"Darvaza gázkráter Darvaza gázkráter Pokol kapuja",
+"de":"Gaskrater von Darwaza",
+"es":"Cráter de gas de Darvaza",
+"fr":"Cratère de gaz de Darvaza",
+"it":"Cratere di gas di Darvaza",
+"pl":"Krater gazowy Darwaza",
+"ru":"Газовый кратер Дарваза",
+"sk":"Plynový kráter Darvaza",
+"zh":"达瓦扎天然气坑"
 },
 "Po-i-Kalyan Ensemble":{
-"hu":"Po-i-Kalyan együttes Kalyan minaret Buhara"
+"hu":"Po-i-Kalyan együttes Kalyan minaret Buhara",
+"de":"Ensemble Poi Kalon",
+"es":"Conjunto de Po-i-Kalyan",
+"fr":"Ensemble Poi Kalon",
+"it":"Complesso di Po-i-Kalyan",
+"pl":"Zespół Po-i-Kalan",
+"ru":"Ансамбль Пои-Калян",
+"sk":"Súbor Po-i-Kalyan",
+"zh":"卡良建筑群"
 },
 "Gijduvan":{
-"hu":"Gijduvan Gijduvan fazekas medresze"
+"hu":"Gijduvan Gijduvan fazekas medresze",
+"de":"Gijduwan",
+"es":"Gijduvan",
+"fr":"Gijduvan",
+"it":"Gijduvan",
+"pl":"Gidżduwan",
+"ru":"Гиждуван",
+"sk":"Gidžduvan",
+"zh":"吉日杜万"
 },
 "Shakhrisabz":{
-"hu":"Sahrisabz Shahrisabz Ak-Saray Timur"
+"hu":"Sahrisabz Shahrisabz Ak-Saray Timur",
+"de":"Schahrisabz",
+"es":"Shakhrisabz",
+"fr":"Chakhrisabz",
+"it":"Shakhrisabz",
+"pl":"Szahrisabz",
+"ru":"Шахрисабз",
+"sk":"Šachrisabz",
+"zh":"沙赫里萨布兹"
 },
 "Chemal":{
-"hu":"Csemal Csemal Katun folyó Altaj"
+"hu":"Csemal Csemal Katun folyó Altaj",
+"de":"Tschemal",
+"es":"Chemal",
+"fr":"Tchemal",
+"it":"Chemal",
+"pl":"Czemał",
+"ru":"Чемал",
+"sk":"Čemal",
+"zh":"切马尔"
 },
 "Lake Teletskoye":{
-"hu":"Teleckoje-tó Teletskoye tó Altaj"
+"hu":"Teleckoje-tó Teletskoye tó Altaj",
+"de":"Teletskoje-See",
+"es":"Lago Teletskoye",
+"fr":"Lac Teletskoïe",
+"it":"Lago Teletskoye",
+"pl":"Jezioro Teleckie",
+"ru":"Телецкое озеро",
+"sk":"Teleckoje jazero",
+"zh":"捷列茨科耶湖"
 },
 "Mount Belukha":{
-"hu":"Belukha-hegy Belukha hegy Altaj"
+"hu":"Belukha-hegy Belukha hegy Altaj",
+"de":"Belucha",
+"es":"Monte Belujá",
+"fr":"Mont Beloukha",
+"it":"Monte Belucha",
+"pl":"Góra Bełucha",
+"ru":"Гора Белуха",
+"sk":"Hora Bieluchá",
+"zh":"别卢哈山"
 },
 "Seminsky Pass":{
-"hu":"Szeminszkij-hágó Seminsky hágó Altaj"
+"hu":"Szeminszkij-hágó Seminsky hágó Altaj",
+"de":"Seminski-Pass",
+"es":"Paso de Seminsky",
+"fr":"Col de Seminsky",
+"it":"Passo Seminsky",
+"pl":"Przełęcz Siemińska",
+"ru":"Семинский перевал",
+"sk":"Priesmyk Seminskij",
+"zh":"谢明斯基山口"
 },
 "Potala Palace":{
-"hu":"Potala-palota Potala palota Lhásza"
+"hu":"Potala-palota Potala palota Lhásza",
+"de":"Potala-Palast",
+"es":"Palacio de Potala",
+"fr":"Palais du Potala",
+"it":"Palazzo del Potala",
+"pl":"Pałac Potala",
+"ru":"Дворец Потала",
+"sk":"Palác Potala",
+"zh":"布达拉宫"
 },
 "Drepung Monastery":{
-"hu":"Drepung kolostor Drepung kolostor Lhásza"
+"hu":"Drepung kolostor Drepung kolostor Lhásza",
+"de":"Kloster Drepung",
+"es":"Monasterio de Drepung",
+"fr":"Monastère de Drepung",
+"it":"Monastero di Drepung",
+"pl":"Klasztor Drepung",
+"ru":"Монастырь Дрепунг",
+"sk":"Kláštor Drepung",
+"zh":"哲蚌寺"
 },
 "Samye Monastery":{
-"hu":"Samye kolostor Samye kolostor Tibet"
+"hu":"Samye kolostor Samye kolostor Tibet",
+"de":"Kloster Samye",
+"es":"Monasterio de Samye",
+"fr":"Monastère de Samye",
+"it":"Monastero di Samye",
+"pl":"Klasztor Samye",
+"ru":"Монастырь Самъе",
+"sk":"Kláštor Samje",
+"zh":"桑耶寺"
 },
 "Yamdrok Lake":{
-"hu":"Yamdrok-tó Yamdrok tó Tibet"
+"hu":"Yamdrok-tó Yamdrok tó Tibet",
+"de":"Yamdrok-See",
+"es":"Lago Yamdrok",
+"fr":"Lac Yamdrok",
+"it":"Lago Yamdrok",
+"pl":"Jezioro Yamdrok",
+"ru":"Озеро Ямдрок",
+"sk":"Jazero Jamdrok",
+"zh":"羊卓雍措"
 },
 "Mount Phousi":{
-"hu":"Phousi-hegy Phousi hegy Luang Prabang"
+"hu":"Phousi-hegy Phousi hegy Luang Prabang",
+"de":"Phousi",
+"es":"Monte Phousi",
+"fr":"Mont Phousi",
+"it":"Monte Phousi",
+"pl":"Góra Phousi",
+"ru":"Гора Пхуси",
+"sk":"Hora Phousi",
+"zh":"普西山"
 },
 "Pak Ou Caves":{
-"hu":"Pak Ou barlangok Pak Ou barlang Buddha Mekong"
+"hu":"Pak Ou barlangok Pak Ou barlang Buddha Mekong",
+"de":"Pak-Ou-Höhlen",
+"es":"Cuevas de Pak Ou",
+"fr":"Grottes de Pak Ou",
+"it":"Grotte di Pak Ou",
+"pl":"Jaskinie Pak Ou",
+"ru":"Пещеры Пакоу",
+"sk":"Jaskyne Pak Ou",
+"zh":"巴乌洞"
 },
 "Kuang Si Falls":{
-"hu":"Kuang Si-vízesés Kuang Si vízesés türkiz"
+"hu":"Kuang Si-vízesés Kuang Si vízesés türkiz",
+"de":"Kuang-Si-Wasserfälle",
+"es":"Cataratas de Kuang Si",
+"fr":"Chutes de Kuang Si",
+"it":"Cascate di Kuang Si",
+"pl":"Wodospady Kuang Si",
+"ru":"Водопады Куангси",
+"sk":"Vodopády Kuang Si",
+"zh":"光西瀑布"
 },
 "Pindaya Caves":{
-"hu":"Pindaya barlangok Pindaya barlang Buddha"
+"hu":"Pindaya barlangok Pindaya barlang Buddha",
+"de":"Pindaya-Höhlen",
+"es":"Cuevas de Pindaya",
+"fr":"Grottes de Pindaya",
+"it":"Grotte di Pindaya",
+"pl":"Jaskinie Pindaya",
+"ru":"Пещеры Пиндайя",
+"sk":"Jaskyne Pindaya",
+"zh":"平达雅洞窟"
 },
 "Inle Lake":{
-"hu":"Inle-tó Inle tó lebegő kert halász"
+"hu":"Inle-tó Inle tó lebegő kert halász",
+"de":"Inle-See",
+"es":"Lago Inle",
+"fr":"Lac Inle",
+"it":"Lago Inle",
+"pl":"Jezioro Inle",
+"ru":"Озеро Инле",
+"sk":"Jazero Inle",
+"zh":"茵莱湖"
 },
 "Indein Pagodas":{
-"hu":"Indein pagodák Indein pagoda erdő"
+"hu":"Indein pagodák Indein pagoda erdő",
+"de":"Pagoden von Indein",
+"es":"Pagodas de Indein",
+"fr":"Pagodes d'Indein",
+"it":"Pagode di Indein",
+"pl":"Pagody Indein",
+"ru":"Пагоды Индейна",
+"sk":"Pagody v Indeine",
+"zh":"因丹佛塔群"
 },
 "Samosir Island":{
-"hu":"Samosir-sziget Samosir sziget Toba batak"
+"hu":"Samosir-sziget Samosir sziget Toba batak",
+"de":"Insel Samosir",
+"es":"Isla de Samosir",
+"fr":"Île de Samosir",
+"it":"Isola di Samosir",
+"pl":"Wyspa Samosir",
+"ru":"Остров Самосир",
+"sk":"Ostrov Samosir",
+"zh":"萨摩西岛"
 },
 "Sipiso-piso Waterfall":{
-"hu":"Sipiso-piso vízesés Sipiso-piso vízesés"
+"hu":"Sipiso-piso vízesés Sipiso-piso vízesés",
+"de":"Sipiso-piso-Wasserfall",
+"es":"Cascada de Sipiso-piso",
+"fr":"Cascade de Sipiso-piso",
+"it":"Cascata di Sipiso-piso",
+"pl":"Wodospad Sipiso-piso",
+"ru":"Водопад Сиписо-писо",
+"sk":"Vodopád Sipiso-piso",
+"zh":"西皮索皮索瀑布"
 },
 "Mount Sinabung":{
-"hu":"Sinabung-vulkán Sinabung vulkán Szumátra"
+"hu":"Sinabung-vulkán Sinabung vulkán Szumátra",
+"de":"Sinabung",
+"es":"Monte Sinabung",
+"fr":"Mont Sinabung",
+"it":"Monte Sinabung",
+"pl":"Góra Sinabung",
+"ru":"Вулкан Синабунг",
+"sk":"Sopka Sinabung",
+"zh":"锡纳朋火山"
 },
 "White Beach Boracay":{
-"hu":"Boracay White Beach Boracay White Beach homok"
+"hu":"Boracay White Beach Boracay White Beach homok",
+"de":"White Beach auf Boracay",
+"es":"Playa Blanca de Boracay",
+"fr":"White Beach de Boracay",
+"it":"White Beach di Boracay",
+"pl":"White Beach na Boracay",
+"ru":"Уайт-Бич, Боракай",
+"sk":"Biela pláž na Boracayi",
+"zh":"长滩岛白沙滩"
 },
 "Puka Shell Beach":{
-"hu":"Puka Shell-part Puka Shell Beach Boracay"
+"hu":"Puka Shell-part Puka Shell Beach Boracay",
+"de":"Puka Shell Beach",
+"es":"Playa Puka Shell",
+"fr":"Puka Shell Beach",
+"it":"Puka Shell Beach",
+"pl":"Puka Shell Beach",
+"ru":"Пляж Пука-Шелл",
+"sk":"Pláž Puka Shell",
+"zh":"普卡贝壳海滩"
 },
 "Kalibo":{
-"hu":"Kalibo Kalibo Panay Ati-Atihan"
+"hu":"Kalibo Kalibo Panay Ati-Atihan",
+"de":"Kalibo",
+"es":"Kalibo",
+"fr":"Kalibo",
+"it":"Kalibo",
+"pl":"Kalibo",
+"ru":"Калибо",
+"sk":"Kalibo",
+"zh":"卡利博"
 },
 "Mount Madja-as":{
-"hu":"Madja-as-hegy Madja-as hegy Panay"
+"hu":"Madja-as-hegy Madja-as hegy Panay",
+"de":"Mount Madja-as",
+"es":"Monte Madja-as",
+"fr":"Mont Madja-as",
+"it":"Monte Madja-as",
+"pl":"Góra Madja-as",
+"ru":"Гора Мадьяас",
+"sk":"Hora Madja-as",
+"zh":"马贾阿斯山"
 },
 "Alona Beach":{
-"hu":"Alona Beach Alona Beach Panglao strand"
+"hu":"Alona Beach Alona Beach Panglao strand",
+"de":"Alona Beach",
+"es":"Playa de Alona",
+"fr":"Plage d'Alona",
+"it":"Alona Beach",
+"pl":"Plaża Alona",
+"ru":"Пляж Алона",
+"sk":"Pláž Alona",
+"zh":"阿罗纳海滩"
 },
 "Tarsier Sanctuary":{
-"hu":"Tarzier-rezervátum Corella tarsier Bohol"
+"hu":"Tarzier-rezervátum Corella tarsier Bohol",
+"de":"Koboldmaki-Schutzgebiet",
+"es":"Santuario de társeros",
+"fr":"Sanctuaire des tarsiers",
+"it":"Santuario dei tarsi",
+"pl":"Rezerwat wyraków",
+"ru":"Заповедник долгопятов",
+"sk":"Rezervácia nártounov",
+"zh":"眼镜猴保护区"
 },
 "Chocolate Hills":{
-"hu":"Chocolate Hills Chocolate Hills Bohol csokoládé dombok"
+"hu":"Chocolate Hills Chocolate Hills Bohol csokoládé dombok",
+"de":"Chocolate Hills",
+"es":"Colinas de Chocolate",
+"fr":"Collines de Chocolat",
+"it":"Colline di Cioccolato",
+"pl":"Czekoladowe Wzgórza",
+"ru":"Шоколадные холмы",
+"sk":"Čokoládové vrchy",
+"zh":"巧克力山"
 },
 "Loboc River":{
-"hu":"Loboc-folyó Loboc folyó Bohol"
+"hu":"Loboc-folyó Loboc folyó Bohol",
+"de":"Loboc-Fluss",
+"es":"Río Loboc",
+"fr":"Rivière Loboc",
+"it":"Fiume Loboc",
+"pl":"Rzeka Loboc",
+"ru":"Река Лобок",
+"sk":"Rieka Loboc",
+"zh":"洛博克河"
 },
 "Balicasag Island":{
-"hu":"Balicasag-sziget Balicasag sziget búvár"
+"hu":"Balicasag-sziget Balicasag sziget búvár",
+"de":"Insel Balicasag",
+"es":"Isla de Balicasag",
+"fr":"Île de Balicasag",
+"it":"Isola di Balicasag",
+"pl":"Wyspa Balicasag",
+"ru":"Остров Баликасаг",
+"sk":"Ostrov Balicasag",
+"zh":"巴利卡萨格岛"
 },
 "Lijiang Old Town":{
-"hu":"Lijiang óvárosa Lijiang óváros Naxi"
+"hu":"Lijiang óvárosa Lijiang óváros Naxi",
+"de":"Altstadt von Lijiang",
+"es":"Ciudad vieja de Lijiang",
+"fr":"Vieille ville de Lijiang",
+"it":"Città vecchia di Lijiang",
+"pl":"Stare miasto Lijiang",
+"ru":"Старый город Лицзян",
+"sk":"Staré mesto Lijiang",
+"zh":"丽江古城"
 },
 "Jade Dragon Snow Mountain":{
-"hu":"Jádesárkány-hegy Jade Dragon hegy Lijiang"
+"hu":"Jádesárkány-hegy Jade Dragon hegy Lijiang",
+"de":"Jadedrachen-Schneeberg",
+"es":"Montaña Nevada del Dragón de Jade",
+"fr":"Montagne enneigée du Dragon de Jade",
+"it":"Montagna Innevata del Drago di Giada",
+"pl":"Góra Smoczego Jadeitu",
+"ru":"Гора Нефритового дракона",
+"sk":"Hora Nefritového draka",
+"zh":"玉龙雪山"
 },
 "Tiger Leaping Gorge":{
-"hu":"Tigrisugrás-szurdok Tigrisugrás szurdok Jangce"
+"hu":"Tigrisugrás-szurdok Tigrisugrás szurdok Jangce",
+"de":"Tigersprungschlucht",
+"es":"Garganta del Salto del Tigre",
+"fr":"Gorges du Saut du Tigre",
+"it":"Gola del Salto della Tigre",
+"pl":"Wąwóz Skaczącego Tygrysa",
+"ru":"Ущелье Прыгающего тигра",
+"sk":"Roklina skákajúceho tigra",
+"zh":"虎跳峡"
 },
 "Lugu Lake":{
-"hu":"Lugu-tó Lugu tó Mosuo"
+"hu":"Lugu-tó Lugu tó Mosuo",
+"de":"Lugu-See",
+"es":"Lago Lugu",
+"fr":"Lac Lugu",
+"it":"Lago Lugu",
+"pl":"Jezioro Lugu",
+"ru":"Озеро Лугу",
+"sk":"Jazero Lugu",
+"zh":"泸沽湖"
 },
 "Darjeeling":{
-"hu":"Dardzsiling Darjeeling teaültetvény hegyi vasút"
+"hu":"Dardzsiling Darjeeling teaültetvény hegyi vasút",
+"de":"Darjeeling",
+"es":"Darjeeling",
+"fr":"Darjeeling",
+"it":"Darjeeling",
+"pl":"Dardżyling",
+"ru":"Дарджилинг",
+"sk":"Dardžiling",
+"zh":"大吉岭"
 },
 "Gangtok":{
-"hu":"Gangtok Gangtok Szikkim főváros"
+"hu":"Gangtok Gangtok Szikkim főváros",
+"de":"Gangtok",
+"es":"Gangtok",
+"fr":"Gangtok",
+"it":"Gangtok",
+"pl":"Gangtok",
+"ru":"Гангток",
+"sk":"Gangtok",
+"zh":"甘托克"
 },
 "Kangchenjunga":{
-"hu":"Kancsendzönga Kancsendzönga hegy"
+"hu":"Kancsendzönga Kancsendzönga hegy",
+"de":"Kangchendzönga",
+"es":"Kangchenjunga",
+"fr":"Kangchenjunga",
+"it":"Kangchenjunga",
+"pl":"Kanczendzonga",
+"ru":"Канченджанга",
+"sk":"Kančendžonga",
+"zh":"干城章嘉峰"
 },
 "Tallinn Old Town":{
-"hu":"Tallinn óvárosa Tallinn óváros középkori"
+"hu":"Tallinn óvárosa Tallinn óváros középkori",
+"de":"Altstadt von Tallinn",
+"es":"Casco antiguo de Tallin",
+"fr":"Vieille ville de Tallinn",
+"it":"Città vecchia di Tallinn",
+"pl":"Stare Miasto w Tallinie",
+"ru":"Старый город Таллина",
+"sk":"Staré mesto v Tallinne",
+"zh":"塔林老城"
 },
 "Haapsalu":{
-"hu":"Haapsalu Haapsalu vár Észtország"
+"hu":"Haapsalu Haapsalu vár Észtország",
+"de":"Haapsalu",
+"es":"Haapsalu",
+"fr":"Haapsalu",
+"it":"Haapsalu",
+"pl":"Haapsalu",
+"ru":"Хаапсалу",
+"sk":"Haapsalu",
+"zh":"哈普萨卢"
 },
 "Kuressaare Castle":{
-"hu":"Kuressaare vára Kuressaare vár Saaremaa"
+"hu":"Kuressaare vára Kuressaare vár Saaremaa",
+"de":"Burg Kuressaare",
+"es":"Castillo de Kuressaare",
+"fr":"Château de Kuressaare",
+"it":"Castello di Kuressaare",
+"pl":"Zamek w Kuressaare",
+"ru":"Замок Курессааре",
+"sk":"Hrad Kuressaare",
+"zh":"库雷萨雷城堡"
 },
 "Kaali Crater":{
-"hu":"Kaali-kráter Kaali meteorit kráter"
+"hu":"Kaali-kráter Kaali meteorit kráter",
+"de":"Kaali-Krater",
+"es":"Cráter de Kaali",
+"fr":"Cratère de Kaali",
+"it":"Cratere di Kaali",
+"pl":"Krater Kaali",
+"ru":"Кратер Каали",
+"sk":"Kráter Kaali",
+"zh":"卡利陨石坑"
 },
 "Church of St. John at Kaneo":{
-"hu":"Kaneói Szent János-templom Kaneo templom Ohrid"
+"hu":"Kaneói Szent János-templom Kaneo templom Ohrid",
+"de":"Kirche des heiligen Johannes in Kaneo",
+"es":"Iglesia de San Juan en Kaneo",
+"fr":"Église Saint-Jean de Kaneo",
+"it":"Chiesa di San Giovanni a Kaneo",
+"pl":"Cerkiew św. Jana w Kaneo",
+"ru":"Церковь Святого Иоанна в Канео",
+"sk":"Kostol svätého Jána v Kaneu",
+"zh":"卡内奥的圣约翰教堂"
 },
 "Saint Naum Monastery":{
-"hu":"Szent Naum-kolostor Szent Naum kolostor Ohrid"
+"hu":"Szent Naum-kolostor Szent Naum kolostor Ohrid",
+"de":"Kloster des heiligen Naum",
+"es":"Monasterio de San Naum",
+"fr":"Monastère Saint-Naum",
+"it":"Monastero di San Naum",
+"pl":"Monaster św. Nauma",
+"ru":"Монастырь Святого Наума",
+"sk":"Kláštor svätého Nauma",
+"zh":"圣纳姆修道院"
 },
 "Galičica":{
-"hu":"Galicsica Galicsica hegy Ohrid Prespa"
+"hu":"Galicsica Galicsica hegy Ohrid Prespa",
+"de":"Galičica",
+"es":"Galičica",
+"fr":"Galičica",
+"it":"Galičica",
+"pl":"Galiczica",
+"ru":"Галичица",
+"sk":"Galičica",
+"zh":"加利契察山"
 },
 "Lake Prespa":{
-"hu":"Prespa-tó Prespa tó Macedónia"
+"hu":"Prespa-tó Prespa tó Macedónia",
+"de":"Prespasee",
+"es":"Lago Prespa",
+"fr":"Lac de Prespa",
+"it":"Lago di Prespa",
+"pl":"Jezioro Prespa",
+"ru":"Преспанское озеро",
+"sk":"Prespianske jazero",
+"zh":"普雷斯帕湖"
 },
 "Covadonga Lakes":{
-"hu":"Covadonga-tavak Covadonga tavak Enol Ercina"
+"hu":"Covadonga-tavak Covadonga tavak Enol Ercina",
+"de":"Seen von Covadonga",
+"es":"Lagos de Covadonga",
+"fr":"Lacs de Covadonga",
+"it":"Laghi di Covadonga",
+"pl":"Jeziora Covadonga",
+"ru":"Озёра Ковадонга",
+"sk":"Jazerá Covadonga",
+"zh":"科瓦东加湖"
 },
 "Naranjo de Bulnes":{
-"hu":"Naranjo de Bulnes Naranjo de Bulnes Picos de Europa"
+"hu":"Naranjo de Bulnes Naranjo de Bulnes Picos de Europa",
+"de":"Naranjo de Bulnes",
+"es":"Naranjo de Bulnes",
+"fr":"Naranjo de Bulnes",
+"it":"Naranjo de Bulnes",
+"pl":"Naranjo de Bulnes",
+"ru":"Наранхо-де-Бульнес",
+"sk":"Naranjo de Bulnes",
+"zh":"纳兰霍·德·布尔内斯峰"
 },
 "Santa María del Naranco":{
-"hu":"Santa María del Naranco Naranco templom Oviedo"
+"hu":"Santa María del Naranco Naranco templom Oviedo",
+"de":"Santa María del Naranco",
+"es":"Santa María del Naranco",
+"fr":"Santa María del Naranco",
+"it":"Santa María del Naranco",
+"pl":"Santa María del Naranco",
+"ru":"Санта-Мария-дель-Наранко",
+"sk":"Santa María del Naranco",
+"zh":"纳兰科圣母教堂"
 },
 "Cape Peñas":{
-"hu":"Peñas-fok Cabo Penas világítótorony"
+"hu":"Peñas-fok Cabo Penas világítótorony",
+"de":"Kap Peñas",
+"es":"Cabo de Peñas",
+"fr":"Cap Peñas",
+"it":"Capo Peñas",
+"pl":"Przylądek Peñas",
+"ru":"Мыс Пеньяс",
+"sk":"Mys Peñas",
+"zh":"佩尼亚斯角"
 },
 "Myrtos Beach":{
-"hu":"Mirtosz-part Myrtos strand Kefalonia"
+"hu":"Mirtosz-part Myrtos strand Kefalonia",
+"de":"Myrtos-Strand",
+"es":"Playa de Myrtos",
+"fr":"Plage de Myrtos",
+"it":"Spiaggia di Myrtos",
+"pl":"Plaża Myrtos",
+"ru":"Пляж Миртос",
+"sk":"Pláž Myrtos",
+"zh":"米尔托斯海滩"
 },
 "Fiscardo":{
-"hu":"Fiskardo Fiskardo kikötő Kefalonia"
+"hu":"Fiskardo Fiskardo kikötő Kefalonia",
+"de":"Fiskardo",
+"es":"Fiscardo",
+"fr":"Fiscardo",
+"it":"Fiscardo",
+"pl":"Fiskardo",
+"ru":"Фискардо",
+"sk":"Fiskardo",
+"zh":"菲斯卡多"
 },
 "Ithaca":{
-"hu":"Ithaka Ithaka sziget Odüsszeusz"
+"hu":"Ithaka Ithaka sziget Odüsszeusz",
+"de":"Ithaka",
+"es":"Ítaca",
+"fr":"Ithaque",
+"it":"Itaca",
+"pl":"Itaka",
+"ru":"Итака",
+"sk":"Ithaka",
+"zh":"伊萨卡岛"
 },
 "Navagio Beach":{
-"hu":"Navagio-part Navagio hajóroncs strand Zakynthos"
+"hu":"Navagio-part Navagio hajóroncs strand Zakynthos",
+"de":"Navagio-Strand",
+"es":"Playa de Navagio",
+"fr":"Plage de Navagio",
+"it":"Spiaggia di Navagio",
+"pl":"Plaża Navagio",
+"ru":"Пляж Навагио",
+"sk":"Pláž Navagio",
+"zh":"纳瓦吉奥海滩"
 },
 "White Tower of Thessaloniki":{
-"hu":"Thesszaloniki Fehér Torony Fehér Torony Thesszaloniki"
+"hu":"Thesszaloniki Fehér Torony Fehér Torony Thesszaloniki",
+"de":"Weißer Turm von Thessaloniki",
+"es":"Torre Blanca de Tesalónica",
+"fr":"Tour Blanche de Thessalonique",
+"it":"Torre Bianca di Salonicco",
+"pl":"Biała Wieża w Salonikach",
+"ru":"Белая башня в Салониках",
+"sk":"Biela veža v Solúne",
+"zh":"塞萨洛尼基白塔"
 },
 "Kassandra":{
-"hu":"Kasszandra Kasszandra félsziget Halkidiki"
+"hu":"Kasszandra Kasszandra félsziget Halkidiki",
+"de":"Kassandra",
+"es":"Kasandra",
+"fr":"Cassandra",
+"it":"Cassandra",
+"pl":"Kasandra",
+"ru":"Кассандра",
+"sk":"Kassandra",
+"zh":"卡桑德拉"
 },
 "Sithonia":{
-"hu":"Szithónia Szithónia Halkidiki félsziget"
+"hu":"Szithónia Szithónia Halkidiki félsziget",
+"de":"Sithonia",
+"es":"Sitonia",
+"fr":"Sithonie",
+"it":"Sitonia",
+"pl":"Sitonia",
+"ru":"Ситония",
+"sk":"Sithónia",
+"zh":"锡索尼亚"
 },
 "Mount Athos":{
-"hu":"Athosz-hegy Athosz szent hegy kolostor"
+"hu":"Athosz-hegy Athosz szent hegy kolostor",
+"de":"Berg Athos",
+"es":"Monte Athos",
+"fr":"Mont Athos",
+"it":"Monte Athos",
+"pl":"Góra Athos",
+"ru":"Гора Афон",
+"sk":"Athos",
+"zh":"阿索斯山"
 },
 "Sumela Monastery":{
-"hu":"Sumela-kolostor Sumela kolostor szikla Trabzon"
+"hu":"Sumela-kolostor Sumela kolostor szikla Trabzon",
+"de":"Kloster Sumela",
+"es":"Monasterio de Sumela",
+"fr":"Monastère de Sumela",
+"it":"Monastero di Sumela",
+"pl":"Klasztor Sümela",
+"ru":"Монастырь Сумела",
+"sk":"Kláštor Sumela",
+"zh":"苏美拉修道院"
 },
 "Uzungöl":{
-"hu":"Uzungöl Uzungöl tó Rize"
+"hu":"Uzungöl Uzungöl tó Rize",
+"de":"Uzungöl",
+"es":"Uzungöl",
+"fr":"Uzungöl",
+"it":"Uzungöl",
+"pl":"Uzungöl",
+"ru":"Узунгёль",
+"sk":"Uzungöl",
+"zh":"乌尊戈尔"
 },
 "Kaçkar Mountains":{
-"hu":"Kaçkar-hegység Kaçkar hegység Ayder"
+"hu":"Kaçkar-hegység Kaçkar hegység Ayder",
+"de":"Kaçkar-Gebirge",
+"es":"Montes Kaçkar",
+"fr":"Monts Kaçkar",
+"it":"Monti Kaçkar",
+"pl":"Góry Kaczkar",
+"ru":"Горы Качкар",
+"sk":"Pohorie Kaçkar",
+"zh":"卡奇卡尔山脉"
 },
 "Trabzon Hagia Sophia":{
-"hu":"Trabzoni Hagia Sophia Hagia Sophia Trabzon"
+"hu":"Trabzoni Hagia Sophia Hagia Sophia Trabzon",
+"de":"Hagia Sophia von Trabzon",
+"es":"Santa Sofía de Trebisonda",
+"fr":"Sainte-Sophie de Trébizonde",
+"it":"Santa Sofia di Trebisonda",
+"pl":"Hagia Sophia w Trabzonie",
+"ru":"Трабзонская Айя-София",
+"sk":"Hagia Sofia v Trabzone",
+"zh":"特拉布宗圣索菲亚教堂"
 },
 "Puy de Dôme":{
-"hu":"Puy de Dôme Puy de Dome vulkán Auvergne"
+"hu":"Puy de Dôme Puy de Dome vulkán Auvergne",
+"de":"Puy de Dôme",
+"es":"Puy de Dôme",
+"fr":"Puy de Dôme",
+"it":"Puy de Dôme",
+"pl":"Puy de Dôme",
+"ru":"Пюи-де-Дом",
+"sk":"Puy de Dôme",
+"zh":"多姆山"
 },
 "Puy de Sancy":{
-"hu":"Puy de Sancy Puy de Sancy Mont-Dore"
+"hu":"Puy de Sancy Puy de Sancy Mont-Dore",
+"de":"Puy de Sancy",
+"es":"Puy de Sancy",
+"fr":"Puy de Sancy",
+"it":"Puy de Sancy",
+"pl":"Puy de Sancy",
+"ru":"Пюи-де-Санси",
+"sk":"Puy de Sancy",
+"zh":"桑西山"
 },
 "Lac Pavin":{
-"hu":"Pavin-tó Lac Pavin kráter tó"
+"hu":"Pavin-tó Lac Pavin kráter tó",
+"de":"Lac Pavin",
+"es":"Lac Pavin",
+"fr":"Lac Pavin",
+"it":"Lac Pavin",
+"pl":"Lac Pavin",
+"ru":"Озеро Павен",
+"sk":"Lac Pavin",
+"zh":"帕万湖"
 },
 "Puy Mary":{
-"hu":"Puy Mary Puy Mary vulkán Cantal"
+"hu":"Puy Mary Puy Mary vulkán Cantal",
+"de":"Puy Mary",
+"es":"Puy Mary",
+"fr":"Puy Mary",
+"it":"Puy Mary",
+"pl":"Puy Mary",
+"ru":"Пюи-Мари",
+"sk":"Puy Mary",
+"zh":"玛丽山"
 },
 "Tulcea":{
-"hu":"Tulcea Tulcea Duna delta kapuja"
+"hu":"Tulcea Tulcea Duna delta kapuja",
+"de":"Tulcea",
+"es":"Tulcea",
+"fr":"Tulcea",
+"it":"Tulcea",
+"pl":"Tulcza",
+"ru":"Тулча",
+"sk":"Tulcea",
+"zh":"图尔恰"
 },
 "Sulina":{
-"hu":"Sulina Sulina Duna torkolat"
+"hu":"Sulina Sulina Duna torkolat",
+"de":"Sulina",
+"es":"Sulina",
+"fr":"Sulina",
+"it":"Sulina",
+"pl":"Sulina",
+"ru":"Сулина",
+"sk":"Sulina",
+"zh":"苏利纳"
 },
 "Letea Forest":{
-"hu":"Letea-erdő Letea erdő liána delta"
+"hu":"Letea-erdő Letea erdő liána delta",
+"de":"Wald von Letea",
+"es":"Bosque de Letea",
+"fr":"Forêt de Letea",
+"it":"Foresta di Letea",
+"pl":"Las Letea",
+"ru":"Лес Летея",
+"sk":"Les Letea",
+"zh":"莱特亚森林"
 },
 "Sfântu Gheorghe":{
-"hu":"Szent György Sfantu Gheorghe delta"
+"hu":"Szent György Sfantu Gheorghe delta",
+"de":"Sfântu Gheorghe",
+"es":"Sfântu Gheorghe",
+"fr":"Sfântu Gheorghe",
+"it":"Sfântu Gheorghe",
+"pl":"Sfântu Gheorghe",
+"ru":"Сфынту-Георге",
+"sk":"Sfântu Gheorghe",
+"zh":"圣格奥尔基"
 },
 "Capelinhos Volcano":{
-"hu":"Capelinhos-vulkán Capelinhos vulkán Faial"
+"hu":"Capelinhos-vulkán Capelinhos vulkán Faial",
+"de":"Vulkan Capelinhos",
+"es":"Volcán de Capelinhos",
+"fr":"Volcan de Capelinhos",
+"it":"Vulcano Capelinhos",
+"pl":"Wulkan Capelinhos",
+"ru":"Вулкан Капелиньюш",
+"sk":"Sopka Capelinhos",
+"zh":"卡佩利尼奥斯火山"
 },
 "Caldeira do Faial":{
-"hu":"Faial kaldera Caldeira Faial kráter"
+"hu":"Faial kaldera Caldeira Faial kráter",
+"de":"Caldeira do Faial",
+"es":"Caldeira do Faial",
+"fr":"Caldeira de Faial",
+"it":"Caldeira do Faial",
+"pl":"Caldeira do Faial",
+"ru":"Калдейра-ду-Фаял",
+"sk":"Caldeira do Faial",
+"zh":"法亚尔火山口"
 },
 "Mount Pico":{
-"hu":"Pico-hegy Pico hegy Azori"
+"hu":"Pico-hegy Pico hegy Azori",
+"de":"Berg Pico",
+"es":"Monte Pico",
+"fr":"Mont Pico",
+"it":"Monte Pico",
+"pl":"Góra Pico",
+"ru":"Гора Пику",
+"sk":"Hora Pico",
+"zh":"皮库山"
 },
 "Pico Vineyard Culture":{
-"hu":"Pico szőlőkultúra Pico szőlő lávakő unesco"
+"hu":"Pico szőlőkultúra Pico szőlő lávakő unesco",
+"de":"Weinbaukultur auf Pico",
+"es":"Cultura del viñedo de Pico",
+"fr":"Culture viticole de Pico",
+"it":"Cultura vitivinicola dell'isola di Pico",
+"pl":"Kultura winiarska na Pico",
+"ru":"Культура виноградарства на Пику",
+"sk":"Vinohradnícka kultúra na Picu",
+"zh":"皮库葡萄园文化景观"
 },
 "Mendenhall Glacier":{
-"hu":"Mendenhall-gleccser Mendenhall gleccser Juneau"
+"hu":"Mendenhall-gleccser Mendenhall gleccser Juneau",
+"de":"Mendenhall-Gletscher",
+"es":"Glaciar Mendenhall",
+"fr":"Glacier Mendenhall",
+"it":"Ghiacciaio Mendenhall",
+"pl":"Lodowiec Mendenhall",
+"ru":"Ледник Менденхолл",
+"sk":"Ľadovec Mendenhall",
+"zh":"门登霍尔冰川"
 },
 "Tracy Arm Fjord":{
-"hu":"Tracy Arm fjord Tracy Arm fjord Sawyer gleccser"
+"hu":"Tracy Arm fjord Tracy Arm fjord Sawyer gleccser",
+"de":"Tracy-Arm-Fjord",
+"es":"Fiordo de Tracy Arm",
+"fr":"Fjord de Tracy Arm",
+"it":"Fiordo di Tracy Arm",
+"pl":"Fiord Tracy Arm",
+"ru":"Фьорд Трейси-Арм",
+"sk":"Fjord Tracy Arm",
+"zh":"特蕾西峡湾"
 },
 "Eldred Rock Lighthouse":{
-"hu":"Eldred Rock világítótorony Eldred Rock világítótorony Lynn Canal"
+"hu":"Eldred Rock világítótorony Eldred Rock világítótorony Lynn Canal",
+"de":"Leuchtturm von Eldred Rock",
+"es":"Faro de Eldred Rock",
+"fr":"Phare d'Eldred Rock",
+"it":"Faro di Eldred Rock",
+"pl":"Latarnia morska Eldred Rock",
+"ru":"Маяк Элдред-Рок",
+"sk":"Maják Eldred Rock",
+"zh":"埃尔德雷德岩灯塔"
 },
 "Haines":{
-"hu":"Haines Haines Alaszka Chilkat"
+"hu":"Haines Haines Alaszka Chilkat",
+"de":"Haines",
+"es":"Haines",
+"fr":"Haines",
+"it":"Haines",
+"pl":"Haines",
+"ru":"Хейнс",
+"sk":"Haines",
+"zh":"黑恩斯"
 },
 "Stocking Island":{
-"hu":"Stocking-sziget Stocking Island Exuma"
+"hu":"Stocking-sziget Stocking Island Exuma",
+"de":"Stocking Island",
+"es":"Stocking Island",
+"fr":"Stocking Island",
+"it":"Stocking Island",
+"pl":"Stocking Island",
+"ru":"Остров Стокинг",
+"sk":"Stocking Island",
+"zh":"斯托金岛"
 },
 "Warderick Wells":{
-"hu":"Warderick Wells Exuma Land and Sea Park"
+"hu":"Warderick Wells Exuma Land and Sea Park",
+"de":"Warderick Wells",
+"es":"Warderick Wells",
+"fr":"Warderick Wells",
+"it":"Warderick Wells",
+"pl":"Warderick Wells",
+"ru":"Уордерик-Уэллс",
+"sk":"Warderick Wells",
+"zh":"沃德里克韦尔斯"
 },
 "Big Major Cay":{
-"hu":"Big Major Cay Úszó malacok Exuma"
+"hu":"Big Major Cay Úszó malacok Exuma",
+"de":"Big Major Cay",
+"es":"Big Major Cay",
+"fr":"Big Major Cay",
+"it":"Big Major Cay",
+"pl":"Big Major Cay",
+"ru":"Биг-Мейджор-Кей",
+"sk":"Big Major Cay",
+"zh":"大主要岛"
 },
 "Thunderball Grotto":{
-"hu":"Thunderball-barlang Thunderball barlang Staniel Cay"
+"hu":"Thunderball-barlang Thunderball barlang Staniel Cay",
+"de":"Thunderball Grotto",
+"es":"Gruta Thunderball",
+"fr":"Grotte Thunderball",
+"it":"Thunderball Grotto",
+"pl":"Jaskinia Thunderball",
+"ru":"Грот Тандерболл",
+"sk":"Thunderball Grotto",
+"zh":"霹雳弹洞穴"
 },
 "Negril Seven Mile Beach":{
-"hu":"Negril Seven Mile Beach Negril hét mérföldes strand"
+"hu":"Negril Seven Mile Beach Negril hét mérföldes strand",
+"de":"Seven Mile Beach von Negril",
+"es":"Playa de Seven Mile de Negril",
+"fr":"Seven Mile Beach de Negril",
+"it":"Seven Mile Beach di Negril",
+"pl":"Siedmiomilowa Plaża w Negril",
+"ru":"Семимильный пляж Негрила",
+"sk":"Pláž Seven Mile Beach v Negrile",
+"zh":"内格里尔七英里海滩"
 },
 "Black River":{
-"hu":"Black River Black River Jamaica mocsár"
+"hu":"Black River Black River Jamaica mocsár",
+"de":"Black River",
+"es":"Black River",
+"fr":"Black River",
+"it":"Black River",
+"pl":"Black River",
+"ru":"Блэк-Ривер",
+"sk":"Black River",
+"zh":"黑河"
 },
 "Blue Mountain Peak":{
-"hu":"Blue Mountain Peak Blue Mountain csúcs Jamaica"
+"hu":"Blue Mountain Peak Blue Mountain csúcs Jamaica",
+"de":"Blue Mountain Peak",
+"es":"Pico Blue Mountain",
+"fr":"Blue Mountain Peak",
+"it":"Blue Mountain Peak",
+"pl":"Szczyt Blue Mountain",
+"ru":"Пик Блу-Маунтин",
+"sk":"Blue Mountain Peak",
+"zh":"蓝山峰"
 },
 "Dunn's River Falls":{
-"hu":"Dunn's River-vízesés Dunns River vízesés Ocho Rios"
+"hu":"Dunn's River-vízesés Dunns River vízesés Ocho Rios",
+"de":"Dunn's River Falls",
+"es":"Cataratas de Dunn's River",
+"fr":"Chutes de Dunn's River",
+"it":"Cascate di Dunn's River",
+"pl":"Wodospady Dunn's River",
+"ru":"Водопады Данс-Ривер",
+"sk":"Vodopády Dunn's River",
+"zh":"邓恩河瀑布"
 },
 "West Bay Roatán":{
-"hu":"Roatán West Bay Roatan West Bay strand"
+"hu":"Roatán West Bay Roatan West Bay strand",
+"de":"West Bay auf Roatán",
+"es":"West Bay, Roatán",
+"fr":"West Bay à Roatán",
+"it":"West Bay a Roatán",
+"pl":"West Bay na Roatán",
+"ru":"Уэст-Бей, Роатан",
+"sk":"West Bay na Roatáne",
+"zh":"罗阿坦岛西湾"
 },
 "Utila":{
-"hu":"Utila Utila bálnacápa búvár"
+"hu":"Utila Utila bálnacápa búvár",
+"de":"Utila",
+"es":"Utila",
+"fr":"Utila",
+"it":"Utila",
+"pl":"Utila",
+"ru":"Утила",
+"sk":"Utila",
+"zh":"乌蒂拉岛"
 },
 "Guanaja":{
-"hu":"Guanaja Guanaja sziget Honduras"
+"hu":"Guanaja Guanaja sziget Honduras",
+"de":"Guanaja",
+"es":"Guanaja",
+"fr":"Guanaja",
+"it":"Guanaja",
+"pl":"Guanaja",
+"ru":"Гуанаха",
+"sk":"Guanaja",
+"zh":"瓜纳哈岛"
 },
 "Masaya Volcano":{
-"hu":"Masaya-vulkán Masaya vulkán láva tó"
+"hu":"Masaya-vulkán Masaya vulkán láva tó",
+"de":"Vulkan Masaya",
+"es":"Volcán Masaya",
+"fr":"Volcan Masaya",
+"it":"Vulcano Masaya",
+"pl":"Wulkan Masaya",
+"ru":"Вулкан Масая",
+"sk":"Sopka Masaya",
+"zh":"马萨亚火山"
 },
 "Granada":{
-"hu":"Granada Granada Nicaragua gyarmati"
+"hu":"Granada Granada Nicaragua gyarmati",
+"de":"Granada",
+"es":"Granada",
+"fr":"Grenade",
+"it":"Granada",
+"pl":"Granada",
+"ru":"Гранада",
+"sk":"Granada",
+"zh":"格拉纳达"
 },
 "Ometepe Island":{
-"hu":"Ometepe-sziget Ometepe Concepcion vulkán"
+"hu":"Ometepe-sziget Ometepe Concepcion vulkán",
+"de":"Insel Ometepe",
+"es":"Isla de Ometepe",
+"fr":"Île d'Ometepe",
+"it":"Isola di Ometepe",
+"pl":"Wyspa Ometepe",
+"ru":"Остров Ометепе",
+"sk":"Ostrov Ometepe",
+"zh":"奥梅特佩岛"
 },
 "Cerro Negro":{
-"hu":"Cerro Negro Cerro Negro vulkán León"
+"hu":"Cerro Negro Cerro Negro vulkán León",
+"de":"Cerro Negro",
+"es":"Cerro Negro",
+"fr":"Cerro Negro",
+"it":"Cerro Negro",
+"pl":"Cerro Negro",
+"ru":"Серро-Негро",
+"sk":"Cerro Negro",
+"zh":"塞罗内格罗火山"
 },
 "Basaseachi Falls":{
-"hu":"Basaseachi-vízesés Basaseachi vízesés Chihuahua"
+"hu":"Basaseachi-vízesés Basaseachi vízesés Chihuahua",
+"de":"Basaseachi-Fälle",
+"es":"Cascada de Basaseachi",
+"fr":"Cascade de Basaseachi",
+"it":"Cascate di Basaseachi",
+"pl":"Wodospad Basaseachi",
+"ru":"Водопад Басасеачи",
+"sk":"Vodopády Basaseachi",
+"zh":"巴萨塞奇瀑布"
 },
 "Creel":{
-"hu":"Creel Creel Tarahumara"
+"hu":"Creel Creel Tarahumara",
+"de":"Creel",
+"es":"Creel",
+"fr":"Creel",
+"it":"Creel",
+"pl":"Creel",
+"ru":"Крил",
+"sk":"Creel",
+"zh":"克雷埃尔"
 },
 "Divisadero Viewpoint":{
-"hu":"Divisadero kilátó Divisadero Barrancas del Cobre"
+"hu":"Divisadero kilátó Divisadero Barrancas del Cobre",
+"de":"Aussichtspunkt Divisadero",
+"es":"Mirador de Divisadero",
+"fr":"Belvédère de Divisadero",
+"it":"Punto panoramico di Divisadero",
+"pl":"Punkt widokowy Divisadero",
+"ru":"Смотровая площадка Дивисадеро",
+"sk":"Vyhliadka Divisadero",
+"zh":"迪维萨德罗观景台"
 },
 "Batopilas":{
-"hu":"Batopilas Batopilas kanyon"
+"hu":"Batopilas Batopilas kanyon",
+"de":"Batopilas",
+"es":"Batopilas",
+"fr":"Batopilas",
+"it":"Batopilas",
+"pl":"Batopilas",
+"ru":"Батопилас",
+"sk":"Batopilas",
+"zh":"巴托皮拉斯"
 },
 "The Tablelands":{
-"hu":"A Tablelands Tablelands Gros Morne köpeny"
+"hu":"A Tablelands Tablelands Gros Morne köpeny",
+"de":"Die Tablelands",
+"es":"Las Tablelands",
+"fr":"Les Tablelands",
+"it":"The Tablelands",
+"pl":"The Tablelands",
+"ru":"Плато Тейбллендс",
+"sk":"Tablelands",
+"zh":"台地山"
 },
 "Western Brook Pond":{
-"hu":"Western Brook Pond Western Brook Pond fjord"
+"hu":"Western Brook Pond Western Brook Pond fjord",
+"de":"Western Brook Pond",
+"es":"Western Brook Pond",
+"fr":"Western Brook Pond",
+"it":"Western Brook Pond",
+"pl":"Western Brook Pond",
+"ru":"Вестерн-Брук-Понд",
+"sk":"Western Brook Pond",
+"zh":"西溪池"
 },
 "Rocky Harbour":{
-"hu":"Rocky Harbour Rocky Harbour Bonne Bay"
+"hu":"Rocky Harbour Rocky Harbour Bonne Bay",
+"de":"Rocky Harbour",
+"es":"Rocky Harbour",
+"fr":"Rocky Harbour",
+"it":"Rocky Harbour",
+"pl":"Rocky Harbour",
+"ru":"Рокки-Харбор",
+"sk":"Rocky Harbour",
+"zh":"石港"
 },
 "Trout River":{
-"hu":"Trout River Trout River Newfoundland"
+"hu":"Trout River Trout River Newfoundland",
+"de":"Trout River",
+"es":"Trout River",
+"fr":"Trout River",
+"it":"Trout River",
+"pl":"Trout River",
+"ru":"Траут-Ривер",
+"sk":"Trout River",
+"zh":"特劳特河"
 },
 "Miles Canyon":{
-"hu":"Miles Canyon Miles Canyon Yukon"
+"hu":"Miles Canyon Miles Canyon Yukon",
+"de":"Miles Canyon",
+"es":"Miles Canyon",
+"fr":"Miles Canyon",
+"it":"Miles Canyon",
+"pl":"Miles Canyon",
+"ru":"Майлс-Каньон",
+"sk":"Miles Canyon",
+"zh":"迈尔斯峡谷"
 },
 "Carcross Desert":{
-"hu":"Carcross-sivatag Carcross sivatag"
+"hu":"Carcross-sivatag Carcross sivatag",
+"de":"Carcross-Wüste",
+"es":"Desierto de Carcross",
+"fr":"Désert de Carcross",
+"it":"Deserto di Carcross",
+"pl":"Pustynia Carcross",
+"ru":"Пустыня Каркросс",
+"sk":"Púšť Carcross",
+"zh":"卡克罗斯沙漠"
 },
 "Haines Junction":{
-"hu":"Haines Junction Haines Junction Kluane"
+"hu":"Haines Junction Haines Junction Kluane",
+"de":"Haines Junction",
+"es":"Haines Junction",
+"fr":"Haines Junction",
+"it":"Haines Junction",
+"pl":"Haines Junction",
+"ru":"Хейнс-Джанкшен",
+"sk":"Haines Junction",
+"zh":"海恩斯枢纽"
 },
 "Kluane Lake":{
-"hu":"Kluane-tó Kluane tó Yukon"
+"hu":"Kluane-tó Kluane tó Yukon",
+"de":"Kluane Lake",
+"es":"Lago Kluane",
+"fr":"Lac Kluane",
+"it":"Lago Kluane",
+"pl":"Jezioro Kluane",
+"ru":"Озеро Клуэйн",
+"sk":"Jazero Kluane",
+"zh":"克卢恩湖"
 },
 "Fortress of Louisbourg":{
-"hu":"Louisbourgi erőd Louisbourg erőd Nova Scotia"
+"hu":"Louisbourgi erőd Louisbourg erőd Nova Scotia",
+"de":"Festung Louisbourg",
+"es":"Fortaleza de Louisbourg",
+"fr":"Forteresse de Louisbourg",
+"it":"Fortezza di Louisbourg",
+"pl":"Twierdza Louisbourg",
+"ru":"Крепость Луисбург",
+"sk":"Pevnosť Louisbourg",
+"zh":"路易斯堡要塞"
 },
 "Ingonish":{
-"hu":"Ingonish Ingonish Cape Breton"
+"hu":"Ingonish Ingonish Cape Breton",
+"de":"Ingonish",
+"es":"Ingonish",
+"fr":"Ingonish",
+"it":"Ingonish",
+"pl":"Ingonish",
+"ru":"Ингониш",
+"sk":"Ingonish",
+"zh":"英戈尼什"
 },
 "Meat Cove":{
-"hu":"Meat Cove Meat Cove Cabot Trail"
+"hu":"Meat Cove Meat Cove Cabot Trail",
+"de":"Meat Cove",
+"es":"Meat Cove",
+"fr":"Meat Cove",
+"it":"Meat Cove",
+"pl":"Meat Cove",
+"ru":"Мит-Коув",
+"sk":"Meat Cove",
+"zh":"米特湾"
 },
 "Cabot Trail Skyline":{
-"hu":"Cabot Trail Skyline Skyline Trail Cape Breton"
+"hu":"Cabot Trail Skyline Skyline Trail Cape Breton",
+"de":"Skyline am Cabot Trail",
+"es":"Panorámica del Cabot Trail",
+"fr":"Panorama de la piste Cabot",
+"it":"Cabot Trail Skyline",
+"pl":"Cabot Trail Skyline",
+"ru":"Панорама тропы Кабота",
+"sk":"Panoráma Cabot Trail",
+"zh":"卡伯特小径天际线"
 },
 "St George's Cathedral":{
-"hu":"Szent György-katedrális St Georges katedrális Georgetown fa"
+"hu":"Szent György-katedrális St Georges katedrális Georgetown fa",
+"de":"St. George's Cathedral",
+"es":"Catedral de San Jorge",
+"fr":"Cathédrale Saint-Georges",
+"it":"Cattedrale di St George",
+"pl":"Katedra św. Jerzego",
+"ru":"Собор Святого Георгия",
+"sk":"Katedrála svätého Juraja",
+"zh":"圣乔治大教堂"
 },
 "Kaieteur Falls":{
-"hu":"Kaieteur-vízesés Kaieteur vízesés Guyana"
+"hu":"Kaieteur-vízesés Kaieteur vízesés Guyana",
+"de":"Kaieteur-Fälle",
+"es":"Cataratas Kaieteur",
+"fr":"Chutes Kaieteur",
+"it":"Cascate Kaieteur",
+"pl":"Wodospad Kaieteur",
+"ru":"Водопад Кайетур",
+"sk":"Vodopády Kaieteur",
+"zh":"凯厄图尔瀑布"
 },
 "Orinduik Falls":{
-"hu":"Orinduik-vízesés Orinduik vízesés"
+"hu":"Orinduik-vízesés Orinduik vízesés",
+"de":"Orinduik-Fälle",
+"es":"Cataratas de Orinduik",
+"fr":"Chutes d'Orinduik",
+"it":"Cascate di Orinduik",
+"pl":"Wodospady Orinduik",
+"ru":"Водопад Ориндуик",
+"sk":"Vodopády Orinduik",
+"zh":"奥林杜伊克瀑布"
 },
 "São Luís Historic Centre":{
-"hu":"São Luís történelmi központja Sao Luis azulejo belváros"
+"hu":"São Luís történelmi központja Sao Luis azulejo belváros",
+"de":"Historisches Zentrum von São Luís",
+"es":"Centro histórico de São Luís",
+"fr":"Centre historique de São Luís",
+"it":"Centro storico di São Luís",
+"pl":"Historyczne centrum São Luís",
+"ru":"Исторический центр Сан-Луиса",
+"sk":"Historické centrum São Luís",
+"zh":"圣路易斯历史中心"
 },
 "Santo Amaro":{
-"hu":"Santo Amaro Santo Amaro Maranhao dűne"
+"hu":"Santo Amaro Santo Amaro Maranhao dűne",
+"de":"Santo Amaro",
+"es":"Santo Amaro",
+"fr":"Santo Amaro",
+"it":"Santo Amaro",
+"pl":"Santo Amaro",
+"ru":"Санту-Амару",
+"sk":"Santo Amaro",
+"zh":"圣阿马罗"
 },
 "Barreirinhas":{
-"hu":"Barreirinhas Barreirinhas Lencois"
+"hu":"Barreirinhas Barreirinhas Lencois",
+"de":"Barreirinhas",
+"es":"Barreirinhas",
+"fr":"Barreirinhas",
+"it":"Barreirinhas",
+"pl":"Barreirinhas",
+"ru":"Баррейриньяс",
+"sk":"Barreirinhas",
+"zh":"巴雷里尼亚斯"
 },
 "Atins":{
-"hu":"Atins Atins dűne Preguiças folyó"
+"hu":"Atins Atins dűne Preguiças folyó",
+"de":"Atins",
+"es":"Atins",
+"fr":"Atins",
+"it":"Atins",
+"pl":"Atins",
+"ru":"Атинс",
+"sk":"Atins",
+"zh":"阿廷斯"
 },
 "Aquidauana":{
-"hu":"Aquidauana Aquidauana Pantanal kapuja"
+"hu":"Aquidauana Aquidauana Pantanal kapuja",
+"de":"Aquidauana",
+"es":"Aquidauana",
+"fr":"Aquidauana",
+"it":"Aquidauana",
+"pl":"Aquidauana",
+"ru":"Акидауана",
+"sk":"Aquidauana",
+"zh":"阿基达瓦纳"
 },
 "Miranda Pantanal":{
-"hu":"Miranda, Pantanal Miranda Pantanal vizes élőhely"
+"hu":"Miranda, Pantanal Miranda Pantanal vizes élőhely",
+"de":"Miranda (Pantanal)",
+"es":"Miranda (Pantanal)",
+"fr":"Miranda (Pantanal)",
+"it":"Miranda, Pantanal",
+"pl":"Pantanal koło Mirandy",
+"ru":"Миранда, Пантанал",
+"sk":"Pantanal pri Mirande",
+"zh":"米兰达潘塔纳尔"
 },
 "Bonito":{
-"hu":"Bonito Bonito kristály folyók"
+"hu":"Bonito Bonito kristály folyók",
+"de":"Bonito",
+"es":"Bonito",
+"fr":"Bonito",
+"it":"Bonito",
+"pl":"Bonito",
+"ru":"Бониту",
+"sk":"Bonito",
+"zh":"博尼图"
 },
 "Serra da Bodoquena":{
-"hu":"Serra da Bodoquena Bodoquena hegység"
+"hu":"Serra da Bodoquena Bodoquena hegység",
+"de":"Serra da Bodoquena",
+"es":"Serra da Bodoquena",
+"fr":"Serra da Bodoquena",
+"it":"Serra da Bodoquena",
+"pl":"Serra da Bodoquena",
+"ru":"Серра-да-Бодокена",
+"sk":"Serra da Bodoquena",
+"zh":"博多凯纳山脉"
 },
 "Port of Refuge":{
-"hu":"Port of Refuge Neiafu Port of Refuge Tonga"
+"hu":"Port of Refuge Neiafu Port of Refuge Tonga",
+"de":"Port of Refuge",
+"es":"Puerto de Refugio",
+"fr":"Port of Refuge",
+"it":"Port of Refuge",
+"pl":"Port of Refuge",
+"ru":"Порт-оф-Рефьюдж",
+"sk":"Port of Refuge",
+"zh":"避难港"
 },
 "Mariner's Cave":{
-"hu":"Mariner's Cave Mariner barlang Tonga"
+"hu":"Mariner's Cave Mariner barlang Tonga",
+"de":"Mariner's Cave",
+"es":"Cueva de Mariner",
+"fr":"Grotte de Mariner",
+"it":"Grotta di Mariner",
+"pl":"Mariner's Cave",
+"ru":"Пещера Моряка",
+"sk":"Mariner's Cave",
+"zh":"水手洞"
 },
 "Swallows Cave":{
-"hu":"Swallows Cave Swallows barlang Vava'u"
+"hu":"Swallows Cave Swallows barlang Vava'u",
+"de":"Swallows Cave",
+"es":"Cueva de las Golondrinas",
+"fr":"Grotte des Hirondelles",
+"it":"Grotta delle Rondini",
+"pl":"Swallows Cave",
+"ru":"Пещера Ласточек",
+"sk":"Swallows Cave",
+"zh":"燕子洞"
 },
 "Hunga Island":{
-"hu":"Hunga-sziget Hunga sziget Vava'u"
+"hu":"Hunga-sziget Hunga sziget Vava'u",
+"de":"Insel Hunga",
+"es":"Isla Hunga",
+"fr":"Île de Hunga",
+"it":"Isola di Hunga",
+"pl":"Wyspa Hunga",
+"ru":"Остров Хунга",
+"sk":"Ostrov Hunga",
+"zh":"洪阿岛"
 },
 "Lake Argyle":{
-"hu":"Argyle-tó Argyle tó Kimberley"
+"hu":"Argyle-tó Argyle tó Kimberley",
+"de":"Lake Argyle",
+"es":"Lago Argyle",
+"fr":"Lac Argyle",
+"it":"Lago Argyle",
+"pl":"Jezioro Argyle",
+"ru":"Озеро Аргайл",
+"sk":"Jazero Argyle",
+"zh":"阿盖尔湖"
 },
 "Purnululu Bungle Bungle":{
-"hu":"Purnululu Bungle Bungle Bungle Bungle Purnululu"
+"hu":"Purnululu Bungle Bungle Bungle Bungle Purnululu",
+"de":"Purnululu (Bungle Bungle)",
+"es":"Bungle Bungle de Purnululu",
+"fr":"Purnululu (Bungle Bungle)",
+"it":"Bungle Bungle di Purnululu",
+"pl":"Purnululu Bungle Bungle",
+"ru":"Пурнулулу, Бангл-Бангл",
+"sk":"Bungle Bungle v Purnululu",
+"zh":"普努鲁鲁蜂巢山"
 },
 "El Questro":{
-"hu":"El Questro El Questro kanyon Kimberley"
+"hu":"El Questro El Questro kanyon Kimberley",
+"de":"El Questro",
+"es":"El Questro",
+"fr":"El Questro",
+"it":"El Questro",
+"pl":"El Questro",
+"ru":"Эль-Кесторо",
+"sk":"El Questro",
+"zh":"埃尔昆特罗"
 },
 "Wyndham Five Rivers":{
-"hu":"Wyndham Five Rivers Wyndham Five Rivers kilátó"
+"hu":"Wyndham Five Rivers Wyndham Five Rivers kilátó",
+"de":"Wyndham Five Rivers",
+"es":"Wyndham Five Rivers",
+"fr":"Wyndham Five Rivers",
+"it":"Wyndham Five Rivers",
+"pl":"Wyndham Five Rivers",
+"ru":"Уиндем, Файв-Риверс",
+"sk":"Wyndham Five Rivers",
+"zh":"温德姆五河"
 },
 "Vlamingh Head Lighthouse":{
-"hu":"Vlamingh Head-világítótorony Vlamingh Head világítótorony Exmouth"
+"hu":"Vlamingh Head-világítótorony Vlamingh Head világítótorony Exmouth",
+"de":"Leuchtturm von Vlamingh Head",
+"es":"Faro de Vlamingh Head",
+"fr":"Phare de Vlamingh Head",
+"it":"Faro di Vlamingh Head",
+"pl":"Latarnia morska Vlamingh Head",
+"ru":"Маяк Вламинг-Хед",
+"sk":"Maják Vlamingh Head",
+"zh":"弗拉明赫角灯塔"
 },
 "Turquoise Bay":{
-"hu":"Turquoise Bay Turquoise Bay Ningaloo"
+"hu":"Turquoise Bay Turquoise Bay Ningaloo",
+"de":"Turquoise Bay",
+"es":"Bahía Turquesa",
+"fr":"Turquoise Bay",
+"it":"Turquoise Bay",
+"pl":"Turquoise Bay",
+"ru":"Бирюзовая бухта",
+"sk":"Turquoise Bay",
+"zh":"绿松石湾"
 },
 "Yardie Creek":{
-"hu":"Yardie Creek Yardie Creek szurdok Cape Range"
+"hu":"Yardie Creek Yardie Creek szurdok Cape Range",
+"de":"Yardie Creek",
+"es":"Yardie Creek",
+"fr":"Yardie Creek",
+"it":"Yardie Creek",
+"pl":"Yardie Creek",
+"ru":"Ярди-Крик",
+"sk":"Yardie Creek",
+"zh":"亚迪溪"
 },
 "Nouméa":{
-"hu":"Nouméa Noumea fővárosa Új-Kaledónia"
+"hu":"Nouméa Noumea fővárosa Új-Kaledónia",
+"de":"Nouméa",
+"es":"Numea",
+"fr":"Nouméa",
+"it":"Nouméa",
+"pl":"Numea",
+"ru":"Нумеа",
+"sk":"Nouméa",
+"zh":"努美阿"
 },
 "Amédée Lighthouse":{
-"hu":"Amédée-világítótorony Amedee világítótorony zátony"
+"hu":"Amédée-világítótorony Amedee világítótorony zátony",
+"de":"Amédée-Leuchtturm",
+"es":"Faro Amédée",
+"fr":"Phare Amédée",
+"it":"Faro di Amédée",
+"pl":"Latarnia morska Amédée",
+"ru":"Маяк Амеде",
+"sk":"Maják Amédée",
+"zh":"阿梅代灯塔"
 },
 "Isle of Pines":{
-"hu":"Fenyők szigete Fenyők szigete Kuto öböl"
+"hu":"Fenyők szigete Fenyők szigete Kuto öböl",
+"de":"Pinieninsel",
+"es":"Isla de los Pinos",
+"fr":"Île des Pins",
+"it":"Isola dei Pini",
+"pl":"Wyspa Sosnowa",
+"ru":"Остров Сосен",
+"sk":"Ostrov Pínií",
+"zh":"松树岛"
 },
 "Blue River Park":{
-"hu":"Kék-folyó Park Rivière Bleue park"
+"hu":"Kék-folyó Park Rivière Bleue park",
+"de":"Blue-River-Park",
+"es":"Parque del Río Azul",
+"fr":"Parc de la Rivière Bleue",
+"it":"Parco del Fiume Blu",
+"pl":"Park Rzeki Błękitnej",
+"ru":"Парк Голубой реки",
+"sk":"Park Blue River",
+"zh":"蓝河公园"
 }
 }
 }
