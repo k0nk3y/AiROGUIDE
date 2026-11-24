@@ -16375,7 +16375,7 @@
 "zh":"夏洛特·阿马利亚"
 },
 "Coral Bay":{
-"hu":"Coral Bay Coral Bay St John",
+"hu":"Coral Bay Coral Bay Ningaloo",
 "de":"Coral Bay",
 "es":"Coral Bay",
 "fr":"Coral Bay",
@@ -17385,6 +17385,564 @@
 "ru":"Морру-ду-Пику",
 "sk":"Morro do Pico",
 "zh":"皮科山"
+},
+"Lalibela Rock-Hewn Churches":{
+"hu":"Lalibela sziklatemplomai Lalibela sziklatemplom etióp"
+},
+"Bete Giyorgis":{
+"hu":"Bete Giyorgis Szent György templom Lalibela"
+},
+"Mount Abuna Yosef":{
+"hu":"Abuna Yosef-hegy Abuna Yosef hegy Etiópia"
+},
+"Cidade Velha":{
+"hu":"Cidade Velha Cidade Velha Zöld-foki gyarmati"
+},
+"Pico do Fogo":{
+"hu":"Pico do Fogo Fogo vulkán Zöld-foki"
+},
+"Tarrafal":{
+"hu":"Tarrafal Tarrafal Santiago fekete strand"
+},
+"Bazaruto Island Dunes":{
+"hu":"Bazaruto-sziget dűnéi Bazaruto dűne sziget Mozambik"
+},
+"Benguerra Island":{
+"hu":"Benguerra-sziget Benguerra sziget"
+},
+"Magaruque Island":{
+"hu":"Magaruque-sziget Magaruque sziget"
+},
+"Senga Bay":{
+"hu":"Senga-öböl Senga Bay Malawi tó"
+},
+"Cape Maclear":{
+"hu":"Cape Maclear Cape Maclear Malawi tó nemzeti park"
+},
+"Dedza Mountain":{
+"hu":"Dedza-hegy Dedza hegy Malawi"
+},
+"Kolmanskop Ghost Town":{
+"hu":"Kolmanskop szellemváros Kolmanskop szellemváros Namíbia"
+},
+"Elizabeth Bay":{
+"hu":"Elizabeth Bay Elizabeth Bay szellemváros gyémánt"
+},
+"Diaz Point":{
+"hu":"Diaz-fok Diaz Point Lüderitz kereszt"
+},
+"Lüderitz":{
+"hu":"Lüderitz Lüderitz szecessziós kikötő"
+},
+"Mount Kenya":{
+"hu":"Kenya-hegy Kenya hegy gleccser Egyenlítő"
+},
+"Lewa Wildlife Conservancy":{
+"hu":"Lewa vadrezervátum Lewa Conservancy orrszarvú"
+},
+"Ol Pejeta Conservancy":{
+"hu":"Ol Pejeta rezervátum Ol Pejeta orrszarvú szentély"
+},
+"Mount Satima":{
+"hu":"Satima-hegy Aberdare Satima hegy"
+},
+"Lac Rose":{
+"hu":"Lac Rose Lac Rose Retba rózsaszín tó"
+},
+"Gorée Island":{
+"hu":"Gorée-sziget Gorée sziget rabszolga ház"
+},
+"African Renaissance Monument":{
+"hu":"Afrikai Reneszánsz Emlékmű Afrikai reneszánsz emlékmű Dakar"
+},
+"Fadiouth":{
+"hu":"Fadiouth Fadiouth kagylósziget"
+},
+"Assekrem Hermitage":{
+"hu":"Assekrem remetelak Assekrem remetelak Foucauld"
+},
+"Mount Tahat":{
+"hu":"Tahat-hegy Tahat hegy Hoggar Algéria"
+},
+"Abalessa":{
+"hu":"Abalessa Abalessa Tin Hinan sírja"
+},
+"Dixam Plateau":{
+"hu":"Dixam-fennsík Dixam fennsík sárkányvérfa Szokotra"
+},
+"Detwah Lagoon":{
+"hu":"Detwah-lagúna Detwah lagúna Szokotra"
+},
+"Hadibu":{
+"hu":"Hadibu Hadibu Szokotra főváros"
+},
+"Qalansiyah":{
+"hu":"Qalansiyah Qalansiyah Szokotra part"
+},
+"Persepolis":{
+"hu":"Perszepolisz Perszepolisz Akhaimenida"
+},
+"Naqsh-e Rustam":{
+"hu":"Naqsh-e Rustam Naqsh-e Rustam sziklasír"
+},
+"Pasargadae":{
+"hu":"Pasargadai Pasargadai Küroszsír"
+},
+"Eram Garden":{
+"hu":"Eram-kert Eram kert Shiraz"
+},
+"Khasab Fort":{
+"hu":"Khasab erőd Khasab erőd portugál"
+},
+"Khor Najd":{
+"hu":"Khor Najd Khor Najd fjord Musandam"
+},
+"Kumzar":{
+"hu":"Kumzar Kumzar falu Musandam"
+},
+"Jebel Harim":{
+"hu":"Jebel Harim Jebel Harim Musandam hegy"
+},
+"K2":{
+"hu":"K2 K2 hegy Karakorum"
+},
+"Baltoro Glacier":{
+"hu":"Baltoro-gleccser Baltoro gleccser Concordia"
+},
+"Deosai Plains":{
+"hu":"Deosai-fennsík Deosai fennsík Pakisztán"
+},
+"Nanga Parbat":{
+"hu":"Nanga Parbat Nanga Parbat hegy"
+},
+"Cholpon-Ata Petroglyphs":{
+"hu":"Cholpon-Ata sziklarajzai Cholpon-Ata petroglif Issyk-Kul"
+},
+"Karakol":{
+"hu":"Karakol Karakol Issyk-Kul város"
+},
+"Jeti-Ögüz":{
+"hu":"Jeti-Ögüz Jeti-Oguz hét bika szikla"
+},
+"Skazka Canyon":{
+"hu":"Skazka-kanyon Skazka kanyon Mesekanyon"
+},
+"Hissar Fortress":{
+"hu":"Hisszári erőd Hissar erőd Tádzsikisztán"
+},
+"Iskanderkul":{
+"hu":"Iszkanderkul Iskanderkul Nagy Sándor tó"
+},
+"Chimtarga":{
+"hu":"Csimtarga Chimtarga csúcs Fan hegység"
+},
+"Arch of Neutrality":{
+"hu":"Semlegesség íve Semlegesség íve Asgabat"
+},
+"Nisa Fortress":{
+"hu":"Nisa erőd Nisa pártus erőd"
+},
+"Darvaza Gas Crater":{
+"hu":"Darvaza gázkráter Darvaza gázkráter Pokol kapuja"
+},
+"Po-i-Kalyan Ensemble":{
+"hu":"Po-i-Kalyan együttes Kalyan minaret Buhara"
+},
+"Gijduvan":{
+"hu":"Gijduvan Gijduvan fazekas medresze"
+},
+"Shakhrisabz":{
+"hu":"Sahrisabz Shahrisabz Ak-Saray Timur"
+},
+"Chemal":{
+"hu":"Csemal Csemal Katun folyó Altaj"
+},
+"Lake Teletskoye":{
+"hu":"Teleckoje-tó Teletskoye tó Altaj"
+},
+"Mount Belukha":{
+"hu":"Belukha-hegy Belukha hegy Altaj"
+},
+"Seminsky Pass":{
+"hu":"Szeminszkij-hágó Seminsky hágó Altaj"
+},
+"Potala Palace":{
+"hu":"Potala-palota Potala palota Lhásza"
+},
+"Drepung Monastery":{
+"hu":"Drepung kolostor Drepung kolostor Lhásza"
+},
+"Samye Monastery":{
+"hu":"Samye kolostor Samye kolostor Tibet"
+},
+"Yamdrok Lake":{
+"hu":"Yamdrok-tó Yamdrok tó Tibet"
+},
+"Mount Phousi":{
+"hu":"Phousi-hegy Phousi hegy Luang Prabang"
+},
+"Pak Ou Caves":{
+"hu":"Pak Ou barlangok Pak Ou barlang Buddha Mekong"
+},
+"Kuang Si Falls":{
+"hu":"Kuang Si-vízesés Kuang Si vízesés türkiz"
+},
+"Pindaya Caves":{
+"hu":"Pindaya barlangok Pindaya barlang Buddha"
+},
+"Inle Lake":{
+"hu":"Inle-tó Inle tó lebegő kert halász"
+},
+"Indein Pagodas":{
+"hu":"Indein pagodák Indein pagoda erdő"
+},
+"Samosir Island":{
+"hu":"Samosir-sziget Samosir sziget Toba batak"
+},
+"Sipiso-piso Waterfall":{
+"hu":"Sipiso-piso vízesés Sipiso-piso vízesés"
+},
+"Mount Sinabung":{
+"hu":"Sinabung-vulkán Sinabung vulkán Szumátra"
+},
+"White Beach Boracay":{
+"hu":"Boracay White Beach Boracay White Beach homok"
+},
+"Puka Shell Beach":{
+"hu":"Puka Shell-part Puka Shell Beach Boracay"
+},
+"Kalibo":{
+"hu":"Kalibo Kalibo Panay Ati-Atihan"
+},
+"Mount Madja-as":{
+"hu":"Madja-as-hegy Madja-as hegy Panay"
+},
+"Alona Beach":{
+"hu":"Alona Beach Alona Beach Panglao strand"
+},
+"Tarsier Sanctuary":{
+"hu":"Tarzier-rezervátum Corella tarsier Bohol"
+},
+"Chocolate Hills":{
+"hu":"Chocolate Hills Chocolate Hills Bohol csokoládé dombok"
+},
+"Loboc River":{
+"hu":"Loboc-folyó Loboc folyó Bohol"
+},
+"Balicasag Island":{
+"hu":"Balicasag-sziget Balicasag sziget búvár"
+},
+"Lijiang Old Town":{
+"hu":"Lijiang óvárosa Lijiang óváros Naxi"
+},
+"Jade Dragon Snow Mountain":{
+"hu":"Jádesárkány-hegy Jade Dragon hegy Lijiang"
+},
+"Tiger Leaping Gorge":{
+"hu":"Tigrisugrás-szurdok Tigrisugrás szurdok Jangce"
+},
+"Lugu Lake":{
+"hu":"Lugu-tó Lugu tó Mosuo"
+},
+"Darjeeling":{
+"hu":"Dardzsiling Darjeeling teaültetvény hegyi vasút"
+},
+"Gangtok":{
+"hu":"Gangtok Gangtok Szikkim főváros"
+},
+"Kangchenjunga":{
+"hu":"Kancsendzönga Kancsendzönga hegy"
+},
+"Tallinn Old Town":{
+"hu":"Tallinn óvárosa Tallinn óváros középkori"
+},
+"Haapsalu":{
+"hu":"Haapsalu Haapsalu vár Észtország"
+},
+"Kuressaare Castle":{
+"hu":"Kuressaare vára Kuressaare vár Saaremaa"
+},
+"Kaali Crater":{
+"hu":"Kaali-kráter Kaali meteorit kráter"
+},
+"Church of St. John at Kaneo":{
+"hu":"Kaneói Szent János-templom Kaneo templom Ohrid"
+},
+"Saint Naum Monastery":{
+"hu":"Szent Naum-kolostor Szent Naum kolostor Ohrid"
+},
+"Galičica":{
+"hu":"Galicsica Galicsica hegy Ohrid Prespa"
+},
+"Lake Prespa":{
+"hu":"Prespa-tó Prespa tó Macedónia"
+},
+"Covadonga Lakes":{
+"hu":"Covadonga-tavak Covadonga tavak Enol Ercina"
+},
+"Naranjo de Bulnes":{
+"hu":"Naranjo de Bulnes Naranjo de Bulnes Picos de Europa"
+},
+"Santa María del Naranco":{
+"hu":"Santa María del Naranco Naranco templom Oviedo"
+},
+"Cape Peñas":{
+"hu":"Peñas-fok Cabo Penas világítótorony"
+},
+"Myrtos Beach":{
+"hu":"Mirtosz-part Myrtos strand Kefalonia"
+},
+"Fiscardo":{
+"hu":"Fiskardo Fiskardo kikötő Kefalonia"
+},
+"Ithaca":{
+"hu":"Ithaka Ithaka sziget Odüsszeusz"
+},
+"Navagio Beach":{
+"hu":"Navagio-part Navagio hajóroncs strand Zakynthos"
+},
+"White Tower of Thessaloniki":{
+"hu":"Thesszaloniki Fehér Torony Fehér Torony Thesszaloniki"
+},
+"Kassandra":{
+"hu":"Kasszandra Kasszandra félsziget Halkidiki"
+},
+"Sithonia":{
+"hu":"Szithónia Szithónia Halkidiki félsziget"
+},
+"Mount Athos":{
+"hu":"Athosz-hegy Athosz szent hegy kolostor"
+},
+"Sumela Monastery":{
+"hu":"Sumela-kolostor Sumela kolostor szikla Trabzon"
+},
+"Uzungöl":{
+"hu":"Uzungöl Uzungöl tó Rize"
+},
+"Kaçkar Mountains":{
+"hu":"Kaçkar-hegység Kaçkar hegység Ayder"
+},
+"Trabzon Hagia Sophia":{
+"hu":"Trabzoni Hagia Sophia Hagia Sophia Trabzon"
+},
+"Puy de Dôme":{
+"hu":"Puy de Dôme Puy de Dome vulkán Auvergne"
+},
+"Puy de Sancy":{
+"hu":"Puy de Sancy Puy de Sancy Mont-Dore"
+},
+"Lac Pavin":{
+"hu":"Pavin-tó Lac Pavin kráter tó"
+},
+"Puy Mary":{
+"hu":"Puy Mary Puy Mary vulkán Cantal"
+},
+"Tulcea":{
+"hu":"Tulcea Tulcea Duna delta kapuja"
+},
+"Sulina":{
+"hu":"Sulina Sulina Duna torkolat"
+},
+"Letea Forest":{
+"hu":"Letea-erdő Letea erdő liána delta"
+},
+"Sfântu Gheorghe":{
+"hu":"Szent György Sfantu Gheorghe delta"
+},
+"Capelinhos Volcano":{
+"hu":"Capelinhos-vulkán Capelinhos vulkán Faial"
+},
+"Caldeira do Faial":{
+"hu":"Faial kaldera Caldeira Faial kráter"
+},
+"Mount Pico":{
+"hu":"Pico-hegy Pico hegy Azori"
+},
+"Pico Vineyard Culture":{
+"hu":"Pico szőlőkultúra Pico szőlő lávakő unesco"
+},
+"Mendenhall Glacier":{
+"hu":"Mendenhall-gleccser Mendenhall gleccser Juneau"
+},
+"Tracy Arm Fjord":{
+"hu":"Tracy Arm fjord Tracy Arm fjord Sawyer gleccser"
+},
+"Eldred Rock Lighthouse":{
+"hu":"Eldred Rock világítótorony Eldred Rock világítótorony Lynn Canal"
+},
+"Haines":{
+"hu":"Haines Haines Alaszka Chilkat"
+},
+"Stocking Island":{
+"hu":"Stocking-sziget Stocking Island Exuma"
+},
+"Warderick Wells":{
+"hu":"Warderick Wells Exuma Land and Sea Park"
+},
+"Big Major Cay":{
+"hu":"Big Major Cay Úszó malacok Exuma"
+},
+"Thunderball Grotto":{
+"hu":"Thunderball-barlang Thunderball barlang Staniel Cay"
+},
+"Negril Seven Mile Beach":{
+"hu":"Negril Seven Mile Beach Negril hét mérföldes strand"
+},
+"Black River":{
+"hu":"Black River Black River Jamaica mocsár"
+},
+"Blue Mountain Peak":{
+"hu":"Blue Mountain Peak Blue Mountain csúcs Jamaica"
+},
+"Dunn's River Falls":{
+"hu":"Dunn's River-vízesés Dunns River vízesés Ocho Rios"
+},
+"West Bay Roatán":{
+"hu":"Roatán West Bay Roatan West Bay strand"
+},
+"Utila":{
+"hu":"Utila Utila bálnacápa búvár"
+},
+"Guanaja":{
+"hu":"Guanaja Guanaja sziget Honduras"
+},
+"Masaya Volcano":{
+"hu":"Masaya-vulkán Masaya vulkán láva tó"
+},
+"Granada":{
+"hu":"Granada Granada Nicaragua gyarmati"
+},
+"Ometepe Island":{
+"hu":"Ometepe-sziget Ometepe Concepcion vulkán"
+},
+"Cerro Negro":{
+"hu":"Cerro Negro Cerro Negro vulkán León"
+},
+"Basaseachi Falls":{
+"hu":"Basaseachi-vízesés Basaseachi vízesés Chihuahua"
+},
+"Creel":{
+"hu":"Creel Creel Tarahumara"
+},
+"Divisadero Viewpoint":{
+"hu":"Divisadero kilátó Divisadero Barrancas del Cobre"
+},
+"Batopilas":{
+"hu":"Batopilas Batopilas kanyon"
+},
+"The Tablelands":{
+"hu":"A Tablelands Tablelands Gros Morne köpeny"
+},
+"Western Brook Pond":{
+"hu":"Western Brook Pond Western Brook Pond fjord"
+},
+"Rocky Harbour":{
+"hu":"Rocky Harbour Rocky Harbour Bonne Bay"
+},
+"Trout River":{
+"hu":"Trout River Trout River Newfoundland"
+},
+"Miles Canyon":{
+"hu":"Miles Canyon Miles Canyon Yukon"
+},
+"Carcross Desert":{
+"hu":"Carcross-sivatag Carcross sivatag"
+},
+"Haines Junction":{
+"hu":"Haines Junction Haines Junction Kluane"
+},
+"Kluane Lake":{
+"hu":"Kluane-tó Kluane tó Yukon"
+},
+"Fortress of Louisbourg":{
+"hu":"Louisbourgi erőd Louisbourg erőd Nova Scotia"
+},
+"Ingonish":{
+"hu":"Ingonish Ingonish Cape Breton"
+},
+"Meat Cove":{
+"hu":"Meat Cove Meat Cove Cabot Trail"
+},
+"Cabot Trail Skyline":{
+"hu":"Cabot Trail Skyline Skyline Trail Cape Breton"
+},
+"St George's Cathedral":{
+"hu":"Szent György-katedrális St Georges katedrális Georgetown fa"
+},
+"Kaieteur Falls":{
+"hu":"Kaieteur-vízesés Kaieteur vízesés Guyana"
+},
+"Orinduik Falls":{
+"hu":"Orinduik-vízesés Orinduik vízesés"
+},
+"São Luís Historic Centre":{
+"hu":"São Luís történelmi központja Sao Luis azulejo belváros"
+},
+"Santo Amaro":{
+"hu":"Santo Amaro Santo Amaro Maranhao dűne"
+},
+"Barreirinhas":{
+"hu":"Barreirinhas Barreirinhas Lencois"
+},
+"Atins":{
+"hu":"Atins Atins dűne Preguiças folyó"
+},
+"Aquidauana":{
+"hu":"Aquidauana Aquidauana Pantanal kapuja"
+},
+"Miranda Pantanal":{
+"hu":"Miranda, Pantanal Miranda Pantanal vizes élőhely"
+},
+"Bonito":{
+"hu":"Bonito Bonito kristály folyók"
+},
+"Serra da Bodoquena":{
+"hu":"Serra da Bodoquena Bodoquena hegység"
+},
+"Port of Refuge":{
+"hu":"Port of Refuge Neiafu Port of Refuge Tonga"
+},
+"Mariner's Cave":{
+"hu":"Mariner's Cave Mariner barlang Tonga"
+},
+"Swallows Cave":{
+"hu":"Swallows Cave Swallows barlang Vava'u"
+},
+"Hunga Island":{
+"hu":"Hunga-sziget Hunga sziget Vava'u"
+},
+"Lake Argyle":{
+"hu":"Argyle-tó Argyle tó Kimberley"
+},
+"Purnululu Bungle Bungle":{
+"hu":"Purnululu Bungle Bungle Bungle Bungle Purnululu"
+},
+"El Questro":{
+"hu":"El Questro El Questro kanyon Kimberley"
+},
+"Wyndham Five Rivers":{
+"hu":"Wyndham Five Rivers Wyndham Five Rivers kilátó"
+},
+"Vlamingh Head Lighthouse":{
+"hu":"Vlamingh Head-világítótorony Vlamingh Head világítótorony Exmouth"
+},
+"Turquoise Bay":{
+"hu":"Turquoise Bay Turquoise Bay Ningaloo"
+},
+"Yardie Creek":{
+"hu":"Yardie Creek Yardie Creek szurdok Cape Range"
+},
+"Nouméa":{
+"hu":"Nouméa Noumea fővárosa Új-Kaledónia"
+},
+"Amédée Lighthouse":{
+"hu":"Amédée-világítótorony Amedee világítótorony zátony"
+},
+"Isle of Pines":{
+"hu":"Fenyők szigete Fenyők szigete Kuto öböl"
+},
+"Blue River Park":{
+"hu":"Kék-folyó Park Rivière Bleue park"
 }
 }
 }

@@ -60,6 +60,20 @@ IMG = {
 "cairns": "Great Barrier Reef", "fiji": "Mamanuca Islands", "madeira": "Cabo Girão|Madeira", "tenerife": "Teide", "paris": "Eiffel Tower",
 }
 P = os.path.join(ROOT, "data", "tours.json")
+IMG.update({
+"lalibela": "Lalibela|Church of Saint George, Lalibela", "cabo-verde": "Pico do Fogo|Cidade Velha", "bazaruto": "Bazaruto Archipelago|Bazaruto Island", "lake-malawi": "Lake Malawi|Lake Malawi National Park",
+"kolmanskop": "Kolmanskop|Lüderitz", "mount-kenya": "Mount Kenya|Ol Pejeta Conservancy", "dakar-saloum": "Gorée|Lake Retba", "hoggar": "Hoggar Mountains|Assekrem",
+"socotra": "Socotra|Dracaena cinnabari", "persepolis": "Persepolis|Naqsh-e Rustam", "musandam": "Musandam Governorate|Khasab", "k2-karakoram": "K2|Baltoro Glacier",
+"issyk-kul": "Issyk-Kul|Jeti-Ögüz", "fann-mountains": "Iskanderkul|Fann Mountains", "darvaza": "Darvaza gas crater|Ashgabat", "bukhara": "Po-i-Kalyan|Bukhara",
+"altai": "Belukha Mountain|Lake Teletskoye", "tibet-lhasa": "Potala Palace|Yamdrok Lake", "luang-prabang": "Kuang Si Falls|Luang Prabang", "inle-lake": "Inle Lake|Pindaya",
+"lake-toba": "Lake Toba|Samosir", "boracay-panay": "Boracay|White Beach (Boracay)", "bohol": "Chocolate Hills|Philippine tarsier", "lijiang": "Jade Dragon Snow Mountain|Lijiang",
+"darjeeling-sikkim": "Kangchenjunga|Darjeeling", "estonia": "Tallinn Old Town|Kuressaare Castle", "ohrid": "Lake Ohrid|Church of St. John at Kaneo", "asturias": "Naranjo de Bulnes|Lakes of Covadonga",
+"kefalonia": "Myrtos Beach|Navagio Beach", "halkidiki-athos": "Mount Athos|Halkidiki", "trabzon-kackar": "Sumela Monastery|Uzungöl", "auvergne": "Puy de Dôme|Chaîne des Puys",
+"danube-delta": "Danube Delta|Sulina", "azores-central": "Mount Pico|Capelinhos", "juneau-passage": "Mendenhall Glacier|Tracy Arm", "exumas": "Exuma Cays|Thunderball Grotto",
+"jamaica": "Blue Mountain Peak (Jamaica)|Dunn's River Falls", "bay-islands": "Roatán|Utila", "nicaragua": "Masaya Volcano|Ometepe", "copper-canyon": "Copper Canyon|Basaseachi Falls",
+"gros-morne": "Gros Morne National Park|The Tablelands", "yukon": "Kluane National Park and Reserve|Miles Canyon", "cape-breton": "Cabot Trail|Fortress of Louisbourg",
+"guyana": "Kaieteur Falls|Georgetown, Guyana", "lencois-maranhenses": "Lençóis Maranhenses National Park|São Luís, Maranhão", "pantanal": "Pantanal|Bonito, Mato Grosso do Sul",
+"vavau": "Vavaʻu|Neiafu", "kimberley": "Purnululu National Park|Lake Argyle", "ningaloo": "Ningaloo Coast|Turquoise Bay", "new-caledonia": "Isle of Pines (New Caledonia)|Nouméa"})
 d = json.load(open(P, encoding="utf-8"))
 miss = [t["id"] for t in d["tours"] if t["id"] not in IMG]
 for t in d["tours"]:

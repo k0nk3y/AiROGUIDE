@@ -42526,7 +42526,7 @@
     }
    ],
    "pois": [],
-   "kw": "Charlotte Amalie Charlotte Amalie kikötő St Thomas Coral Bay Coral Bay St John Trunk-öböl Trunk Bay St John Magens-öböl Magens Bay St Thomas",
+   "kw": "Charlotte Amalie Charlotte Amalie kikötő St Thomas Coral Bay Coral Bay Ningaloo Trunk-öböl Trunk Bay St John Magens-öböl Magens Bay St Thomas",
    "img": "Trunk Bay|Magens Bay"
   },
   {
@@ -45328,6 +45328,3894 @@
    "pois": [],
    "kw": "Praia do Leão Praia do Leao Fernando de Noronha Baía do Sancho Baia do Sancho Fernando de Noronha Dois Irmãos Dois Irmaos Fernando de Noronha Morro do Pico Morro do Pico Fernando de Noronha",
    "img": "Fernando de Noronha|Morro do Pico"
+  },
+  {
+   "id": "lalibela",
+   "continent": "AF",
+   "country": {
+    "en": "Ethiopia",
+    "hu": "Etiópia"
+   },
+   "name": {
+    "en": "Lalibela and the Highlands",
+    "hu": "Lalibela és a felföld"
+   },
+   "main": {
+    "en": "Rock-Hewn Churches of Lalibela",
+    "hu": "Lalibela sziklatemplomai",
+    "lat": 12.0319,
+    "lon": 39.0473
+   },
+   "tags": [
+    "culture",
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Eleven medieval churches carved down into the red rock of the Ethiopian highlands, the cross-shaped Bete Giyorgis and the 4,190 m heights of Mount Abuna Yosef.",
+    "hu": "Tizenegy középkori templom, amelyet lefelé faragtak az etióp felföld vörös kőzetébe, a kereszt alakú Bete Giyorgis és az Abuna Yosef 4190 méteres csúcsa."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 12500,
+     "stol": false,
+     "label": {
+      "en": "Highland churches loop",
+      "hu": "Felföldi templomkör"
+     },
+     "desc": {
+      "en": "Lalibela's churches and the Abuna Yosef massif.",
+      "hu": "Lalibela templomai és az Abuna Yosef-hegység."
+     },
+     "pts": [
+      "HALL",
+      [
+       "Lalibela Rock-Hewn Churches",
+       12.0319,
+       39.0473
+      ],
+      [
+       "Mount Abuna Yosef",
+       12.187,
+       39.233
+      ],
+      [
+       "~",
+       12.2356,
+       39.1975
+      ],
+      [
+       "Bete Giyorgis",
+       12.0306,
+       39.0432
+      ],
+      "HALL"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Lalibela sziklatemplomai Lalibela sziklatemplom etióp Abuna Yosef-hegy Abuna Yosef hegy Etiópia Bete Giyorgis Szent György templom Lalibela",
+   "img": "Lalibela|Church of Saint George, Lalibela"
+  },
+  {
+   "id": "cabo-verde",
+   "continent": "AF",
+   "country": {
+    "en": "Cape Verde",
+    "hu": "Zöld-foki-szigetek"
+   },
+   "name": {
+    "en": "Cape Verde: Santiago and Fogo",
+    "hu": "Zöld-foki-szigetek: Santiago és Fogo"
+   },
+   "main": {
+    "en": "Pico do Fogo",
+    "hu": "Pico do Fogo",
+    "lat": 14.95,
+    "lon": -24.34
+   },
+   "tags": [
+    "island",
+    "volcano",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The first colonial city of the tropics at Cidade Velha, the 2,829 m cone of Pico do Fogo rising from its caldera and the black-sand bay of Tarrafal on the island of Santiago.",
+    "hu": "A trópusok első gyarmati városa Cidade Velhában, a Pico do Fogo 2829 méteres kúpja a kalderából és Tarrafal fekete homokos öble Santiago szigetén."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Santiago and Fogo loop",
+      "hu": "Santiago–Fogo kör"
+     },
+     "desc": {
+      "en": "Cidade Velha, the Fogo volcano and Tarrafal.",
+      "hu": "Cidade Velha, a Fogo vulkán és Tarrafal."
+     },
+     "pts": [
+      "GVNP",
+      [
+       "Cidade Velha",
+       14.915,
+       -23.605
+      ],
+      [
+       "Pico do Fogo",
+       14.95,
+       -24.34
+      ],
+      [
+       "~",
+       15.0549,
+       -24.3663
+      ],
+      [
+       "Tarrafal",
+       15.28,
+       -23.75
+      ],
+      "GVNP"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Cidade Velha Cidade Velha Zöld-foki gyarmati Pico do Fogo Fogo vulkán Zöld-foki Tarrafal Tarrafal Santiago fekete strand",
+   "img": "Pico do Fogo|Cidade Velha"
+  },
+  {
+   "id": "bazaruto",
+   "continent": "AF",
+   "country": {
+    "en": "Mozambique",
+    "hu": "Mozambik"
+   },
+   "name": {
+    "en": "Bazaruto Archipelago",
+    "hu": "Bazaruto-szigetcsoport"
+   },
+   "main": {
+    "en": "Bazaruto Island Dunes",
+    "hu": "Bazaruto-sziget dűnéi",
+    "lat": -21.65,
+    "lon": 35.47
+   },
+   "tags": [
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "A string of sand-dune islands off Vilanculo, ringed by coral reefs, home to dugongs and white-sand bays on the edge of the Indian Ocean.",
+    "hu": "Homokdűnés szigetek füzére Vilanculo előtt, korallzátonyokkal övezve, dugongok otthona, fehér homokos öblökkel az Indiai-óceán szélén."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 1500,
+     "stol": false,
+     "label": {
+      "en": "Archipelago loop",
+      "hu": "Szigetcsoport-kör"
+     },
+     "desc": {
+      "en": "Bazaruto, Benguerra and Magaruque.",
+      "hu": "Bazaruto, Benguerra és Magaruque."
+     },
+     "pts": [
+      "FQVL",
+      [
+       "Bazaruto Island Dunes",
+       -21.65,
+       35.47
+      ],
+      [
+       "~",
+       -21.6586,
+       35.5189
+      ],
+      [
+       "Benguerra Island",
+       -21.835,
+       35.47
+      ],
+      [
+       "Magaruque Island",
+       -21.95,
+       35.44
+      ],
+      "FQVL"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Bazaruto-sziget dűnéi Bazaruto dűne sziget Mozambik Benguerra-sziget Benguerra sziget Magaruque-sziget Magaruque sziget",
+   "img": "Bazaruto Archipelago|Bazaruto Island"
+  },
+  {
+   "id": "lake-malawi",
+   "continent": "AF",
+   "country": {
+    "en": "Malawi",
+    "hu": "Malawi"
+   },
+   "name": {
+    "en": "Lake Malawi",
+    "hu": "Malawi-tó"
+   },
+   "main": {
+    "en": "Cape Maclear",
+    "hu": "Cape Maclear",
+    "lat": -14.017,
+    "lon": 34.833
+   },
+   "tags": [
+    "coast",
+    "mountain",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The great freshwater Lake of Stars: the golden shore of Senga Bay, the cichlid-filled waters of Lake Malawi National Park at Cape Maclear and the granite heights of Dedza.",
+    "hu": "A csillagok nagy édesvízi tava: a Senga-öböl aranyló partja, a Malawi-tó Nemzeti Park cichlidákkal teli vizei Cape Maclearnél és Dedza gránit hegyvonulata."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 7500,
+     "stol": false,
+     "label": {
+      "en": "Lake of Stars loop",
+      "hu": "A csillagok tava kör"
+     },
+     "desc": {
+      "en": "Senga Bay, Cape Maclear and Dedza.",
+      "hu": "Senga-öböl, Cape Maclear és Dedza."
+     },
+     "pts": [
+      "FWKI",
+      [
+       "Senga Bay",
+       -13.717,
+       34.633
+      ],
+      [
+       "Cape Maclear",
+       -14.017,
+       34.833
+      ],
+      [
+       "Dedza Mountain",
+       -14.35,
+       34.27
+      ],
+      "FWKI"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Senga-öböl Senga Bay Malawi tó Cape Maclear Cape Maclear Malawi tó nemzeti park Dedza-hegy Dedza hegy Malawi",
+   "img": "Lake Malawi|Lake Malawi National Park"
+  },
+  {
+   "id": "kolmanskop",
+   "continent": "AF",
+   "country": {
+    "en": "Namibia",
+    "hu": "Namíbia"
+   },
+   "name": {
+    "en": "Lüderitz and Kolmanskop",
+    "hu": "Lüderitz és Kolmanskop"
+   },
+   "main": {
+    "en": "Kolmanskop Ghost Town",
+    "hu": "Kolmanskop szellemváros",
+    "lat": -26.705,
+    "lon": 15.229
+   },
+   "tags": [
+    "culture",
+    "coast",
+    "desert"
+   ],
+   "desc": {
+    "en": "A diamond-rush ghost town swallowed by the Namib dunes, the Art Nouveau harbour of Lüderitz, the windswept Diaz Point and the forbidden Sperrgebiet coast.",
+    "hu": "Egy gyémántláz szellemvárosa, amelyet elnyelnek a Namib dűnéi, Lüderitz szecessziós kikötője, a szélfútta Diaz-fok és a tiltott Sperrgebiet part."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Diamond coast loop",
+      "hu": "Gyémántpart-kör"
+     },
+     "desc": {
+      "en": "Kolmanskop, Elizabeth Bay, Diaz Point and Lüderitz.",
+      "hu": "Kolmanskop, Elizabeth Bay, a Diaz-fok és Lüderitz."
+     },
+     "pts": [
+      "FYLZ",
+      [
+       "Lüderitz",
+       -26.6481,
+       15.1594
+      ],
+      [
+       "Diaz Point",
+       -26.636,
+       15.099
+      ],
+      [
+       "Elizabeth Bay",
+       -26.94,
+       15.13
+      ],
+      [
+       "~",
+       -26.9484,
+       15.1998
+      ],
+      [
+       "Kolmanskop Ghost Town",
+       -26.705,
+       15.229
+      ],
+      "FYLZ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Lüderitz Lüderitz szecessziós kikötő Diaz-fok Diaz Point Lüderitz kereszt Elizabeth Bay Elizabeth Bay szellemváros gyémánt Kolmanskop szellemváros Kolmanskop szellemváros Namíbia",
+   "img": "Kolmanskop|Lüderitz"
+  },
+  {
+   "id": "mount-kenya",
+   "continent": "AF",
+   "country": {
+    "en": "Kenya",
+    "hu": "Kenya"
+   },
+   "name": {
+    "en": "Mount Kenya and Laikipia",
+    "hu": "Kenya-hegy és Laikipia"
+   },
+   "main": {
+    "en": "Mount Kenya",
+    "hu": "Kenya-hegy",
+    "lat": -0.152,
+    "lon": 37.308
+   },
+   "tags": [
+    "mountain",
+    "wildlife",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Africa's second-highest peak, a glaciated equatorial massif at 5,199 m, with the rhino sanctuary of Ol Pejeta and the wildlife plains of Lewa below.",
+    "hu": "Afrika második legmagasabb csúcsa, 5199 méteres gleccseres egyenlítői hegytömb, alatta az Ol Pejeta orrszarvú-rezervátuma és Lewa vadonja."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 15500,
+     "stol": false,
+     "label": {
+      "en": "Equatorial peaks loop",
+      "hu": "Egyenlítői csúcsok köre"
+     },
+     "desc": {
+      "en": "Mount Kenya, Lewa, Ol Pejeta and the Aberdares.",
+      "hu": "A Kenya-hegy, Lewa, Ol Pejeta és az Aberdare-hegység."
+     },
+     "pts": [
+      "HKNL",
+      [
+       "Ol Pejeta Conservancy",
+       0.017,
+       36.96
+      ],
+      [
+       "Mount Satima",
+       -0.36,
+       36.7
+      ],
+      [
+       "~",
+       -0.446,
+       36.7652
+      ],
+      [
+       "Mount Kenya",
+       -0.152,
+       37.308
+      ],
+      [
+       "Lewa Wildlife Conservancy",
+       0.2,
+       37.42
+      ],
+      [
+       "~",
+       0.2549,
+       37.3457
+      ],
+      "HKNL"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Ol Pejeta rezervátum Ol Pejeta orrszarvú szentély Satima-hegy Aberdare Satima hegy Kenya-hegy Kenya hegy gleccser Egyenlítő Lewa vadrezervátum Lewa Conservancy orrszarvú",
+   "img": "Mount Kenya|Ol Pejeta Conservancy"
+  },
+  {
+   "id": "dakar-saloum",
+   "continent": "AF",
+   "country": {
+    "en": "Senegal",
+    "hu": "Szenegál"
+   },
+   "name": {
+    "en": "Dakar and the Saloum Delta",
+    "hu": "Dakar és a Saloum-delta"
+   },
+   "main": {
+    "en": "Gorée Island",
+    "hu": "Gorée-sziget",
+    "lat": 14.667,
+    "lon": -17.399
+   },
+   "tags": [
+    "culture",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The memorial island of Gorée, the pink waters of Lac Rose, Dakar's colossal African Renaissance Monument and the shell-built island of Fadiouth in the Saloum Delta.",
+    "hu": "Gorée emlékszigete, a Lac Rose rózsaszín vize, Dakar monumentális Afrikai Reneszánsz Emlékműve és a kagylókból épült Fadiouth-sziget a Saloum-deltában."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Cap-Vert and Saloum loop",
+      "hu": "Cap-Vert és Saloum kör"
+     },
+     "desc": {
+      "en": "Lac Rose, Gorée, the monument and Fadiouth.",
+      "hu": "Lac Rose, Gorée, az emlékmű és Fadiouth."
+     },
+     "pts": [
+      "GOBD",
+      [
+       "Lac Rose",
+       14.84,
+       -17.23
+      ],
+      [
+       "African Renaissance Monument",
+       14.722,
+       -17.49
+      ],
+      [
+       "~",
+       14.6861,
+       -17.4922
+      ],
+      [
+       "Gorée Island",
+       14.667,
+       -17.399
+      ],
+      [
+       "Fadiouth",
+       14.15,
+       -16.84
+      ],
+      [
+       "~",
+       14.2117,
+       -16.7487
+      ],
+      "GOBD"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Lac Rose Lac Rose Retba rózsaszín tó Afrikai Reneszánsz Emlékmű Afrikai reneszánsz emlékmű Dakar Gorée-sziget Gorée sziget rabszolga ház Fadiouth Fadiouth kagylósziget",
+   "img": "Gorée|Lake Retba"
+  },
+  {
+   "id": "hoggar",
+   "continent": "AF",
+   "country": {
+    "en": "Algeria",
+    "hu": "Algéria"
+   },
+   "name": {
+    "en": "Hoggar Mountains",
+    "hu": "Hoggar-hegység"
+   },
+   "main": {
+    "en": "Assekrem Hermitage",
+    "hu": "Assekrem remetelak",
+    "lat": 23.27,
+    "lon": 5.63
+   },
+   "tags": [
+    "mountain",
+    "desert",
+    "volcano"
+   ],
+   "desc": {
+    "en": "The volcanic spires of the Atakor in the heart of the Sahara, Charles de Foucauld's hermitage on the Assekrem plateau and the 2,908 m summit of Mount Tahat.",
+    "hu": "Az Atakor vulkáni tűi a Szahara szívében, Charles de Foucauld remetelaka az Assekrem-fennsíkon és a Tahat 2908 méteres csúcsa."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 11500,
+     "stol": false,
+     "label": {
+      "en": "Atakor loop",
+      "hu": "Atakor-kör"
+     },
+     "desc": {
+      "en": "The Assekrem plateau, Mount Tahat and Abalessa.",
+      "hu": "Az Assekrem-fennsík, a Tahat és Abalessa."
+     },
+     "pts": [
+      "DAAT",
+      [
+       "Abalessa",
+       22.9,
+       4.83
+      ],
+      [
+       "~",
+       23.0066,
+       4.8118
+      ],
+      [
+       "Assekrem Hermitage",
+       23.27,
+       5.63
+      ],
+      [
+       "Mount Tahat",
+       23.2833,
+       5.8167
+      ],
+      [
+       "~",
+       23.2459,
+       5.8397
+      ],
+      "DAAT"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Abalessa Abalessa Tin Hinan sírja Assekrem remetelak Assekrem remetelak Foucauld Tahat-hegy Tahat hegy Hoggar Algéria",
+   "img": "Hoggar Mountains|Assekrem"
+  },
+  {
+   "id": "socotra",
+   "continent": "AS",
+   "country": {
+    "en": "Yemen",
+    "hu": "Jemen"
+   },
+   "name": {
+    "en": "Socotra",
+    "hu": "Szokotra"
+   },
+   "main": {
+    "en": "Dixam Plateau Dragon Blood Trees",
+    "hu": "Dixam-fennsík sárkányvérfái",
+    "lat": 12.48,
+    "lon": 54.02
+   },
+   "tags": [
+    "island",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The alien island of the Indian Ocean: umbrella-shaped dragon blood trees on the Dixam Plateau, the Detwah Lagoon and the huge white dunes of the coast.",
+    "hu": "Az Indiai-óceán földönkívüli szigete: ernyő alakú sárkányvérfák a Dixam-fennsíkon, a Detwah-lagúna és a part hatalmas fehér dűnéi."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Island loop",
+      "hu": "Szigetkör"
+     },
+     "desc": {
+      "en": "Hadibu, Dixam, Detwah and Qalansiyah.",
+      "hu": "Hadibu, Dixam, Detwah és Qalansiyah."
+     },
+     "pts": [
+      "OYSQ",
+      [
+       "Hadibu",
+       12.65,
+       54.02
+      ],
+      [
+       "Detwah Lagoon",
+       12.63,
+       54.285
+      ],
+      [
+       "~",
+       12.5668,
+       54.2998
+      ],
+      [
+       "Dixam Plateau",
+       12.48,
+       54.02
+      ],
+      [
+       "Qalansiyah",
+       12.69,
+       53.49
+      ],
+      [
+       "~",
+       12.789,
+       53.5174
+      ],
+      "OYSQ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Hadibu Hadibu Szokotra főváros Detwah-lagúna Detwah lagúna Szokotra Dixam-fennsík Dixam fennsík sárkányvérfa Szokotra Qalansiyah Qalansiyah Szokotra part",
+   "img": "Socotra|Dracaena cinnabari"
+  },
+  {
+   "id": "persepolis",
+   "continent": "AS",
+   "country": {
+    "en": "Iran",
+    "hu": "Irán"
+   },
+   "name": {
+    "en": "Shiraz and Persepolis",
+    "hu": "Shiraz és Perszepolisz"
+   },
+   "main": {
+    "en": "Persepolis",
+    "hu": "Perszepolisz",
+    "lat": 29.935,
+    "lon": 52.892
+   },
+   "tags": [
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The ceremonial capital of the Achaemenid Empire, the rock tombs of Naqsh-e Rustam, the tomb of Cyrus at Pasargadae and the rose gardens of Shiraz.",
+    "hu": "Az Akhaimenida Birodalom szertartási fővárosa, a Naqsh-e Rustam sziklasírjai, Küroszsírja Pasargadaiban és Shiraz rózsakertjei."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Persian empire loop",
+      "hu": "Perzsa birodalom kör"
+     },
+     "desc": {
+      "en": "Persepolis, Naqsh-e Rustam, Pasargadae and Shiraz.",
+      "hu": "Perszepolisz, Naqsh-e Rustam, Pasargadai és Shiraz."
+     },
+     "pts": [
+      "OISS",
+      [
+       "Pasargadae",
+       30.195,
+       53.167
+      ],
+      [
+       "~",
+       30.2516,
+       53.0992
+      ],
+      [
+       "Naqsh-e Rustam",
+       29.989,
+       52.875
+      ],
+      [
+       "Persepolis",
+       29.935,
+       52.892
+      ],
+      [
+       "Eram Garden",
+       29.633,
+       52.528
+      ],
+      "OISS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Pasargadai Pasargadai Küroszsír Naqsh-e Rustam Naqsh-e Rustam sziklasír Perszepolisz Perszepolisz Akhaimenida Eram-kert Eram kert Shiraz",
+   "img": "Persepolis|Naqsh-e Rustam"
+  },
+  {
+   "id": "musandam",
+   "continent": "AS",
+   "country": {
+    "en": "Oman",
+    "hu": "Omán"
+   },
+   "name": {
+    "en": "Musandam Fjords",
+    "hu": "Musandam-fjordok"
+   },
+   "main": {
+    "en": "Khor Najd",
+    "hu": "Khor Najd",
+    "lat": 26.283,
+    "lon": 56.383
+   },
+   "tags": [
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The Norway of Arabia: jagged limestone fjords plunging into the Strait of Hormuz, the Portuguese fort of Khasab and the remote village of Kumzar.",
+    "hu": "Arábia Norvégiája: szaggatott mészkő fjordok zuhannak a Hormuzi-szorosba, Khasab portugál erődje és Kumzar távoli falva."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Fjord loop",
+      "hu": "Fjord-kör"
+     },
+     "desc": {
+      "en": "Khasab, Khor Najd, Kumzar and Jebel Harim.",
+      "hu": "Khasab, Khor Najd, Kumzar és a Jebel Harim."
+     },
+     "pts": [
+      "OOKB",
+      [
+       "Jebel Harim",
+       26.083,
+       56.283
+      ],
+      [
+       "~",
+       26.0828,
+       56.3231
+      ],
+      [
+       "Khor Najd",
+       26.283,
+       56.383
+      ],
+      [
+       "Kumzar",
+       26.379,
+       56.4
+      ],
+      [
+       "~",
+       26.3925,
+       56.3628
+      ],
+      [
+       "Khasab Fort",
+       26.18,
+       56.245
+      ],
+      "OOKB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Jebel Harim Jebel Harim Musandam hegy Khor Najd Khor Najd fjord Musandam Kumzar Kumzar falu Musandam Khasab erőd Khasab erőd portugál",
+   "img": "Musandam Governorate|Khasab"
+  },
+  {
+   "id": "k2-karakoram",
+   "continent": "AS",
+   "country": {
+    "en": "Pakistan",
+    "hu": "Pakisztán"
+   },
+   "name": {
+    "en": "K2 and the Karakoram",
+    "hu": "K2 és a Karakorum"
+   },
+   "main": {
+    "en": "K2",
+    "hu": "K2",
+    "lat": 35.8825,
+    "lon": 76.5133
+   },
+   "tags": [
+    "mountain",
+    "glacier"
+   ],
+   "desc": {
+    "en": "The second-highest mountain on Earth, the Baltoro Glacier, the high Deosai Plains and the killer mountain Nanga Parbat, all around Skardu.",
+    "hu": "A Föld második legmagasabb hegye, a Baltoro-gleccser, a magas Deosai-fennsík és a gyilkos hegy, a Nanga Parbat, mind Skardu körül."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 19000,
+     "stol": false,
+     "label": {
+      "en": "Roof of the world loop",
+      "hu": "A világ teteje kör"
+     },
+     "desc": {
+      "en": "K2, the Baltoro, Deosai and Nanga Parbat.",
+      "hu": "A K2, a Baltoro, Deosai és a Nanga Parbat."
+     },
+     "pts": [
+      "OPSD",
+      [
+       "Baltoro Glacier",
+       35.73,
+       76.25
+      ],
+      [
+       "K2",
+       35.8825,
+       76.5133
+      ],
+      [
+       "~",
+       35.94,
+       76.4744
+      ],
+      [
+       "Nanga Parbat",
+       35.2375,
+       74.5892
+      ],
+      [
+       "~",
+       35.1297,
+       74.5949
+      ],
+      [
+       "Deosai Plains",
+       35.0,
+       75.4167
+      ],
+      "OPSD"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Baltoro-gleccser Baltoro gleccser Concordia K2 K2 hegy Karakorum Nanga Parbat Nanga Parbat hegy Deosai-fennsík Deosai fennsík Pakisztán",
+   "img": "K2|Baltoro Glacier"
+  },
+  {
+   "id": "issyk-kul",
+   "continent": "AS",
+   "country": {
+    "en": "Kyrgyzstan",
+    "hu": "Kirgizisztán"
+   },
+   "name": {
+    "en": "Issyk-Kul",
+    "hu": "Issyk-Kul"
+   },
+   "main": {
+    "en": "Cholpon-Ata Petroglyphs",
+    "hu": "Cholpon-Ata sziklarajzai",
+    "lat": 42.65,
+    "lon": 77.08
+   },
+   "tags": [
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The second-largest alpine lake in the world, never frozen despite its altitude, ringed by the snowy Tian Shan, the red rocks of Skazka Canyon and the Jeti-Ögüz cliffs.",
+    "hu": "A világ második legnagyobb hegyi tava, magassága ellenére sosem fagy be, a havas Tien-san gyűrűjében, a Skazka-kanyon vörös szikláival és a Jeti-Ögüz sziklafalaival."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Lake and Tian Shan loop",
+      "hu": "Tó és Tien-san kör"
+     },
+     "desc": {
+      "en": "Cholpon-Ata, Karakol, Jeti-Ögüz and Skazka.",
+      "hu": "Cholpon-Ata, Karakol, Jeti-Ögüz és Skazka."
+     },
+     "pts": [
+      "UCFL",
+      [
+       "Skazka Canyon",
+       42.2,
+       77.0
+      ],
+      [
+       "Jeti-Ögüz",
+       42.34,
+       78.18
+      ],
+      [
+       "Karakol",
+       42.49,
+       78.393
+      ],
+      [
+       "~",
+       42.542,
+       78.3715
+      ],
+      [
+       "Cholpon-Ata Petroglyphs",
+       42.65,
+       77.08
+      ],
+      "UCFL"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Skazka-kanyon Skazka kanyon Mesekanyon Jeti-Ögüz Jeti-Oguz hét bika szikla Karakol Karakol Issyk-Kul város Cholpon-Ata sziklarajzai Cholpon-Ata petroglif Issyk-Kul",
+   "img": "Issyk-Kul|Jeti-Ögüz"
+  },
+  {
+   "id": "fann-mountains",
+   "continent": "AS",
+   "country": {
+    "en": "Tajikistan",
+    "hu": "Tádzsikisztán"
+   },
+   "name": {
+    "en": "Dushanbe and the Fann Mountains",
+    "hu": "Dusanbe és a Fan-hegység"
+   },
+   "main": {
+    "en": "Iskanderkul",
+    "hu": "Iszkanderkul",
+    "lat": 39.07,
+    "lon": 68.36
+   },
+   "tags": [
+    "mountain",
+    "culture"
+   ],
+   "desc": {
+    "en": "The turquoise Alexander's Lake of Iskanderkul under the glaciated Fann Mountains, the 5,489 m Chimtarga and the old fortress of Hissar near Dushanbe.",
+    "hu": "Az Iszkanderkul türkiz Nagy Sándor-tava a gleccseres Fan-hegység alatt, az 5489 méteres Csimtarga és a hisszári erőd Dusanbe mellett."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 14000,
+     "stol": false,
+     "label": {
+      "en": "Fann Mountains loop",
+      "hu": "Fan-hegység kör"
+     },
+     "desc": {
+      "en": "Hissar, Iskanderkul and Chimtarga.",
+      "hu": "Hissar, Iszkanderkul és a Csimtarga."
+     },
+     "pts": [
+      "UTDD",
+      [
+       "Hissar Fortress",
+       38.53,
+       68.56
+      ],
+      [
+       "Chimtarga",
+       39.11,
+       68.1
+      ],
+      [
+       "~",
+       39.1522,
+       68.1378
+      ],
+      [
+       "Iskanderkul",
+       39.07,
+       68.36
+      ],
+      "UTDD"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Hisszári erőd Hissar erőd Tádzsikisztán Csimtarga Chimtarga csúcs Fan hegység Iszkanderkul Iskanderkul Nagy Sándor tó",
+   "img": "Iskanderkul|Fann Mountains"
+  },
+  {
+   "id": "darvaza",
+   "continent": "AS",
+   "country": {
+    "en": "Turkmenistan",
+    "hu": "Türkmenisztán"
+   },
+   "name": {
+    "en": "Ashgabat and the Gates of Hell",
+    "hu": "Asgabat és a Pokol kapuja"
+   },
+   "main": {
+    "en": "Darvaza Gas Crater",
+    "hu": "Darvaza gázkráter",
+    "lat": 40.2525,
+    "lon": 58.4397
+   },
+   "tags": [
+    "culture",
+    "desert"
+   ],
+   "desc": {
+    "en": "The white marble capital of Ashgabat, the ruins of Parthian Nisa under the Kopet Dag and the burning Darvaza gas crater in the middle of the Karakum Desert.",
+    "hu": "Asgabat fehér márványfővárosa, a pártus Nisa romjai a Kopet-dag alatt és az égő Darvaza gázkráter a Karakum sivatag közepén."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 8000,
+     "stol": false,
+     "label": {
+      "en": "Karakum loop",
+      "hu": "Karakum-kör"
+     },
+     "desc": {
+      "en": "Ashgabat, Nisa and the burning crater of Darvaza.",
+      "hu": "Asgabat, Nisa és Darvaza égő krátere."
+     },
+     "pts": [
+      "UTAA",
+      [
+       "Darvaza Gas Crater",
+       40.2525,
+       58.4397
+      ],
+      [
+       "~",
+       40.2647,
+       58.2992
+      ],
+      [
+       "Nisa Fortress",
+       37.979,
+       58.202
+      ],
+      [
+       "Arch of Neutrality",
+       37.94,
+       58.383
+      ],
+      [
+       "~",
+       37.9665,
+       58.4138
+      ],
+      "UTAA"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Darvaza gázkráter Darvaza gázkráter Pokol kapuja Nisa erőd Nisa pártus erőd Semlegesség íve Semlegesség íve Asgabat",
+   "img": "Darvaza gas crater|Ashgabat"
+  },
+  {
+   "id": "bukhara",
+   "continent": "AS",
+   "country": {
+    "en": "Uzbekistan",
+    "hu": "Üzbegisztán"
+   },
+   "name": {
+    "en": "Bukhara and the Silk Road",
+    "hu": "Buhara és a Selyemút"
+   },
+   "main": {
+    "en": "Po-i-Kalyan Ensemble",
+    "hu": "Po-i-Kalyan együttes",
+    "lat": 39.775,
+    "lon": 64.414
+   },
+   "tags": [
+    "culture",
+    "city",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The holy city of Bukhara with its Kalyan minaret and the Ark fortress, the potters of Gijduvan and Shakhrisabz, the birthplace of Tamerlane and his ruined Ak-Saray palace.",
+    "hu": "A szent város, Buhara a Kalyan-minarettel és az Ark erőddel, Gijduvan fazekasai és Samarkand mellett Sahrisabz, Timur szülővárosa romos Ak-Saray palotájával."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 6000,
+     "stol": false,
+     "label": {
+      "en": "Silk Road loop",
+      "hu": "Selyemút-kör"
+     },
+     "desc": {
+      "en": "Bukhara, Gijduvan and Shakhrisabz.",
+      "hu": "Buhara, Gijduvan és Sahrisabz."
+     },
+     "pts": [
+      "UTSB",
+      [
+       "Shakhrisabz",
+       39.056,
+       66.833
+      ],
+      [
+       "~",
+       39.1523,
+       66.8959
+      ],
+      [
+       "Gijduvan",
+       40.1,
+       64.68
+      ],
+      [
+       "Po-i-Kalyan Ensemble",
+       39.775,
+       64.414
+      ],
+      [
+       "~",
+       39.7436,
+       64.4367
+      ],
+      "UTSB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Sahrisabz Shahrisabz Ak-Saray Timur Gijduvan Gijduvan fazekas medresze Po-i-Kalyan együttes Kalyan minaret Buhara",
+   "img": "Po-i-Kalyan|Bukhara"
+  },
+  {
+   "id": "altai",
+   "continent": "AS",
+   "country": {
+    "en": "Russia",
+    "hu": "Oroszország"
+   },
+   "name": {
+    "en": "Altai Mountains",
+    "hu": "Altaj-hegység"
+   },
+   "main": {
+    "en": "Mount Belukha",
+    "hu": "Belukha-hegy",
+    "lat": 49.807,
+    "lon": 86.59
+   },
+   "tags": [
+    "mountain",
+    "lake",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Golden Mountains of Altai: the twin-peaked 4,506 m Belukha, the deep blue Lake Teletskoye and the Katun River flowing through the green valley of Chemal.",
+    "hu": "Az Altaj Arany-hegyei: a kétcsúcsú, 4506 méteres Belukha, a mélykék Teleckoje-tó és a Katun folyó Csemal zöld völgyében."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Golden Mountains loop",
+      "hu": "Arany-hegyek kör"
+     },
+     "desc": {
+      "en": "Chemal, Teletskoye, Belukha and the Seminsky Pass.",
+      "hu": "Csemal, Teleckoje, Belukha és a Szeminszkij-hágó."
+     },
+     "pts": [
+      "UNBG",
+      [
+       "Chemal",
+       51.417,
+       85.983
+      ],
+      [
+       "Seminsky Pass",
+       51.03,
+       85.65
+      ],
+      [
+       "Mount Belukha",
+       49.807,
+       86.59
+      ],
+      [
+       "~",
+       49.8104,
+       86.7571
+      ],
+      [
+       "Lake Teletskoye",
+       51.45,
+       87.7
+      ],
+      "UNBG"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Csemal Csemal Katun folyó Altaj Szeminszkij-hágó Seminsky hágó Altaj Belukha-hegy Belukha hegy Altaj Teleckoje-tó Teletskoye tó Altaj",
+   "img": "Belukha Mountain|Lake Teletskoye"
+  },
+  {
+   "id": "tibet-lhasa",
+   "continent": "AS",
+   "country": {
+    "en": "China",
+    "hu": "Kína"
+   },
+   "name": {
+    "en": "Lhasa and Tibet",
+    "hu": "Lhásza és Tibet"
+   },
+   "main": {
+    "en": "Potala Palace",
+    "hu": "Potala-palota",
+    "lat": 29.6578,
+    "lon": 91.1175
+   },
+   "tags": [
+    "culture",
+    "mountain",
+    "lake",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Potala Palace above the roof-of-the-world capital, the monasteries of Drepung and Samye and the sacred turquoise Yamdrok Lake beneath snow peaks.",
+    "hu": "A Potala-palota a világ tetejének fővárosa felett, a Drepung és a Samye kolostor, valamint a szent türkiz Yamdrok-tó a havas csúcsok alatt."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 17000,
+     "stol": false,
+     "label": {
+      "en": "Tibetan plateau loop",
+      "hu": "Tibeti fennsík kör"
+     },
+     "desc": {
+      "en": "The Potala, Drepung, Samye and Yamdrok Lake.",
+      "hu": "A Potala, a Drepung, a Samye és a Yamdrok-tó."
+     },
+     "pts": [
+      "ZULS",
+      [
+       "Drepung Monastery",
+       29.697,
+       91.053
+      ],
+      [
+       "Potala Palace",
+       29.6578,
+       91.1175
+      ],
+      [
+       "Samye Monastery",
+       29.3167,
+       91.5167
+      ],
+      [
+       "Yamdrok Lake",
+       28.983,
+       90.45
+      ],
+      [
+       "~",
+       29.0776,
+       90.3906
+      ],
+      "ZULS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Drepung kolostor Drepung kolostor Lhásza Potala-palota Potala palota Lhásza Samye kolostor Samye kolostor Tibet Yamdrok-tó Yamdrok tó Tibet",
+   "img": "Potala Palace|Yamdrok Lake"
+  },
+  {
+   "id": "luang-prabang",
+   "continent": "AS",
+   "country": {
+    "en": "Laos",
+    "hu": "Laosz"
+   },
+   "name": {
+    "en": "Luang Prabang",
+    "hu": "Luang Prabang"
+   },
+   "main": {
+    "en": "Kuang Si Falls",
+    "hu": "Kuang Si-vízesés",
+    "lat": 19.75,
+    "lon": 101.993
+   },
+   "tags": [
+    "culture",
+    "river",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The old royal city at the meeting of the Mekong and the Nam Khan, the sacred Pak Ou caves full of Buddhas and the turquoise tiers of the Kuang Si Falls.",
+    "hu": "A régi királyi város a Mekong és a Nam Khan összefolyásánál, a Buddha-szobrokkal teli szent Pak Ou barlangok és a Kuang Si-vízesés türkiz teraszai."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Mekong and falls loop",
+      "hu": "Mekong és vízesés kör"
+     },
+     "desc": {
+      "en": "Mount Phousi, the Pak Ou caves and Kuang Si.",
+      "hu": "A Phousi-hegy, a Pak Ou barlangok és a Kuang Si."
+     },
+     "pts": [
+      "VLLB",
+      [
+       "Mount Phousi",
+       19.892,
+       102.136
+      ],
+      [
+       "Kuang Si Falls",
+       19.75,
+       101.993
+      ],
+      [
+       "~",
+       19.7804,
+       101.9523
+      ],
+      [
+       "Pak Ou Caves",
+       20.058,
+       102.209
+      ],
+      [
+       "~",
+       20.0396,
+       102.2464
+      ],
+      "VLLB"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Phousi-hegy Phousi hegy Luang Prabang Kuang Si-vízesés Kuang Si vízesés türkiz Pak Ou barlangok Pak Ou barlang Buddha Mekong",
+   "img": "Kuang Si Falls|Luang Prabang"
+  },
+  {
+   "id": "inle-lake",
+   "continent": "AS",
+   "country": {
+    "en": "Myanmar",
+    "hu": "Mianmar"
+   },
+   "name": {
+    "en": "Inle Lake",
+    "hu": "Inle-tó"
+   },
+   "main": {
+    "en": "Inle Lake",
+    "hu": "Inle-tó",
+    "lat": 20.55,
+    "lon": 96.9
+   },
+   "tags": [
+    "lake",
+    "culture",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The floating gardens and stilt villages of Inle Lake, the forest of stupas at Indein and the Buddha-filled limestone caves of Pindaya on the Shan Plateau.",
+    "hu": "Az Inle-tó lebegő kertjei és cölöpfalvai, az Indein sztúpaerdeje és a Pindaya Buddhával teli mészkőbarlangjai a Shan-fennsíkon."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Shan Plateau loop",
+      "hu": "Shan-fennsík kör"
+     },
+     "desc": {
+      "en": "Pindaya, Inle Lake and Indein.",
+      "hu": "Pindaya, az Inle-tó és Indein."
+     },
+     "pts": [
+      "VYHH",
+      [
+       "Inle Lake",
+       20.55,
+       96.9
+      ],
+      [
+       "Indein Pagodas",
+       20.43,
+       96.925
+      ],
+      [
+       "~",
+       20.4185,
+       96.8886
+      ],
+      [
+       "Pindaya Caves",
+       20.93,
+       96.66
+      ],
+      [
+       "~",
+       20.9562,
+       96.712
+      ],
+      "VYHH"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Inle-tó Inle tó lebegő kert halász Indein pagodák Indein pagoda erdő Pindaya barlangok Pindaya barlang Buddha",
+   "img": "Inle Lake|Pindaya"
+  },
+  {
+   "id": "lake-toba",
+   "continent": "AS",
+   "country": {
+    "en": "Indonesia",
+    "hu": "Indonézia"
+   },
+   "name": {
+    "en": "Lake Toba",
+    "hu": "Toba-tó"
+   },
+   "main": {
+    "en": "Lake Toba",
+    "hu": "Toba-tó",
+    "lat": 2.6,
+    "lon": 98.85
+   },
+   "tags": [
+    "lake",
+    "volcano",
+    "island"
+   ],
+   "desc": {
+    "en": "The largest volcanic lake on Earth, the Batak island of Samosir in its middle, the tall Sipiso-piso waterfall and the smoking cone of Mount Sinabung.",
+    "hu": "A Föld legnagyobb vulkáni tava, közepén a batak Samosir-sziget, a magas Sipiso-piso vízesés és a füstölgő Sinabung vulkán."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Caldera loop",
+      "hu": "Kaldera-kör"
+     },
+     "desc": {
+      "en": "Samosir, Sipiso-piso and Sinabung.",
+      "hu": "Samosir, Sipiso-piso és a Sinabung."
+     },
+     "pts": [
+      "WIMN",
+      [
+       "Sipiso-piso Waterfall",
+       2.92,
+       98.517
+      ],
+      [
+       "Mount Sinabung",
+       3.17,
+       98.392
+      ],
+      [
+       "~",
+       3.2089,
+       98.4501
+      ],
+      [
+       "Samosir Island",
+       2.6667,
+       98.8333
+      ],
+      "WIMN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Sipiso-piso vízesés Sipiso-piso vízesés Sinabung-vulkán Sinabung vulkán Szumátra Samosir-sziget Samosir sziget Toba batak",
+   "img": "Lake Toba|Samosir"
+  },
+  {
+   "id": "boracay-panay",
+   "continent": "AS",
+   "country": {
+    "en": "Philippines",
+    "hu": "Fülöp-szigetek"
+   },
+   "name": {
+    "en": "Boracay and Panay",
+    "hu": "Boracay és Panay"
+   },
+   "main": {
+    "en": "White Beach Boracay",
+    "hu": "Boracay White Beach",
+    "lat": 11.965,
+    "lon": 121.924
+   },
+   "tags": [
+    "island",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The powder-white sands of Boracay's White Beach, Puka Shell Beach, the busy Kalibo coast and the cloud-capped peak of Mount Madja-as on Panay.",
+    "hu": "Boracay púderfehér White Beach strandja, a Puka Shell-part, Kalibo forgalmas partja és a felhőbe burkolt Madja-as csúcs Panay szigetén."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Boracay and Panay loop",
+      "hu": "Boracay–Panay kör"
+     },
+     "desc": {
+      "en": "White Beach, Puka, Kalibo and Mount Madja-as.",
+      "hu": "White Beach, Puka, Kalibo és a Madja-as."
+     },
+     "pts": [
+      "RPVE",
+      [
+       "White Beach Boracay",
+       11.965,
+       121.924
+      ],
+      [
+       "Puka Shell Beach",
+       11.997,
+       121.917
+      ],
+      [
+       "~",
+       12.0172,
+       121.9474
+      ],
+      [
+       "Kalibo",
+       11.705,
+       122.364
+      ],
+      [
+       "Mount Madja-as",
+       11.27,
+       122.1
+      ],
+      [
+       "~",
+       11.2873,
+       121.9914
+      ],
+      "RPVE"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Boracay White Beach Boracay White Beach homok Puka Shell-part Puka Shell Beach Boracay Kalibo Kalibo Panay Ati-Atihan Madja-as-hegy Madja-as hegy Panay",
+   "img": "Boracay|White Beach (Boracay)"
+  },
+  {
+   "id": "bohol",
+   "continent": "AS",
+   "country": {
+    "en": "Philippines",
+    "hu": "Fülöp-szigetek"
+   },
+   "name": {
+    "en": "Bohol",
+    "hu": "Bohol"
+   },
+   "main": {
+    "en": "Chocolate Hills",
+    "hu": "Chocolate Hills",
+    "lat": 9.8,
+    "lon": 124.17
+   },
+   "tags": [
+    "island",
+    "coast",
+    "jungle"
+   ],
+   "desc": {
+    "en": "1,200 grass-covered domes that turn brown in the dry season, the tiny tarsiers of Corella, the Loboc River jungle and the white beaches of Panglao.",
+    "hu": "1200 füves kúp, amely a száraz évszakban barnára vált, Corella apró tarzierjei, a Loboc-folyó dzsungele és Panglao fehér strandjai."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Island highlights loop",
+      "hu": "Sziget-csúcspontok kör"
+     },
+     "desc": {
+      "en": "Alona, Corella, the Chocolate Hills and Balicasag.",
+      "hu": "Alona, Corella, a Chocolate Hills és Balicasag."
+     },
+     "pts": [
+      "RPSP",
+      [
+       "Loboc River",
+       9.64,
+       124.03
+      ],
+      [
+       "Chocolate Hills",
+       9.8,
+       124.17
+      ],
+      [
+       "~",
+       9.8414,
+       124.1366
+      ],
+      [
+       "Tarsier Sanctuary",
+       9.686,
+       123.95
+      ],
+      [
+       "Alona Beach",
+       9.54,
+       123.77
+      ],
+      [
+       "Balicasag Island",
+       9.517,
+       123.68
+      ],
+      [
+       "~",
+       9.55,
+       123.6655
+      ],
+      "RPSP"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Loboc-folyó Loboc folyó Bohol Chocolate Hills Chocolate Hills Bohol csokoládé dombok Tarzier-rezervátum Corella tarsier Bohol Alona Beach Alona Beach Panglao strand Balicasag-sziget Balicasag sziget búvár",
+   "img": "Chocolate Hills|Philippine tarsier"
+  },
+  {
+   "id": "lijiang",
+   "continent": "AS",
+   "country": {
+    "en": "China",
+    "hu": "Kína"
+   },
+   "name": {
+    "en": "Lijiang and Jade Dragon Snow Mountain",
+    "hu": "Lijiang és a Jádesárkány-hegy"
+   },
+   "main": {
+    "en": "Jade Dragon Snow Mountain",
+    "hu": "Jádesárkány-hegy",
+    "lat": 27.1,
+    "lon": 100.18
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The glaciated 5,596 m Jade Dragon Snow Mountain, the Naxi old town of Lijiang, the deep Tiger Leaping Gorge of the Yangtze and the matriarchal shores of Lugu Lake.",
+    "hu": "Az 5596 méteres, gleccseres Jádesárkány-hegy, Lijiang naxi óvárosa, a Jangce mély Tigrisugrás-szurdoka és a Lugu-tó anyajogú partjai."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 15000,
+     "stol": false,
+     "label": {
+      "en": "Yunnan highlands loop",
+      "hu": "Jünnani felföld kör"
+     },
+     "desc": {
+      "en": "Lijiang, the Jade Dragon, Tiger Leaping Gorge and Lugu Lake.",
+      "hu": "Lijiang, a Jádesárkány, a Tigrisugrás-szurdok és a Lugu-tó."
+     },
+     "pts": [
+      "ZPLJ",
+      [
+       "Lugu Lake",
+       27.7,
+       100.77
+      ],
+      [
+       "~",
+       27.7647,
+       100.6724
+      ],
+      [
+       "Tiger Leaping Gorge",
+       27.2,
+       100.12
+      ],
+      [
+       "Jade Dragon Snow Mountain",
+       27.1,
+       100.18
+      ],
+      [
+       "Lijiang Old Town",
+       26.87,
+       100.23
+      ],
+      "ZPLJ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Lugu-tó Lugu tó Mosuo Tigrisugrás-szurdok Tigrisugrás szurdok Jangce Jádesárkány-hegy Jade Dragon hegy Lijiang Lijiang óvárosa Lijiang óváros Naxi",
+   "img": "Jade Dragon Snow Mountain|Lijiang"
+  },
+  {
+   "id": "darjeeling-sikkim",
+   "continent": "AS",
+   "country": {
+    "en": "India",
+    "hu": "India"
+   },
+   "name": {
+    "en": "Darjeeling and Sikkim",
+    "hu": "Dardzsiling és Szikkim"
+   },
+   "main": {
+    "en": "Kangchenjunga",
+    "hu": "Kancsendzönga",
+    "lat": 27.7025,
+    "lon": 88.1475
+   },
+   "tags": [
+    "mountain",
+    "culture"
+   ],
+   "desc": {
+    "en": "The tea-terrace hill station of Darjeeling, Tiger Hill at sunrise, the Himalayan capital of Gangtok and the 8,586 m Kangchenjunga, the third-highest mountain on Earth.",
+    "hu": "A teaterasszos hegyi üdülőváros, Dardzsiling, a Tiger Hill napfelkeltekor, a himalájai főváros, Gangtok és az 8586 méteres Kancsendzönga, a Föld harmadik legmagasabb hegye."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 14000,
+     "stol": false,
+     "label": {
+      "en": "Teesta and Kangchenjunga loop",
+      "hu": "Teesta és Kancsendzönga kör"
+     },
+     "desc": {
+      "en": "Darjeeling, Gangtok and Kangchenjunga.",
+      "hu": "Dardzsiling, Gangtok és a Kancsendzönga."
+     },
+     "pts": [
+      "VEBD",
+      [
+       "Darjeeling",
+       27.036,
+       88.263
+      ],
+      [
+       "Kangchenjunga",
+       27.7025,
+       88.1475
+      ],
+      [
+       "~",
+       27.7536,
+       88.2549
+      ],
+      [
+       "Gangtok",
+       27.33,
+       88.61
+      ],
+      "VEBD"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Dardzsiling Darjeeling teaültetvény hegyi vasút Kancsendzönga Kancsendzönga hegy Gangtok Gangtok Szikkim főváros",
+   "img": "Kangchenjunga|Darjeeling"
+  },
+  {
+   "id": "estonia",
+   "continent": "EU",
+   "country": {
+    "en": "Estonia",
+    "hu": "Észtország"
+   },
+   "name": {
+    "en": "Estonia: Tallinn and the Islands",
+    "hu": "Észtország: Tallinn és a szigetek"
+   },
+   "main": {
+    "en": "Tallinn Old Town",
+    "hu": "Tallinn óvárosa",
+    "lat": 59.437,
+    "lon": 24.745
+   },
+   "tags": [
+    "city",
+    "island",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The medieval spires of Tallinn, the seaside town of Haapsalu, the castle of Kuressaare on Saaremaa and the meteorite crater of Kaali.",
+    "hu": "Tallinn középkori tornyai, a tengerparti Haapsalu, Kuressaare vára Saaremaa szigetén és a kaali meteoritkráter."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Baltic islands loop",
+      "hu": "Balti szigetek kör"
+     },
+     "desc": {
+      "en": "Tallinn, Haapsalu, Kuressaare and Kaali.",
+      "hu": "Tallinn, Haapsalu, Kuressaare és Kaali."
+     },
+     "pts": [
+      "EETN",
+      [
+       "Kuressaare Castle",
+       58.253,
+       22.49
+      ],
+      [
+       "~",
+       58.2785,
+       22.4366
+      ],
+      [
+       "Kaali Crater",
+       58.372,
+       22.669
+      ],
+      [
+       "Haapsalu",
+       58.94,
+       23.54
+      ],
+      [
+       "Tallinn Old Town",
+       59.437,
+       24.745
+      ],
+      "EETN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Kuressaare vára Kuressaare vár Saaremaa Kaali-kráter Kaali meteorit kráter Haapsalu Haapsalu vár Észtország Tallinn óvárosa Tallinn óváros középkori",
+   "img": "Tallinn Old Town|Kuressaare Castle"
+  },
+  {
+   "id": "ohrid",
+   "continent": "EU",
+   "country": {
+    "en": "North Macedonia",
+    "hu": "Észak-Macedónia"
+   },
+   "name": {
+    "en": "Lake Ohrid and Prespa",
+    "hu": "Ohridi- és Prespa-tó"
+   },
+   "main": {
+    "en": "Church of St. John at Kaneo",
+    "hu": "Kaneói Szent János-templom",
+    "lat": 41.11,
+    "lon": 20.79
+   },
+   "tags": [
+    "lake",
+    "mountain",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Europe's oldest lake: the cliff-top church of St. John at Kaneo, the monastery of Saint Naum, the Galičica ridge and the twin lake of Prespa.",
+    "hu": "Európa legrégebbi tava: a sziklaszirten álló Szent János-templom Kaneónál, a Szent Naum-kolostor, a Galicsica-gerinc és az ikertó, a Prespa."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Two lakes loop",
+      "hu": "Két tó kör"
+     },
+     "desc": {
+      "en": "Kaneo, St. Naum, Galičica and Lake Prespa.",
+      "hu": "Kaneo, Szent Naum, Galicsica és a Prespa-tó."
+     },
+     "pts": [
+      "LWOH",
+      [
+       "Church of St. John at Kaneo",
+       41.11,
+       20.79
+      ],
+      [
+       "Galičica",
+       40.95,
+       20.8
+      ],
+      [
+       "Saint Naum Monastery",
+       40.91,
+       20.74
+      ],
+      [
+       "~",
+       40.8761,
+       20.7559
+      ],
+      [
+       "Lake Prespa",
+       40.9,
+       21.05
+      ],
+      [
+       "~",
+       40.9518,
+       21.0779
+      ],
+      "LWOH"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Kaneói Szent János-templom Kaneo templom Ohrid Galicsica Galicsica hegy Ohrid Prespa Szent Naum-kolostor Szent Naum kolostor Ohrid Prespa-tó Prespa tó Macedónia",
+   "img": "Lake Ohrid|Church of St. John at Kaneo"
+  },
+  {
+   "id": "asturias",
+   "continent": "EU",
+   "country": {
+    "en": "Spain",
+    "hu": "Spanyolország"
+   },
+   "name": {
+    "en": "Asturias and the Picos de Europa",
+    "hu": "Asztúria és a Picos de Europa"
+   },
+   "main": {
+    "en": "Naranjo de Bulnes",
+    "hu": "Naranjo de Bulnes",
+    "lat": 43.202,
+    "lon": -4.818
+   },
+   "tags": [
+    "mountain",
+    "coast",
+    "culture"
+   ],
+   "desc": {
+    "en": "The limestone giants of the Picos de Europa, the glacial Covadonga Lakes, the Pre-Romanesque church of Santa María del Naranco and the wild Cape Peñas.",
+    "hu": "A Picos de Europa mészkő óriásai, a gleccsertavak Covadongánál, a preromán Santa María del Naranco-templom és a vad Peñas-fok."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 7500,
+     "stol": false,
+     "label": {
+      "en": "Green Spain loop",
+      "hu": "Zöld Spanyolország kör"
+     },
+     "desc": {
+      "en": "Covadonga, the Naranjo, Oviedo and Cape Peñas.",
+      "hu": "Covadonga, a Naranjo, Oviedo és a Peñas-fok."
+     },
+     "pts": [
+      "LEAS",
+      [
+       "Santa María del Naranco",
+       43.386,
+       -5.861
+      ],
+      [
+       "Naranjo de Bulnes",
+       43.202,
+       -4.818
+      ],
+      [
+       "~",
+       43.2354,
+       -4.7996
+      ],
+      [
+       "Covadonga Lakes",
+       43.274,
+       -4.987
+      ],
+      [
+       "Cape Peñas",
+       43.66,
+       -5.85
+      ],
+      "LEAS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Santa María del Naranco Naranco templom Oviedo Naranjo de Bulnes Naranjo de Bulnes Picos de Europa Covadonga-tavak Covadonga tavak Enol Ercina Peñas-fok Cabo Penas világítótorony",
+   "img": "Naranjo de Bulnes|Lakes of Covadonga"
+  },
+  {
+   "id": "kefalonia",
+   "continent": "EU",
+   "country": {
+    "en": "Greece",
+    "hu": "Görögország"
+   },
+   "name": {
+    "en": "Kefalonia and Zakynthos",
+    "hu": "Kefalónia és Zákinthosz"
+   },
+   "main": {
+    "en": "Myrtos Beach",
+    "hu": "Mirtosz-part",
+    "lat": 38.335,
+    "lon": 20.54
+   },
+   "tags": [
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "The dazzling white pebbles of Myrtos Beach, the subterranean lake of Melissani, Fiscardo harbour, homeric Ithaca and the shipwreck cove of Navagio on Zakynthos.",
+    "hu": "A Mirtosz-part vakítóan fehér kavicsai, a Melisszáni földalatti tava, Fiskardo kikötője, a homéroszi Ithaka és a Navagio hajóroncs-öböl Zákinthoszon."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Ionian islands loop",
+      "hu": "Jón-szigetek kör"
+     },
+     "desc": {
+      "en": "Myrtos, Fiscardo, Ithaca and Navagio.",
+      "hu": "Mirtosz, Fiskardo, Ithaka és Navagio."
+     },
+     "pts": [
+      "LGKF",
+      [
+       "Myrtos Beach",
+       38.335,
+       20.54
+      ],
+      [
+       "Fiscardo",
+       38.46,
+       20.58
+      ],
+      [
+       "Ithaca",
+       38.37,
+       20.72
+      ],
+      [
+       "Navagio Beach",
+       37.859,
+       20.624
+      ],
+      [
+       "~",
+       37.8517,
+       20.5363
+      ],
+      "LGKF"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Mirtosz-part Myrtos strand Kefalonia Fiskardo Fiskardo kikötő Kefalonia Ithaka Ithaka sziget Odüsszeusz Navagio-part Navagio hajóroncs strand Zakynthos",
+   "img": "Myrtos Beach|Navagio Beach"
+  },
+  {
+   "id": "halkidiki-athos",
+   "continent": "EU",
+   "country": {
+    "en": "Greece",
+    "hu": "Görögország"
+   },
+   "name": {
+    "en": "Halkidiki and Mount Athos",
+    "hu": "Halkidiki és az Athosz-hegy"
+   },
+   "main": {
+    "en": "Mount Athos",
+    "hu": "Athosz-hegy",
+    "lat": 40.158,
+    "lon": 24.327
+   },
+   "tags": [
+    "mountain",
+    "coast",
+    "culture",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The marble peak of Mount Athos above its 20 monasteries, the three prongs of Halkidiki, the forested Sithonia and the White Tower of Thessaloniki.",
+    "hu": "Az Athosz márványcsúcsa a húsz kolostor felett, Halkidiki három ujja, az erdős Szithónia és Thesszaloniki Fehér Tornya."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 7500,
+     "stol": false,
+     "label": {
+      "en": "Three peninsulas loop",
+      "hu": "Három félsziget kör"
+     },
+     "desc": {
+      "en": "Thessaloniki, Kassandra, Sithonia and Mount Athos.",
+      "hu": "Thesszaloniki, Kasszandra, Szithónia és az Athosz."
+     },
+     "pts": [
+      "LGTS",
+      [
+       "Kassandra",
+       39.98,
+       23.42
+      ],
+      [
+       "Sithonia",
+       40.15,
+       23.95
+      ],
+      [
+       "Mount Athos",
+       40.158,
+       24.327
+      ],
+      [
+       "~",
+       40.2286,
+       24.3456
+      ],
+      [
+       "White Tower of Thessaloniki",
+       40.626,
+       22.948
+      ],
+      "LGTS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Kasszandra Kasszandra félsziget Halkidiki Szithónia Szithónia Halkidiki félsziget Athosz-hegy Athosz szent hegy kolostor Thesszaloniki Fehér Torony Fehér Torony Thesszaloniki",
+   "img": "Mount Athos|Halkidiki"
+  },
+  {
+   "id": "trabzon-kackar",
+   "continent": "EU",
+   "country": {
+    "en": "Turkey",
+    "hu": "Törökország"
+   },
+   "name": {
+    "en": "Trabzon and the Kaçkar Mountains",
+    "hu": "Trabzon és a Kaçkar-hegység"
+   },
+   "main": {
+    "en": "Sumela Monastery",
+    "hu": "Sumela-kolostor",
+    "lat": 40.691,
+    "lon": 39.659
+   },
+   "tags": [
+    "mountain",
+    "culture",
+    "coast"
+   ],
+   "desc": {
+    "en": "The cliff-hanging Sumela Monastery, the forest lake of Uzungöl, the alpine Ayder plateau and the 3,937 m peaks of the Kaçkar Mountains above the Black Sea.",
+    "hu": "A sziklafalra tapadó Sumela-kolostor, az erdei Uzungöl-tó, az Ayder-fennsík és a Kaçkar-hegység 3937 méteres csúcsai a Fekete-tenger felett."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Black Sea peaks loop",
+      "hu": "Fekete-tengeri csúcsok kör"
+     },
+     "desc": {
+      "en": "Sumela, Uzungöl, the Kaçkar and Trabzon.",
+      "hu": "Sumela, Uzungöl, a Kaçkar és Trabzon."
+     },
+     "pts": [
+      "LTCG",
+      [
+       "Trabzon Hagia Sophia",
+       40.999,
+       39.688
+      ],
+      [
+       "Sumela Monastery",
+       40.691,
+       39.659
+      ],
+      [
+       "Uzungöl",
+       40.62,
+       40.297
+      ],
+      [
+       "Kaçkar Mountains",
+       40.835,
+       41.162
+      ],
+      [
+       "~",
+       40.9426,
+       41.1505
+      ],
+      "LTCG"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Trabzoni Hagia Sophia Hagia Sophia Trabzon Sumela-kolostor Sumela kolostor szikla Trabzon Uzungöl Uzungöl tó Rize Kaçkar-hegység Kaçkar hegység Ayder",
+   "img": "Sumela Monastery|Uzungöl"
+  },
+  {
+   "id": "auvergne",
+   "continent": "EU",
+   "country": {
+    "en": "France",
+    "hu": "Franciaország"
+   },
+   "name": {
+    "en": "Auvergne Volcanoes",
+    "hu": "Auvergne vulkánjai"
+   },
+   "main": {
+    "en": "Puy de Dôme",
+    "hu": "Puy de Dôme",
+    "lat": 45.772,
+    "lon": 2.964
+   },
+   "tags": [
+    "volcano",
+    "mountain",
+    "lake",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The Chaîne des Puys, a chain of 80 extinct volcanoes crowned by the Puy de Dôme, the crater lake of Pavin, Puy de Sancy and the vast cone of Puy Mary.",
+    "hu": "A Chaîne des Puys, 80 kialudt vulkán lánca a Puy de Dôme-mal, a Pavin kráterta, a Puy de Sancy és a hatalmas Puy Mary-kúp."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Volcano chain loop",
+      "hu": "Vulkánlánc kör"
+     },
+     "desc": {
+      "en": "Puy de Dôme, Sancy, Lac Pavin and Puy Mary.",
+      "hu": "Puy de Dôme, Sancy, a Pavin-tó és a Puy Mary."
+     },
+     "pts": [
+      "LFLC",
+      [
+       "Lac Pavin",
+       45.493,
+       2.89
+      ],
+      [
+       "Puy Mary",
+       45.119,
+       2.685
+      ],
+      [
+       "~",
+       45.1468,
+       2.5485
+      ],
+      [
+       "Puy de Sancy",
+       45.528,
+       2.814
+      ],
+      [
+       "Puy de Dôme",
+       45.772,
+       2.964
+      ],
+      "LFLC"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Pavin-tó Lac Pavin kráter tó Puy Mary Puy Mary vulkán Cantal Puy de Sancy Puy de Sancy Mont-Dore Puy de Dôme Puy de Dome vulkán Auvergne",
+   "img": "Puy de Dôme|Chaîne des Puys"
+  },
+  {
+   "id": "danube-delta",
+   "continent": "EU",
+   "country": {
+    "en": "Romania",
+    "hu": "Románia"
+   },
+   "name": {
+    "en": "Danube Delta",
+    "hu": "Duna-delta"
+   },
+   "main": {
+    "en": "Sulina",
+    "hu": "Sulina",
+    "lat": 45.16,
+    "lon": 29.66
+   },
+   "tags": [
+    "river",
+    "coast",
+    "wildlife",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Europe's wildest wetland: the Danube splitting into channels at Tulcea, the Letea subtropical forest, remote Sfântu Gheorghe and Sulina at the Black Sea mouth.",
+    "hu": "Európa legvadabb vizes élőhelye: a Duna csatornákra szakad Tulcea mellett, a Letea szubtrópusi erdő, a távoli Szent György és Sulina a Fekete-tenger torkolatánál."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Delta loop",
+      "hu": "Delta-kör"
+     },
+     "desc": {
+      "en": "Tulcea, Sulina, Letea and Sfântu Gheorghe.",
+      "hu": "Tulcea, Sulina, Letea és Szent György."
+     },
+     "pts": [
+      "LRTC",
+      [
+       "Sfântu Gheorghe",
+       44.9,
+       29.599
+      ],
+      [
+       "Sulina",
+       45.16,
+       29.66
+      ],
+      [
+       "Letea Forest",
+       45.3,
+       29.5
+      ],
+      [
+       "Tulcea",
+       45.178,
+       28.8
+      ],
+      "LRTC"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Szent György Sfantu Gheorghe delta Sulina Sulina Duna torkolat Letea-erdő Letea erdő liána delta Tulcea Tulcea Duna delta kapuja",
+   "img": "Danube Delta|Sulina"
+  },
+  {
+   "id": "azores-central",
+   "continent": "EU",
+   "country": {
+    "en": "Portugal",
+    "hu": "Portugália"
+   },
+   "name": {
+    "en": "Faial and Pico",
+    "hu": "Faial és Pico"
+   },
+   "main": {
+    "en": "Mount Pico",
+    "hu": "Pico-hegy",
+    "lat": 38.467,
+    "lon": -28.402
+   },
+   "tags": [
+    "island",
+    "volcano",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Portugal's highest mountain, the 2,351 m cone of Mount Pico, the lunar Capelinhos volcano, the giant Caldeira of Faial and the black-lava vineyards of Pico.",
+    "hu": "Portugália legmagasabb hegye, a Pico 2351 méteres kúpja, a holdbéli Capelinhos vulkán, Faial óriás kalderája és Pico fekete lávába ültetett szőlői."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Central Azores loop",
+      "hu": "Közép-azori kör"
+     },
+     "desc": {
+      "en": "Capelinhos, the Caldeira, Mount Pico and the vineyards.",
+      "hu": "Capelinhos, a Caldeira, a Pico és a szőlők."
+     },
+     "pts": [
+      "LPHR",
+      [
+       "Mount Pico",
+       38.467,
+       -28.402
+      ],
+      [
+       "~",
+       38.4997,
+       -28.3828
+      ],
+      [
+       "Pico Vineyard Culture",
+       38.537,
+       -28.52
+      ],
+      [
+       "Caldeira do Faial",
+       38.58,
+       -28.71
+      ],
+      [
+       "Capelinhos Volcano",
+       38.595,
+       -28.83
+      ],
+      [
+       "~",
+       38.5623,
+       -28.8491
+      ],
+      "LPHR"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Pico-hegy Pico hegy Azori Pico szőlőkultúra Pico szőlő lávakő unesco Faial kaldera Caldeira Faial kráter Capelinhos-vulkán Capelinhos vulkán Faial",
+   "img": "Mount Pico|Capelinhos"
+  },
+  {
+   "id": "juneau-passage",
+   "continent": "NA",
+   "country": {
+    "en": "United States",
+    "hu": "Egyesült Államok"
+   },
+   "name": {
+    "en": "Juneau and the Inside Passage",
+    "hu": "Juneau és a Belső-átjáró"
+   },
+   "main": {
+    "en": "Mendenhall Glacier",
+    "hu": "Mendenhall-gleccser",
+    "lat": 58.435,
+    "lon": -134.547
+   },
+   "tags": [
+    "glacier",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "The retreating Mendenhall Glacier, the ice-choked Tracy Arm fjord, the lonely Eldred Rock lighthouse in Lynn Canal and the Chilkat Valley of Haines.",
+    "hu": "A visszahúzódó Mendenhall-gleccser, a jéggel teli Tracy Arm fjord, az Eldred Rock magányos világítótornya a Lynn-csatornán és Haines Chilkat-völgye."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Inside Passage loop",
+      "hu": "Belső-átjáró kör"
+     },
+     "desc": {
+      "en": "Mendenhall, Tracy Arm, Eldred Rock and Haines.",
+      "hu": "Mendenhall, Tracy Arm, Eldred Rock és Haines."
+     },
+     "pts": [
+      "PAJN",
+      [
+       "Tracy Arm Fjord",
+       57.78,
+       -133.55
+      ],
+      [
+       "~",
+       57.8472,
+       -133.3914
+      ],
+      [
+       "Haines",
+       59.236,
+       -135.444
+      ],
+      [
+       "~",
+       59.1996,
+       -135.5664
+      ],
+      [
+       "Eldred Rock Lighthouse",
+       58.97,
+       -135.22
+      ],
+      [
+       "Mendenhall Glacier",
+       58.435,
+       -134.547
+      ],
+      "PAJN"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Tracy Arm fjord Tracy Arm fjord Sawyer gleccser Haines Haines Alaszka Chilkat Eldred Rock világítótorony Eldred Rock világítótorony Lynn Canal Mendenhall-gleccser Mendenhall gleccser Juneau",
+   "img": "Mendenhall Glacier|Tracy Arm"
+  },
+  {
+   "id": "exumas",
+   "continent": "NA",
+   "country": {
+    "en": "Bahamas",
+    "hu": "Bahama-szigetek"
+   },
+   "name": {
+    "en": "Exuma Cays",
+    "hu": "Exuma-szigetek"
+   },
+   "main": {
+    "en": "Thunderball Grotto",
+    "hu": "Thunderball-barlang",
+    "lat": 24.17,
+    "lon": -76.45
+   },
+   "tags": [
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "A chain of 365 cays of impossible blues: the swimming pigs of Big Major Cay, James Bond's Thunderball Grotto, Warderick Wells and Stocking Island.",
+    "hu": "365 zátony kékek minden árnyalatában: Big Major Cay úszó malacai, James Bond Thunderball-barlangja, Warderick Wells és Stocking Island."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": false,
+     "label": {
+      "en": "Cays loop",
+      "hu": "Zátony-kör"
+     },
+     "desc": {
+      "en": "Stocking Island, Warderick Wells, the pigs and Thunderball.",
+      "hu": "Stocking Island, Warderick Wells, a malacok és a Thunderball."
+     },
+     "pts": [
+      "MYEF",
+      [
+       "Thunderball Grotto",
+       24.17,
+       -76.45
+      ],
+      [
+       "Big Major Cay",
+       24.184,
+       -76.457
+      ],
+      [
+       "Warderick Wells",
+       24.397,
+       -76.633
+      ],
+      [
+       "~",
+       24.4416,
+       -76.5785
+      ],
+      [
+       "Stocking Island",
+       23.53,
+       -75.78
+      ],
+      [
+       "~",
+       23.5007,
+       -75.8028
+      ],
+      "MYEF"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Thunderball-barlang Thunderball barlang Staniel Cay Big Major Cay Úszó malacok Exuma Warderick Wells Exuma Land and Sea Park Stocking-sziget Stocking Island Exuma",
+   "img": "Exuma Cays|Thunderball Grotto"
+  },
+  {
+   "id": "jamaica",
+   "continent": "NA",
+   "country": {
+    "en": "Jamaica",
+    "hu": "Jamaica"
+   },
+   "name": {
+    "en": "Jamaica",
+    "hu": "Jamaica"
+   },
+   "main": {
+    "en": "Blue Mountain Peak",
+    "hu": "Blue Mountain Peak",
+    "lat": 18.05,
+    "lon": -76.58
+   },
+   "tags": [
+    "island",
+    "coast",
+    "mountain"
+   ],
+   "desc": {
+    "en": "Seven Mile Beach of Negril, the rocky Black River swamp, the 2,256 m Blue Mountain Peak and the tiered Dunn's River Falls tumbling into the Caribbean.",
+    "hu": "Negril Seven Mile Beach strandja, a Black River mocsárvidéke, a 2256 méteres Blue Mountain Peak és a Dunn's River lépcsős vízesése, amely a Karib-tengerbe zuhan."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Round Jamaica loop",
+      "hu": "Jamaica-kör"
+     },
+     "desc": {
+      "en": "Negril, Black River, the Blue Mountains and Dunn's River.",
+      "hu": "Negril, Black River, a Blue Mountains és Dunn's River."
+     },
+     "pts": [
+      "MKJS",
+      [
+       "Negril Seven Mile Beach",
+       18.28,
+       -78.35
+      ],
+      [
+       "~",
+       18.1721,
+       -78.3494
+      ],
+      [
+       "Black River",
+       18.03,
+       -77.85
+      ],
+      [
+       "Blue Mountain Peak",
+       18.05,
+       -76.58
+      ],
+      [
+       "~",
+       18.1534,
+       -76.5476
+      ],
+      [
+       "Dunn's River Falls",
+       18.41,
+       -77.137
+      ],
+      "MKJS"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Negril Seven Mile Beach Negril hét mérföldes strand Black River Black River Jamaica mocsár Blue Mountain Peak Blue Mountain csúcs Jamaica Dunn's River-vízesés Dunns River vízesés Ocho Rios",
+   "img": "Blue Mountain Peak (Jamaica)|Dunn's River Falls"
+  },
+  {
+   "id": "bay-islands",
+   "continent": "NA",
+   "country": {
+    "en": "Honduras",
+    "hu": "Honduras"
+   },
+   "name": {
+    "en": "Bay Islands",
+    "hu": "Bay-szigetek"
+   },
+   "main": {
+    "en": "West Bay Beach Roatán",
+    "hu": "Roatán West Bay",
+    "lat": 16.28,
+    "lon": -86.6
+   },
+   "tags": [
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "The coral-fringed Bay Islands of Honduras: the white sand of West Bay on Roatán, diving paradise Utila with its whale sharks and the wild pine hills of Guanaja.",
+    "hu": "Honduras korallgyűrűs Bay-szigetei: a Roatán West Bay fehér homokja, a bálnacápás búvárparadicsom Utila és Guanaja vad fenyődombjai."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Bay Islands loop",
+      "hu": "Bay-szigetek kör"
+     },
+     "desc": {
+      "en": "Roatán, Utila and Guanaja.",
+      "hu": "Roatán, Utila és Guanaja."
+     },
+     "pts": [
+      "MHRO",
+      [
+       "West Bay Roatán",
+       16.28,
+       -86.6
+      ],
+      [
+       "Utila",
+       16.1,
+       -86.9
+      ],
+      [
+       "~",
+       16.0237,
+       -86.8612
+      ],
+      [
+       "Guanaja",
+       16.45,
+       -85.9
+      ],
+      [
+       "~",
+       16.5522,
+       -85.9361
+      ],
+      "MHRO"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Roatán West Bay Roatan West Bay strand Utila Utila bálnacápa búvár Guanaja Guanaja sziget Honduras",
+   "img": "Roatán|Utila"
+  },
+  {
+   "id": "nicaragua",
+   "continent": "NA",
+   "country": {
+    "en": "Nicaragua",
+    "hu": "Nicaragua"
+   },
+   "name": {
+    "en": "Nicaragua: Lakes and Volcanoes",
+    "hu": "Nicaragua: tavak és vulkánok"
+   },
+   "main": {
+    "en": "Masaya Volcano",
+    "hu": "Masaya-vulkán",
+    "lat": 11.984,
+    "lon": -86.165
+   },
+   "tags": [
+    "volcano",
+    "lake",
+    "culture",
+    "island"
+   ],
+   "desc": {
+    "en": "The glowing lava lake of Masaya, the colonial city of Granada on Lake Nicaragua, the twin volcanoes of Ometepe Island and the black slopes of Cerro Negro near León.",
+    "hu": "A Masaya izzó lávatava, a gyarmati Granada a Nicaragua-tó partján, az Ometepe-sziget ikervulkánjai és a León melletti Cerro Negro fekete lejtői."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Volcano lakes loop",
+      "hu": "Vulkános tavak kör"
+     },
+     "desc": {
+      "en": "Masaya, Granada, Ometepe and Cerro Negro.",
+      "hu": "Masaya, Granada, Ometepe és a Cerro Negro."
+     },
+     "pts": [
+      "MNMG",
+      [
+       "Granada",
+       11.934,
+       -85.956
+      ],
+      [
+       "Ometepe Island",
+       11.536,
+       -85.622
+      ],
+      [
+       "~",
+       11.4602,
+       -85.7004
+      ],
+      [
+       "Masaya Volcano",
+       11.984,
+       -86.165
+      ],
+      [
+       "Cerro Negro",
+       12.506,
+       -86.702
+      ],
+      [
+       "~",
+       12.5888,
+       -86.6311
+      ],
+      "MNMG"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Granada Granada Nicaragua gyarmati Ometepe-sziget Ometepe Concepcion vulkán Masaya-vulkán Masaya vulkán láva tó Cerro Negro Cerro Negro vulkán León",
+   "img": "Masaya Volcano|Ometepe"
+  },
+  {
+   "id": "copper-canyon",
+   "continent": "NA",
+   "country": {
+    "en": "Mexico",
+    "hu": "Mexikó"
+   },
+   "name": {
+    "en": "Copper Canyon",
+    "hu": "Copper Canyon"
+   },
+   "main": {
+    "en": "Divisadero Viewpoint",
+    "hu": "Divisadero kilátó",
+    "lat": 27.52,
+    "lon": -107.85
+   },
+   "tags": [
+    "canyon",
+    "mountain",
+    "culture"
+   ],
+   "desc": {
+    "en": "A network of canyons larger and deeper than the Grand Canyon: the Divisadero rim, the plunging Basaseachi Falls, the Tarahumara town of Creel and remote Batopilas.",
+    "hu": "A Grand Canyonnál nagyobb és mélyebb szurdokrendszer: a Divisadero pereme, a zuhogó Basaseachi-vízesés, a tarahumara Creel és a távoli Batopilas."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 9500,
+     "stol": false,
+     "label": {
+      "en": "Sierra Tarahumara loop",
+      "hu": "Sierra Tarahumara kör"
+     },
+     "desc": {
+      "en": "Basaseachi, Creel, Divisadero and Batopilas.",
+      "hu": "Basaseachi, Creel, Divisadero és Batopilas."
+     },
+     "pts": [
+      "MMCU",
+      [
+       "Batopilas",
+       27.03,
+       -107.74
+      ],
+      [
+       "~",
+       27.06,
+       -107.8564
+      ],
+      [
+       "Divisadero Viewpoint",
+       27.52,
+       -107.85
+      ],
+      [
+       "Creel",
+       27.75,
+       -107.63
+      ],
+      [
+       "Basaseachi Falls",
+       28.173,
+       -108.216
+      ],
+      [
+       "~",
+       28.2786,
+       -108.1906
+      ],
+      "MMCU"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Batopilas Batopilas kanyon Divisadero kilátó Divisadero Barrancas del Cobre Creel Creel Tarahumara Basaseachi-vízesés Basaseachi vízesés Chihuahua",
+   "img": "Copper Canyon|Basaseachi Falls"
+  },
+  {
+   "id": "gros-morne",
+   "continent": "NA",
+   "country": {
+    "en": "Canada",
+    "hu": "Kanada"
+   },
+   "name": {
+    "en": "Newfoundland: Gros Morne",
+    "hu": "Új-Fundland: Gros Morne"
+   },
+   "main": {
+    "en": "The Tablelands",
+    "hu": "A Tablelands",
+    "lat": 49.58,
+    "lon": -57.82
+   },
+   "tags": [
+    "mountain",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The bare orange mantle rock of the Tablelands, the fjord of Western Brook Pond, the cliffs of Trout River and the harbours of Bonne Bay in Gros Morne National Park.",
+    "hu": "A Tablelands csupasz narancsszín köpenykőzete, a Western Brook Pond fjordja, Trout River sziklái és a Bonne-öböl kikötői a Gros Morne Nemzeti Parkban."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Gros Morne loop",
+      "hu": "Gros Morne-kör"
+     },
+     "desc": {
+      "en": "The Tablelands, Western Brook Pond and Bonne Bay.",
+      "hu": "A Tablelands, a Western Brook Pond és a Bonne-öböl."
+     },
+     "pts": [
+      "CYDF",
+      [
+       "Trout River",
+       49.48,
+       -58.11
+      ],
+      [
+       "Rocky Harbour",
+       49.59,
+       -57.92
+      ],
+      [
+       "The Tablelands",
+       49.58,
+       -57.82
+      ],
+      [
+       "Western Brook Pond",
+       49.73,
+       -57.74
+      ],
+      [
+       "~",
+       49.7315,
+       -57.6787
+      ],
+      "CYDF"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Trout River Trout River Newfoundland Rocky Harbour Rocky Harbour Bonne Bay A Tablelands Tablelands Gros Morne köpeny Western Brook Pond Western Brook Pond fjord",
+   "img": "Gros Morne National Park|The Tablelands"
+  },
+  {
+   "id": "yukon",
+   "continent": "NA",
+   "country": {
+    "en": "Canada",
+    "hu": "Kanada"
+   },
+   "name": {
+    "en": "Yukon Wilderness",
+    "hu": "Yukon vadon"
+   },
+   "main": {
+    "en": "Kluane Lake",
+    "hu": "Kluane-tó",
+    "lat": 61.0,
+    "lon": -138.5
+   },
+   "tags": [
+    "lake",
+    "mountain",
+    "glacier"
+   ],
+   "desc": {
+    "en": "The turquoise gorge of Miles Canyon on the Yukon River, the tiny Carcross Desert, the huge Kluane Lake and the ice fields of the St. Elias range.",
+    "hu": "A Miles Canyon türkiz szurdoka a Yukon folyón, a miniatűr Carcross-sivatag, a hatalmas Kluane-tó és a Szent Illés-hegység jégmezői."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Yukon loop",
+      "hu": "Yukon-kör"
+     },
+     "desc": {
+      "en": "Miles Canyon, Carcross, Haines Junction and Kluane Lake.",
+      "hu": "Miles Canyon, Carcross, Haines Junction és a Kluane-tó."
+     },
+     "pts": [
+      "CYXY",
+      [
+       "Miles Canyon",
+       60.667,
+       -135.05
+      ],
+      [
+       "Carcross Desert",
+       60.15,
+       -134.7
+      ],
+      [
+       "~",
+       60.0777,
+       -134.8609
+      ],
+      [
+       "Haines Junction",
+       60.75,
+       -137.5
+      ],
+      [
+       "Kluane Lake",
+       61.0,
+       -138.5
+      ],
+      [
+       "~",
+       61.1026,
+       -138.431
+      ],
+      "CYXY"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Miles Canyon Miles Canyon Yukon Carcross-sivatag Carcross sivatag Haines Junction Haines Junction Kluane Kluane-tó Kluane tó Yukon",
+   "img": "Kluane National Park and Reserve|Miles Canyon"
+  },
+  {
+   "id": "cape-breton",
+   "continent": "NA",
+   "country": {
+    "en": "Canada",
+    "hu": "Kanada"
+   },
+   "name": {
+    "en": "Cape Breton Island",
+    "hu": "Cape Breton-sziget"
+   },
+   "main": {
+    "en": "Cabot Trail Skyline",
+    "hu": "Cabot Trail Skyline",
+    "lat": 46.76,
+    "lon": -60.76
+   },
+   "tags": [
+    "coast",
+    "mountain",
+    "island"
+   ],
+   "desc": {
+    "en": "The scenic Cabot Trail winding along the highland coast, the reconstructed Fortress of Louisbourg, the sea cliffs of Meat Cove and the inland sea of Bras d'Or Lake.",
+    "hu": "A festői Cabot Trail a felföldi parton, a rekonstruált louisbourgi erőd, Meat Cove tengerparti sziklái és a Bras d'Or belső tenger."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Cabot Trail loop",
+      "hu": "Cabot Trail kör"
+     },
+     "desc": {
+      "en": "Louisbourg, Ingonish, Meat Cove and the Skyline.",
+      "hu": "Louisbourg, Ingonish, Meat Cove és a Skyline."
+     },
+     "pts": [
+      "CYQY",
+      [
+       "Ingonish",
+       46.65,
+       -60.38
+      ],
+      [
+       "Meat Cove",
+       47.03,
+       -60.52
+      ],
+      [
+       "~",
+       47.0418,
+       -60.6346
+      ],
+      [
+       "Cabot Trail Skyline",
+       46.76,
+       -60.76
+      ],
+      [
+       "Fortress of Louisbourg",
+       45.9,
+       -59.98
+      ],
+      [
+       "~",
+       45.9242,
+       -59.8912
+      ],
+      "CYQY"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Ingonish Ingonish Cape Breton Meat Cove Meat Cove Cabot Trail Cabot Trail Skyline Skyline Trail Cape Breton Louisbourgi erőd Louisbourg erőd Nova Scotia",
+   "img": "Cabot Trail|Fortress of Louisbourg"
+  },
+  {
+   "id": "guyana",
+   "continent": "SA",
+   "country": {
+    "en": "Guyana",
+    "hu": "Guyana"
+   },
+   "name": {
+    "en": "Guyana: Kaieteur Falls",
+    "hu": "Guyana: a Kaieteur-vízesés"
+   },
+   "main": {
+    "en": "Kaieteur Falls",
+    "hu": "Kaieteur-vízesés",
+    "lat": 5.175,
+    "lon": -59.48
+   },
+   "tags": [
+    "jungle",
+    "waterfall",
+    "river"
+   ],
+   "desc": {
+    "en": "The world's tallest single-drop waterfall at 226 m, the rapids of Orinduik on the Brazilian frontier and the broad Essequibo meeting the sea at Georgetown.",
+    "hu": "A világ legmagasabb egyszakaszos vízesése, 226 méter, az Orinduik zuhatagai a brazil határon és a széles Essequibo, amely Georgetownnál találkozik a tengerrel."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Guiana Shield loop",
+      "hu": "Guyanai-pajzs kör"
+     },
+     "desc": {
+      "en": "Georgetown, Kaieteur and Orinduik.",
+      "hu": "Georgetown, Kaieteur és Orinduik."
+     },
+     "pts": [
+      "SYCJ",
+      [
+       "Kaieteur Falls",
+       5.175,
+       -59.48
+      ],
+      [
+       "Orinduik Falls",
+       4.7,
+       -60.03
+      ],
+      [
+       "~",
+       4.7751,
+       -60.1078
+      ],
+      [
+       "St George's Cathedral",
+       6.81,
+       -58.16
+      ],
+      [
+       "~",
+       6.7692,
+       -58.0892
+      ],
+      "SYCJ"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Kaieteur-vízesés Kaieteur vízesés Guyana Orinduik-vízesés Orinduik vízesés Szent György-katedrális St Georges katedrális Georgetown fa",
+   "img": "Kaieteur Falls|Georgetown, Guyana"
+  },
+  {
+   "id": "lencois-maranhenses",
+   "continent": "SA",
+   "country": {
+    "en": "Brazil",
+    "hu": "Brazília"
+   },
+   "name": {
+    "en": "Lençóis Maranhenses",
+    "hu": "Lençóis Maranhenses"
+   },
+   "main": {
+    "en": "Barreirinhas and the Dunes",
+    "hu": "Barreirinhas és a dűnék",
+    "lat": -2.74,
+    "lon": -42.83
+   },
+   "tags": [
+    "desert",
+    "coast",
+    "unesco"
+   ],
+   "desc": {
+    "en": "Rolling white sand dunes holding thousands of blue and green rainwater lagoons, the river village of Atins and the colonial azulejo city of São Luís.",
+    "hu": "Hullámzó fehér homokdűnék több ezer kék és zöld esővízlagúnával, Atins folyóparti faluja és São Luís azulejós gyarmati városa."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Dunes and lagoons loop",
+      "hu": "Dűnék és lagúnák kör"
+     },
+     "desc": {
+      "en": "São Luís, Santo Amaro, Barreirinhas and Atins.",
+      "hu": "São Luís, Santo Amaro, Barreirinhas és Atins."
+     },
+     "pts": [
+      "SBSL",
+      [
+       "Barreirinhas",
+       -2.74,
+       -42.83
+      ],
+      [
+       "Atins",
+       -2.54,
+       -42.73
+      ],
+      [
+       "Santo Amaro",
+       -2.5,
+       -43.25
+      ],
+      [
+       "São Luís Historic Centre",
+       -2.53,
+       -44.3
+      ],
+      [
+       "~",
+       -2.5639,
+       -44.3121
+      ],
+      "SBSL"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Barreirinhas Barreirinhas Lencois Atins Atins dűne Preguiças folyó Santo Amaro Santo Amaro Maranhao dűne São Luís történelmi központja Sao Luis azulejo belváros",
+   "img": "Lençóis Maranhenses National Park|São Luís, Maranhão"
+  },
+  {
+   "id": "pantanal",
+   "continent": "SA",
+   "country": {
+    "en": "Brazil",
+    "hu": "Brazília"
+   },
+   "name": {
+    "en": "Pantanal and Bonito",
+    "hu": "Pantanal és Bonito"
+   },
+   "main": {
+    "en": "Pantanal Wetlands",
+    "hu": "Pantanal vizes élőhely",
+    "lat": -20.24,
+    "lon": -56.38
+   },
+   "tags": [
+    "wildlife",
+    "river",
+    "jungle"
+   ],
+   "desc": {
+    "en": "The world's largest tropical wetland, rich in jaguars and caimans, the crystal rivers of Bonito and the limestone Serra da Bodoquena.",
+    "hu": "A világ legnagyobb trópusi vizes élőhelye, gazdag jaguárokban és kajmánokban, Bonito kristálytiszta folyói és a mészköves Serra da Bodoquena."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Pantanal loop",
+      "hu": "Pantanal-kör"
+     },
+     "desc": {
+      "en": "Aquidauana, Miranda, Bonito and the Bodoquena.",
+      "hu": "Aquidauana, Miranda, Bonito és a Bodoquena."
+     },
+     "pts": [
+      "SBCG",
+      [
+       "Miranda Pantanal",
+       -20.24,
+       -56.38
+      ],
+      [
+       "Serra da Bodoquena",
+       -20.98,
+       -56.75
+      ],
+      [
+       "Bonito",
+       -21.126,
+       -56.483
+      ],
+      [
+       "Aquidauana",
+       -20.47,
+       -55.79
+      ],
+      "SBCG"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Miranda, Pantanal Miranda Pantanal vizes élőhely Serra da Bodoquena Bodoquena hegység Bonito Bonito kristály folyók Aquidauana Aquidauana Pantanal kapuja",
+   "img": "Pantanal|Bonito, Mato Grosso do Sul"
+  },
+  {
+   "id": "vavau",
+   "continent": "OC",
+   "country": {
+    "en": "Tonga",
+    "hu": "Tonga"
+   },
+   "name": {
+    "en": "Vava'u",
+    "hu": "Vava'u"
+   },
+   "main": {
+    "en": "Port of Refuge Neiafu",
+    "hu": "Neiafu védett kikötő",
+    "lat": -18.66,
+    "lon": -173.98
+   },
+   "tags": [
+    "island",
+    "coast"
+   ],
+   "desc": {
+    "en": "The sailing paradise of Vava'u: the sheltered Port of Refuge at Neiafu, Mariner's Cave hidden beneath the waterline and a maze of 40 forested islands full of humpback whales.",
+    "hu": "Vava'u vitorlás paradicsoma: a védett Port of Refuge Neiafunál, a vízvonal alatt rejtőző Mariner's Cave és negyven erdős sziget labirintusa púpos bálnákkal."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 1500,
+     "stol": false,
+     "label": {
+      "en": "Vava'u islands loop",
+      "hu": "Vava'u szigetkör"
+     },
+     "desc": {
+      "en": "Neiafu, Mariner's Cave, Swallows Cave and Hunga.",
+      "hu": "Neiafu, Mariner's Cave, Swallows Cave és Hunga."
+     },
+     "pts": [
+      "NFTV",
+      [
+       "Swallows Cave",
+       -18.642,
+       -174.075
+      ],
+      [
+       "Hunga Island",
+       -18.75,
+       -174.1
+      ],
+      [
+       "~",
+       -18.7668,
+       -174.0664
+      ],
+      [
+       "Mariner's Cave",
+       -18.7,
+       -174.05
+      ],
+      [
+       "Port of Refuge",
+       -18.66,
+       -173.98
+      ],
+      "NFTV"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Swallows Cave Swallows barlang Vava'u Hunga-sziget Hunga sziget Vava'u Mariner's Cave Mariner barlang Tonga Port of Refuge Neiafu Port of Refuge Tonga",
+   "img": "Vavaʻu|Neiafu"
+  },
+  {
+   "id": "kimberley",
+   "continent": "OC",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "The Kimberley",
+    "hu": "A Kimberley"
+   },
+   "main": {
+    "en": "Purnululu Bungle Bungle Range",
+    "hu": "Purnululu Bungle Bungle",
+    "lat": -17.5,
+    "lon": 128.4
+   },
+   "tags": [
+    "desert",
+    "mountain",
+    "lake",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The striped beehive domes of the Bungle Bungle, the vast Lake Argyle, the Cambridge Gulf at Wyndham and the red gorges of El Questro.",
+    "hu": "A Bungle Bungle csíkos méhkaptár-kupolái, a hatalmas Argyle-tó, a Cambridge-öböl Wyndhamnél és az El Questro vörös szurdokai."
+   },
+   "variants": [
+    {
+     "id": "long",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Kimberley loop",
+      "hu": "Kimberley-kör"
+     },
+     "desc": {
+      "en": "Lake Argyle, the Bungle Bungle, El Questro and Wyndham.",
+      "hu": "Argyle-tó, Bungle Bungle, El Questro és Wyndham."
+     },
+     "pts": [
+      "YPKU",
+      [
+       "Wyndham Five Rivers",
+       -15.49,
+       128.12
+      ],
+      [
+       "El Questro",
+       -16.02,
+       127.92
+      ],
+      [
+       "Purnululu Bungle Bungle",
+       -17.5,
+       128.4
+      ],
+      [
+       "~",
+       -17.4965,
+       128.5131
+      ],
+      [
+       "Lake Argyle",
+       -16.1,
+       128.75
+      ],
+      "YPKU"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Wyndham Five Rivers Wyndham Five Rivers kilátó El Questro El Questro kanyon Kimberley Purnululu Bungle Bungle Bungle Bungle Purnululu Argyle-tó Argyle tó Kimberley",
+   "img": "Purnululu National Park|Lake Argyle"
+  },
+  {
+   "id": "ningaloo",
+   "continent": "OC",
+   "country": {
+    "en": "Australia",
+    "hu": "Ausztrália"
+   },
+   "name": {
+    "en": "Ningaloo Reef and Exmouth",
+    "hu": "Ningaloo-zátony és Exmouth"
+   },
+   "main": {
+    "en": "Turquoise Bay",
+    "hu": "Turquoise Bay",
+    "lat": -22.095,
+    "lon": 113.882
+   },
+   "tags": [
+    "coast",
+    "reef",
+    "unesco"
+   ],
+   "desc": {
+    "en": "A fringing reef you can swim to from the beach: Turquoise Bay, the gorge of Yardie Creek in Cape Range, Vlamingh Head Lighthouse and the whale sharks of Coral Bay.",
+    "hu": "A strandról elúszható szegélyzátony: a Turquoise Bay, a Yardie Creek szurdoka a Cape Range-ben, a Vlamingh Head-világítótorony és a Coral Bay bálnacápái."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Ningaloo coast loop",
+      "hu": "Ningaloo-part kör"
+     },
+     "desc": {
+      "en": "Vlamingh Head, Turquoise Bay, Yardie Creek and Coral Bay.",
+      "hu": "Vlamingh Head, Turquoise Bay, Yardie Creek és Coral Bay."
+     },
+     "pts": [
+      "YPLM",
+      [
+       "Vlamingh Head Lighthouse",
+       -21.81,
+       114.1
+      ],
+      [
+       "~",
+       -21.7826,
+       114.0107
+      ],
+      [
+       "Turquoise Bay",
+       -22.095,
+       113.882
+      ],
+      [
+       "Yardie Creek",
+       -22.32,
+       113.8
+      ],
+      [
+       "Coral Bay",
+       -23.143,
+       113.769
+      ],
+      [
+       "~",
+       -23.1618,
+       113.8846
+      ],
+      "YPLM"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Vlamingh Head-világítótorony Vlamingh Head világítótorony Exmouth Turquoise Bay Turquoise Bay Ningaloo Yardie Creek Yardie Creek szurdok Cape Range Coral Bay Coral Bay Ningaloo",
+   "img": "Ningaloo Coast|Turquoise Bay"
+  },
+  {
+   "id": "new-caledonia",
+   "continent": "OC",
+   "country": {
+    "en": "New Caledonia",
+    "hu": "Új-Kaledónia"
+   },
+   "name": {
+    "en": "New Caledonia Lagoon",
+    "hu": "Új-Kaledónia lagúnája"
+   },
+   "main": {
+    "en": "Isle of Pines",
+    "hu": "Fenyők szigete",
+    "lat": -22.6,
+    "lon": 167.45
+   },
+   "tags": [
+    "island",
+    "reef",
+    "unesco"
+   ],
+   "desc": {
+    "en": "The world's largest enclosed lagoon: the Amédée Lighthouse, the pine-fringed beaches of the Isle of Pines, the Blue River Park and the capital Nouméa.",
+    "hu": "A világ legnagyobb zárt lagúnája: az Amédée-világítótorony, a Fenyők szigetének fenyőkkel szegett strandjai, a Kék-folyó Park és a főváros, Nouméa."
+   },
+   "variants": [
+    {
+     "id": "loop",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Lagoon loop",
+      "hu": "Lagúna-kör"
+     },
+     "desc": {
+      "en": "Nouméa, the Amédée Lighthouse, the Isle of Pines and the Blue River.",
+      "hu": "Nouméa, az Amédée-világítótorony, a Fenyők szigete és a Kék-folyó."
+     },
+     "pts": [
+      "NWWW",
+      [
+       "Nouméa",
+       -22.275,
+       166.458
+      ],
+      [
+       "Blue River Park",
+       -22.15,
+       166.75
+      ],
+      [
+       "Isle of Pines",
+       -22.6,
+       167.45
+      ],
+      [
+       "~",
+       -22.7007,
+       167.4078
+      ],
+      [
+       "Amédée Lighthouse",
+       -22.48,
+       166.467
+      ],
+      "NWWW"
+     ]
+    }
+   ],
+   "pois": [],
+   "new": true,
+   "kw": "Nouméa Noumea fővárosa Új-Kaledónia Kék-folyó Park Rivière Bleue park Fenyők szigete Fenyők szigete Kuto öböl Amédée-világítótorony Amedee világítótorony zátony",
+   "img": "Isle of Pines (New Caledonia)|Nouméa"
   }
  ]
 }
