@@ -69,11 +69,11 @@ IMG.update({
 "lake-toba": "Lake Toba|Samosir", "boracay-panay": "Boracay|White Beach (Boracay)", "bohol": "Chocolate Hills|Philippine tarsier", "lijiang": "Jade Dragon Snow Mountain|Lijiang",
 "darjeeling-sikkim": "Kangchenjunga|Darjeeling", "estonia": "Tallinn Old Town|Kuressaare Castle", "ohrid": "Lake Ohrid|Church of St. John at Kaneo", "asturias": "Naranjo de Bulnes|Lakes of Covadonga",
 "kefalonia": "Myrtos Beach|Navagio Beach", "halkidiki-athos": "Mount Athos|Halkidiki", "trabzon-kackar": "Sumela Monastery|Uzungöl", "auvergne": "Puy de Dôme|Chaîne des Puys",
-"danube-delta": "Danube Delta|Sulina", "azores-central": "Mount Pico|Capelinhos", "juneau-passage": "Mendenhall Glacier|Tracy Arm", "exumas": "Exuma Cays|Thunderball Grotto",
+"danube-delta": "Danube Delta|Sulina", "azores-central": "Mount Pico|Capelinhos", "juneau-passage": "Mendenhall Glacier|Tracy Arm", "exumas": "Pig Beach|Staniel Cay|Great Exuma",
 "jamaica": "Blue Mountain Peak (Jamaica)|Dunn's River Falls", "bay-islands": "Roatán|Utila", "nicaragua": "Masaya Volcano|Ometepe", "copper-canyon": "Copper Canyon|Basaseachi Falls",
 "gros-morne": "Gros Morne National Park|The Tablelands", "yukon": "Kluane National Park and Reserve|Miles Canyon", "cape-breton": "Cabot Trail|Fortress of Louisbourg",
 "guyana": "Kaieteur Falls|Georgetown, Guyana", "lencois-maranhenses": "Lençóis Maranhenses National Park|São Luís, Maranhão", "pantanal": "Pantanal|Bonito, Mato Grosso do Sul",
-"vavau": "Vavaʻu|Neiafu", "kimberley": "Purnululu National Park|Lake Argyle", "ningaloo": "Ningaloo Coast|Turquoise Bay", "new-caledonia": "Isle of Pines (New Caledonia)|Nouméa"})
+"vavau": "Neiafu (Vavaʻu)|Neiafu Market", "kimberley": "Purnululu National Park|Lake Argyle", "ningaloo": "Ningaloo Coast|Turquoise Bay", "new-caledonia": "Isle of Pines (New Caledonia)|Nouméa"})
 d = json.load(open(P, encoding="utf-8"))
 miss = [t["id"] for t in d["tours"] if t["id"] not in IMG]
 for t in d["tours"]:
