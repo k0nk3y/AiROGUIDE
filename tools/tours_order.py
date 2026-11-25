@@ -81,6 +81,7 @@ def swing(P):
     return out
 
 
+NOSWING = {"washington-dc/loop"}          # kezzel megrajzolt utvonal: a hajtukanyar-szelidito pontok nem kellenek
 FIXED = set(open(os.path.join(ROOT, "tools", "fixed_order.txt"), encoding="utf-8").read().split()) if os.path.exists(os.path.join(ROOT, "tools", "fixed_order.txt")) else set()   # tura/valtozat: a megadott sorrend marad
 
 
@@ -109,8 +110,8 @@ def main():
                     print("atrendezve:", t["id"], v["id"])
             if "%s/%s" % (t["id"], v["id"]) not in FIXED:
                 P = passby(P, t)                         # a lathato/kozeli pontok nem kapnak kulon kitero-kanyart: latnivalo marad, utpont nem
-            P2 = swing(P)
-            for _ in range(3):                      # ha a bevezetett pont utan is >120 fok marad, meg egy
+            P2 = swing(P) if "%s/%s" % (t["id"], v["id"]) not in NOSWING else list(P)
+            for _ in range(0 if "%s/%s" % (t["id"], v["id"]) in NOSWING else 3):                      # ha a bevezetett pont utan is >120 fok marad, meg egy
                 P3 = swing(P2)
                 if len(P3) == len(P2):
                     break
