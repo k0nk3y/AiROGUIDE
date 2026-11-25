@@ -2,3 +2,9 @@ great-ocean-road/loop
 
 beijing/long
 paris/city
+budapest/city
+budapest/bend
+lisbon-sintra/short
+lisbon-sintra/sintra
+sydney/loop
+washington-dc/loop

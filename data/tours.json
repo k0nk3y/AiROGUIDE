@@ -1107,14 +1107,34 @@
      "pts": [
       "LHBP",
       [
+       "Heroes' Square",
+       47.5149,
+       19.078
+      ],
+      [
+       "Margaret Bridge",
+       47.5155,
+       19.0452
+      ],
+      [
+       "Fisherman's Bastion",
+       47.502,
+       19.0347
+      ],
+      [
+       "~=",
+       47.499,
+       19.0136
+      ],
+      [
        "Esztergom Basilica",
        47.799,
        18.739
       ],
       [
        "~",
-       47.8341,
-       18.7634
+       47.8322,
+       18.7687
       ],
       [
        "Visegrád",
@@ -10419,25 +10439,26 @@
        -9.4986
       ],
       [
-       "~",
-       38.8131,
-       -9.4793
-      ],
-      [
-       "Pena Palace",
-       38.7876,
-       -9.3906
-      ],
-      [
-       "Sintra National Palace",
-       38.797,
-       -9.39
+       "~=",
+       38.7923,
+       -9.3903
       ],
       "LPPT"
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Pena Palace",
+     38.7876,
+     -9.3906
+    ],
+    [
+     "Sintra National Palace",
+     38.797,
+     -9.39
+    ]
+   ],
    "kw": "Vasco da Gama-híd Lisszabon Kereskedelmi tér Lisszabon Cristo Rei Krisztus-szobor Lisszabon Április 25. híd Lisszabon Jerónimos-kolostor Belémi torony Cascais Cabo da Roca Európa legnyugatibb pontja Pena-palota Sintra Sintrai Nemzeti Palota",
    "img": "Belém Tower"
   },
@@ -13897,24 +13918,19 @@
        151.2153
       ],
       [
-       "Sydney Harbour Bridge",
-       -33.8523,
-       151.2108
-      ],
-      [
        "Manly Beach",
        -33.797,
        151.288
       ],
       [
        "~",
-       -33.8128,
-       151.3269
+       -33.8117,
+       151.3275
       ],
       [
        "~",
-       -33.8488,
-       151.3277
+       -33.8476,
+       151.3294
       ],
       [
        "Sydney Heads",
@@ -13930,7 +13946,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Sydney Harbour Bridge",
+     -33.8523,
+     151.2108
+    ]
+   ],
    "kw": "Sydney-torony Sydney-i Operaház Sydney Harbour Bridge Sydney híd Manly Beach Sydney Heads Bondi-part",
    "img": "Sydney Opera House"
   },
@@ -42354,11 +42376,6 @@
      "pts": [
       "KDCA",
       [
-       "The Pentagon",
-       38.8719,
-       -77.0563
-      ],
-      [
        "Lincoln Memorial",
        38.8893,
        -77.0502
@@ -42387,7 +42404,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "The Pentagon",
+     38.8719,
+     -77.0563
+    ]
+   ],
    "kw": "Pentagon Pentagon Washington Lincoln-emlékmű Lincoln Memorial Washington Washington-emlékmű Washington Monument obeliszk Capitolium Capitol Washington Mount Vernon Mount Vernon George Washington",
    "img": "National Mall|Washington Monument"
   },

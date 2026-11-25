@@ -97,7 +97,7 @@ def main():
         if only and t["id"] not in only:
             continue
         for v in t["variants"]:
-            raw = [p for p in v["pts"] if isinstance(p, str) or not str(p[0]).startswith("~")]
+            raw = [p for p in v["pts"] if isinstance(p, str) or not str(p[0]).startswith("~") or str(p[0]).startswith("~=")]   # "~=": kezzel megadott alakito pont, marad
             v["pts"] = raw
             P = [(p, ap[p][0], ap[p][1]) if isinstance(p, str) else (p, p[1], p[2]) for p in raw]
             mid = P[1:-1]
@@ -107,7 +107,8 @@ def main():
                     P = [P[0]] + list(best) + [P[-1]]
                     ch += 1
                     print("atrendezve:", t["id"], v["id"])
-            P = passby(P, t)                         # a lathato/kozeli pontok nem kapnak kulon kitero-kanyart: latnivalo marad, utpont nem
+            if "%s/%s" % (t["id"], v["id"]) not in FIXED:
+                P = passby(P, t)                         # a lathato/kozeli pontok nem kapnak kulon kitero-kanyart: latnivalo marad, utpont nem
             P2 = swing(P)
             for _ in range(3):                      # ha a bevezetett pont utan is >120 fok marad, meg egy
                 P3 = swing(P2)
