@@ -45432,19 +45432,20 @@
       ],
       [
        "~",
-       12.2356,
-       39.1975
-      ],
-      [
-       "Bete Giyorgis",
-       12.0306,
-       39.0432
+       12.1452,
+       39.2766
       ],
       "HALL"
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Bete Giyorgis",
+     12.0306,
+     39.0432
+    ]
+   ],
    "new": true,
    "kw": "Lalibela sziklatemplomai Lalibela sziklatemplom etióp Abuna Yosef-hegy Abuna Yosef hegy Etiópia Bete Giyorgis Szent György templom Lalibela",
    "img": "Lalibela|Church of Saint George, Lalibela"
@@ -45667,13 +45668,8 @@
       ],
       [
        "~",
-       -21.6586,
-       35.5189
-      ],
-      [
-       "Benguerra Island",
-       -21.835,
-       35.47
+       -21.6675,
+       35.5488
       ],
       [
        "Magaruque Island",
@@ -45684,7 +45680,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Benguerra Island",
+     -21.835,
+     35.47
+    ]
+   ],
    "new": true,
    "kw": "Bazaruto-sziget dűnéi Bazaruto dűne sziget Mozambik Benguerra-sziget Benguerra sziget Magaruque-sziget Magaruque sziget",
    "img": "Bazaruto Archipelago|Bazaruto Island"
@@ -45896,11 +45898,6 @@
      "pts": [
       "FYLZ",
       [
-       "Lüderitz",
-       -26.6481,
-       15.1594
-      ],
-      [
        "Diaz Point",
        -26.636,
        15.099
@@ -45924,7 +45921,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Lüderitz",
+     -26.6481,
+     15.1594
+    ]
+   ],
    "new": true,
    "kw": "Lüderitz Lüderitz szecessziós kikötő Diaz-fok Diaz Point Lüderitz kereszt Elizabeth Bay Elizabeth Bay szellemváros gyémánt Kolmanskop szellemváros Kolmanskop szellemváros Namíbia",
    "img": "Kolmanskop|Lüderitz"
@@ -46406,19 +46409,14 @@
      "pts": [
       "OYSQ",
       [
-       "Hadibu",
-       12.65,
-       54.02
-      ],
-      [
        "Detwah Lagoon",
        12.63,
        54.285
       ],
       [
        "~",
-       12.5668,
-       54.2998
+       12.5578,
+       54.3047
       ],
       [
        "Dixam Plateau",
@@ -46439,7 +46437,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Hadibu",
+     12.65,
+     54.02
+    ]
+   ],
    "new": true,
    "kw": "Hadibu Hadibu Szokotra főváros Detwah-lagúna Detwah lagúna Szokotra Dixam-fennsík Dixam fennsík sárkányvérfa Szokotra Qalansiyah Qalansiyah Szokotra part",
    "img": "Socotra|Dracaena cinnabari"
@@ -46680,19 +46684,20 @@
       ],
       [
        "~",
-       26.3925,
-       56.3628
-      ],
-      [
-       "Khasab Fort",
-       26.18,
-       56.245
+       26.3923,
+       56.3627
       ],
       "OOKB"
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Khasab Fort",
+     26.18,
+     56.245
+    ]
+   ],
    "new": true,
    "kw": "Jebel Harim Jebel Harim Musandam hegy Khor Najd Khor Najd fjord Musandam Kumzar Kumzar falu Musandam Khasab erőd Khasab erőd portugál",
    "img": "Musandam Governorate|Khasab"
@@ -46788,19 +46793,14 @@
      "pts": [
       "OPSD",
       [
-       "Baltoro Glacier",
-       35.73,
-       76.25
-      ],
-      [
        "K2",
        35.8825,
        76.5133
       ],
       [
        "~",
-       35.94,
-       76.4744
+       35.9775,
+       76.4501
       ],
       [
        "Nanga Parbat",
@@ -46809,8 +46809,8 @@
       ],
       [
        "~",
-       35.1297,
-       74.5949
+       35.1298,
+       74.5966
       ],
       [
        "Deosai Plains",
@@ -46821,7 +46821,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Baltoro Glacier",
+     35.73,
+     76.25
+    ]
+   ],
    "new": true,
    "kw": "Baltoro-gleccser Baltoro gleccser Concordia K2 K2 hegy Karakorum Nanga Parbat Nanga Parbat hegy Deosai-fennsík Deosai fennsík Pakisztán",
    "img": "K2|Baltoro Glacier"
@@ -47661,19 +47667,14 @@
      "pts": [
       "VLLB",
       [
-       "Mount Phousi",
-       19.892,
-       102.136
-      ],
-      [
        "Kuang Si Falls",
        19.75,
        101.993
       ],
       [
        "~",
-       19.7804,
-       101.9523
+       19.7862,
+       101.9472
       ],
       [
        "Pak Ou Caves",
@@ -47682,14 +47683,20 @@
       ],
       [
        "~",
-       20.0396,
-       102.2464
+       20.0392,
+       102.2462
       ],
       "VLLB"
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Mount Phousi",
+     19.892,
+     102.136
+    ]
+   ],
    "new": true,
    "kw": "Phousi-hegy Phousi hegy Luang Prabang Kuang Si-vízesés Kuang Si vízesés türkiz Pak Ou barlangok Pak Ou barlang Buddha Mekong",
    "img": "Kuang Si Falls|Luang Prabang"
@@ -48172,18 +48179,8 @@
       ],
       [
        "~",
-       9.8414,
-       124.1366
-      ],
-      [
-       "Tarsier Sanctuary",
-       9.686,
-       123.95
-      ],
-      [
-       "Alona Beach",
-       9.54,
-       123.77
+       9.8406,
+       124.1357
       ],
       [
        "Balicasag Island",
@@ -48192,14 +48189,25 @@
       ],
       [
        "~",
-       9.55,
-       123.6655
+       9.4861,
+       123.6986
       ],
       "RPSP"
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Tarsier Sanctuary",
+     9.686,
+     123.95
+    ],
+    [
+     "Alona Beach",
+     9.54,
+     123.77
+    ]
+   ],
    "new": true,
    "kw": "Loboc-folyó Loboc folyó Bohol Chocolate Hills Chocolate Hills Bohol csokoládé dombok Tarzier-rezervátum Corella tarsier Bohol Alona Beach Alona Beach Panglao strand Balicasag-sziget Balicasag sziget búvár",
    "img": "Chocolate Hills|Philippine tarsier"
@@ -48315,16 +48323,17 @@
        27.1,
        100.18
       ],
-      [
-       "Lijiang Old Town",
-       26.87,
-       100.23
-      ],
       "ZPLJ"
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Lijiang Old Town",
+     26.87,
+     100.23
+    ]
+   ],
    "new": true,
    "kw": "Lugu-tó Lugu tó Mosuo Tigrisugrás-szurdok Tigrisugrás szurdok Jangce Jádesárkány-hegy Jade Dragon hegy Lijiang Lijiang óvárosa Lijiang óváros Naxi",
    "img": "Jade Dragon Snow Mountain|Lijiang"
@@ -48420,19 +48429,14 @@
      "pts": [
       "VEBD",
       [
-       "Darjeeling",
-       27.036,
-       88.263
-      ],
-      [
        "Kangchenjunga",
        27.7025,
        88.1475
       ],
       [
        "~",
-       27.7536,
-       88.2549
+       27.7538,
+       88.2548
       ],
       [
        "Gangtok",
@@ -48443,7 +48447,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Darjeeling",
+     27.036,
+     88.263
+    ]
+   ],
    "new": true,
    "kw": "Dardzsiling Darjeeling teaültetvény hegyi vasút Kancsendzönga Kancsendzönga hegy Gangtok Gangtok Szikkim főváros",
    "img": "Kangchenjunga|Darjeeling"
@@ -48547,13 +48557,8 @@
       ],
       [
        "~",
-       58.2785,
-       22.4366
-      ],
-      [
-       "Kaali Crater",
-       58.372,
-       22.669
+       58.3255,
+       22.3379
       ],
       [
        "Haapsalu",
@@ -48569,7 +48574,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Kaali Crater",
+     58.372,
+     22.669
+    ]
+   ],
    "new": true,
    "kw": "Kuressaare vára Kuressaare vár Saaremaa Kaali-kráter Kaali meteorit kráter Haapsalu Haapsalu vár Észtország Tallinn óvárosa Tallinn óváros középkori",
    "img": "Tallinn Old Town|Kuressaare Castle"
@@ -48808,13 +48819,8 @@
       ],
       [
        "~",
-       43.2354,
-       -4.7996
-      ],
-      [
-       "Covadonga Lakes",
-       43.274,
-       -4.987
+       43.3017,
+       -4.7612
       ],
       [
        "Cape Peñas",
@@ -48825,7 +48831,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Covadonga Lakes",
+     43.274,
+     -4.987
+    ]
+   ],
    "new": true,
    "kw": "Santa María del Naranco Naranco templom Oviedo Naranjo de Bulnes Naranjo de Bulnes Picos de Europa Covadonga-tavak Covadonga tavak Enol Ercina Peñas-fok Cabo Penas világítótorony",
    "img": "Naranjo de Bulnes|Lakes of Covadonga"
@@ -49560,25 +49572,26 @@
        -28.52
       ],
       [
-       "Caldeira do Faial",
-       38.58,
-       -28.71
-      ],
-      [
        "Capelinhos Volcano",
        38.595,
        -28.83
       ],
       [
        "~",
-       38.5623,
-       -28.8491
+       38.5629,
+       -28.8507
       ],
       "LPHR"
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Caldeira do Faial",
+     38.58,
+     -28.71
+    ]
+   ],
    "new": true,
    "kw": "Pico-hegy Pico hegy Azori Pico szőlőkultúra Pico szőlő lávakő unesco Faial kaldera Caldeira Faial kráter Capelinhos-vulkán Capelinhos vulkán Faial",
    "img": "Mount Pico|Capelinhos"
@@ -49809,19 +49822,14 @@
        -76.45
       ],
       [
-       "Big Major Cay",
-       24.184,
-       -76.457
-      ],
-      [
        "Warderick Wells",
        24.397,
        -76.633
       ],
       [
        "~",
-       24.4416,
-       -76.5785
+       24.4434,
+       -76.5749
       ],
       [
        "Stocking Island",
@@ -49830,14 +49838,20 @@
       ],
       [
        "~",
-       23.5007,
-       -75.8028
+       23.5008,
+       -75.8029
       ],
       "MYEF"
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Big Major Cay",
+     24.184,
+     -76.457
+    ]
+   ],
    "new": true,
    "kw": "Thunderball-barlang Thunderball barlang Staniel Cay Big Major Cay Úszó malacok Exuma Warderick Wells Exuma Land and Sea Park Stocking-sziget Stocking Island Exuma",
    "img": "Exuma Cays|Thunderball Grotto"
@@ -50189,19 +50203,14 @@
      "pts": [
       "MNMG",
       [
-       "Granada",
-       11.934,
-       -85.956
-      ],
-      [
        "Ometepe Island",
        11.536,
        -85.622
       ],
       [
        "~",
-       11.4602,
-       -85.7004
+       11.4577,
+       -85.6978
       ],
       [
        "Masaya Volcano",
@@ -50222,7 +50231,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Granada",
+     11.934,
+     -85.956
+    ]
+   ],
    "new": true,
    "kw": "Granada Granada Nicaragua gyarmati Ometepe-sziget Ometepe Concepcion vulkán Masaya-vulkán Masaya vulkán láva tó Cerro Negro Cerro Negro vulkán León",
    "img": "Masaya Volcano|Ometepe"
@@ -50574,24 +50589,14 @@
      "pts": [
       "CYXY",
       [
-       "Miles Canyon",
-       60.667,
-       -135.05
-      ],
-      [
        "Carcross Desert",
        60.15,
        -134.7
       ],
       [
        "~",
-       60.0777,
-       -134.8609
-      ],
-      [
-       "Haines Junction",
-       60.75,
-       -137.5
+       60.0791,
+       -134.8634
       ],
       [
        "Kluane Lake",
@@ -50600,14 +50605,25 @@
       ],
       [
        "~",
-       61.1026,
-       -138.431
+       61.1023,
+       -138.4288
       ],
       "CYXY"
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Miles Canyon",
+     60.667,
+     -135.05
+    ],
+    [
+     "Haines Junction",
+     60.75,
+     -137.5
+    ]
+   ],
    "new": true,
    "kw": "Miles Canyon Miles Canyon Yukon Carcross-sivatag Carcross sivatag Haines Junction Haines Junction Kluane Kluane-tó Kluane tó Yukon",
    "img": "Kluane National Park and Reserve|Miles Canyon"
@@ -51214,13 +51230,8 @@
       ],
       [
        "~",
-       -18.7668,
-       -174.0664
-      ],
-      [
-       "Mariner's Cave",
-       -18.7,
-       -174.05
+       -18.7691,
+       -174.0678
       ],
       [
        "Port of Refuge",
@@ -51231,7 +51242,13 @@
      ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Mariner's Cave",
+     -18.7,
+     -174.05
+    ]
+   ],
    "new": true,
    "kw": "Swallows Cave Swallows barlang Vava'u Hunga-sziget Hunga sziget Vava'u Mariner's Cave Mariner barlang Tonga Port of Refuge Neiafu Port of Refuge Tonga",
    "img": "Vavaʻu|Neiafu"

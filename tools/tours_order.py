@@ -25,6 +25,44 @@ def dest(a, brg_deg, km):
     return round(la2 / p, 4), round(lo2 / p, 4)
 
 
+PASS_KM = 3.0      # ha egy utpont ennyin belul van a szomszedait osszekoto egyenestol (vagy a repulotertol), nem kell kulon odamenni: latnivalo (t["pois"]) marad, utpont nem
+
+
+def xtrack(a, b, c):
+    """Az `a` pont tavolsaga (km) a b-c szakasztol (sikkozelites)."""
+    kx = 111.32 * math.cos(math.radians(a[1]))
+    ax, ay = (a[2] - b[2]) * kx, (a[1] - b[1]) * 111.32
+    cx, cy = (c[2] - b[2]) * kx, (c[1] - b[1]) * 111.32
+    L2 = cx * cx + cy * cy
+    u = 0.0 if L2 == 0 else max(0.0, min(1.0, (ax * cx + ay * cy) / L2))
+    return math.hypot(ax - u * cx, ay - u * cy)
+
+
+def passby(P, t):
+    """Az also lepes: a nevesitett kozbenso pontot, ami PASS_KM-en belul van a szomszedait osszekoto szakasztol, kivesszuk az utvonalbol (t["pois"]-ba kerul)."""
+    m = t.get("main") or {}
+    while len(P) > 3:
+        best = None
+        for i in range(1, len(P) - 1):
+            p = P[i][0]
+            if isinstance(p, str) or str(p[0]).startswith("~"):
+                continue
+            if abs(p[1] - m.get("lat", 99)) < 1e-6 and abs(p[2] - m.get("lon", 99)) < 1e-6:
+                continue
+            x = xtrack(P[i], P[i - 1], P[i + 1])
+            if x < PASS_KM and (best is None or x < best[0]):
+                best = (x, i)
+        if not best:
+            break
+        p = P[best[1]][0]
+        ps = t.setdefault("pois", [])
+        if not any(str(e[0]) == str(p[0]) for e in ps):
+            ps.append(list(p))
+        print("  utpont -> latnivalo:", t["id"], p[0], "(%.1f km)" % best[0])
+        P = P[:best[1]] + P[best[1] + 1:]
+    return P
+
+
 def swing(P):
     """Ahol egy fordulo >120 fok (hajtukanyar), ott egy 'atmeneti' (nem latnivalo) pont kerul a fordulo utan: a fordulo ket szelid lepesben tortenik. Nevuk '~'-vel kezdodik."""
     out = [P[0]]
@@ -69,6 +107,7 @@ def main():
                     P = [P[0]] + list(best) + [P[-1]]
                     ch += 1
                     print("atrendezve:", t["id"], v["id"])
+            P = passby(P, t)                         # a lathato/kozeli pontok nem kapnak kulon kitero-kanyart: latnivalo marad, utpont nem
             P2 = swing(P)
             for _ in range(3):                      # ha a bevezetett pont utan is >120 fok marad, meg egy
                 P3 = swing(P2)
