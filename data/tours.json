@@ -42336,16 +42336,16 @@
     "culture"
    ],
    "desc": {
-    "en": "The monuments of the National Mall from the air: the Capitol, the Washington Monument, the Lincoln Memorial, the Pentagon and George Washington's Mount Vernon on the Potomac.",
-    "hu": "A National Mall emlékművei a levegőből: a Capitolium, a Washington-emlékmű, a Lincoln-emlékmű, a Pentagon és George Washington Mount Vernon-i birtoka a Potomac partján.",
-    "de": "Die Monumente der National Mall aus der Luft: das Kapitol, das Washington Monument, das Lincoln Memorial, das Pentagon und George Washingtons Mount Vernon am Potomac.",
-    "es": "Los monumentos del National Mall desde el aire: el Capitolio, el Monumento a Washington, el Monumento a Lincoln, el Pentágono y el Mount Vernon de George Washington sobre el Potomac.",
-    "fr": "Les monuments du National Mall vus du ciel : le Capitole, le Washington Monument, le Lincoln Memorial, le Pentagone et Mount Vernon, la demeure de George Washington sur le Potomac.",
-    "it": "I monumenti del National Mall dall'alto: il Campidoglio, il Monumento a Washington, il Lincoln Memorial, il Pentagono e Mount Vernon, la tenuta di George Washington sul Potomac.",
-    "pl": "Pomniki National Mall z powietrza: Kapitol, Pomnik Waszyngtona, Pomnik Lincolna, Pentagon i Mount Vernon Jerzego Waszyngtona nad Potomakiem.",
-    "ru": "Памятники Национальной аллеи с воздуха: Капитолий, монумент Вашингтона, мемориал Линкольна, Пентагон и Маунт-Вернон Джорджа Вашингтона на Потомаке.",
-    "sk": "Pamätníky na National Mall z výšky: Kapitol, Washingtonov monument, Lincolnov pamätník, Pentagon a Mount Vernon Georgea Washingtona na rieke Potomac.",
-    "zh": "从空中俯瞰国家广场的纪念建筑：国会大厦、华盛顿纪念碑、林肯纪念堂、五角大楼，以及波托马克河畔乔治·华盛顿的弗农山庄。"
+    "en": "The monuments of the National Mall from the air: the Capitol, the Washington Monument, the White House, the Lincoln Memorial, the Pentagon and George Washington's Mount Vernon on the Potomac.",
+    "hu": "A National Mall emlékművei a levegőből: a Capitolium, a Washington-emlékmű, a Fehér Ház, a Lincoln-emlékmű, a Pentagon és George Washington Mount Vernon-i birtoka a Potomac partján.",
+    "de": "Die Monumente der National Mall aus der Luft: das Kapitol, das Washington Monument, das Weiße Haus, das Lincoln Memorial, das Pentagon und George Washingtons Mount Vernon am Potomac.",
+    "es": "Los monumentos del National Mall desde el aire: el Capitolio, el Monumento a Washington, la Casa Blanca, el Monumento a Lincoln, el Pentágono y el Mount Vernon de George Washington sobre el Potomac.",
+    "fr": "Les monuments du National Mall vus du ciel : le Capitole, le Washington Monument, la Maison-Blanche, le Lincoln Memorial, le Pentagone et Mount Vernon, la demeure de George Washington sur le Potomac.",
+    "it": "I monumenti del National Mall dall'alto: il Campidoglio, il Monumento a Washington, la Casa Bianca, il Lincoln Memorial, il Pentagono e Mount Vernon, la tenuta di George Washington sul Potomac.",
+    "pl": "Pomniki National Mall z powietrza: Kapitol, Pomnik Waszyngtona, Biały Dom, Pomnik Lincolna, Pentagon i Mount Vernon Jerzego Waszyngtona nad Potomakiem.",
+    "ru": "Памятники Национальной аллеи с воздуха: Капитолий, монумент Вашингтона, Белый дом, мемориал Линкольна, Пентагон и Маунт-Вернон Джорджа Вашингтона на Потомаке.",
+    "sk": "Pamätníky na National Mall z výšky: Kapitol, Washingtonov monument, Biely dom, Lincolnov pamätník, Pentagon a Mount Vernon Georgea Washingtona na rieke Potomac.",
+    "zh": "从空中俯瞰国家广场的纪念建筑：国会大厦、华盛顿纪念碑、白宫、林肯纪念堂、五角大楼，以及波托马克河畔乔治·华盛顿的弗农山庄。"
    },
    "variants": [
     {
@@ -42367,16 +42367,16 @@
       "zh": "纪念建筑环线"
      },
      "desc": {
-      "en": "The Pentagon, the Lincoln Memorial, the Washington Monument, the Capitol and Mount Vernon.",
-      "hu": "A Pentagon, a Lincoln-emlékmű, a Washington-emlékmű, a Capitolium és Mount Vernon.",
-      "de": "Das Pentagon, das Lincoln Memorial, das Washington Monument, das Kapitol und Mount Vernon.",
-      "es": "El Pentágono, el Monumento a Lincoln, el Monumento a Washington, el Capitolio y Mount Vernon.",
-      "fr": "Le Pentagone, le Lincoln Memorial, le Washington Monument, le Capitole et Mount Vernon.",
-      "it": "Il Pentagono, il Lincoln Memorial, il Monumento a Washington, il Campidoglio e Mount Vernon.",
-      "pl": "Pentagon, Pomnik Lincolna, Pomnik Waszyngtona, Kapitol i Mount Vernon.",
-      "ru": "Пентагон, мемориал Линкольна, монумент Вашингтона, Капитолий и Маунт-Вернон.",
-      "sk": "Pentagon, Lincolnov pamätník, Washingtonov monument, Kapitol a Mount Vernon.",
-      "zh": "五角大楼、林肯纪念堂、华盛顿纪念碑、国会大厦和弗农山庄。"
+      "en": "The Pentagon, the Lincoln Memorial, the Washington Monument, the White House, the Capitol and Mount Vernon.",
+      "hu": "A Pentagon, a Lincoln-emlékmű, a Washington-emlékmű, a Fehér Ház, a Capitolium és Mount Vernon.",
+      "de": "Das Pentagon, das Lincoln Memorial, das Washington Monument, das Weiße Haus, das Kapitol und Mount Vernon.",
+      "es": "El Pentágono, el Monumento a Lincoln, el Monumento a Washington, la Casa Blanca, el Capitolio y Mount Vernon.",
+      "fr": "Le Pentagone, le Lincoln Memorial, le Washington Monument, la Maison-Blanche, le Capitole et Mount Vernon.",
+      "it": "Il Pentagono, il Lincoln Memorial, il Monumento a Washington, la Casa Bianca, il Campidoglio e Mount Vernon.",
+      "pl": "Pentagon, Pomnik Lincolna, Pomnik Waszyngtona, Biały Dom, Kapitol i Mount Vernon.",
+      "ru": "Пентагон, мемориал Линкольна, монумент Вашингтона, Белый дом, Капитолий и Маунт-Вернон.",
+      "sk": "Pentagon, Lincolnov pamätník, Washingtonov monument, Biely dom, Kapitol a Mount Vernon.",
+      "zh": "五角大楼、林肯纪念堂、华盛顿纪念碑、白宫、国会大厦和弗农山庄。"
      },
      "pts": [
       "KDCA",
@@ -42386,9 +42386,9 @@
        -77.0091
       ],
       [
-       "Washington Monument",
-       38.8895,
-       -77.0353
+       "~=",
+       38.8936,
+       -77.0359
       ],
       [
        "Lincoln Memorial",
@@ -42414,6 +42414,16 @@
      "The Pentagon",
      38.8719,
      -77.0563
+    ],
+    [
+     "Washington Monument",
+     38.8895,
+     -77.0353
+    ],
+    [
+     "The White House",
+     38.8977,
+     -77.0365
     ]
    ],
    "kw": "Pentagon Pentagon Washington Lincoln-emlékmű Lincoln Memorial Washington Washington-emlékmű Washington Monument obeliszk Capitolium Capitol Washington Mount Vernon Mount Vernon George Washington",
