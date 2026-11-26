@@ -5,6 +5,11 @@ import gzip, itertools, json, math, os, sys
 from tours_check import hav, brg, ROOT
 from tours_order import dest
 
+# Magneses elhajlas (kelet +, fok, ~2026): a kifuto-szamok magneses irany; ahol nincs kifuto-vegpont koordinata, ebbol szamolunk valos iranyt
+DECL = {"CZN": 17, "WSM": 14, "5Z5": 14, "PALJ": 14, "CAG3": 15, "MX-0006": 8, "MZHR": -2, "MWCL": -7, "SVRS": -12, "SCIR": 1, "CYDP": -22,
+        "EGEP": 1, "LPCR": -8, "VNJL": 2, "VQBT": 1, "FWCM": -1, "NZGB": 19, "YCBN": 13, "FBKI": -8, "FSDR": -1, "YLHI": 12, "NZMF": 23, "NZCI": 21,
+        "MYES": -8, "VNLK": 1, "SCCC": 8, "LDLO": 4, "ENRS": 5, "BIGR": -11, "BIVM": -10, "GCHI": -6, "GCGM": -6, "LICG": 4, "LSGK": 3}
+
 def rwys(ic):
     for ln in gzip.open(os.path.join(ROOT, "data", "airports_rwy.tsv.gz"), "rt", encoding="utf-8"):
         p = ln.split("\t")
@@ -15,7 +20,8 @@ def rwys(ic):
                 if len(f) < 4: continue
                 try: n = int(f[0].split("/")[0].rstrip("LRC")) * 10
                 except: continue
-                if int(f[1] or 0) < 1500: continue
+                if not (len(f) >= 10 and f[6].strip()): n = (n + DECL.get(ic, 0)) % 360
+                if int(f[1] or 0) < 1000: continue
                 out.append((f[0], n, (n + 180) % 360))
             return (lat, lon), out
     raise SystemExit("nincs repter " + ic)
