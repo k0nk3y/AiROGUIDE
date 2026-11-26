@@ -8,3 +8,12 @@ lisbon-sintra/short
 lisbon-sintra/sintra
 sydney/loop
 washington-dc/loop
+asmara-massawa/loop
+sao-tome/loop
+alula/loop
+coxs-bazar/loop
+dunhuang/loop
+paraguay-jesuit/loop
+vanuatu-tanna/loop
+samoa-upolu/loop
+latvia-gauja/loop
