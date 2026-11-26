@@ -26,6 +26,7 @@ def rwys(ic):
             return (lat, lon), out
     raise SystemExit("nincs repter " + ic)
 
+UD = UL = (1,)
 def tn(a, b): return (b - a + 180) % 360 - 180
 
 def cross(p1, p2, p3, p4):
@@ -54,8 +55,8 @@ def run(t, v, dkm=7.0, fkm=10.0):
     best = None
     for (d_nm, d_hd, _) in rw:
         for (l_nm, _, l_hd) in rw:           # leszallas az l_nm pontra: iranya l_hd, a megkozelites az l_hd+180 oldalrol
-            for ud in (0, 1):
-                for ul in (0, 1):
+            for ud in UD:
+                for ul in UL:
                     D = dest(A, d_hd, dkm) if ud else None
                     F = dest(A, (l_hd + 180) % 360, fkm) if ul else None
                     for m in itertools.permutations(mids):
