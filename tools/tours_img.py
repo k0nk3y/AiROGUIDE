@@ -84,7 +84,7 @@ IMG.update({
 "belarus-mir": "Mir Castle|Nesvizh Castle", "moldova-orhei": "Orheiul Vechi|Cricova", "kola-khibiny": "Khibiny|Teriberka", "kazan-volga": "Kazan Kremlin|Sviyazhsk",
 "lviv-carpathians": "Lviv|Hoverla", "kaliningrad-curonian": "Curonian Spit|Kaliningrad", "iqaluit-auyuittuq": "Auyuittuq National Park|Iqaluit", "katmai-alaska": "Katmai National Park and Preserve|Valley of Ten Thousand Smokes",
 "copan-honduras": "Copán|Lake Yojoa", "suriname-brownsberg": "Paramaribo|Brownsberg Nature Park", "haiti-citadelle": "Citadelle Laferrière|Sans-Souci Palace", "paraguay-jesuit": "Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangué|Itaipu Dam",
-"sucre-potosi": "Sucre|Cerro Rico", "vanuatu-tanna": "Mount Yasur|Port Vila", "solomon-islands": "Marovo Lagoon|Guadalcanal", "samoa-upolu": "Upolu|Savai'i",
+"sucre-potosi": "Sucre|Cerro Rico", "vanuatu-tanna": "Mount Yasur|Port Vila", "solomon-islands": "Marovo Lagoon|Guadalcanal", "samoa-upolu": "To Sua Ocean Trench|Lalomanu|Piula Cave Pool|Savai'i|Upolu|Apia|Samoa",
 "nan-madol": "Nan Madol|Pohnpei", "gabon-loango": "Loango National Park|Libreville", "benin-ganvie": "Ganvié|Ouidah", "cameroon-mount": "Mount Cameroon|Limbe, Cameroon",
 "ivory-coast": "Basilica of Our Lady of Peace, Yamoussoukro|Grand-Bassam", "latvia-gauja": "Riga|Gauja National Park", "kosovo-prizren": "Prizren|Visoki Dečani", "saint-lucia-pitons": "Pitons (Saint Lucia)|Soufrière, Saint Lucia",
 "el-salvador-volcanoes": "Lake Coatepeque|Santa Ana Volcano", "dominican-republic": "Zona Colonial|Pico Duarte"})

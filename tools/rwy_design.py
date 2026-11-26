@@ -16,9 +16,10 @@ SPEC = {
  "sao-tome": (110, ["São Sebastião Fort", "Rolas Equator Monument", ["~", 0.0198, 6.4862], "Pico Cão Grande", "Lagoa Azul", ["~=", 0.49, 6.60], ("F", 110, 14)]),
  "alula": (300, ["Dadan", "Hegra", ["~", 26.8137, 38.0116], ["~=", 26.55, 38.32], ("F", 300, 12)]),
  "coxs-bazar": (170, ["Teknaf", "Saint Martin's Island", "Cox's Bazar Beach"]),
- "dunhuang": (260, ["Crescent Lake", "Dunhuang Yardang", ["~", 40.4541, 93.316], "Yumen Pass"]),
- "paraguay-jesuit": (20, ["Trinidad Mission", "Jesús de Tavarangue", "Itaipu Dam", "SW", "Yacyretá Reservoir", ("F", 20, 10)]),
+ "dunhuang": (260, [("D", 260, 8), "Crescent Lake", "Dunhuang Yardang", ["~", 40.4541, 93.316], "Yumen Pass", ["~=", 40.33, 95.02], ("F", 260, 15)]),
+ "paraguay-jesuit": (20, [("D", 20, 8), "Trinidad Mission", "Jesús de Tavarangue", "Itaipu Dam", "SW", "Yacyretá Reservoir", ["~=", -27.62, -56.0], ("F", 20, 18)]),
  "vanuatu-tanna": (290, ["Hideaway Island", "SW", "Mount Yasur", ("F", 290, 10)]),
+ "latvia-gauja": (0, ["Jūrmala Beach", "Riga Old Town", "Turaida Castle", "SW", "Rundāle Palace"]),
  "samoa-upolu": (260, ["Mount Matavanu", "SW", "Savai'i Lava Fields", "To Sua Ocean Trench", ("F", 260, 10)]),
 }
 def build(t, v, dep, spec):
