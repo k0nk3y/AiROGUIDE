@@ -19927,6 +19927,762 @@
 "sk":"Biely dom",
 "zh":"白宫",
 "k":"White House"
+},
+"Akosombo Dam":{
+"hu":"Akosombo-gát",
+"k":"Akosombo gát Volta tó"
+},
+"Kakum Canopy Walkway":{
+"hu":"Kakum lombkorona-híd",
+"k":"Kakum nemzeti park lombkorona sétány"
+},
+"Cape Coast Castle":{
+"hu":"Cape Coast-i vár",
+"k":"Cape Coast vár rabszolga Ghána"
+},
+"Elmina Castle":{
+"hu":"Elmina-vár",
+"k":"Elmina vár São Jorge da Mina"
+},
+"Tundavala Gap":{
+"hu":"Tundavala-hasadék",
+"k":"Tundavala hasadék Angola szakadék"
+},
+"Cristo Rei Lubango":{
+"hu":"Lubango Krisztus Király-szobra",
+"k":"Cristo Rei Lubango szobor"
+},
+"Leba Pass":{
+"hu":"Leba-hágó",
+"k":"Serra da Leba hágó Angola"
+},
+"Great Mosque of Djenné":{
+"hu":"A djennéi nagymecset",
+"k":"Djenné nagymecset vályog Mali"
+},
+"Bandiagara Escarpment":{
+"hu":"Bandiagara-lejtő",
+"k":"Bandiagara dogon sziklafal Sangha"
+},
+"Hand of Fatima":{
+"hu":"Fatima keze",
+"k":"Hombori Tondo Fatima keze szikla"
+},
+"Terjit Oasis":{
+"hu":"Terjit-oázis",
+"k":"Terjit oázis Mauritánia"
+},
+"Chinguetti":{
+"hu":"Chinguetti",
+"k":"Chinguetti könyvtár mecset"
+},
+"Ouadane":{
+"hu":"Ouadane",
+"k":"Ouadane romváros"
+},
+"Richat Structure":{
+"hu":"Richat-szerkezet",
+"k":"Richat szerkezet Szahara szem"
+},
+"Agadez Grand Mosque":{
+"hu":"Agadez nagymecsete",
+"k":"Agadez nagymecset minaret"
+},
+"Mount Bagzane":{
+"hu":"Bagzane-hegy",
+"k":"Bagzane hegy Aïr"
+},
+"Timia Oasis":{
+"hu":"Timia-oázis",
+"k":"Timia oázis Aïr Niger"
+},
+"Tripoli Red Castle":{
+"hu":"Tripoli Vörös-vár",
+"k":"Tripoli Assaraya al-Hamra vár"
+},
+"Sabratha":{
+"hu":"Sabratha",
+"k":"Sabratha római színház"
+},
+"Leptis Magna":{
+"hu":"Leptis Magna",
+"k":"Leptis Magna római város"
+},
+"Meeting of the Niles":{
+"hu":"A Nílusok találkozása",
+"k":"Kék Nílus Fehér Nílus találkozás Kartúm"
+},
+"Musawwarat es-Sufra":{
+"hu":"Musawwarat es-Sufra",
+"k":"Musawwarat es-Sufra templom"
+},
+"Naqa":{
+"hu":"Naqa",
+"k":"Naqa templom oroszlán"
+},
+"Meroë Pyramids":{
+"hu":"Meroë piramisai",
+"k":"Meroë piramisok"
+},
+"Asmara Modernist City":{
+"hu":"Asmara modernista városa",
+"k":"Asmara art deco építészet"
+},
+"Qohaito":{
+"hu":"Qohaito",
+"k":"Qohaito romváros Eritrea"
+},
+"Massawa":{
+"hu":"Massawa",
+"k":"Massawa kikötő korallkő"
+},
+"Dahlak Kebir":{
+"hu":"Dahlak Kebir",
+"k":"Dahlak szigetcsoport Vörös-tenger"
+},
+"Moucha Island":{
+"hu":"Moucha-sziget",
+"k":"Moucha sziget Dzsibuti"
+},
+"Tadjoura":{
+"hu":"Tadjoura",
+"k":"Tadjoura öböl Dzsibuti"
+},
+"Lake Assal":{
+"hu":"Assal-tó",
+"k":"Assal tó sós Dzsibuti"
+},
+"Lac Abbé":{
+"hu":"Abbé-tó",
+"k":"Abbé tó kémények Dzsibuti"
+},
+"Thaba Bosiu":{
+"hu":"Thaba Bosiu",
+"k":"Thaba Bosiu erődfennsík Moshoeshoe"
+},
+"Katse Dam":{
+"hu":"Katse-gát",
+"k":"Katse gát Lesotho"
+},
+"Sani Pass":{
+"hu":"Sani-hágó",
+"k":"Sani hágó Lesotho"
+},
+"Maletsunyane Falls":{
+"hu":"Maletsunyane-vízesés",
+"k":"Maletsunyane vízesés Semonkong"
+},
+"São Sebastião Fort":{
+"hu":"São Sebastião-erőd",
+"k":"São Sebastião erőd São Tomé"
+},
+"Lagoa Azul":{
+"hu":"Lagoa Azul",
+"k":"Lagoa Azul São Tomé"
+},
+"Pico Cão Grande":{
+"hu":"Pico Cão Grande",
+"k":"Pico Cão Grande vulkáni tű"
+},
+"Rolas Equator Monument":{
+"hu":"Rolas Egyenlítő-emlékmű",
+"k":"Ilhéu das Rolas egyenlítő"
+},
+"South Luangwa National Park":{
+"hu":"Dél-Luangwa Nemzeti Park",
+"k":"South Luangwa nemzeti park"
+},
+"Lukusuzi National Park":{
+"hu":"Lukusuzi Nemzeti Park",
+"k":"Lukusuzi nemzeti park"
+},
+"North Luangwa National Park":{
+"hu":"Észak-Luangwa Nemzeti Park",
+"k":"North Luangwa nemzeti park"
+},
+"Babur Gardens":{
+"hu":"Babur-kert",
+"k":"Babur kert Kabul"
+},
+"Bamiyan Buddhas":{
+"hu":"Bamiyan Buddha-fülkék",
+"k":"Bamiyan Buddha szobrok fülkék"
+},
+"Band-e Amir":{
+"hu":"Band-e Amir",
+"k":"Band-e Amir tavak Afganisztán"
+},
+"Hegra":{
+"hu":"Hegra",
+"k":"Hegra Madain Salih nabateus sírok"
+},
+"Elephant Rock":{
+"hu":"Elefánt-szikla",
+"k":"Elephant Rock AlUla szikla"
+},
+"Dadan":{
+"hu":"Dadan",
+"k":"Dadan ókori város AlUla"
+},
+"Maraya":{
+"hu":"Maraya",
+"k":"Maraya hangversenyterem AlUla"
+},
+"Babylon":{
+"hu":"Babilon",
+"k":"Babilon Istár kapu"
+},
+"Ukhaidir Fortress":{
+"hu":"Ukhaidir-erőd",
+"k":"Ukhaidir erőd Irak"
+},
+"Samarra Malwiya Minaret":{
+"hu":"Szamarrai spirálminaret",
+"k":"Malwiya minaret Szamarra"
+},
+"Ctesiphon":{
+"hu":"Ktésziphón",
+"k":"Ktésziphón Taq Kasra boltív"
+},
+"Umayyad Mosque":{
+"hu":"Omajjád-mecset",
+"k":"Omajjád mecset Damaszkusz"
+},
+"Maaloula":{
+"hu":"Maaloula",
+"k":"Maaloula arámi falu kolostor"
+},
+"Krak des Chevaliers":{
+"hu":"Krak des Chevaliers",
+"k":"Krak des Chevaliers keresztes vár"
+},
+"Palmyra":{
+"hu":"Palmüra",
+"k":"Palmüra romok oszlopsor"
+},
+"Museum of Islamic Art":{
+"hu":"Iszlám Művészeti Múzeum",
+"k":"Museum of Islamic Art Doha"
+},
+"West Bay Skyline":{
+"hu":"West Bay felhőkarcolói",
+"k":"Doha West Bay felhőkarcoló"
+},
+"Lusail Stadium":{
+"hu":"Lusaili stadion",
+"k":"Lusail stadion világbajnokság"
+},
+"Al Zubarah Fort":{
+"hu":"Al Zubarah-erőd",
+"k":"Al Zubarah erőd Katar"
+},
+"Khor Al Adaid":{
+"hu":"Khor Al Adaid",
+"k":"Khor Al Adaid belső tenger Katar"
+},
+"Omar Ali Saifuddien Mosque":{
+"hu":"Omar Ali Saifuddien-mecset",
+"k":"Omar Ali Saifuddien mecset Bandar Seri Begawan"
+},
+"Kampong Ayer":{
+"hu":"Kampong Ayer",
+"k":"Kampong Ayer vízi falu"
+},
+"Istana Nurul Iman":{
+"hu":"Istana Nurul Iman",
+"k":"Istana Nurul Iman szultán palota"
+},
+"Ulu Temburong":{
+"hu":"Ulu Temburong",
+"k":"Ulu Temburong nemzeti park"
+},
+"Atauro Island":{
+"hu":"Atauro-sziget",
+"k":"Atauro sziget korallzátony"
+},
+"Mount Tatamailau":{
+"hu":"Tatamailau",
+"k":"Tatamailau Ramelau hegy"
+},
+"Jaco Island":{
+"hu":"Jaco-sziget",
+"k":"Jaco sziget Timor"
+},
+"Cox's Bazar Beach":{
+"hu":"Cox's Bazar-i strand",
+"k":"Cox's Bazar strand leghosszabb"
+},
+"Inani Beach":{
+"hu":"Inani-strand",
+"k":"Inani strand Banglades"
+},
+"Teknaf":{
+"hu":"Teknaf",
+"k":"Teknaf félsziget"
+},
+"Saint Martin's Island":{
+"hu":"Saint Martin-sziget",
+"k":"Saint Martin sziget korall"
+},
+"Bibi Ka Maqbara":{
+"hu":"Bibi Ka Maqbara",
+"k":"Bibi Ka Maqbara Aurangabad"
+},
+"Daulatabad Fort":{
+"hu":"Daulatabad-erőd",
+"k":"Daulatabad erőd"
+},
+"Ellora Caves":{
+"hu":"Ellórai barlangok",
+"k":"Ellora Kailasa templom"
+},
+"Ajanta Caves":{
+"hu":"Adzsantai barlangok",
+"k":"Ajanta barlangok freskó"
+},
+"Lonar Crater":{
+"hu":"Lonar-kráter",
+"k":"Lonar kráter tó"
+},
+"Mogao Caves":{
+"hu":"Mogao-barlangok",
+"k":"Mogao barlangok Dunhuang"
+},
+"Crescent Lake":{
+"hu":"Holdtó",
+"k":"Crescent Lake Mingsha dűne"
+},
+"Yumen Pass":{
+"hu":"Jümen-hágó",
+"k":"Yumenguan hágó Selyemút"
+},
+"Dunhuang Yardang":{
+"hu":"Tunhuangi jardangok",
+"k":"Dunhuang jardang geopark"
+},
+"Kashgar Old City":{
+"hu":"Kasgar óvárosa",
+"k":"Kasgar óváros Id Kah mecset"
+},
+"Karakul Lake":{
+"hu":"Karakul-tó",
+"k":"Karakul tó Muztagh Ata"
+},
+"Muztagh Ata":{
+"hu":"Muztagh Ata",
+"k":"Muztagh Ata hegy"
+},
+"Tashkurgan Stone City":{
+"hu":"Tashkurgan kővára",
+"k":"Tashkurgan kővár"
+},
+"Kizhi Pogost":{
+"hu":"Kizsi pogoszt",
+"k":"Kizsi pogoszt fatemplom Onyega"
+},
+"Kivach Waterfall":{
+"hu":"Kivacs-vízesés",
+"k":"Kivacs vízesés Karélia"
+},
+"Ruskeala Marble Canyon":{
+"hu":"Ruskeala márványkanyon",
+"k":"Ruskeala márvány kanyon"
+},
+"Valaam Monastery":{
+"hu":"Valaam-kolostor",
+"k":"Valaam kolostor Ladoga"
+},
+"Nesvizh Castle":{
+"hu":"Nyeszvizsi kastély",
+"k":"Nesvizh kastély Radziwill"
+},
+"Mir Castle":{
+"hu":"Mir-vár",
+"k":"Mir vár Fehéroroszország"
+},
+"Brest Fortress":{
+"hu":"Breszti erőd",
+"k":"Breszti erőd emlékmű"
+},
+"Belovezhskaya Pushcha":{
+"hu":"Belovezsi-erdő",
+"k":"Belovezsi Pushcha nemzeti park"
+},
+"Cricova Winery":{
+"hu":"Cricovai borpince",
+"k":"Cricova pincészet"
+},
+"Orheiul Vechi":{
+"hu":"Orheiul Vechi",
+"k":"Orheiul Vechi barlangkolostor"
+},
+"Saharna Monastery":{
+"hu":"Saharna-kolostor",
+"k":"Saharna kolostor vízesés"
+},
+"Soroca Fortress":{
+"hu":"Soroca-erőd",
+"k":"Soroca erőd Dnyeszter"
+},
+"Alyosha Monument":{
+"hu":"Aljosa-emlékmű",
+"k":"Aljosa emlékmű Murmanszk"
+},
+"Teriberka":{
+"hu":"Teriberka",
+"k":"Teriberka Barents-tenger part"
+},
+"Lovozero":{
+"hu":"Lovozero",
+"k":"Lovozero tó Kola"
+},
+"Khibiny Mountains":{
+"hu":"Hibini-hegység",
+"k":"Hibini hegység Kirovszk"
+},
+"Kazan Kremlin":{
+"hu":"Kazanyi Kreml",
+"k":"Kazanyi Kreml Kolsarif mecset"
+},
+"Raifa Monastery":{
+"hu":"Raifa-kolostor",
+"k":"Raifa kolostor Kazany"
+},
+"Sviyazhsk":{
+"hu":"Szvijazsszk",
+"k":"Szvijazsszk sziget kolostor"
+},
+"Bolgar":{
+"hu":"Bolgar",
+"k":"Bolgar ókori város Tatárföld"
+},
+"Zhovkva":{
+"hu":"Zsovkva",
+"k":"Zsovkva reneszánsz város"
+},
+"Lviv Old Town":{
+"hu":"Lviv óvárosa",
+"k":"Lviv óváros Rynok tér"
+},
+"Olesko Castle":{
+"hu":"Olesko-vár",
+"k":"Olesko vár Lviv"
+},
+"Pochaiv Lavra":{
+"hu":"Pocsajivi Lavra",
+"k":"Pocsajivi Lavra kolostor"
+},
+"Hoverla":{
+"hu":"Hoverla",
+"k":"Hoverla Csornohora Kárpátok"
+},
+"Kaliningrad Cathedral":{
+"hu":"Kalinyingrádi katedrális",
+"k":"Kalinyingrád katedrális Kant sziget"
+},
+"Svetlogorsk":{
+"hu":"Szvetlogorszk",
+"k":"Szvetlogorszk Balti tenger üdülő"
+},
+"Yantarny Amber Quarry":{
+"hu":"Jantarnij borostyánbánya",
+"k":"Jantarnij borostyán bánya"
+},
+"Curonian Spit Dunes":{
+"hu":"Kuri-turzás dűnéi",
+"k":"Kuri turzás Efa dűne"
+},
+"Cumberland Sound":{
+"hu":"Cumberland-szoros",
+"k":"Cumberland Sound Baffin Pangnirtung"
+},
+"Mount Asgard":{
+"hu":"Asgard-hegy",
+"k":"Asgard hegy Auyuittuq"
+},
+"Penny Ice Cap":{
+"hu":"Penny-jégsapka",
+"k":"Penny Ice Cap Baffin"
+},
+"Brooks Falls":{
+"hu":"Brooks-vízesés",
+"k":"Brooks Falls medvék Katmai"
+},
+"Mount Katmai":{
+"hu":"Katmai-hegy",
+"k":"Katmai vulkán kaldera"
+},
+"Novarupta":{
+"hu":"Novarupta",
+"k":"Novarupta vulkán Tízezer Füst Völgye"
+},
+"Lake Yojoa":{
+"hu":"Yojoa-tó",
+"k":"Yojoa tó Honduras"
+},
+"Copán Ruins":{
+"hu":"Copán romjai",
+"k":"Copán maja romok"
+},
+"Celaque":{
+"hu":"Celaque",
+"k":"Celaque köderdő nemzeti park"
+},
+"Gracias":{
+"hu":"Gracias",
+"k":"Gracias Lempira gyarmati város"
+},
+"Paramaribo Old Town":{
+"hu":"Paramaribo óvárosa",
+"k":"Paramaribo belváros Fort Zeelandia"
+},
+"Brownsberg":{
+"hu":"Brownsberg",
+"k":"Brownsberg természetvédelmi terület"
+},
+"Brokopondo Reservoir":{
+"hu":"Brokopondo-víztározó",
+"k":"Brokopondo víztározó Suriname"
+},
+"Raleigh Falls":{
+"hu":"Raleigh-vízesés",
+"k":"Raleigh vízesés Suriname"
+},
+"Labadee":{
+"hu":"Labadee",
+"k":"Labadee part Haiti"
+},
+"Citadelle Laferrière":{
+"hu":"Citadelle Laferrière",
+"k":"Citadelle Laferrière erőd Haiti"
+},
+"Sans-Souci Palace":{
+"hu":"Sans-Souci-palota",
+"k":"Sans-Souci palota Milot"
+},
+"Pic la Selle":{
+"hu":"Pic la Selle",
+"k":"Pic la Selle Haiti csúcs"
+},
+"Trinidad Mission":{
+"hu":"Trinidad misszió",
+"k":"Trinidad jezsuita romok Paraguay"
+},
+"Jesús de Tavarangue":{
+"hu":"Jesús de Tavarangue",
+"k":"Jesús Tavarangue jezsuita romok"
+},
+"Yacyretá Reservoir":{
+"hu":"Yacyretá-víztározó",
+"k":"Yacyretá gát Paraná"
+},
+"Sucre Historic Centre":{
+"hu":"Sucre történelmi központja",
+"k":"Sucre belváros fehér város"
+},
+"Cal Orck'o":{
+"hu":"Cal Orck'o",
+"k":"Cal Orcko dinoszaurusz nyomok"
+},
+"Maragua Crater":{
+"hu":"Maragua-kráter",
+"k":"Maragua kráter Sucre"
+},
+"Cerro Rico":{
+"hu":"Cerro Rico",
+"k":"Cerro Rico Potosí ezüsthegy"
+},
+"Port Vila":{
+"hu":"Port Vila",
+"k":"Port Vila Vanuatu kikötő"
+},
+"Hideaway Island":{
+"hu":"Hideaway-sziget",
+"k":"Hideaway Island Vanuatu"
+},
+"Mount Yasur":{
+"hu":"Yasur-vulkán",
+"k":"Yasur vulkán Tanna"
+},
+"Honiara":{
+"hu":"Honiara",
+"k":"Honiara Guadalcanal"
+},
+"Iron Bottom Sound":{
+"hu":"Iron Bottom Sound",
+"k":"Iron Bottom Sound roncsok"
+},
+"Mount Popomanaseu":{
+"hu":"Popomanaseu-hegy",
+"k":"Popomanaseu hegy Guadalcanal"
+},
+"Marovo Lagoon":{
+"hu":"Marovo-lagúna",
+"k":"Marovo lagúna Salamon"
+},
+"Lalomanu Beach":{
+"hu":"Lalomanu-strand",
+"k":"Lalomanu strand Samoa"
+},
+"To Sua Ocean Trench":{
+"hu":"To Sua óceáni árok",
+"k":"To Sua úszóbarlang Samoa"
+},
+"Mount Matavanu":{
+"hu":"Matavanu-vulkán",
+"k":"Matavanu vulkán Savaii"
+},
+"Savai'i Lava Fields":{
+"hu":"Savai'i lávamezői",
+"k":"Savaii lávamező Szamoa"
+},
+"Sokehs Rock":{
+"hu":"Sokehs-szikla",
+"k":"Sokehs Rock Pohnpei"
+},
+"Nan Madol":{
+"hu":"Nan Madol",
+"k":"Nan Madol romok Pohnpei"
+},
+"Kepirohi Falls":{
+"hu":"Kepirohi-vízesés",
+"k":"Kepirohi vízesés Pohnpei"
+},
+"Libreville Coast":{
+"hu":"Libreville partja",
+"k":"Libreville part Gabon"
+},
+"Lambaréné":{
+"hu":"Lambaréné",
+"k":"Lambaréné Ogooué folyó"
+},
+"Loango National Park":{
+"hu":"Loango Nemzeti Park",
+"k":"Loango nemzeti park elefánt part"
+},
+"Ganvié":{
+"hu":"Ganvié",
+"k":"Ganvié cölöpfalu Nokoué tó"
+},
+"Ouidah Door of No Return":{
+"hu":"Ouidah Vissza Nem Térés Kapuja",
+"k":"Ouidah Door of No Return"
+},
+"Abomey Royal Palaces":{
+"hu":"Abomey királyi palotái",
+"k":"Abomey királyi palota"
+},
+"Douala Estuary":{
+"hu":"Douala torkolata",
+"k":"Douala Wouri torkolat"
+},
+"Limbe":{
+"hu":"Limbe",
+"k":"Limbe fekete homok part"
+},
+"Mount Cameroon":{
+"hu":"Kamerun-hegy",
+"k":"Kamerun hegy vulkán Fako"
+},
+"Kribi Lobe Falls":{
+"hu":"Kribi Lobe-vízesés",
+"k":"Lobe vízesés Kribi"
+},
+"Abidjan Lagoons":{
+"hu":"Abidjan lagúnái",
+"k":"Abidjan lagúna Plateau"
+},
+"Grand-Bassam":{
+"hu":"Grand-Bassam",
+"k":"Grand-Bassam gyarmati város"
+},
+"Basilica of Our Lady of Peace":{
+"hu":"Béke Királynője-bazilika",
+"k":"Yamoussoukro bazilika Béke Királynője"
+},
+"Jūrmala Beach":{
+"hu":"Jūrmala strandja",
+"k":"Jurmala tengerpart"
+},
+"Riga Old Town":{
+"hu":"Riga óvárosa",
+"k":"Riga óváros szecesszió"
+},
+"Turaida Castle":{
+"hu":"Turaida-vár",
+"k":"Turaida vár Sigulda"
+},
+"Gutmanis Cave":{
+"hu":"Gutmanis-barlang",
+"k":"Gutmanis barlang Sigulda"
+},
+"Rundāle Palace":{
+"hu":"Rundālei palota",
+"k":"Rundale palota Bauska"
+},
+"Gračanica Monastery":{
+"hu":"Gračanica-kolostor",
+"k":"Gracanica kolostor Pristina"
+},
+"Visoki Dečani":{
+"hu":"Visoki Dečani",
+"k":"Visoki Decani kolostor"
+},
+"Rugova Gorge":{
+"hu":"Rugova-szoros",
+"k":"Rugova szoros Peja"
+},
+"Prizren Fortress":{
+"hu":"Prizreni erőd",
+"k":"Prizren Kalaja erőd"
+},
+"Pigeon Island":{
+"hu":"Pigeon-sziget",
+"k":"Pigeon Island Saint Lucia"
+},
+"Marigot Bay":{
+"hu":"Marigot-öböl",
+"k":"Marigot Bay Saint Lucia"
+},
+"Soufrière Sulphur Springs":{
+"hu":"Soufrière kénes források",
+"k":"Sulphur Springs Soufrière"
+},
+"The Pitons":{
+"hu":"A Pitonok",
+"k":"Pitons Gros Piton Petit Piton"
+},
+"San Salvador Volcano":{
+"hu":"San Salvador-vulkán",
+"k":"San Salvador vulkán Boqueron"
+},
+"Santa Ana Volcano":{
+"hu":"Santa Ana-vulkán",
+"k":"Santa Ana vulkán Ilamatepec"
+},
+"Lake Coatepeque":{
+"hu":"Coatepeque-tó",
+"k":"Coatepeque kráter tó"
+},
+"Izalco Volcano":{
+"hu":"Izalco-vulkán",
+"k":"Izalco vulkán"
+},
+"Zona Colonial":{
+"hu":"Zona Colonial",
+"k":"Zona Colonial Santo Domingo"
+},
+"Pico Duarte":{
+"hu":"Pico Duarte",
+"k":"Pico Duarte csúcs"
+},
+"Lago Enriquillo":{
+"hu":"Lago Enriquillo",
+"k":"Lago Enriquillo sós tó krokodil"
+},
+"Salto El Limón":{
+"hu":"Salto El Limón",
+"k":"Salto El Limón vízesés Samaná"
 }
 }
 }

@@ -74,6 +74,20 @@ IMG.update({
 "gros-morne": "Gros Morne National Park|The Tablelands", "yukon": "Kluane National Park and Reserve|Miles Canyon", "cape-breton": "Cabot Trail|Fortress of Louisbourg",
 "guyana": "Kaieteur Falls|Georgetown, Guyana", "lencois-maranhenses": "Lençóis Maranhenses National Park|São Luís, Maranhão", "pantanal": "Pantanal|Bonito, Mato Grosso do Sul",
 "vavau": "Neiafu (Vavaʻu)|Neiafu Market", "kimberley": "Purnululu National Park|Lake Argyle", "ningaloo": "Ningaloo Coast|Turquoise Bay", "new-caledonia": "Isle of Pines (New Caledonia)|Nouméa"})
+IMG.update({
+"ghana-cape-coast": "Cape Coast Castle|Kakum National Park", "angola-lubango": "Tundavala Gap|Lubango", "mali-djenne": "Great Mosque of Djenné|Bandiagara Escarpment", "mauritania-adrar": "Richat Structure|Chinguetti",
+"agadez-air": "Agadez|Aïr Mountains", "libya-leptis": "Leptis Magna|Sabratha", "sudan-meroe": "Meroë|Naqa", "asmara-massawa": "Asmara|Massawa",
+"djibouti-assal": "Lake Assal (Djibouti)|Tadjoura", "lesotho-maseru": "Maletsunyane Falls|Thaba Bosiu", "sao-tome": "Pico Cão Grande|São Tomé (city)", "south-luangwa": "South Luangwa National Park|Luangwa River",
+"bamiyan": "Buddhas of Bamiyan|Band-e Amir National Park", "alula": "Hegra Archaeological Site|AlUla", "mesopotamia": "Babylon|Ctesiphon", "syria-palmyra": "Palmyra|Krak des Chevaliers",
+"qatar": "Museum of Islamic Art, Doha|Lusail Stadium", "brunei": "Omar Ali Saifuddien Mosque|Kampong Ayer", "timor-leste": "Cristo Rei of Dili|Atauro Island", "coxs-bazar": "Cox's Bazar|Saint Martin's Island",
+"ajanta-ellora": "Ellora Caves|Ajanta Caves", "dunhuang": "Mogao Caves|Dunhuang", "kashgar-karakul": "Kashgar|Muztagh Ata", "karelia-kizhi": "Kizhi Pogost|Kivach Waterfall",
+"belarus-mir": "Mir Castle|Nesvizh Castle", "moldova-orhei": "Orheiul Vechi|Cricova", "kola-khibiny": "Khibiny|Teriberka", "kazan-volga": "Kazan Kremlin|Sviyazhsk",
+"lviv-carpathians": "Lviv|Hoverla", "kaliningrad-curonian": "Curonian Spit|Kaliningrad", "iqaluit-auyuittuq": "Auyuittuq National Park|Iqaluit", "katmai-alaska": "Katmai National Park and Preserve|Valley of Ten Thousand Smokes",
+"copan-honduras": "Copán|Lake Yojoa", "suriname-brownsberg": "Paramaribo|Brownsberg Nature Park", "haiti-citadelle": "Citadelle Laferrière|Sans-Souci Palace", "paraguay-jesuit": "Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangué|Itaipu Dam",
+"sucre-potosi": "Sucre|Cerro Rico", "vanuatu-tanna": "Mount Yasur|Port Vila", "solomon-islands": "Marovo Lagoon|Guadalcanal", "samoa-upolu": "To Sua Ocean Trench|Savai'i",
+"nan-madol": "Nan Madol|Pohnpei", "gabon-loango": "Loango National Park|Libreville", "benin-ganvie": "Ganvié|Ouidah", "cameroon-mount": "Mount Cameroon|Limbe, Cameroon",
+"ivory-coast": "Basilica of Our Lady of Peace, Yamoussoukro|Grand-Bassam", "latvia-gauja": "Riga|Gauja National Park", "kosovo-prizren": "Prizren|Visoki Dečani", "saint-lucia-pitons": "Pitons (Saint Lucia)|Soufrière, Saint Lucia",
+"el-salvador-volcanoes": "Lake Coatepeque|Santa Ana Volcano", "dominican-republic": "Zona Colonial|Pico Duarte"})
 d = json.load(open(P, encoding="utf-8"))
 miss = [t["id"] for t in d["tours"] if t["id"] not in IMG]
 for t in d["tours"]:
