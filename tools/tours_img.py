@@ -88,6 +88,20 @@ IMG.update({
 "nan-madol": "Nan Madol|Pohnpei", "gabon-loango": "Loango National Park|Libreville", "benin-ganvie": "Ganvié|Ouidah", "cameroon-mount": "Mount Cameroon|Limbe, Cameroon",
 "ivory-coast": "Basilica of Our Lady of Peace, Yamoussoukro|Grand-Bassam", "latvia-gauja": "Riga|Gauja National Park", "kosovo-prizren": "Prizren|Visoki Dečani", "saint-lucia-pitons": "Pitons (Saint Lucia)|Soufrière, Saint Lucia",
 "el-salvador-volcanoes": "Lake Coatepeque|Santa Ana Volcano", "dominican-republic": "Zona Colonial|Pico Duarte"})
+IMG.update({
+"stol-wrangell": "Mount Blackburn|Wrangell-St. Elias National Park and Preserve", "stol-gates-arctic": "Arrigetch Peaks|Gates of the Arctic National Park and Preserve", "stol-kantishna": "Denali|Wonder Lake", "stol-lake-clark": "Lake Clark National Park and Preserve|Redoubt Volcano",
+"stol-icy-strait": "Margerie Glacier|Glacier Bay National Park and Preserve", "stol-molokai": "Kalaupapa National Historical Park|Molokai", "stol-catalina": "Santa Catalina Island, California|Avalon, California", "stol-san-juan": "San Juan Islands|Mount Constitution",
+"stol-bella-coola": "Hunlen Falls|Tweedsmuir Provincial Park", "stol-chilko": "Chilko Lake|Mount Waddington", "stol-baja-cortez": "Bahía de los Ángeles|Isla Ángel de la Guarda", "stol-belize-bluehole": "Great Blue Hole|Lighthouse Reef",
+"stol-grenadines": "Tobago Cays|Mustique", "stol-little-cayman": "Little Cayman|Cayman Brac", "stol-les-saintes": "Les Saintes|La Soufrière (Guadeloupe)", "stol-los-roques": "Los Roques Archipelago|Gran Roque",
+"stol-juan-fernandez": "Robinson Crusoe Island|Juan Fernández Islands", "stol-falklands": "Stanley, Falkland Islands|Volunteer Point", "stol-general-carrera": "Marble Caves|General Carrera Lake", "stol-staniel": "Thunderball Grotto|Staniel Cay",
+"stol-nain": "Torngat Mountains National Park|Nain, Newfoundland and Labrador", "stol-skagway": "White Pass and Yukon Route|Chilkoot Trail", "stol-scilly": "Isles of Scilly|Tresco Abbey Garden", "stol-orkney": "Papa Westray|Skara Brae",
+"stol-barra": "Barra Airport|Kisimul Castle", "stol-roest": "Røst|Moskstraumen", "stol-losinj": "Lošinj|Cres (island)", "stol-grimsey": "Grímsey|Goðafoss",
+"stol-heimaey": "Heimaey|Surtsey", "stol-corvo": "Corvo Island|Flores Island (Azores)", "stol-el-hierro": "El Hierro|Garajonay National Park", "stol-la-gomera": "Garajonay National Park|Teide",
+"stol-gstaad": "Gstaad|Eiger", "stol-pantelleria": "Pantelleria|Lampedusa", "stol-lukla": "Tenzing-Hillary Airport|Namche Bazaar", "stol-jumla": "Rara Lake|Jumla",
+"stol-bumthang": "Bumthang District|Jakar Dzong", "stol-okavango-kiri": "Okavango Delta|Moremi Game Reserve", "stol-desroches": "Desroches Island|Poivre Atoll", "stol-lake-malawi": "Cape Maclear|Lake Malawi National Park",
+"stol-great-barrier": "Great Barrier Island|Hauraki Gulf", "stol-lord-howe": "Lord Howe Island|Ball's Pyramid", "stol-milford": "Milford Sound / Piopiotahi|Mitre Peak (Fiordland)", "stol-chatham": "Chatham Islands|Pitt Island (New Zealand)",
+"stol-flinders": "Flinders Island|Cape Barren Island",
+})
 d = json.load(open(P, encoding="utf-8"))
 miss = [t["id"] for t in d["tours"] if t["id"] not in IMG]
 for t in d["tours"]:
