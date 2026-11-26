@@ -12,10 +12,10 @@ def rwys(ic):
             lat, lon = float(p[2]), float(p[3]); out = []
             for r in p[8].strip().split(";"):
                 f = r.split("|")
-                if len(f) < 4 or f[3] not in ("H", "A", "C", "P", "") : continue
+                if len(f) < 4: continue
                 try: n = int(f[0].split("/")[0].rstrip("LRC")) * 10
                 except: continue
-                if int(f[1] or 0) < 2500: continue
+                if int(f[1] or 0) < 1500: continue
                 out.append((f[0], n, (n + 180) % 360))
             return (lat, lon), out
     raise SystemExit("nincs repter " + ic)
