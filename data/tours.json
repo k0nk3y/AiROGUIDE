@@ -394,16 +394,16 @@
       "zh": "卢卡拉出发看珠峰（STOL）"
      },
      "desc": {
-      "en": "Short-field loop: Namche Bazaar, Tengboche, the Ama Dablam valley, Everest Base Camp and Kala Patthar with Everest ahead, the Gokyo lakes and back down the Dudh Kosi to Lukla. Needs a STOL-capable aircraft.",
-      "hu": "Rövid pályás kör: Namche Bazaar, Tengboche, az Ama Dablam völgye, az Everest alaptábor és a Kala Patthar az Everesttel szemben, a Gokyo-tavak, majd a Dudh Kosi mentén vissza Luklába. STOL-képes gép kell hozzá.",
-      "de": "Kurzstart-Runde: Namche Bazaar, Tengboche, das Ama-Dablam-Tal, das Everest-Basislager und der Kala Patthar mit dem Everest voraus, die Gokyo-Seen und zurück das Dudh-Kosi-Tal hinab nach Lukla. Erfordert ein STOL-fähiges Flugzeug.",
-      "es": "Circuito de pista corta: Namche Bazaar, Tengboche, el valle del Ama Dablam, el campo base del Everest y Kala Patthar con el Everest de frente, los lagos Gokyo y de regreso por el Dudh Kosi hasta Lukla. Requiere una aeronave con capacidad STOL.",
-      "fr": "Boucle à décollage court : Namche Bazaar, Tengboche, la vallée de l'Ama Dablam, le camp de base de l'Everest et le Kala Patthar avec l'Everest en ligne de mire, les lacs de Gokyo, puis retour par la vallée du Dudh Kosi jusqu'à Lukla. Nécessite un avion STOL.",
-      "it": "Giro a corto raggio: Namche Bazaar, Tengboche, la valle dell'Ama Dablam, il campo base dell'Everest e il Kala Patthar con l'Everest di fronte, i laghi di Gokyo e il ritorno lungo il Dudh Kosi fino a Lukla. Richiede un velivolo STOL.",
-      "pl": "Pętla dla lotnisk o krótkich pasach: Namche Bazaar, Tengboche, dolina Ama Dablam, Everest Base Camp i Kala Patthar z Everestem przed dziobem, jeziora Gokyo i powrót doliną Dudh Kosi do Lukli. Wymaga samolotu zdolnego do operacji STOL.",
-      "ru": "Круг для коротких полос: Намче-Базар, Тенгбоче, долина Ама-Даблам, базовый лагерь Эвереста и Калапаттар с Эверестом впереди, озёра Гокио и обратно вниз по Дудх-Коси в Лукла. Нужен самолёт с возможностями STOL.",
-      "sk": "Okruh pre krátke dráhy: Namche Bazaar, Tengboche, dolina Ama Dablam, základný tábor Everestu a Kala Patthar s Everestom pred sebou, jazerá Gokyo a späť dolu Dudh Kosi do Lukly. Vyžaduje lietadlo schopné STOL.",
-      "zh": "短场起降环线：南崎市场、丹伯奇、阿玛达布拉姆山谷、珠峰大本营和卡拉帕塔尔（珠峰就在眼前）、戈乔湖群，再沿杜德科西河返回卢卡拉。需要具备STOL能力的飞机。"
+      "en": "Short-field route up the Khumbu valleys: Namche Bazaar, Tengboche, Dingboche, Everest Base Camp and Kala Patthar with Everest ahead, then back down the same valley to Lukla. Needs a STOL-capable aircraft.",
+      "hu": "Rövid pályás útvonal a Khumbu völgyeiben: Namche Bazár, Tengboche, Dingboche, az Everest alaptábor és a Kala Patthar az Everesttel szemben, majd ugyanazon a völgyön vissza Luklába. STOL-képes gép kell hozzá.",
+      "de": "Kurzstart-Route durch die Khumbu-Täler: Namche Bazaar, Tengboche, Dingboche, das Everest-Basislager und der Kala Patthar mit dem Everest voraus, dann durch dasselbe Tal zurück nach Lukla. Erfordert ein STOL-fähiges Flugzeug.",
+      "es": "Ruta de pista corta por los valles del Khumbu: Namche Bazaar, Tengboche, Dingboche, el campo base del Everest y Kala Patthar con el Everest de frente, y de regreso por el mismo valle hasta Lukla. Requiere una aeronave con capacidad STOL.",
+      "fr": "Itinéraire à décollage court dans les vallées du Khumbu : Namche Bazaar, Tengboche, Dingboche, le camp de base de l'Everest et le Kala Patthar avec l'Everest en ligne de mire, puis retour par la même vallée jusqu'à Lukla. Nécessite un avion STOL.",
+      "it": "Percorso a corto raggio lungo le valli del Khumbu: Namche Bazaar, Tengboche, Dingboche, il campo base dell'Everest e il Kala Patthar con l'Everest di fronte, poi il ritorno per la stessa valle fino a Lukla. Richiede un velivolo STOL.",
+      "pl": "Trasa dla lotnisk o krótkich pasach dolinami Khumbu: Namche Bazaar, Tengboche, Dingboche, Everest Base Camp i Kala Patthar z Everestem przed dziobem, a potem powrót tą samą doliną do Lukli. Wymaga samolotu zdolnego do operacji STOL.",
+      "ru": "Маршрут для коротких полос по долинам Кхумбу: Намче-Базар, Тенгбоче, Дингбоче, базовый лагерь Эвереста и Калапаттар с Эверестом впереди, затем обратно по той же долине в Лукла. Нужен самолёт с возможностями STOL.",
+      "sk": "Trasa pre krátke dráhy údoliami Khumbu: Namche Bazaar, Tengboche, Dingboche, základný tábor Everestu a Kala Patthar s Everestom pred sebou, potom späť tým istým údolím do Lukly. Vyžaduje lietadlo schopné STOL.",
+      "zh": "沿昆布山谷的短场起降路线：南崎市场、丹伯奇、定波切、珠峰大本营和卡拉帕塔尔（珠峰就在眼前），再沿同一山谷返回卢卡拉。需要具备STOL能力的飞机。"
      },
      "pts": [
       "VNLK",
@@ -413,9 +413,19 @@
        86.712
       ],
       [
+       "~",
+       27.7967,
+       86.7117
+      ],
+      [
        "Namche Bazaar",
        27.8069,
        86.714
+      ],
+      [
+       "~",
+       27.8203,
+       86.7597
       ],
       [
        "Tengboche",
@@ -423,14 +433,19 @@
        86.764
       ],
       [
+       "~",
+       27.8548,
+       86.7918
+      ],
+      [
        "Dingboche",
        27.8918,
        86.831
       ],
       [
-       "Everest Base Camp",
-       28.0026,
-       86.8528
+       "~",
+       27.9456,
+       86.8144
       ],
       [
        "Kala Patthar",
@@ -438,9 +453,184 @@
        86.8283
       ],
       [
+       "Everest Base Camp",
+       28.0026,
+       86.8528
+      ],
+      [
+       "~",
+       28.0081,
+       86.8603
+      ],
+      [
+       "~",
+       28.0167,
+       86.8613
+      ],
+      [
+       "~",
+       28.0234,
+       86.8552
+      ],
+      [
+       "~",
+       28.0077,
+       86.8066
+      ],
+      [
+       "~",
+       27.9451,
+       86.789
+      ],
+      [
+       "~",
+       27.8967,
+       86.8062
+      ],
+      [
+       "~",
+       27.8713,
+       86.7745
+      ],
+      [
+       "~",
+       27.8504,
+       86.7445
+      ],
+      [
+       "~",
+       27.8392,
+       86.7458
+      ],
+      [
+       "~",
+       27.8267,
+       86.7018
+      ],
+      [
+       "~",
+       27.7973,
+       86.6863
+      ],
+      [
+       "~",
+       27.7404,
+       86.687
+      ],
+      "VNLK"
+     ]
+    },
+    {
+     "id": "gokyo",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 17000,
+     "stol": true,
+     "label": {
+      "en": "Gokyo lakes valley (STOL)",
+      "hu": "Gokyo-tavak völgye (STOL)",
+      "de": "Gokyo-Seen-Tal (STOL)",
+      "es": "Valle de los lagos Gokyo (STOL)",
+      "fr": "Vallée des lacs de Gokyo (STOL)",
+      "it": "Valle dei laghi di Gokyo (STOL)",
+      "pl": "Dolina jezior Gokyo (STOL)",
+      "ru": "Долина озёр Гокио (STOL)",
+      "sk": "Dolina jazier Gokyo (STOL)",
+      "zh": "戈乔湖群山谷（STOL）"
+     },
+     "desc": {
+      "en": "Short-field route up the Dudh Kosi valley: Phakding, Namche Bazaar, Dole and Machhermo to the turquoise Gokyo lakes, then back down the same valley to Lukla. Needs a STOL-capable aircraft.",
+      "hu": "Rövid pályás útvonal a Dudh Kosi völgyében: Phakding, Namche Bazár, Dole és Machhermo, fel a türkizkék Gokyo-tavakhoz, majd ugyanazon a völgyön vissza Luklába. STOL-képes gép kell hozzá.",
+      "de": "Kurzstart-Route das Dudh-Kosi-Tal hinauf: Phakding, Namche Bazaar, Dole und Machhermo bis zu den türkisfarbenen Gokyo-Seen, dann durch dasselbe Tal zurück nach Lukla. Erfordert ein STOL-fähiges Flugzeug.",
+      "es": "Ruta de pista corta por el valle del Dudh Kosi: Phakding, Namche Bazaar, Dole y Machhermo hasta los lagos turquesa de Gokyo, y de regreso por el mismo valle hasta Lukla. Requiere una aeronave con capacidad STOL.",
+      "fr": "Itinéraire à décollage court dans la vallée du Dudh Kosi : Phakding, Namche Bazaar, Dole et Machhermo jusqu'aux lacs turquoise de Gokyo, puis retour par la même vallée jusqu'à Lukla. Nécessite un avion STOL.",
+      "it": "Percorso a corto raggio lungo la valle del Dudh Kosi: Phakding, Namche Bazaar, Dole e Machhermo fino ai laghi turchesi di Gokyo, poi il ritorno per la stessa valle fino a Lukla. Richiede un velivolo STOL.",
+      "pl": "Trasa dla lotnisk o krótkich pasach doliną Dudh Kosi: Phakding, Namche Bazaar, Dole i Machhermo do turkusowych jezior Gokyo, a potem powrót tą samą doliną do Lukli. Wymaga samolotu zdolnego do operacji STOL.",
+      "ru": "Маршрут для коротких полос вверх по долине Дудх-Коси: Факдинг, Намче-Базар, Доле и Маччхермо до бирюзовых озёр Гокио и обратно по той же долине в Лукла. Нужен самолёт с возможностями STOL.",
+      "sk": "Trasa pre krátke dráhy údolím Dudh Kosi: Phakding, Namche Bazaar, Dole a Machhermo k tyrkysovým jazerám Gokyo a späť tým istým údolím do Lukly. Vyžaduje lietadlo schopné STOL.",
+      "zh": "沿杜德科西河谷的短场起降路线：帕克丁、南崎市场、多莱和马切尔莫，直抵碧绿的戈乔湖群，再沿同一山谷返回卢卡拉。需要具备STOL能力的飞机。"
+     },
+     "pts": [
+      "VNLK",
+      [
+       "Phakding",
+       27.744,
+       86.712
+      ],
+      [
+       "~",
+       27.7967,
+       86.7117
+      ],
+      [
+       "Namche Bazaar",
+       27.8069,
+       86.714
+      ],
+      [
+       "~",
+       27.8458,
+       86.7517
+      ],
+      [
+       "~",
+       27.8833,
+       86.7167
+      ],
+      [
+       "~",
+       27.9042,
+       86.7117
+      ],
+      [
        "Gokyo Lakes",
        27.9558,
        86.6944
+      ],
+      [
+       "~",
+       27.9625,
+       86.6883
+      ],
+      [
+       "~",
+       27.9634,
+       86.6786
+      ],
+      [
+       "~",
+       27.9579,
+       86.6711
+      ],
+      [
+       "~",
+       27.8982,
+       86.6872
+      ],
+      [
+       "~",
+       27.8715,
+       86.6951
+      ],
+      [
+       "~",
+       27.8465,
+       86.7264
+      ],
+      [
+       "~",
+       27.8202,
+       86.6935
+      ],
+      [
+       "~",
+       27.7973,
+       86.6863
+      ],
+      [
+       "~",
+       27.7404,
+       86.687
       ],
       "VNLK"
      ]
@@ -533,14 +723,24 @@
      "pts": [
       "VNLK",
       [
-       "Dingboche",
-       27.8918,
-       86.831
+       "Phakding",
+       27.744,
+       86.712
       ],
       [
        "~",
-       27.9125,
-       86.7977
+       27.7967,
+       86.7117
+      ],
+      [
+       "Namche Bazaar",
+       27.8069,
+       86.714
+      ],
+      [
+       "~",
+       27.8203,
+       86.7597
       ],
       [
        "Tengboche",
@@ -548,9 +748,59 @@
        86.764
       ],
       [
-       "Namche Bazaar",
-       27.8069,
-       86.714
+       "~",
+       27.8548,
+       86.7918
+      ],
+      [
+       "Dingboche",
+       27.8918,
+       86.831
+      ],
+      [
+       "~",
+       27.8999,
+       86.8345
+      ],
+      [
+       "~",
+       27.9078,
+       86.8305
+      ],
+      [
+       "~",
+       27.9109,
+       86.8214
+      ],
+      [
+       "~",
+       27.8713,
+       86.7745
+      ],
+      [
+       "~",
+       27.8504,
+       86.7445
+      ],
+      [
+       "~",
+       27.8392,
+       86.7458
+      ],
+      [
+       "~",
+       27.8267,
+       86.7018
+      ],
+      [
+       "~",
+       27.7973,
+       86.6863
+      ],
+      [
+       "~",
+       27.7404,
+       86.687
       ],
       "VNLK"
      ]
