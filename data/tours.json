@@ -359,7 +359,8 @@
    "tags": [
     "mountain",
     "unesco",
-    "stol"
+    "stol",
+    "glacier"
    ],
    "desc": {
     "en": "The Khumbu Himalaya around the world's highest mountain, flown from Lukla's famous sloping 530 m runway. Extreme terrain: peaks rise far above the route altitude, so keep to the valleys.",
@@ -592,7 +593,7 @@
      86.714
     ]
    ],
-   "kw": "Namche Bazár Tengboche kolostor Dingboche falu Everest alaptábor Kala Patthar csúcs Gokyo-tavak Mount Everest Csomolungma Ama Dablam csúcs",
+   "kw": "Namche Bazár Tengboche kolostor Dingboche falu Everest alaptábor Kala Patthar csúcs Gokyo-tavak Mount Everest Csomolungma Ama Dablam csúcs Mount Everest Csomolungma Gokyo-tavak Namche Bazár Ama Dablam csúcs",
    "img": "Mount Everest"
   },
   {
@@ -5704,7 +5705,9 @@
    },
    "tags": [
     "coast",
-    "culture"
+    "culture",
+    "island",
+    "history"
    ],
    "desc": {
     "en": "The rugged Cornish coast: the Eden Project, St Michael's Mount, Land's End, St Ives and Tintagel.",
@@ -5838,6 +5841,76 @@
       ],
       "EGHQ"
      ]
+    },
+    {
+     "id": "scilly",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1500,
+     "stol": true,
+     "label": {
+      "en": "Scilly loop",
+      "hu": "Scilly-kör",
+      "de": "Scilly-Runde",
+      "es": "Circuito de las Sorlingas",
+      "fr": "Boucle des Scilly",
+      "it": "Giro delle Scilly",
+      "pl": "Pętla Scilly",
+      "ru": "Маршрут над Сцилли",
+      "sk": "Okruh Scilly",
+      "zh": "锡利环线"
+     },
+     "desc": {
+      "en": "Wolf Rock, Bishop Rock, Bryher, Tresco and St Martin's.",
+      "hu": "Wolf Rock, Bishop Rock, Bryher, Tresco és St Martin's.",
+      "de": "Wolf Rock, Bishop Rock, Bryher, Tresco und St Martin's.",
+      "es": "Wolf Rock, Bishop Rock, Bryher, Tresco y St Martin's.",
+      "fr": "Wolf Rock, Bishop Rock, Bryher, Tresco et St Martin's.",
+      "it": "Wolf Rock, Bishop Rock, Bryher, Tresco e St Martin's.",
+      "pl": "Wolf Rock, Bishop Rock, Bryher, Tresco i St Martin's.",
+      "ru": "Вулф-Рок, Бишоп-Рок, Брайер, Треско и Сент-Мартинс.",
+      "sk": "Wolf Rock, Bishop Rock, Bryher, Tresco a St Martin's.",
+      "zh": "沃尔夫岩、毕晓普岩、布赖尔岛、特雷斯科岛和圣马丁岛。"
+     },
+     "pts": [
+      "EGHE",
+      [
+       "Tresco Abbey Garden",
+       49.9533,
+       -6.3317
+      ],
+      [
+       "Bishop Rock Lighthouse",
+       49.8722,
+       -6.4472
+      ],
+      [
+       "~",
+       49.8381,
+       -6.4293
+      ],
+      [
+       "~=",
+       49.8444,
+       -6.2023
+      ],
+      [
+       "Wolf Rock Lighthouse",
+       49.9456,
+       -5.8081
+      ],
+      [
+       "~",
+       50.0131,
+       -5.8247
+      ],
+      [
+       "St Martin's",
+       49.965,
+       -6.274
+      ],
+      "EGHE"
+     ]
     }
    ],
    "pois": [
@@ -5845,10 +5918,21 @@
      "Minack Theatre",
      50.0425,
      -5.6501
+    ],
+    [
+     "Bryher",
+     49.9553,
+     -6.35
+    ],
+    [
+     "St Martin's",
+     49.965,
+     -6.274
     ]
    ],
    "kw": "Tintagel vár Arthur király Eden Project Szent Mihály-hegy Cornwall Land's End St Ives Minack Színház",
-   "img": "St Michael's Mount"
+   "img": "St Michael's Mount",
+   "new": true
   },
   {
    "id": "edinburgh",
@@ -8188,7 +8272,8 @@
    "tags": [
     "mountain",
     "coast",
-    "island"
+    "island",
+    "wildlife"
    ],
    "desc": {
     "en": "Sharp peaks rising straight out of the Arctic sea: Reine, Hamnøy, Henningsvær and Svolvær.",
@@ -8322,6 +8407,66 @@
       ],
       "ENLK"
      ]
+    },
+    {
+     "id": "roest",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": true,
+     "label": {
+      "en": "Lofoten loop",
+      "hu": "Lofoten-kör",
+      "de": "Lofoten-Runde",
+      "es": "Circuito de las Lofoten",
+      "fr": "Boucle des Lofoten",
+      "it": "Giro delle Lofoten",
+      "pl": "Pętla Lofotów",
+      "ru": "Маршрут над Лофотенами",
+      "sk": "Okruh Lofôt",
+      "zh": "罗弗敦环线"
+     },
+     "desc": {
+      "en": "Værøy, the Moskstraumen, Reine and Hamnøy.",
+      "hu": "Værøy, a Moskstraumen, Reine és Hamnøy.",
+      "de": "Værøy, der Moskstraumen, Reine und Hamnøy.",
+      "es": "Værøy, el Moskstraumen, Reine y Hamnøy.",
+      "fr": "Værøy, le Moskstraumen, Reine et Hamnøy.",
+      "it": "Værøy, il Moskstraumen, Reine e Hamnøy.",
+      "pl": "Værøy, Moskstraumen, Reine i Hamnøy.",
+      "ru": "Вэрёй, Москенстраумен, Рейне и Хамнёй.",
+      "sk": "Værøy, Moskstraumen, Reine a Hamnøy.",
+      "zh": "韦罗伊岛、莫斯肯漩涡、雷讷和哈姆尼。"
+     },
+     "pts": [
+      "ENRS",
+      [
+       "Værøy",
+       67.6667,
+       12.6667
+      ],
+      [
+       "Moskstraumen",
+       67.75,
+       12.8
+      ],
+      [
+       "Hamnøy",
+       67.95,
+       13.1333
+      ],
+      [
+       "~",
+       67.9876,
+       13.0118
+      ],
+      [
+       "~=",
+       67.611,
+       12.1823
+      ],
+      "ENRS"
+     ]
     }
    ],
    "pois": [
@@ -8329,10 +8474,16 @@
      "Hamnøy",
      67.946,
      13.133
+    ],
+    [
+     "Reine",
+     67.9333,
+     13.0833
     ]
    ],
-   "kw": "Å Lofoten Reine Lofoten Hamnøy Henningsvær Svolvær",
-   "img": "Reine, Norway"
+   "kw": "Å Lofoten Reine Lofoten Hamnøy Henningsvær Svolvær Hamnøy Reine Lofoten",
+   "img": "Reine, Norway",
+   "new": true
   },
   {
    "id": "slovenia",
@@ -12477,7 +12628,8 @@
    "tags": [
     "island",
     "coast",
-    "volcano"
+    "volcano",
+    "waterfall"
    ],
    "desc": {
     "en": "Oahu's Diamond Head and Pearl Harbor, the Na Pali cliffs of Kauai, Maui's Haleakala crater and the volcanoes of the Big Island.",
@@ -12876,11 +13028,77 @@
       ],
       "PHTO"
      ]
+    },
+    {
+     "id": "molokai",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4000,
+     "stol": true,
+     "label": {
+      "en": "Molokai loop",
+      "hu": "Molokai-kör",
+      "de": "Molokai-Runde",
+      "es": "Circuito de Molokai",
+      "fr": "Boucle de Molokai",
+      "it": "Giro di Molokai",
+      "pl": "Pętla Molokai",
+      "ru": "Маршрут вокруг Молокаи",
+      "sk": "Okruh Molokai",
+      "zh": "莫洛凯岛环线"
+     },
+     "desc": {
+      "en": "Kaunakakai, Papohaku, Kamakou and Halawa Valley.",
+      "hu": "Kaunakakai, Papohaku, Kamakou és a Halawa-völgy.",
+      "de": "Kaunakakai, Papohaku, Kamakou und Halawa-Tal.",
+      "es": "Kaunakakai, Papohaku, Kamakou y valle de Halawa.",
+      "fr": "Kaunakakai, Papohaku, Kamakou et vallée de Halawa.",
+      "it": "Kaunakakai, Papohaku, Kamakou e Valle di Halawa.",
+      "pl": "Kaunakakai, Papohaku, Kamakou i dolina Halawa.",
+      "ru": "Каунакакаи, Папохаку, Камаку и долина Халава.",
+      "sk": "Kaunakakai, Papohaku, Kamakou a údolie Halawa.",
+      "zh": "考纳卡凯、帕波哈库、卡马库和哈拉瓦谷。"
+     },
+     "pts": [
+      "PHLU",
+      [
+       "~=",
+       21.2688,
+       -156.9001
+      ],
+      [
+       "Halawa Valley",
+       21.15,
+       -156.7333
+      ],
+      [
+       "~",
+       21.1022,
+       -156.7445
+      ],
+      [
+       "Kaunakakai Wharf",
+       21.0884,
+       -157.0278
+      ],
+      [
+       "Papohaku Beach",
+       21.1594,
+       -157.2825
+      ],
+      [
+       "~",
+       21.2213,
+       -157.2788
+      ],
+      "PHLU"
+     ]
     }
    ],
    "pois": [],
    "kw": "Diamond Head Hanauma-öböl Makapuu világítótorony Kualoa Pearl Harbor Waimea-kanyon Waimea kanyon Kauai Kalalau-völgy Na Pali Hanalei-öböl Hanalei Wailua-vízesés Iao-völgy Lahaina Molokini-kráter Haleakala-kráter Hana Kilauea vulkán Mauna Kea Mauna Kea csillagvizsgáló Akaka-vízesés Akaka Hilo Szivárvány-vízesés Hilo Kalaupapa Molokai Lanai",
-   "img": "Diamond Head, Hawaii"
+   "img": "Diamond Head, Hawaii",
+   "new": true
   },
   {
    "id": "machu-picchu",
@@ -14118,7 +14336,9 @@
    "tags": [
     "mountain",
     "coast",
-    "unesco"
+    "unesco",
+    "fjord",
+    "waterfall"
    ],
    "desc": {
     "en": "From Queenstown over the Southern Alps into Fiordland: the Remarkables, Lake Wakatipu and Milford Sound.",
@@ -14192,11 +14412,67 @@
       ],
       "NZMF"
      ]
+    },
+    {
+     "id": "milford",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6500,
+     "stol": true,
+     "label": {
+      "en": "Fiordland loop",
+      "hu": "Fiordland-kör",
+      "de": "Fiordland-Runde",
+      "es": "Circuito de Fiordland",
+      "fr": "Boucle du Fiordland",
+      "it": "Giro del Fiordland",
+      "pl": "Pętla Fiordland",
+      "ru": "Маршрут над Фьордлендом",
+      "sk": "Okruh Fiordlandu",
+      "zh": "峡湾地区环线"
+     },
+     "desc": {
+      "en": "Mitre Peak, Sutherland Falls and Doubtful Sound.",
+      "hu": "Mitre Peak, Sutherland-vízesés és Doubtful Sound.",
+      "de": "Mitre Peak, Sutherland Falls und Doubtful Sound.",
+      "es": "Mitre Peak, cataratas Sutherland y Doubtful Sound.",
+      "fr": "Mitre Peak, chutes Sutherland et Doubtful Sound.",
+      "it": "Mitre Peak, Cascate Sutherland e Doubtful Sound.",
+      "pl": "Mitre Peak, wodospad Sutherland i Doubtful Sound.",
+      "ru": "Пик Митра, водопад Сазерленд и Даутфул-Саунд.",
+      "sk": "Mitre Peak, vodopády Sutherland a Doubtful Sound.",
+      "zh": "米特峰、萨瑟兰瀑布和神秘峡湾。"
+     },
+     "pts": [
+      "NZMF",
+      [
+       "Mitre Peak",
+       -44.6417,
+       167.8533
+      ],
+      [
+       "Doubtful Sound",
+       -45.35,
+       166.9833
+      ],
+      [
+       "~",
+       -45.4271,
+       167.0908
+      ],
+      [
+       "~=",
+       -44.704,
+       168.0419
+      ],
+      "NZMF"
+     ]
     }
    ],
    "pois": [],
-   "kw": "Remarkables hegység Wakatipu-tó Mitre-csúcs Milford Sound",
-   "img": "Milford Sound"
+   "kw": "Remarkables hegység Wakatipu-tó Mitre-csúcs Milford Sound Mitre-csúcs Milford Sound",
+   "img": "Milford Sound",
+   "new": true
   },
   {
    "id": "tokyo-fuji",
@@ -17554,7 +17830,9 @@
    },
    "tags": [
     "jungle",
-    "unesco"
+    "unesco",
+    "wildlife",
+    "wetland"
    ],
    "desc": {
     "en": "The world's largest inland delta: a maze of lagoons, islands and channels full of elephants and hippos.",
@@ -17678,11 +17956,67 @@
       ],
       "FBMN"
      ]
+    },
+    {
+     "id": "okavango-kiri",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1500,
+     "stol": true,
+     "label": {
+      "en": "Delta loop",
+      "hu": "Delta-kör",
+      "de": "Delta-Runde",
+      "es": "Circuito del delta",
+      "fr": "Boucle du delta",
+      "it": "Giro del Delta",
+      "pl": "Pętla Delty",
+      "ru": "Маршрут над дельтой",
+      "sk": "Okruh delty",
+      "zh": "三角洲环线"
+     },
+     "desc": {
+      "en": "Chief's Island, Xakanaxa and Savuti.",
+      "hu": "Chief's Island, Xakanaxa és Savuti.",
+      "de": "Chief's Island, Xakanaxa und Savuti.",
+      "es": "Isla del Jefe, Xakanaxa y Savuti.",
+      "fr": "Île du Chef, Xakanaxa et Savuti.",
+      "it": "Chief's Island, Xakanaxa e Savuti.",
+      "pl": "Wyspa Chiefa, Xakanaxa i Savuti.",
+      "ru": "Остров Чифс, Ксаканакса и Савути.",
+      "sk": "Chief's Island, Xakanaxa a Savuti.",
+      "zh": "酋长岛、沙卡纳萨和萨武提。"
+     },
+     "pts": [
+      "FBKI",
+      [
+       "Chief's Island",
+       -19.45,
+       23.1
+      ],
+      [
+       "Savuti",
+       -18.5667,
+       24.0667
+      ],
+      [
+       "~",
+       -18.6377,
+       24.1525
+      ],
+      [
+       "~=",
+       -19.6938,
+       23.0901
+      ],
+      "FBKI"
+     ]
     }
    ],
    "pois": [],
-   "kw": "Moremi vadrezervátum Moremi természetvédelmi terület szafari Chief-sziget Chiefs Island Khwai-folyó Khwai Ngami-tó Ngami",
-   "img": "Okavango Delta"
+   "kw": "Moremi vadrezervátum Moremi természetvédelmi terület szafari Chief-sziget Chiefs Island Khwai-folyó Khwai Ngami-tó Ngami Chief-sziget Chiefs Island",
+   "img": "Okavango Delta",
+   "new": true
   },
   {
    "id": "sossusvlei",
@@ -19364,7 +19698,9 @@
    },
    "tags": [
     "mountain",
-    "unesco"
+    "unesco",
+    "glacier",
+    "wildlife"
    ],
    "desc": {
     "en": "North America's highest peak: Denali, Mount Foraker and the glaciers of the Alaska Range from Talkeetna.",
@@ -19433,11 +19769,78 @@
       ],
       "PATK"
      ]
+    },
+    {
+     "id": "kantishna",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 12000,
+     "stol": true,
+     "label": {
+      "en": "Denali loop",
+      "hu": "Denali-kör",
+      "de": "Denali-Runde",
+      "es": "Circuito del Denali",
+      "fr": "Boucle du Denali",
+      "it": "Giro del Denali",
+      "pl": "Pętla Denali",
+      "ru": "Маршрут вокруг Денали",
+      "sk": "Okruh Denali",
+      "zh": "德纳里环线"
+     },
+     "desc": {
+      "en": "Wonder Lake, Muldrow Glacier and Denali.",
+      "hu": "Wonder-tó, Muldrow-gleccser és a Denali.",
+      "de": "Wonder Lake, Muldrow-Gletscher und Denali.",
+      "es": "Lago Wonder, glaciar Muldrow y Denali.",
+      "fr": "Lac Wonder, glacier Muldrow et Denali.",
+      "it": "Lago Wonder, Ghiacciaio Muldrow e Denali.",
+      "pl": "Wonder Lake, lodowiec Muldrow i Denali.",
+      "ru": "Озеро Уандер, ледник Малдроу и Денали.",
+      "sk": "Jazero Wonder, ľadovec Muldrow a Denali.",
+      "zh": "奇迹湖、马尔德罗冰川和德纳里。"
+     },
+     "pts": [
+      "5Z5",
+      [
+       "~=",
+       63.516,
+       -150.865
+      ],
+      [
+       "Denali",
+       63.0692,
+       -151.007
+      ],
+      [
+       "~",
+       63.033,
+       -150.8551
+      ],
+      [
+       "Muldrow Glacier",
+       63.28,
+       -150.5
+      ],
+      [
+       "~=",
+       63.505,
+       -150.8098
+      ],
+      "5Z5"
+     ]
     }
    ],
-   "pois": [],
-   "kw": "Kahiltna-gleccser Kahiltna Mount Foraker Foraker Alaszka Denali Denali McKinley Alaszka Ruth-gleccser Ruth gleccser",
-   "img": "Denali"
+   "pois": [
+    [
+     "Wonder Lake",
+     63.4667,
+     -150.8667
+    ]
+   ],
+   "kw": "Kahiltna-gleccser Kahiltna Mount Foraker Foraker Alaszka Denali Denali McKinley Alaszka Ruth-gleccser Ruth gleccser Denali Denali McKinley Alaszka",
+   "img": "Denali",
+   "new": true
   },
   {
    "id": "monument-valley",
@@ -21191,11 +21594,72 @@
       ],
       "GCTS"
      ]
+    },
+    {
+     "id": "la-gomera",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6000,
+     "stol": true,
+     "label": {
+      "en": "Gomera and Teide loop",
+      "hu": "Gomera–Teide kör",
+      "de": "Gomera-und-Teide-Runde",
+      "es": "Circuito de La Gomera y el Teide",
+      "fr": "Boucle de La Gomera et du Teide",
+      "it": "Giro di La Gomera e del Teide",
+      "pl": "Pętla Gomera i Teide",
+      "ru": "Маршрут Гомера и Тейде",
+      "sk": "Okruh Gomera a Teide",
+      "zh": "戈梅拉与泰德环线"
+     },
+     "desc": {
+      "en": "Valle Gran Rey, Los Órganos and Teide.",
+      "hu": "Valle Gran Rey, Los Órganos és a Teide.",
+      "de": "Valle Gran Rey, Los Órganos und Teide.",
+      "es": "Valle Gran Rey, Los Órganos y Teide.",
+      "fr": "Valle Gran Rey, Los Órganos et Teide.",
+      "it": "Valle Gran Rey, Los Órganos e Teide.",
+      "pl": "Valle Gran Rey, Los Órganos i Teide.",
+      "ru": "Валье-Гран-Рей, Лос-Органос и Тейде.",
+      "sk": "Valle Gran Rey, Los Órganos a Teide.",
+      "zh": "大王谷、管风琴岩和泰德峰。"
+     },
+     "pts": [
+      "GCGM",
+      [
+       "~=",
+       28.0296,
+       -17.1127
+      ],
+      [
+       "Mount Teide",
+       28.2723,
+       -16.6425
+      ],
+      [
+       "~",
+       28.3742,
+       -16.683
+      ],
+      [
+       "Los Órganos",
+       28.185,
+       -17.327
+      ],
+      [
+       "Valle Gran Rey",
+       28.1,
+       -17.3333
+      ],
+      "GCGM"
+     ]
     }
    ],
    "pois": [],
    "kw": "Playa de las Américas Las Américas Los Gigantes sziklák Los Gigantes Óriások Masca-szurdok Masca Teide Teide vulkán Tenerife Garajonay La Gomera nemzeti park babérerdő Anaga-hegység Anaga Santa Cruz de Tenerife Santa Cruz Tenerife",
-   "img": "Teide"
+   "img": "Teide",
+   "new": true
   },
   {
    "id": "paris",
@@ -24819,7 +25283,8 @@
     "island",
     "coast",
     "unesco",
-    "stol"
+    "stol",
+    "history"
    ],
    "desc": {
     "en": "Land on the beach: the only airport in the world where the tide sets the schedule, with Mingulay's cliffs and the remote archipelago of St Kilda.",
@@ -24893,11 +25358,83 @@
       ],
       "EGPR"
      ]
+    },
+    {
+     "id": "barra",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1500,
+     "stol": true,
+     "label": {
+      "en": "Barra loop",
+      "hu": "Barra-kör",
+      "de": "Barra-Runde",
+      "es": "Circuito de Barra",
+      "fr": "Boucle de Barra",
+      "it": "Giro di Barra",
+      "pl": "Pętla Barra",
+      "ru": "Маршрут над Баррой",
+      "sk": "Okruh Barra",
+      "zh": "巴拉环线"
+     },
+     "desc": {
+      "en": "Kisimul Castle, Vatersay, Mingulay and Eriskay.",
+      "hu": "Kisimul-vár, Vatersay, Mingulay és Eriskay.",
+      "de": "Kisimul Castle, Vatersay, Mingulay und Eriskay.",
+      "es": "Castillo de Kisimul, Vatersay, Mingulay y Eriskay.",
+      "fr": "Château de Kisimul, Vatersay, Mingulay et Eriskay.",
+      "it": "Castello di Kisimul, Vatersay, Mingulay ed Eriskay.",
+      "pl": "Zamek Kisimul, Vatersay, Mingulay i Eriskay.",
+      "ru": "Замок Кисимул, Ватерсей, Мингулей и Эрискей.",
+      "sk": "Hrad Kisimul, Vatersay, Mingulay a Eriskay.",
+      "zh": "基西穆尔城堡、瓦特赛岛、明古莱岛和埃里斯凯岛。"
+     },
+     "pts": [
+      "EGPR",
+      [
+       "Eriskay",
+       57.0667,
+       -7.3
+      ],
+      [
+       "~",
+       57.0402,
+       -7.2553
+      ],
+      [
+       "Mingulay",
+       56.8,
+       -7.6333
+      ],
+      [
+       "~",
+       56.8242,
+       -7.6985
+      ],
+      [
+       "Kisimul Castle",
+       56.9528,
+       -7.4875
+      ],
+      "EGPR"
+     ]
     }
    ],
-   "pois": [],
-   "kw": "Mingulay Mingulay sziget St Kilda St Kilda szigetek Hirta Eaval Észak-Uist Eaval",
-   "img": "Barra Airport|St Kilda, Scotland"
+   "pois": [
+    [
+     "Vatersay",
+     56.9167,
+     -7.5333
+    ],
+    [
+     "Eriskay",
+     57.0667,
+     -7.3
+    ]
+   ],
+   "kw": "Mingulay Mingulay sziget St Kilda St Kilda szigetek Hirta Eaval Észak-Uist Eaval Mingulay Mingulay sziget",
+   "img": "Barra Airport|St Kilda, Scotland",
+   "new": true
   },
   {
    "id": "saba-statia",
@@ -25187,7 +25724,8 @@
     "mountain",
     "volcano",
     "unesco",
-    "stol"
+    "stol",
+    "glacier"
    ],
    "desc": {
     "en": "A gravel strip at the end of the road in Alaska's largest national park: the ghost mine of Kennecott, huge glaciers and the volcano Mount Wrangell.",
@@ -25256,11 +25794,87 @@
       ],
       "PAMX"
      ]
+    },
+    {
+     "id": "wrangell",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 14000,
+     "stol": true,
+     "label": {
+      "en": "Wrangell loop",
+      "hu": "Wrangell-kör",
+      "de": "Wrangell-Runde",
+      "es": "Circuito Wrangell",
+      "fr": "Boucle du Wrangell",
+      "it": "Giro del Wrangell",
+      "pl": "Pętla Wrangell",
+      "ru": "Маршрут вокруг Рангела",
+      "sk": "Okruh Wrangell",
+      "zh": "兰格尔环线"
+     },
+     "desc": {
+      "en": "Mount Bona, Blackburn, Sanford and Wrangell.",
+      "hu": "Bona, Blackburn, Sanford és Wrangell.",
+      "de": "Mount Bona, Blackburn, Sanford und Wrangell.",
+      "es": "Monte Bona, Blackburn, Sanford y Wrangell.",
+      "fr": "Monts Bona, Blackburn, Sanford et Wrangell.",
+      "it": "Monte Bona, Blackburn, Sanford e Wrangell.",
+      "pl": "Mount Bona, Blackburn, Sanford i Wrangell.",
+      "ru": "Горы Бона, Блэкберн, Сэнфорд и Рангел.",
+      "sk": "Hory Bona, Blackburn, Sanford a Wrangell.",
+      "zh": "博纳山、布莱克本山、桑福德山和兰格尔山。"
+     },
+     "pts": [
+      "CZN",
+      [
+       "~=",
+       62.0251,
+       -141.9565
+      ],
+      [
+       "~",
+       61.9937,
+       -141.9939
+      ],
+      [
+       "Mount Sanford",
+       62.2133,
+       -144.1283
+      ],
+      [
+       "Mount Wrangell",
+       62.0058,
+       -144.0194
+      ],
+      [
+       "Mount Blackburn",
+       61.731,
+       -143.403
+      ],
+      [
+       "Mount Bona",
+       61.3856,
+       -141.7458
+      ],
+      [
+       "~",
+       61.4508,
+       -141.566
+      ],
+      [
+       "~=",
+       62.0054,
+       -141.9173
+      ],
+      "CZN"
+     ]
     }
    ],
    "pois": [],
-   "kw": "Chitina Chitina Copper River Mount Wrangell Wrangell vulkán Mount Blackburn Blackburn vulkán Wrangell Kennecott bánya Kennecott kísértetváros McCarthy",
-   "img": "Kennecott, Alaska|McCarthy, Alaska"
+   "kw": "Chitina Chitina Copper River Mount Wrangell Wrangell vulkán Mount Blackburn Blackburn vulkán Wrangell Kennecott bánya Kennecott kísértetváros McCarthy Mount Wrangell Wrangell vulkán Mount Blackburn Blackburn vulkán Wrangell",
+   "img": "Kennecott, Alaska|McCarthy, Alaska",
+   "new": true
   },
   {
    "id": "telluride",
@@ -25423,7 +26037,8 @@
    },
    "tags": [
     "mountain",
-    "unesco"
+    "unesco",
+    "glacier"
    ],
    "desc": {
     "en": "Eiger, Mönch and Jungfrau above Interlaken, the longest glacier of the Alps and the turquoise lakes of Thun and Brienz.",
@@ -25507,11 +26122,82 @@
       ],
       "LSZB"
      ]
+    },
+    {
+     "id": "gstaad",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 11000,
+     "stol": true,
+     "label": {
+      "en": "Bernese Alps loop",
+      "hu": "Berni-Alpok kör",
+      "de": "Berner-Alpen-Runde",
+      "es": "Circuito de los Alpes Berneses",
+      "fr": "Boucle des Alpes bernoises",
+      "it": "Giro delle Alpi Bernesi",
+      "pl": "Pętla Alp Berneńskich",
+      "ru": "Маршрут над Бернскими Альпами",
+      "sk": "Okruh Bernských Álp",
+      "zh": "伯尔尼阿尔卑斯环线"
+     },
+     "desc": {
+      "en": "Eiger, Jungfrau, Aletsch Glacier and the Matterhorn.",
+      "hu": "Eiger, Jungfrau, Aletsch-gleccser és Matterhorn.",
+      "de": "Eiger, Jungfrau, Aletschgletscher und Matterhorn.",
+      "es": "Eiger, Jungfrau, glaciar de Aletsch y el Cervino.",
+      "fr": "Eiger, Jungfrau, glacier d'Aletsch et Cervin.",
+      "it": "Eiger, Jungfrau, Ghiacciaio dell'Aletsch e Cervino.",
+      "pl": "Eiger, Jungfrau, lodowiec Aletsch i Matterhorn.",
+      "ru": "Айгер, Юнгфрау, ледник Алеч и Маттерхорн.",
+      "sk": "Eiger, Jungfrau, ľadovec Aletsch a Matterhorn.",
+      "zh": "艾格峰、少女峰、阿莱奇冰川和马特洪峰。"
+     },
+     "pts": [
+      "LSGK",
+      [
+       "Matterhorn",
+       45.9766,
+       7.6585
+      ],
+      [
+       "~",
+       45.9761,
+       7.8138
+      ],
+      [
+       "Aletsch Glacier",
+       46.45,
+       8.05
+      ],
+      [
+       "Eiger",
+       46.5775,
+       8.0053
+      ],
+      [
+       "~",
+       46.5844,
+       7.9539
+      ],
+      [
+       "Jungfrau",
+       46.5368,
+       7.9626
+      ],
+      [
+       "~=",
+       46.5021,
+       7.377
+      ],
+      "LSGK"
+     ]
     }
    ],
    "pois": [],
-   "kw": "Thun Thuni-tó Interlaken Interlaken Eiger Eiger északi fal Jungfraujoch Jungfrau Európa teteje Konkordiaplatz Aletsch gleccser Grindelwald Grindelwald",
-   "img": "Jungfrau|Eiger"
+   "kw": "Thun Thuni-tó Interlaken Interlaken Eiger Eiger északi fal Jungfraujoch Jungfrau Európa teteje Konkordiaplatz Aletsch gleccser Grindelwald Grindelwald Matterhorn Cervino Aletsch-gleccser Eiger Eiger északi fal Jungfrau",
+   "img": "Jungfrau|Eiger",
+   "new": true
   },
   {
    "id": "iceland-south",
@@ -25641,11 +26327,72 @@
       ],
       "BIRK"
      ]
+    },
+    {
+     "id": "heimaey",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": true,
+     "label": {
+      "en": "Westman loop",
+      "hu": "Vestmann-kör",
+      "de": "Westmännerinseln-Runde",
+      "es": "Circuito de las Vestmann",
+      "fr": "Boucle des Vestmann",
+      "it": "Giro delle Vestmann",
+      "pl": "Pętla Wysp Westmanna",
+      "ru": "Маршрут над островами Вестманнаэйяр",
+      "sk": "Okruh Vestmannaeyjar",
+      "zh": "韦斯特曼环线"
+     },
+     "desc": {
+      "en": "Eldfell, Surtsey, Eyjafjallajökull and Skógafoss.",
+      "hu": "Eldfell, Surtsey, Eyjafjallajökull és Skógafoss.",
+      "de": "Eldfell, Surtsey, Eyjafjallajökull und Skógafoss.",
+      "es": "Eldfell, Surtsey, Eyjafjallajökull y Skógafoss.",
+      "fr": "Eldfell, Surtsey, Eyjafjallajökull et Skógafoss.",
+      "it": "Eldfell, Surtsey, Eyjafjallajökull e Skógafoss.",
+      "pl": "Eldfell, Surtsey, Eyjafjallajökull i Skógafoss.",
+      "ru": "Эльдфедль, Сюртсей, Эйяфьятлайёкюдль и Скоугафосс.",
+      "sk": "Eldfell, Surtsey, Eyjafjallajökull a Skógafoss.",
+      "zh": "埃尔德费尔火山、叙尔特塞岛、艾雅法拉火山和斯科加瀑布。"
+     },
+     "pts": [
+      "BIVM",
+      [
+       "Eldfell",
+       63.4264,
+       -20.2578
+      ],
+      [
+       "Eyjafjallajökull",
+       63.6333,
+       -19.6
+      ],
+      [
+       "Skógafoss",
+       63.532,
+       -19.5114
+      ],
+      [
+       "Surtsey",
+       63.3033,
+       -20.6044
+      ],
+      [
+       "~",
+       63.3434,
+       -20.6607
+      ],
+      "BIVM"
+     ]
     }
    ],
    "pois": [],
-   "kw": "Vestmann-szigetek Vestmannaeyjar Heimaey Seljalandsfoss Seljalandsfoss vízesés Eyjafjallajökull Eyjafjallajökull gleccser vulkán Skógafoss Skógafoss vízesés Vík Vík fekete part Reynisfjara Hekla Hekla vulkán",
-   "img": "Skógafoss|Seljalandsfoss"
+   "kw": "Vestmann-szigetek Vestmannaeyjar Heimaey Seljalandsfoss Seljalandsfoss vízesés Eyjafjallajökull Eyjafjallajökull gleccser vulkán Skógafoss Skógafoss vízesés Vík Vík fekete part Reynisfjara Hekla Hekla vulkán Eyjafjallajökull Eyjafjallajökull gleccser vulkán Skógafoss Skógafoss vízesés",
+   "img": "Skógafoss|Seljalandsfoss",
+   "new": true
   },
   {
    "id": "tromso",
@@ -31236,7 +31983,8 @@
    "tags": [
     "coast",
     "island",
-    "unesco"
+    "unesco",
+    "reef"
    ],
    "desc": {
     "en": "A perfect circle of deep blue 300 m wide in the Lighthouse Reef, the Turneffe atoll and the barrier reef off Caye Caulker.",
@@ -31305,11 +32053,87 @@
       ],
       "MZBZ"
      ]
+    },
+    {
+     "id": "belize-bluehole",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": true,
+     "label": {
+      "en": "Belize reef loop",
+      "hu": "Belize-i zátony-kör",
+      "de": "Belize-Riff-Runde",
+      "es": "Circuito del arrecife de Belice",
+      "fr": "Boucle du récif du Belize",
+      "it": "Giro della barriera del Belize",
+      "pl": "Pętla rafy Belize",
+      "ru": "Маршрут над белизским рифом",
+      "sk": "Okruh belizského útesu",
+      "zh": "伯利兹珊瑚礁环线"
+     },
+     "desc": {
+      "en": "The Blue Hole, Half Moon Caye, Turneffe and Caye Caulker.",
+      "hu": "A Kék lyuk, Half Moon Caye, Turneffe és Caye Caulker.",
+      "de": "Das Blue Hole, Half Moon Caye, Turneffe und Caye Caulker.",
+      "es": "El Agujero Azul, Half Moon Caye, Turneffe y Caye Caulker.",
+      "fr": "Le Trou bleu, Half Moon Caye, Turneffe et Caye Caulker.",
+      "it": "Il Blue Hole, Half Moon Caye, Turneffe e Caye Caulker.",
+      "pl": "Niebieska Dziura, Half Moon Caye, Turneffe i Caye Caulker.",
+      "ru": "Голубая дыра, Хаф-Мун-Кей, Тёрнефф и Кей-Колкер.",
+      "sk": "Blue Hole, Half Moon Caye, Turneffe a Caye Caulker.",
+      "zh": "蓝洞、半月礁、特尼夫环礁和卡克岛。"
+     },
+     "pts": [
+      "MZHR",
+      [
+       "~=",
+       17.2022,
+       -87.8073
+      ],
+      [
+       "~",
+       17.2307,
+       -87.7843
+      ],
+      [
+       "Turneffe Atoll",
+       17.35,
+       -87.95
+      ],
+      [
+       "Caye Caulker",
+       17.75,
+       -88.0333
+      ],
+      [
+       "~",
+       17.8001,
+       -87.94
+      ],
+      [
+       "Great Blue Hole",
+       17.3156,
+       -87.5347
+      ],
+      [
+       "Half Moon Caye",
+       17.2,
+       -87.5333
+      ],
+      [
+       "~=",
+       17.1895,
+       -87.7823
+      ],
+      "MZHR"
+     ]
     }
    ],
    "pois": [],
-   "kw": "Turneffe-atoll Turneffe atoll Half Moon Caye Half Moon Caye Lighthouse Reef Nagy Kék Lyuk Great Blue Hole Belize Caye Caulker Caye Caulker",
-   "img": "Great Blue Hole|Caye Caulker"
+   "kw": "Turneffe-atoll Turneffe atoll Half Moon Caye Half Moon Caye Lighthouse Reef Nagy Kék Lyuk Great Blue Hole Belize Caye Caulker Caye Caulker Turneffe-atoll Turneffe atoll Caye Caulker Caye Caulker Nagy Kék Lyuk Great Blue Hole Belize Half Moon Caye Half Moon Caye Lighthouse Reef",
+   "img": "Great Blue Hole|Caye Caulker",
+   "new": true
   },
   {
    "id": "costa-rica",
@@ -36868,7 +37692,8 @@
     "island",
     "coast",
     "culture",
-    "unesco"
+    "unesco",
+    "history"
    ],
    "desc": {
     "en": "A Neolithic heartland older than Stonehenge: the Ring of Brodgar, the stone village of Skara Brae, the sea stack of the Old Man of Hoy and Scapa Flow.",
@@ -36947,11 +37772,83 @@
       ],
       "EGPA"
      ]
+    },
+    {
+     "id": "orkney",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1500,
+     "stol": true,
+     "label": {
+      "en": "Orkney loop",
+      "hu": "Orkney-kör",
+      "de": "Orkney-Runde",
+      "es": "Circuito de las Orcadas",
+      "fr": "Boucle des Orcades",
+      "it": "Giro delle Orcadi",
+      "pl": "Pętla Orkadów",
+      "ru": "Маршрут над Оркни",
+      "sk": "Okruh Orknejí",
+      "zh": "奥克尼环线"
+     },
+     "desc": {
+      "en": "Knap of Howar, Brodgar, Skara Brae and the Old Man of Hoy.",
+      "hu": "Knap of Howar, Brodgar, Skara Brae és az Old Man of Hoy.",
+      "de": "Knap of Howar, Brodgar, Skara Brae und der Old Man of Hoy.",
+      "es": "Knap of Howar, Brodgar, Skara Brae y el Old Man of Hoy.",
+      "fr": "Knap of Howar, Brodgar, Skara Brae et Old Man of Hoy.",
+      "it": "Knap of Howar, Brodgar, Skara Brae e Old Man of Hoy.",
+      "pl": "Knap of Howar, Brodgar, Skara Brae i Old Man of Hoy.",
+      "ru": "Нап-оф-Ховар, Бродгар, Скара-Брей и Старик из Хоя.",
+      "sk": "Knap of Howar, Brodgar, Skara Brae a Old Man of Hoy.",
+      "zh": "纳普霍瓦尔、布罗德盖尔、斯卡拉布雷和霍伊岛“老人”。"
+     },
+     "pts": [
+      "EGEP",
+      [
+       "~=",
+       59.2881,
+       -2.9025
+      ],
+      [
+       "Skara Brae",
+       59.0489,
+       -3.3417
+      ],
+      [
+       "Old Man of Hoy",
+       58.8964,
+       -3.3189
+      ],
+      [
+       "~",
+       58.8901,
+       -3.2503
+      ],
+      [
+       "Ring of Brodgar",
+       58.9976,
+       -3.2297
+      ],
+      [
+       "~=",
+       59.2611,
+       -2.9034
+      ],
+      "EGEP"
+     ]
     }
    ],
-   "pois": [],
-   "kw": "Olasz kápolna Italian Chapel Orkney Scapa Flow Hoy-i Öreg Old Man of Hoy tengeri szikla Skara Brae Skara Brae kőkorszaki falu Brodgar-kőkör Ring of Brodgar kőkör Orkney Szent Magnus-székesegyház Kirkwall katedrális",
-   "img": "Ring of Brodgar|Skara Brae"
+   "pois": [
+    [
+     "Knap of Howar",
+     59.3356,
+     -2.8908
+    ]
+   ],
+   "kw": "Olasz kápolna Italian Chapel Orkney Scapa Flow Hoy-i Öreg Old Man of Hoy tengeri szikla Skara Brae Skara Brae kőkorszaki falu Brodgar-kőkör Ring of Brodgar kőkör Orkney Szent Magnus-székesegyház Kirkwall katedrális Brodgar-kőkör Ring of Brodgar kőkör Orkney Hoy-i Öreg Old Man of Hoy tengeri szikla Skara Brae Skara Brae kőkorszaki falu",
+   "img": "Ring of Brodgar|Skara Brae",
+   "new": true
   },
   {
    "id": "albanian-alps",
@@ -43614,7 +44511,8 @@
     "island",
     "mountain",
     "coast",
-    "unesco"
+    "unesco",
+    "reef"
    ],
    "desc": {
     "en": "A crescent of green mountains in the Tasman Sea: Mount Gower and Mount Lidgbird above the lagoon and, 23 km away, the 562 m spire of Ball's Pyramid, the tallest sea stack in the world.",
@@ -43693,11 +44591,73 @@
       ],
       "YLHI"
      ]
+    },
+    {
+     "id": "lord-howe",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": true,
+     "label": {
+      "en": "Lord Howe loop",
+      "hu": "Lord Howe-kör",
+      "de": "Lord-Howe-Runde",
+      "es": "Circuito de Lord Howe",
+      "fr": "Boucle de Lord Howe",
+      "it": "Giro di Lord Howe",
+      "pl": "Pętla Lord Howe",
+      "ru": "Маршрут над Лорд-Хау",
+      "sk": "Okruh Lord Howe",
+      "zh": "豪勋爵环线"
+     },
+     "desc": {
+      "en": "Mount Lidgbird, Mount Gower and Ball's Pyramid.",
+      "hu": "Lidgbird-hegy, Gower-hegy és Ball's Pyramid.",
+      "de": "Mount Lidgbird, Mount Gower und Ball's Pyramid.",
+      "es": "Monte Lidgbird, monte Gower y Pirámide de Ball.",
+      "fr": "Mont Lidgbird, mont Gower et Ball's Pyramid.",
+      "it": "Monte Lidgbird, Monte Gower e Ball's Pyramid.",
+      "pl": "Mount Lidgbird, Mount Gower i Ball's Pyramid.",
+      "ru": "Гора Лидгберд, гора Гауэр и пирамида Болла.",
+      "sk": "Hory Lidgbird a Gower a Ball's Pyramid.",
+      "zh": "利德伯德山、高尔山和鲍尔斯金字塔岛。"
+     },
+     "pts": [
+      "YLHI",
+      [
+       "~=",
+       -31.5538,
+       159.1794
+      ],
+      [
+       "Ball's Pyramid",
+       -31.7458,
+       159.2519
+      ],
+      [
+       "~",
+       -31.7686,
+       159.199
+      ],
+      "YLHI"
+     ]
     }
    ],
-   "pois": [],
-   "kw": "Ball's Pyramid Balls Pyramid tengeri torony Mount Gower Mount Gower Lord Howe Malabar-domb Lord Howe Malabar Hill",
-   "img": "Ball's Pyramid|Lord Howe Island"
+   "pois": [
+    [
+     "Mount Lidgbird",
+     -31.56,
+     159.085
+    ],
+    [
+     "Mount Gower",
+     -31.5833,
+     159.075
+    ]
+   ],
+   "kw": "Ball's Pyramid Balls Pyramid tengeri torony Mount Gower Mount Gower Lord Howe Malabar-domb Lord Howe Malabar Hill Ball's Pyramid Balls Pyramid tengeri torony Mount Gower Mount Gower Lord Howe",
+   "img": "Ball's Pyramid|Lord Howe Island",
+   "new": true
   },
   {
    "id": "rarotonga",
@@ -45773,7 +46733,10 @@
    "tags": [
     "coast",
     "mountain",
-    "unesco"
+    "unesco",
+    "lake",
+    "island",
+    "wildlife"
    ],
    "desc": {
     "en": "The great freshwater Lake of Stars: the golden shore of Senga Bay, the cichlid-filled waters of Lake Malawi National Park at Cape Maclear and the granite heights of Dedza.",
@@ -45837,10 +46800,86 @@
       ],
       "FWKI"
      ]
+    },
+    {
+     "id": "lake-malawi",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 3000,
+     "stol": true,
+     "label": {
+      "en": "Lake Malawi loop",
+      "hu": "Malawi-tavi kör",
+      "de": "Malawisee-Runde",
+      "es": "Circuito del lago Malaui",
+      "fr": "Boucle du lac Malawi",
+      "it": "Giro del Lago Malawi",
+      "pl": "Pętla jeziora Malawi",
+      "ru": "Маршрут над озером Малави",
+      "sk": "Okruh jazera Malawi",
+      "zh": "马拉维湖环线"
+     },
+     "desc": {
+      "en": "Cape Maclear, Mumbo and Monkey Bay.",
+      "hu": "Cape Maclear, Mumbo és Monkey Bay.",
+      "de": "Cape Maclear, Mumbo und Monkey Bay.",
+      "es": "Cape Maclear, Mumbo y Monkey Bay.",
+      "fr": "Cape Maclear, Mumbo et Monkey Bay.",
+      "it": "Cape Maclear, Mumbo e Monkey Bay.",
+      "pl": "Cape Maclear, Mumbo i Monkey Bay.",
+      "ru": "Кейп-Маклир, Мумбо и Манки-Бей.",
+      "sk": "Cape Maclear, Mumbo a Monkey Bay.",
+      "zh": "麦克利尔角、穆姆博岛和猴子湾。"
+     },
+     "pts": [
+      "FWCM",
+      [
+       "~=",
+       -14.327,
+       35.1929
+      ],
+      [
+       "~",
+       -14.2959,
+       35.2116
+      ],
+      [
+       "Cape Maclear",
+       -14.0167,
+       34.8333
+      ],
+      [
+       "Mumbo Island",
+       -13.9833,
+       34.8167
+      ],
+      [
+       "~",
+       -13.9617,
+       34.8464
+      ],
+      [
+       "~=",
+       -14.2881,
+       35.2867
+      ],
+      [
+       "~=",
+       -14.3357,
+       35.2192
+      ],
+      "FWCM"
+     ]
     }
    ],
-   "pois": [],
-   "kw": "Senga-öböl Senga Bay Malawi tó Cape Maclear Cape Maclear Malawi tó nemzeti park Dedza-hegy Dedza hegy Malawi",
+   "pois": [
+    [
+     "Monkey Bay",
+     -14.0833,
+     34.9167
+    ]
+   ],
+   "kw": "Senga-öböl Senga Bay Malawi tó Cape Maclear Cape Maclear Malawi tó nemzeti park Dedza-hegy Dedza hegy Malawi Cape Maclear Cape Maclear Malawi tó nemzeti park",
    "img": "Lake Malawi|Lake Malawi National Park",
    "new": true
   },
@@ -49807,7 +50846,8 @@
    },
    "tags": [
     "island",
-    "coast"
+    "coast",
+    "reef"
    ],
    "desc": {
     "en": "A chain of 365 cays of impossible blues: the swimming pigs of Big Major Cay, James Bond's Thunderball Grotto, Warderick Wells and Stocking Island.",
@@ -49881,6 +50921,56 @@
       ],
       "MYEF"
      ]
+    },
+    {
+     "id": "staniel",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2000,
+     "stol": true,
+     "label": {
+      "en": "Exuma loop",
+      "hu": "Exuma-kör",
+      "de": "Exuma-Runde",
+      "es": "Circuito de Exuma",
+      "fr": "Boucle d'Exuma",
+      "it": "Giro delle Exuma",
+      "pl": "Pętla Exuma",
+      "ru": "Маршрут над Эксумой",
+      "sk": "Okruh Exumy",
+      "zh": "埃克苏马环线"
+     },
+     "desc": {
+      "en": "Thunderball Grotto, Big Major, Compass Cay and Warderick Wells.",
+      "hu": "Thunderball-barlang, Big Major, Compass Cay és Warderick Wells.",
+      "de": "Thunderball Grotto, Big Major, Compass Cay und Warderick Wells.",
+      "es": "Gruta Thunderball, Big Major, Compass Cay y Warderick Wells.",
+      "fr": "Thunderball Grotto, Big Major, Compass Cay et Warderick Wells.",
+      "it": "Thunderball Grotto, Big Major, Compass Cay e Warderick Wells.",
+      "pl": "Grota Thunderball, Big Major, Compass Cay i Warderick Wells.",
+      "ru": "Грот Тандерболл, Биг-Мейджор, Компас-Кей и Уордерик-Уэллс.",
+      "sk": "Thunderball Grotto, Big Major, Compass Cay a Warderick Wells.",
+      "zh": "雷霆球洞、大梅杰岛、罗盘岛和沃德里克韦尔斯。"
+     },
+     "pts": [
+      "MYES",
+      [
+       "Thunderball Grotto",
+       24.1694,
+       -76.4467
+      ],
+      [
+       "Warderick Wells",
+       24.3969,
+       -76.6272
+      ],
+      [
+       "~",
+       24.4428,
+       -76.5689
+      ],
+      "MYES"
+     ]
     }
    ],
    "pois": [
@@ -49890,7 +50980,7 @@
      -76.457
     ]
    ],
-   "kw": "Thunderball-barlang Thunderball barlang Staniel Cay Warderick Wells Exuma Land and Sea Park Stocking-sziget Stocking Island Exuma Big Major Cay Úszó malacok Exuma",
+   "kw": "Thunderball-barlang Thunderball barlang Staniel Cay Warderick Wells Exuma Land and Sea Park Stocking-sziget Stocking Island Exuma Big Major Cay Úszó malacok Exuma Thunderball-barlang Thunderball barlang Staniel Cay Warderick Wells Exuma Land and Sea Park Big Major Cay Úszó malacok Exuma",
    "img": "Pig Beach|Staniel Cay|Great Exuma",
    "new": true
   },
@@ -58035,146 +59125,6 @@
    "kw": ""
   },
   {
-   "id": "stol-wrangell",
-   "continent": "NA",
-   "country": {
-    "en": "United States",
-    "hu": "Egyesült Államok",
-    "de": "Vereinigte Staaten",
-    "es": "Estados Unidos",
-    "fr": "États-Unis",
-    "it": "Stati Uniti",
-    "pl": "Stany Zjednoczone",
-    "ru": "Соединённые Штаты Америки",
-    "sk": "Spojené štáty",
-    "zh": "美国"
-   },
-   "name": {
-    "en": "Alaska: Chisana and the Wrangell Volcanoes",
-    "hu": "Alaszka: Chisana és a Wrangell-vulkánok",
-    "de": "Alaska: Chisana und die Wrangell-Vulkane",
-    "es": "Alaska: Chisana y los volcanes Wrangell",
-    "fr": "Alaska : Chisana et les volcans Wrangell",
-    "it": "Alaska: Chisana e i vulcani Wrangell",
-    "pl": "Alaska: Chisana i wulkany Wrangell",
-    "ru": "Аляска: Чисана и вулканы Рангел",
-    "sk": "Aljaška: Chisana a sopky Wrangell",
-    "zh": "阿拉斯加：奇萨纳与兰格尔火山群"
-   },
-   "main": {
-    "en": "Mount Blackburn",
-    "hu": "Blackburn-hegy",
-    "lat": 61.731,
-    "lon": -143.403,
-    "de": "Mount Blackburn",
-    "es": "Monte Blackburn",
-    "fr": "Mont Blackburn",
-    "it": "Monte Blackburn",
-    "pl": "Mount Blackburn",
-    "ru": "Гора Блэкберн",
-    "sk": "Hora Blackburn",
-    "zh": "布莱克本山"
-   },
-   "tags": [
-    "mountain",
-    "glacier",
-    "volcano"
-   ],
-   "desc": {
-    "en": "A STOL flight from the tiny Chisana gravel strip past Mount Bona, Mount Blackburn and the steaming Mount Wrangell, deep inside America's biggest national park.",
-    "hu": "STOL repülés a parányi chisanai murvás pályáról a Bona-hegy, a Blackburn-hegy és a gőzölgő Wrangell-vulkán mellett az USA legnagyobb nemzeti parkjában.",
-    "de": "Ein STOL-Flug von der winzigen Schotterpiste in Chisana vorbei an Mount Bona, Mount Blackburn und dem dampfenden Mount Wrangell, mitten im größten Nationalpark der USA.",
-    "es": "Un vuelo STOL desde la diminuta pista de grava de Chisana, pasando por el monte Bona, el monte Blackburn y el humeante monte Wrangell, en el interior del mayor parque nacional de Estados Unidos.",
-    "fr": "Un vol STOL depuis la minuscule piste en gravier de Chisana, devant le mont Bona, le mont Blackburn et le mont Wrangell fumant, au cœur du plus grand parc national des États-Unis.",
-    "it": "Un volo STOL dalla minuscola pista sterrata di Chisana oltre il Monte Bona, il Monte Blackburn e il fumante Monte Wrangell, nel cuore del più grande parco nazionale d'America.",
-    "pl": "Lot STOL z maleńkiego żwirowego pasa w Chisana obok Mount Bona, Mount Blackburn i parującego Mount Wrangell, w głębi największego parku narodowego Ameryki.",
-    "ru": "Полёт STOL от крошечной гравийной полосы Чисана мимо гор Бона, Блэкберн и дымящегося Рангела в самом большом национальном парке Америки.",
-    "sk": "Let STOL z maličkej štrkovej dráhy v Chisane okolo hôr Bona, Blackburn a parou dýmajúcej hory Wrangell, hlboko vo vnútri najväčšieho národného parku Ameriky.",
-    "zh": "从小小的奇萨纳砾石跑道起飞的STOL飞行，飞越博纳山、布莱克本山和喷着蒸汽的兰格尔山，深入美国最大的国家公园腹地。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 14000,
-     "stol": true,
-     "label": {
-      "en": "Wrangell loop",
-      "hu": "Wrangell-kör",
-      "de": "Wrangell-Runde",
-      "es": "Circuito Wrangell",
-      "fr": "Boucle du Wrangell",
-      "it": "Giro del Wrangell",
-      "pl": "Pętla Wrangell",
-      "ru": "Маршрут вокруг Рангела",
-      "sk": "Okruh Wrangell",
-      "zh": "兰格尔环线"
-     },
-     "desc": {
-      "en": "Mount Bona, Blackburn, Sanford and Wrangell.",
-      "hu": "Bona, Blackburn, Sanford és Wrangell.",
-      "de": "Mount Bona, Blackburn, Sanford und Wrangell.",
-      "es": "Monte Bona, Blackburn, Sanford y Wrangell.",
-      "fr": "Monts Bona, Blackburn, Sanford et Wrangell.",
-      "it": "Monte Bona, Blackburn, Sanford e Wrangell.",
-      "pl": "Mount Bona, Blackburn, Sanford i Wrangell.",
-      "ru": "Горы Бона, Блэкберн, Сэнфорд и Рангел.",
-      "sk": "Hory Bona, Blackburn, Sanford a Wrangell.",
-      "zh": "博纳山、布莱克本山、桑福德山和兰格尔山。"
-     },
-     "pts": [
-      "CZN",
-      [
-       "~=",
-       62.0251,
-       -141.9565
-      ],
-      [
-       "~",
-       61.9937,
-       -141.9939
-      ],
-      [
-       "Mount Sanford",
-       62.2133,
-       -144.1283
-      ],
-      [
-       "Mount Wrangell",
-       62.0058,
-       -144.0194
-      ],
-      [
-       "Mount Blackburn",
-       61.731,
-       -143.403
-      ],
-      [
-       "Mount Bona",
-       61.3856,
-       -141.7458
-      ],
-      [
-       "~",
-       61.4508,
-       -141.566
-      ],
-      [
-       "~=",
-       62.0054,
-       -141.9173
-      ],
-      "CZN"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Mount Wrangell Wrangell vulkán Mount Blackburn Blackburn vulkán Wrangell",
-   "img": "Mount Blackburn|Wrangell-St. Elias National Park and Preserve"
-  },
-  {
    "id": "stol-gates-arctic",
    "continent": "NA",
    "country": {
@@ -58313,137 +59263,6 @@
    "new": true,
    "kw": "",
    "img": "Arrigetch Peaks|Gates of the Arctic National Park and Preserve"
-  },
-  {
-   "id": "stol-kantishna",
-   "continent": "NA",
-   "country": {
-    "en": "United States",
-    "hu": "Egyesült Államok",
-    "de": "Vereinigte Staaten",
-    "es": "Estados Unidos",
-    "fr": "États-Unis",
-    "it": "Stati Uniti",
-    "pl": "Stany Zjednoczone",
-    "ru": "Соединённые Штаты Америки",
-    "sk": "Spojené štáty",
-    "zh": "美国"
-   },
-   "name": {
-    "en": "Alaska: Denali from Kantishna",
-    "hu": "Alaszka: a Denali Kantishnából",
-    "de": "Alaska: Denali ab Kantishna",
-    "es": "Alaska: Denali desde Kantishna",
-    "fr": "Alaska : le Denali depuis Kantishna",
-    "it": "Alaska: il Denali da Kantishna",
-    "pl": "Alaska: Denali z Kantishna",
-    "ru": "Аляска: Денали из Кантишны",
-    "sk": "Aljaška: Denali z Kantishny",
-    "zh": "阿拉斯加：从坎蒂什纳出发的德纳里"
-   },
-   "main": {
-    "en": "Denali",
-    "hu": "Denali",
-    "lat": 63.0692,
-    "lon": -151.007,
-    "de": "Denali",
-    "es": "Denali",
-    "fr": "Denali",
-    "it": "Denali",
-    "pl": "Denali",
-    "ru": "Денали",
-    "sk": "Denali",
-    "zh": "德纳里"
-   },
-   "tags": [
-    "mountain",
-    "glacier",
-    "wildlife"
-   ],
-   "desc": {
-    "en": "A short hop from the Kantishna strip to Wonder Lake, the Muldrow Glacier and the 6,190 m summit of Denali, North America's highest peak.",
-    "hu": "Rövid ugrás a kantishnai pályáról a Wonder-tóhoz, a Muldrow-gleccserhez és a Denali 6190 méteres csúcsához, Észak-Amerika legmagasabb hegyéhez.",
-    "de": "Ein kurzer Hüpfer von der Piste in Kantishna zum Wonder Lake, zum Muldrow-Gletscher und zum 6190 m hohen Gipfel des Denali, des höchsten Bergs Nordamerikas.",
-    "es": "Un breve salto desde la pista de Kantishna hasta el lago Wonder, el glaciar Muldrow y la cumbre de 6190 m del Denali, el pico más alto de Norteamérica.",
-    "fr": "Un court saut depuis la piste de Kantishna jusqu'au lac Wonder, au glacier Muldrow et au sommet du Denali, à 6 190 m, point culminant de l'Amérique du Nord.",
-    "it": "Un breve balzo dalla pista di Kantishna al Lago Wonder, al Ghiacciaio Muldrow e alla vetta del Denali, a 6.190 m, la più alta del Nord America.",
-    "pl": "Krótki skok z pasa w Kantishna nad Wonder Lake, lodowiec Muldrow i liczący 6190 m szczyt Denali, najwyższą górę Ameryki Północnej.",
-    "ru": "Короткий перелёт от полосы Кантишна к озеру Уандер, леднику Малдроу и вершине Денали высотой 6190 м, высочайшей горе Северной Америки.",
-    "sk": "Krátky skok z dráhy v Kantishne k jazeru Wonder, ľadovcu Muldrow a 6 190 m vysokému vrcholu Denali, najvyššej hore Severnej Ameriky.",
-    "zh": "从坎蒂什纳跑道出发的短途飞行，前往奇迹湖、马尔德罗冰川，以及海拔6,190米、北美最高峰德纳里的山顶。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 12000,
-     "stol": true,
-     "label": {
-      "en": "Denali loop",
-      "hu": "Denali-kör",
-      "de": "Denali-Runde",
-      "es": "Circuito del Denali",
-      "fr": "Boucle du Denali",
-      "it": "Giro del Denali",
-      "pl": "Pętla Denali",
-      "ru": "Маршрут вокруг Денали",
-      "sk": "Okruh Denali",
-      "zh": "德纳里环线"
-     },
-     "desc": {
-      "en": "Wonder Lake, Muldrow Glacier and Denali.",
-      "hu": "Wonder-tó, Muldrow-gleccser és a Denali.",
-      "de": "Wonder Lake, Muldrow-Gletscher und Denali.",
-      "es": "Lago Wonder, glaciar Muldrow y Denali.",
-      "fr": "Lac Wonder, glacier Muldrow et Denali.",
-      "it": "Lago Wonder, Ghiacciaio Muldrow e Denali.",
-      "pl": "Wonder Lake, lodowiec Muldrow i Denali.",
-      "ru": "Озеро Уандер, ледник Малдроу и Денали.",
-      "sk": "Jazero Wonder, ľadovec Muldrow a Denali.",
-      "zh": "奇迹湖、马尔德罗冰川和德纳里。"
-     },
-     "pts": [
-      "5Z5",
-      [
-       "~=",
-       63.516,
-       -150.865
-      ],
-      [
-       "Denali",
-       63.0692,
-       -151.007
-      ],
-      [
-       "~",
-       63.033,
-       -150.8551
-      ],
-      [
-       "Muldrow Glacier",
-       63.28,
-       -150.5
-      ],
-      [
-       "~=",
-       63.505,
-       -150.8098
-      ],
-      "5Z5"
-     ]
-    }
-   ],
-   "pois": [
-    [
-     "Wonder Lake",
-     63.4667,
-     -150.8667
-    ]
-   ],
-   "new": true,
-   "kw": "Denali Denali McKinley Alaszka",
-   "img": "Denali|Wonder Lake"
   },
   {
    "id": "stol-lake-clark",
@@ -58696,136 +59515,6 @@
    "new": true,
    "kw": "",
    "img": "Margerie Glacier|Glacier Bay National Park and Preserve"
-  },
-  {
-   "id": "stol-molokai",
-   "continent": "NA",
-   "country": {
-    "en": "United States",
-    "hu": "Egyesült Államok",
-    "de": "Vereinigte Staaten",
-    "es": "Estados Unidos",
-    "fr": "États-Unis",
-    "it": "Stati Uniti",
-    "pl": "Stany Zjednoczone",
-    "ru": "Соединённые Штаты Америки",
-    "sk": "Spojené štáty",
-    "zh": "美国"
-   },
-   "name": {
-    "en": "Hawaii: Molokai and Kalaupapa",
-    "hu": "Hawaii: Molokai és Kalaupapa",
-    "de": "Hawaii: Molokai und Kalaupapa",
-    "es": "Hawái: Molokai y Kalaupapa",
-    "fr": "Hawaï : Molokai et Kalaupapa",
-    "it": "Hawaii: Molokai e Kalaupapa",
-    "pl": "Hawaje: Molokai i Kalaupapa",
-    "ru": "Гавайи: Молокаи и Калаупапа",
-    "sk": "Havaj: Molokai a Kalaupapa",
-    "zh": "夏威夷：莫洛凯岛与卡劳帕帕"
-   },
-   "main": {
-    "en": "Kalaupapa Peninsula",
-    "hu": "Kalaupapa-félsziget",
-    "lat": 21.2111,
-    "lon": -156.974,
-    "de": "Kalaupapa-Halbinsel",
-    "es": "Península de Kalaupapa",
-    "fr": "Péninsule de Kalaupapa",
-    "it": "Penisola di Kalaupapa",
-    "pl": "Półwysep Kalaupapa",
-    "ru": "Полуостров Калаупапа",
-    "sk": "Polostrov Kalaupapa",
-    "zh": "卡劳帕帕半岛"
-   },
-   "tags": [
-    "island",
-    "coast",
-    "waterfall"
-   ],
-   "desc": {
-    "en": "The remote Kalaupapa peninsula under the world's tallest sea cliffs, Halawa Valley's waterfalls and the long beaches of western Molokai.",
-    "hu": "A távoli Kalaupapa-félsziget a világ legmagasabb tengeri sziklái alatt, a Halawa-völgy vízesései és Molokai nyugati partjának hosszú strandjai.",
-    "de": "Die abgelegene Halbinsel Kalaupapa unter den höchsten Meeresklippen der Welt, die Wasserfälle des Halawa-Tals und die langen Strände im Westen Molokais.",
-    "es": "La remota península de Kalaupapa bajo los acantilados marinos más altos del mundo, las cascadas del valle de Halawa y las largas playas del oeste de Molokai.",
-    "fr": "La péninsule isolée de Kalaupapa au pied des plus hautes falaises maritimes du monde, les cascades de la vallée de Halawa et les longues plages de l'ouest de Molokai.",
-    "it": "La remota penisola di Kalaupapa sotto le scogliere marine più alte del mondo, le cascate della Valle di Halawa e le lunghe spiagge di Molokai occidentale.",
-    "pl": "Odległy półwysep Kalaupapa pod najwyższymi klifami morskimi świata, wodospady doliny Halawa i długie plaże zachodniego Molokai.",
-    "ru": "Уединённый полуостров Калаупапа под самыми высокими в мире морскими обрывами, водопады долины Халава и длинные пляжи западного Молокаи.",
-    "sk": "Odľahlý polostrov Kalaupapa pod najvyššími morskými útesmi na svete, vodopády údolia Halawa a dlhé pláže západného Molokai.",
-    "zh": "偏远的卡劳帕帕半岛位于世界最高海崖之下，另有哈拉瓦谷的瀑布和莫洛凯岛西部绵长的海滩。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 4000,
-     "stol": true,
-     "label": {
-      "en": "Molokai loop",
-      "hu": "Molokai-kör",
-      "de": "Molokai-Runde",
-      "es": "Circuito de Molokai",
-      "fr": "Boucle de Molokai",
-      "it": "Giro di Molokai",
-      "pl": "Pętla Molokai",
-      "ru": "Маршрут вокруг Молокаи",
-      "sk": "Okruh Molokai",
-      "zh": "莫洛凯岛环线"
-     },
-     "desc": {
-      "en": "Kaunakakai, Papohaku, Kamakou and Halawa Valley.",
-      "hu": "Kaunakakai, Papohaku, Kamakou és a Halawa-völgy.",
-      "de": "Kaunakakai, Papohaku, Kamakou und Halawa-Tal.",
-      "es": "Kaunakakai, Papohaku, Kamakou y valle de Halawa.",
-      "fr": "Kaunakakai, Papohaku, Kamakou et vallée de Halawa.",
-      "it": "Kaunakakai, Papohaku, Kamakou e Valle di Halawa.",
-      "pl": "Kaunakakai, Papohaku, Kamakou i dolina Halawa.",
-      "ru": "Каунакакаи, Папохаку, Камаку и долина Халава.",
-      "sk": "Kaunakakai, Papohaku, Kamakou a údolie Halawa.",
-      "zh": "考纳卡凯、帕波哈库、卡马库和哈拉瓦谷。"
-     },
-     "pts": [
-      "PHLU",
-      [
-       "~=",
-       21.2688,
-       -156.9001
-      ],
-      [
-       "Halawa Valley",
-       21.15,
-       -156.7333
-      ],
-      [
-       "~",
-       21.1022,
-       -156.7445
-      ],
-      [
-       "Kaunakakai Wharf",
-       21.0884,
-       -157.0278
-      ],
-      [
-       "Papohaku Beach",
-       21.1594,
-       -157.2825
-      ],
-      [
-       "~",
-       21.2213,
-       -157.2788
-      ],
-      "PHLU"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "",
-   "img": "Kalaupapa National Historical Park|Molokai"
   },
   {
    "id": "stol-catalina",
@@ -59471,146 +60160,6 @@
    "new": true,
    "kw": "",
    "img": "Bahía de los Ángeles|Isla Ángel de la Guarda"
-  },
-  {
-   "id": "stol-belize-bluehole",
-   "continent": "NA",
-   "country": {
-    "en": "Belize",
-    "hu": "Belize",
-    "de": "Belize",
-    "es": "Belice",
-    "fr": "Belize",
-    "it": "Belize",
-    "pl": "Belize",
-    "ru": "Белиз",
-    "sk": "Belize",
-    "zh": "伯利兹"
-   },
-   "name": {
-    "en": "Belize: Lighthouse Reef and the Blue Hole",
-    "hu": "Belize: Lighthouse-zátony és a Kék lyuk",
-    "de": "Belize: Lighthouse Reef und das Blue Hole",
-    "es": "Belice: Lighthouse Reef y el Blue Hole",
-    "fr": "Belize : Lighthouse Reef et le Grand Trou bleu",
-    "it": "Belize: Lighthouse Reef e il Blue Hole",
-    "pl": "Belize: Lighthouse Reef i Wielka Niebieska Dziura",
-    "ru": "Белиз: риф Лайтхаус и Большая голубая дыра",
-    "sk": "Belize: Lighthouse Reef a Blue Hole",
-    "zh": "伯利兹：灯塔礁与蓝洞"
-   },
-   "main": {
-    "en": "Great Blue Hole",
-    "hu": "Nagy Kék lyuk",
-    "lat": 17.3156,
-    "lon": -87.5347,
-    "de": "Great Blue Hole",
-    "es": "Gran Agujero Azul",
-    "fr": "Grand Trou bleu",
-    "it": "Great Blue Hole",
-    "pl": "Wielka Niebieska Dziura",
-    "ru": "Большая голубая дыра",
-    "sk": "Great Blue Hole",
-    "zh": "大蓝洞"
-   },
-   "tags": [
-    "reef",
-    "island",
-    "coast"
-   ],
-   "desc": {
-    "en": "From a little dive-resort strip in the Belize cays over the 300 m wide Great Blue Hole, the booby colony of Half Moon Caye and the cays of Turneffe and Caye Caulker.",
-    "hu": "A Lighthouse-zátony pályájáról a 300 méter széles Nagy Kék lyuk, a Half Moon Caye szulákolóniája, valamint a Turneffe és a Caye Caulker szigetei fölött.",
-    "de": "Von einer kleinen Piste eines Tauchresorts auf den Cays von Belize über das 300 m breite Great Blue Hole, die Tölpelkolonie von Half Moon Caye und die Cays von Turneffe und Caye Caulker.",
-    "es": "Desde una pequeña pista de un centro de buceo en los cayos de Belice sobre el Gran Agujero Azul, de 300 m de ancho, la colonia de piqueros de Half Moon Caye y los cayos de Turneffe y Caye Caulker.",
-    "fr": "Depuis une petite piste d'un complexe de plongée des cayes du Belize, au-dessus du Grand Trou bleu large de 300 m, de la colonie de fous de Half Moon Caye et des cayes de Turneffe et de Caye Caulker.",
-    "it": "Da una piccola pista di un resort per subacquei nei cayo del Belize sopra il Great Blue Hole, largo 300 m, la colonia di sule di Half Moon Caye e i cayo di Turneffe e Caye Caulker.",
-    "pl": "Z małego pasa przy ośrodku nurkowym na wyspach Belize nad liczącą 300 m średnicy Wielką Niebieską Dziurę, kolonię głuptaków na Half Moon Caye oraz wyspy Turneffe i Caye Caulker.",
-    "ru": "От небольшой полосы дайв-курорта на белизских островках над Большой голубой дырой шириной 300 м, колонией олуш на Хаф-Мун-Кей и островками Тёрнефф и Кей-Колкер.",
-    "sk": "Z malej dráhy potápačského rezortu na belizských ostrovčekoch ponad 300 m široký Great Blue Hole, kolóniu sul na Half Moon Caye a ostrovčeky Turneffe a Caye Caulker.",
-    "zh": "从伯利兹珊瑚礁岛上的潜水度假村小跑道起飞，飞越宽300米的大蓝洞、鲣鸟栖息的半月礁，以及特尼夫环礁和卡克岛。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 3000,
-     "stol": true,
-     "label": {
-      "en": "Belize reef loop",
-      "hu": "Belize-i zátony-kör",
-      "de": "Belize-Riff-Runde",
-      "es": "Circuito del arrecife de Belice",
-      "fr": "Boucle du récif du Belize",
-      "it": "Giro della barriera del Belize",
-      "pl": "Pętla rafy Belize",
-      "ru": "Маршрут над белизским рифом",
-      "sk": "Okruh belizského útesu",
-      "zh": "伯利兹珊瑚礁环线"
-     },
-     "desc": {
-      "en": "The Blue Hole, Half Moon Caye, Turneffe and Caye Caulker.",
-      "hu": "A Kék lyuk, Half Moon Caye, Turneffe és Caye Caulker.",
-      "de": "Das Blue Hole, Half Moon Caye, Turneffe und Caye Caulker.",
-      "es": "El Agujero Azul, Half Moon Caye, Turneffe y Caye Caulker.",
-      "fr": "Le Trou bleu, Half Moon Caye, Turneffe et Caye Caulker.",
-      "it": "Il Blue Hole, Half Moon Caye, Turneffe e Caye Caulker.",
-      "pl": "Niebieska Dziura, Half Moon Caye, Turneffe i Caye Caulker.",
-      "ru": "Голубая дыра, Хаф-Мун-Кей, Тёрнефф и Кей-Колкер.",
-      "sk": "Blue Hole, Half Moon Caye, Turneffe a Caye Caulker.",
-      "zh": "蓝洞、半月礁、特尼夫环礁和卡克岛。"
-     },
-     "pts": [
-      "MZHR",
-      [
-       "~=",
-       17.2022,
-       -87.8073
-      ],
-      [
-       "~",
-       17.2307,
-       -87.7843
-      ],
-      [
-       "Turneffe Atoll",
-       17.35,
-       -87.95
-      ],
-      [
-       "Caye Caulker",
-       17.75,
-       -88.0333
-      ],
-      [
-       "~",
-       17.8001,
-       -87.94
-      ],
-      [
-       "Great Blue Hole",
-       17.3156,
-       -87.5347
-      ],
-      [
-       "Half Moon Caye",
-       17.2,
-       -87.5333
-      ],
-      [
-       "~=",
-       17.1895,
-       -87.7823
-      ],
-      "MZHR"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Turneffe-atoll Turneffe atoll Caye Caulker Caye Caulker Nagy Kék Lyuk Great Blue Hole Belize Half Moon Caye Half Moon Caye Lighthouse Reef",
-   "img": "Great Blue Hole|Lighthouse Reef"
   },
   {
    "id": "stol-grenadines",
@@ -60546,127 +61095,6 @@
    "img": "Marble Caves|General Carrera Lake"
   },
   {
-   "id": "stol-staniel",
-   "continent": "NA",
-   "country": {
-    "en": "Bahamas",
-    "hu": "Bahama-szigetek",
-    "de": "Bahamas",
-    "es": "Bahamas",
-    "fr": "Bahamas",
-    "it": "Bahamas",
-    "pl": "Bahamy",
-    "ru": "Багамские Острова",
-    "sk": "Bahamy",
-    "zh": "巴哈马"
-   },
-   "name": {
-    "en": "Bahamas: Exuma Cays from Staniel Cay",
-    "hu": "Bahama-szigetek: az Exuma-szigetek Staniel Cay-ből",
-    "de": "Bahamas: Exuma Cays ab Staniel Cay",
-    "es": "Bahamas: cayos Exuma desde Staniel Cay",
-    "fr": "Bahamas : cayes d'Exuma depuis Staniel Cay",
-    "it": "Bahamas: Exuma Cays da Staniel Cay",
-    "pl": "Bahamy: Wyspy Exuma ze Staniel Cay",
-    "ru": "Багамы: острова Эксума от Стэниел-Кей",
-    "sk": "Bahamy: Exuma Cays zo Staniel Cay",
-    "zh": "巴哈马：从斯坦尼尔岛出发的埃克苏马群岛"
-   },
-   "main": {
-    "en": "Thunderball Grotto",
-    "hu": "Thunderball-barlang",
-    "lat": 24.1694,
-    "lon": -76.4467,
-    "de": "Thunderball Grotto",
-    "es": "Gruta Thunderball",
-    "fr": "Thunderball Grotto",
-    "it": "Thunderball Grotto",
-    "pl": "Grota Thunderball",
-    "ru": "Грот Тандерболл",
-    "sk": "Thunderball Grotto",
-    "zh": "雷霆球洞"
-   },
-   "tags": [
-    "island",
-    "reef",
-    "coast"
-   ],
-   "desc": {
-    "en": "Pastel-blue shallows and sandbars of the Exuma Cays: the Thunderball Grotto from the Bond film, the swimming pigs of Big Major Cay and the Land and Sea Park.",
-    "hu": "Az Exuma-szigetek pasztellkék sekélyei és homokpadjai: a Bond-filmből ismert Thunderball-barlang, a Big Major Cay úszó malacai és a Land and Sea Park.",
-    "de": "Pastellblaue Flachwasserzonen und Sandbänke der Exuma Cays: die Thunderball Grotto aus dem Bond-Film, die schwimmenden Schweine von Big Major Cay und der Land and Sea Park.",
-    "es": "Aguas someras azul pastel y bancos de arena de los cayos Exuma: la gruta Thunderball de la película de Bond, los cerdos nadadores de Big Major Cay y el Parque de Tierra y Mar.",
-    "fr": "Hauts-fonds bleu pastel et bancs de sable des cayes d'Exuma : la Thunderball Grotto du film de Bond, les cochons nageurs de Big Major Cay et le parc terrestre et marin.",
-    "it": "Acque basse e banchi di sabbia azzurro pastello degli Exuma Cays: la Thunderball Grotto del film di Bond, i maiali che nuotano di Big Major Cay e il Land and Sea Park.",
-    "pl": "Pastelowoniebieskie płycizny i mielizny Exuma Cays: grota Thunderball z filmu o Bondzie, pływające świnie z Big Major Cay i Park Lądowo-Morski.",
-    "ru": "Пастельно-голубые мелководья и песчаные отмели островов Эксума: грот Тандерболл из фильма о Бонде, плавающие свиньи Биг-Мейджор-Кей и Морской парк Эксума.",
-    "sk": "Pastelovomodré plytčiny a pieskové lavice Exuma Cays: Thunderball Grotto z bondovky, plávajúce prasiatka na Big Major Cay a park Land and Sea Park.",
-    "zh": "埃克苏马群岛粉蓝色的浅滩与沙洲：邦德电影中的雷霆球洞、大梅杰岛上游泳的猪，以及陆海公园。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 2000,
-     "stol": true,
-     "label": {
-      "en": "Exuma loop",
-      "hu": "Exuma-kör",
-      "de": "Exuma-Runde",
-      "es": "Circuito de Exuma",
-      "fr": "Boucle d'Exuma",
-      "it": "Giro delle Exuma",
-      "pl": "Pętla Exuma",
-      "ru": "Маршрут над Эксумой",
-      "sk": "Okruh Exumy",
-      "zh": "埃克苏马环线"
-     },
-     "desc": {
-      "en": "Thunderball Grotto, Big Major, Compass Cay and Warderick Wells.",
-      "hu": "Thunderball-barlang, Big Major, Compass Cay és Warderick Wells.",
-      "de": "Thunderball Grotto, Big Major, Compass Cay und Warderick Wells.",
-      "es": "Gruta Thunderball, Big Major, Compass Cay y Warderick Wells.",
-      "fr": "Thunderball Grotto, Big Major, Compass Cay et Warderick Wells.",
-      "it": "Thunderball Grotto, Big Major, Compass Cay e Warderick Wells.",
-      "pl": "Grota Thunderball, Big Major, Compass Cay i Warderick Wells.",
-      "ru": "Грот Тандерболл, Биг-Мейджор, Компас-Кей и Уордерик-Уэллс.",
-      "sk": "Thunderball Grotto, Big Major, Compass Cay a Warderick Wells.",
-      "zh": "雷霆球洞、大梅杰岛、罗盘岛和沃德里克韦尔斯。"
-     },
-     "pts": [
-      "MYES",
-      [
-       "Thunderball Grotto",
-       24.1694,
-       -76.4467
-      ],
-      [
-       "Warderick Wells",
-       24.3969,
-       -76.6272
-      ],
-      [
-       "~",
-       24.4428,
-       -76.5689
-      ],
-      "MYES"
-     ]
-    }
-   ],
-   "pois": [
-    [
-     "Big Major Cay",
-     24.1844,
-     -76.4617
-    ]
-   ],
-   "new": true,
-   "kw": "Thunderball-barlang Thunderball barlang Staniel Cay Warderick Wells Exuma Land and Sea Park Big Major Cay Úszó malacok Exuma",
-   "img": "Exuma|Staniel Cay|Exuma Cays Land and Sea Park|Thunderball Grotto"
-  },
-  {
    "id": "stol-nain",
    "continent": "NA",
    "country": {
@@ -60929,555 +61357,6 @@
    "img": "Skagway, Alaska|Chilkoot Trail|Klondike Gold Rush|White Pass and Yukon Route"
   },
   {
-   "id": "stol-scilly",
-   "continent": "EU",
-   "country": {
-    "en": "United Kingdom",
-    "hu": "Egyesült Királyság",
-    "de": "Vereinigtes Königreich",
-    "es": "Reino Unido",
-    "fr": "Royaume-Uni",
-    "it": "Regno Unito",
-    "pl": "Wielka Brytania",
-    "ru": "Великобритания",
-    "sk": "Spojené kráľovstvo",
-    "zh": "英国"
-   },
-   "name": {
-    "en": "Isles of Scilly from St Mary's",
-    "hu": "A Scilly-szigetek St Mary's-ből",
-    "de": "Isles of Scilly ab St Mary's",
-    "es": "Islas Sorlingas desde St Mary's",
-    "fr": "Îles Scilly depuis St Mary's",
-    "it": "Isole Scilly da St Mary's",
-    "pl": "Wyspy Scilly ze St Mary's",
-    "ru": "Сцилли с острова Сент-Мэрис",
-    "sk": "Scillské ostrovy zo St Mary's",
-    "zh": "从圣玛丽岛出发的锡利群岛"
-   },
-   "main": {
-    "en": "Tresco Abbey Garden",
-    "hu": "Tresco apátsági kert",
-    "lat": 49.9533,
-    "lon": -6.3317,
-    "de": "Tresco Abbey Garden",
-    "es": "Jardín de la Abadía de Tresco",
-    "fr": "Jardin de l'abbaye de Tresco",
-    "it": "Giardino dell'Abbazia di Tresco",
-    "pl": "Ogród Opactwa Tresco",
-    "ru": "Сад аббатства Треско",
-    "sk": "Opátska záhrada Tresco",
-    "zh": "特雷斯科修道院花园"
-   },
-   "tags": [
-    "island",
-    "coast",
-    "history"
-   ],
-   "desc": {
-    "en": "The subtropical garden of Tresco, Wolf Rock and the shipwreck-strewn Bishop Rock lighthouse, and the white sands of Bryher and St Martin's, 45 km off Cornwall.",
-    "hu": "Tresco szubtrópusi kertje, a Wolf Rock és a hajóroncsok közt álló Bishop Rock világítótorony, Bryher és St Martin's fehér homokja Cornwalltól 45 km-re.",
-    "de": "Der subtropische Garten von Tresco, Wolf Rock und der von Schiffswracks umgebene Leuchtturm Bishop Rock sowie die weißen Strände von Bryher und St Martin's, 45 km vor Cornwall.",
-    "es": "El jardín subtropical de Tresco, Wolf Rock y el faro de Bishop Rock, rodeado de naufragios, y las arenas blancas de Bryher y St Martin's, a 45 km de Cornualles.",
-    "fr": "Le jardin subtropical de Tresco, Wolf Rock et le phare de Bishop Rock, entouré d'épaves, ainsi que les sables blancs de Bryher et de St Martin's, à 45 km de la Cornouailles.",
-    "it": "Il giardino subtropicale di Tresco, Wolf Rock e il faro di Bishop Rock, circondato da relitti, e le sabbie bianche di Bryher e St Martin's, a 45 km dalla Cornovaglia.",
-    "pl": "Subtropikalny ogród Tresco, Wolf Rock i latarnia Bishop Rock wśród wraków statków oraz białe piaski Bryher i St Martin's, 45 km od Kornwalii.",
-    "ru": "Субтропический сад Треско, скала Вулф-Рок и маяк Бишоп-Рок, окружённый останками кораблекрушений, а также белые пески Брайера и Сент-Мартинс в 45 км от Корнуолла.",
-    "sk": "Subtropická záhrada na Tresco, Wolf Rock a maják Bishop Rock obklopený vrakmi lodí a biele piesky na Bryher a St Martin's, 45 km od Cornwallu.",
-    "zh": "特雷斯科岛的亚热带花园、沃尔夫岩、沉船遍布的毕晓普岩灯塔，以及距康沃尔郡45公里的布赖尔岛和圣马丁岛的白色沙滩。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 1500,
-     "stol": true,
-     "label": {
-      "en": "Scilly loop",
-      "hu": "Scilly-kör",
-      "de": "Scilly-Runde",
-      "es": "Circuito de las Sorlingas",
-      "fr": "Boucle des Scilly",
-      "it": "Giro delle Scilly",
-      "pl": "Pętla Scilly",
-      "ru": "Маршрут над Сцилли",
-      "sk": "Okruh Scilly",
-      "zh": "锡利环线"
-     },
-     "desc": {
-      "en": "Wolf Rock, Bishop Rock, Bryher, Tresco and St Martin's.",
-      "hu": "Wolf Rock, Bishop Rock, Bryher, Tresco és St Martin's.",
-      "de": "Wolf Rock, Bishop Rock, Bryher, Tresco und St Martin's.",
-      "es": "Wolf Rock, Bishop Rock, Bryher, Tresco y St Martin's.",
-      "fr": "Wolf Rock, Bishop Rock, Bryher, Tresco et St Martin's.",
-      "it": "Wolf Rock, Bishop Rock, Bryher, Tresco e St Martin's.",
-      "pl": "Wolf Rock, Bishop Rock, Bryher, Tresco i St Martin's.",
-      "ru": "Вулф-Рок, Бишоп-Рок, Брайер, Треско и Сент-Мартинс.",
-      "sk": "Wolf Rock, Bishop Rock, Bryher, Tresco a St Martin's.",
-      "zh": "沃尔夫岩、毕晓普岩、布赖尔岛、特雷斯科岛和圣马丁岛。"
-     },
-     "pts": [
-      "EGHE",
-      [
-       "Tresco Abbey Garden",
-       49.9533,
-       -6.3317
-      ],
-      [
-       "Bishop Rock Lighthouse",
-       49.8722,
-       -6.4472
-      ],
-      [
-       "~",
-       49.8381,
-       -6.4293
-      ],
-      [
-       "~=",
-       49.8444,
-       -6.2023
-      ],
-      [
-       "Wolf Rock Lighthouse",
-       49.9456,
-       -5.8081
-      ],
-      [
-       "~",
-       50.0131,
-       -5.8247
-      ],
-      [
-       "St Martin's",
-       49.965,
-       -6.274
-      ],
-      "EGHE"
-     ]
-    }
-   ],
-   "pois": [
-    [
-     "Bryher",
-     49.9553,
-     -6.35
-    ],
-    [
-     "St Martin's",
-     49.965,
-     -6.274
-    ]
-   ],
-   "new": true,
-   "kw": "",
-   "img": "Tresco, Isles of Scilly|St Mary's, Isles of Scilly|Isles of Scilly|Bryher"
-  },
-  {
-   "id": "stol-orkney",
-   "continent": "EU",
-   "country": {
-    "en": "United Kingdom",
-    "hu": "Egyesült Királyság",
-    "de": "Vereinigtes Königreich",
-    "es": "Reino Unido",
-    "fr": "Royaume-Uni",
-    "it": "Regno Unito",
-    "pl": "Wielka Brytania",
-    "ru": "Великобритания",
-    "sk": "Spojené kráľovstvo",
-    "zh": "英国"
-   },
-   "name": {
-    "en": "Orkney: Papa Westray and the Neolithic Heart",
-    "hu": "Orkney: Papa Westray és a neolitikus szív",
-    "de": "Orkney: Papa Westray und das neolithische Herz",
-    "es": "Orcadas: Papa Westray y el corazón neolítico",
-    "fr": "Orcades : Papa Westray et le cœur néolithique",
-    "it": "Orcadi: Papa Westray e il cuore neolitico",
-    "pl": "Orkady: Papa Westray i neolityczne serce wysp",
-    "ru": "Оркни: Папа-Уэстрей и сердце неолита",
-    "sk": "Orkneje: Papa Westray a neolitické srdce",
-    "zh": "奥克尼：帕帕韦斯特雷岛与新石器时代的中心"
-   },
-   "main": {
-    "en": "Ring of Brodgar",
-    "hu": "Brodgar-kőkör",
-    "lat": 58.9976,
-    "lon": -3.2297,
-    "de": "Ring of Brodgar",
-    "es": "Anillo de Brodgar",
-    "fr": "Cercle de Brodgar",
-    "it": "Cerchio di Brodgar",
-    "pl": "Krąg Brodgar",
-    "ru": "Кольцо Бродгара",
-    "sk": "Ring of Brodgar",
-    "zh": "布罗德盖尔石圈"
-   },
-   "tags": [
-    "island",
-    "history",
-    "coast"
-   ],
-   "desc": {
-    "en": "The world's shortest scheduled flight lands on Papa Westray, home of the Knap of Howar; fly on to Skara Brae, the Ring of Brodgar and the Old Man of Hoy sea stack.",
-    "hu": "A világ legrövidebb menetrend szerinti járata Papa Westrayen száll le, a Knap of Howar otthonán; innen tovább Skara Braehoz, a Brodgar-kőkörhöz és az Old Man of Hoy tengeri toronyhoz.",
-    "de": "Der kürzeste Linienflug der Welt landet auf Papa Westray, der Heimat des Knap of Howar; weiter geht es nach Skara Brae, zum Ring of Brodgar und zum Brandungspfeiler Old Man of Hoy.",
-    "es": "El vuelo regular más corto del mundo aterriza en Papa Westray, hogar del Knap of Howar; continúe hacia Skara Brae, el Anillo de Brodgar y el farallón del Old Man of Hoy.",
-    "fr": "Le plus court vol régulier du monde se pose sur Papa Westray, site du Knap of Howar ; poursuite vers Skara Brae, le cercle de Brodgar et l'aiguille marine de l'Old Man of Hoy.",
-    "it": "Il volo di linea più breve del mondo atterra a Papa Westray, sede del Knap of Howar; poi si prosegue per Skara Brae, il Cerchio di Brodgar e il faraglione dell'Old Man of Hoy.",
-    "pl": "Najkrótszy regularny lot na świecie ląduje na Papa Westray, gdzie znajduje się Knap of Howar; dalej lot nad Skara Brae, Kręgiem Brodgar i morskim filarem Old Man of Hoy.",
-    "ru": "Самый короткий в мире регулярный рейс приземляется на Папа-Уэстрее, где находится Нап-оф-Ховар; затем полёт к Скара-Брею, Кольцу Бродгара и морскому столбу Старик из Хоя.",
-    "sk": "Najkratší pravidelný let na svete pristáva na Papa Westray, kde stojí Knap of Howar; pokračujte k Skara Brae, Ring of Brodgar a morskému stĺpu Old Man of Hoy.",
-    "zh": "世界上最短的定期航班降落在帕帕韦斯特雷岛，岛上有纳普霍瓦尔遗址；继续飞往斯卡拉布雷、布罗德盖尔石圈和霍伊岛的“老人”海蚀柱。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 1500,
-     "stol": true,
-     "label": {
-      "en": "Orkney loop",
-      "hu": "Orkney-kör",
-      "de": "Orkney-Runde",
-      "es": "Circuito de las Orcadas",
-      "fr": "Boucle des Orcades",
-      "it": "Giro delle Orcadi",
-      "pl": "Pętla Orkadów",
-      "ru": "Маршрут над Оркни",
-      "sk": "Okruh Orknejí",
-      "zh": "奥克尼环线"
-     },
-     "desc": {
-      "en": "Knap of Howar, Brodgar, Skara Brae and the Old Man of Hoy.",
-      "hu": "Knap of Howar, Brodgar, Skara Brae és az Old Man of Hoy.",
-      "de": "Knap of Howar, Brodgar, Skara Brae und der Old Man of Hoy.",
-      "es": "Knap of Howar, Brodgar, Skara Brae y el Old Man of Hoy.",
-      "fr": "Knap of Howar, Brodgar, Skara Brae et Old Man of Hoy.",
-      "it": "Knap of Howar, Brodgar, Skara Brae e Old Man of Hoy.",
-      "pl": "Knap of Howar, Brodgar, Skara Brae i Old Man of Hoy.",
-      "ru": "Нап-оф-Ховар, Бродгар, Скара-Брей и Старик из Хоя.",
-      "sk": "Knap of Howar, Brodgar, Skara Brae a Old Man of Hoy.",
-      "zh": "纳普霍瓦尔、布罗德盖尔、斯卡拉布雷和霍伊岛“老人”。"
-     },
-     "pts": [
-      "EGEP",
-      [
-       "~=",
-       59.2881,
-       -2.9025
-      ],
-      [
-       "Skara Brae",
-       59.0489,
-       -3.3417
-      ],
-      [
-       "Old Man of Hoy",
-       58.8964,
-       -3.3189
-      ],
-      [
-       "~",
-       58.8901,
-       -3.2503
-      ],
-      [
-       "Ring of Brodgar",
-       58.9976,
-       -3.2297
-      ],
-      [
-       "~=",
-       59.2611,
-       -2.9034
-      ],
-      "EGEP"
-     ]
-    }
-   ],
-   "pois": [
-    [
-     "Knap of Howar",
-     59.3356,
-     -2.8908
-    ]
-   ],
-   "new": true,
-   "kw": "Brodgar-kőkör Ring of Brodgar kőkör Orkney Hoy-i Öreg Old Man of Hoy tengeri szikla Skara Brae Skara Brae kőkorszaki falu",
-   "img": "Papa Westray|Skara Brae"
-  },
-  {
-   "id": "stol-barra",
-   "continent": "EU",
-   "country": {
-    "en": "United Kingdom",
-    "hu": "Egyesült Királyság",
-    "de": "Vereinigtes Königreich",
-    "es": "Reino Unido",
-    "fr": "Royaume-Uni",
-    "it": "Regno Unito",
-    "pl": "Wielka Brytania",
-    "ru": "Великобритания",
-    "sk": "Spojené kráľovstvo",
-    "zh": "英国"
-   },
-   "name": {
-    "en": "Outer Hebrides: Barra and the Beach Runway",
-    "hu": "Külső-Hebridák: Barra és a strandpálya",
-    "de": "Äußere Hebriden: Barra und die Strandpiste",
-    "es": "Hébridas Exteriores: Barra y la pista en la playa",
-    "fr": "Hébrides extérieures : Barra et la piste sur la plage",
-    "it": "Ebridi Esterne: Barra e la pista sulla spiaggia",
-    "pl": "Hebrydy Zewnętrzne: Barra i plażowy pas startowy",
-    "ru": "Внешние Гебриды: Барра и пляжная полоса",
-    "sk": "Vonkajšie Hebridy: Barra a pláž ako dráha",
-    "zh": "外赫布里底群岛：巴拉岛与海滩跑道"
-   },
-   "main": {
-    "en": "Kisimul Castle",
-    "hu": "Kisimul-vár",
-    "lat": 56.9528,
-    "lon": -7.4875,
-    "de": "Kisimul Castle",
-    "es": "Castillo de Kisimul",
-    "fr": "Château de Kisimul",
-    "it": "Castello di Kisimul",
-    "pl": "Zamek Kisimul",
-    "ru": "Замок Кисимул",
-    "sk": "Hrad Kisimul",
-    "zh": "基西穆尔城堡"
-   },
-   "tags": [
-    "island",
-    "coast",
-    "history"
-   ],
-   "desc": {
-    "en": "The only airport in the world with a tidal beach runway: Cockle Strand, then Kisimul Castle, Vatersay, abandoned Mingulay and Eriskay.",
-    "hu": "A világ egyetlen dagálytól függő strandpályás repülőtere: Cockle Strand, majd a Kisimul-vár, Vatersay, az elhagyott Mingulay és Eriskay.",
-    "de": "Der einzige Flughafen der Welt mit einer Gezeiten-Strandpiste: Cockle Strand, dann Kisimul Castle, Vatersay, das verlassene Mingulay und Eriskay.",
-    "es": "El único aeropuerto del mundo con una pista en una playa de marea: Cockle Strand, y luego el castillo de Kisimul, Vatersay, la abandonada Mingulay y Eriskay.",
-    "fr": "Le seul aéroport du monde doté d'une piste sur une plage soumise aux marées : Cockle Strand, puis le château de Kisimul, Vatersay, Mingulay abandonnée et Eriskay.",
-    "it": "L'unico aeroporto al mondo con una pista su una spiaggia soggetta alle maree: Cockle Strand, poi il Castello di Kisimul, Vatersay, la disabitata Mingulay ed Eriskay.",
-    "pl": "Jedyne lotnisko na świecie z pasem startowym na plaży zalewanej przez pływy: Cockle Strand, a potem zamek Kisimul, Vatersay, opuszczone Mingulay i Eriskay.",
-    "ru": "Единственный в мире аэропорт со взлётной полосой на приливном пляже: Кокл-Странд, затем замок Кисимул, Ватерсей, покинутый Мингулей и Эрискей.",
-    "sk": "Jediné letisko na svete s prílivovou plážovou dráhou: Cockle Strand, potom hrad Kisimul, Vatersay, opustený Mingulay a Eriskay.",
-    "zh": "世界上唯一拥有潮汐海滩跑道的机场：科克尔海滩，然后是基西穆尔城堡、瓦特赛岛、无人居住的明古莱岛和埃里斯凯岛。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 1500,
-     "stol": true,
-     "label": {
-      "en": "Barra loop",
-      "hu": "Barra-kör",
-      "de": "Barra-Runde",
-      "es": "Circuito de Barra",
-      "fr": "Boucle de Barra",
-      "it": "Giro di Barra",
-      "pl": "Pętla Barra",
-      "ru": "Маршрут над Баррой",
-      "sk": "Okruh Barra",
-      "zh": "巴拉环线"
-     },
-     "desc": {
-      "en": "Kisimul Castle, Vatersay, Mingulay and Eriskay.",
-      "hu": "Kisimul-vár, Vatersay, Mingulay és Eriskay.",
-      "de": "Kisimul Castle, Vatersay, Mingulay und Eriskay.",
-      "es": "Castillo de Kisimul, Vatersay, Mingulay y Eriskay.",
-      "fr": "Château de Kisimul, Vatersay, Mingulay et Eriskay.",
-      "it": "Castello di Kisimul, Vatersay, Mingulay ed Eriskay.",
-      "pl": "Zamek Kisimul, Vatersay, Mingulay i Eriskay.",
-      "ru": "Замок Кисимул, Ватерсей, Мингулей и Эрискей.",
-      "sk": "Hrad Kisimul, Vatersay, Mingulay a Eriskay.",
-      "zh": "基西穆尔城堡、瓦特赛岛、明古莱岛和埃里斯凯岛。"
-     },
-     "pts": [
-      "EGPR",
-      [
-       "Eriskay",
-       57.0667,
-       -7.3
-      ],
-      [
-       "~",
-       57.0402,
-       -7.2553
-      ],
-      [
-       "Mingulay",
-       56.8,
-       -7.6333
-      ],
-      [
-       "~",
-       56.8242,
-       -7.6985
-      ],
-      [
-       "Kisimul Castle",
-       56.9528,
-       -7.4875
-      ],
-      "EGPR"
-     ]
-    }
-   ],
-   "pois": [
-    [
-     "Vatersay",
-     56.9167,
-     -7.5333
-    ],
-    [
-     "Eriskay",
-     57.0667,
-     -7.3
-    ]
-   ],
-   "new": true,
-   "kw": "Mingulay Mingulay sziget",
-   "img": "Barra Airport|Kisimul Castle"
-  },
-  {
-   "id": "stol-roest",
-   "continent": "EU",
-   "country": {
-    "en": "Norway",
-    "hu": "Norvégia",
-    "de": "Norwegen",
-    "es": "Noruega",
-    "fr": "Norvège",
-    "it": "Norvegia",
-    "pl": "Norwegia",
-    "ru": "Норвегия",
-    "sk": "Nórsko",
-    "zh": "挪威"
-   },
-   "name": {
-    "en": "Lofoten: Røst and the Maelstrom",
-    "hu": "Lofoten: Røst és a Moskstraumen",
-    "de": "Lofoten: Røst und der Mahlstrom",
-    "es": "Lofoten: Røst y el Maelstrom",
-    "fr": "Lofoten : Røst et le Maelström",
-    "it": "Lofoten: Røst e il Maelström",
-    "pl": "Lofoty: Røst i Malstrom",
-    "ru": "Лофотены: Рёст и Мальстрём",
-    "sk": "Lofoty: Røst a Maelstrom",
-    "zh": "罗弗敦：勒斯特与大漩涡"
-   },
-   "main": {
-    "en": "Moskstraumen",
-    "hu": "Moskstraumen",
-    "lat": 67.75,
-    "lon": 12.8,
-    "de": "Moskstraumen",
-    "es": "Moskstraumen",
-    "fr": "Moskstraumen",
-    "it": "Moskstraumen",
-    "pl": "Moskstraumen",
-    "ru": "Москенстраумен",
-    "sk": "Moskstraumen",
-    "zh": "莫斯肯漩涡"
-   },
-   "tags": [
-    "island",
-    "coast",
-    "wildlife"
-   ],
-   "desc": {
-    "en": "From the lowest and most remote of the Lofoten islands, Røst, past the Moskstraumen whirlpool and Værøy to the red fishing cabins of Reine and Hamnøy.",
-    "hu": "A Lofoten legalacsonyabb és legtávolabbi szigetéről, Røstról a Moskstraumen forgatag és Værøy mellett Reine és Hamnøy vörös halászkunyhóihoz.",
-    "de": "Von Røst, der niedrigsten und abgelegensten Insel der Lofoten, vorbei am Strudel des Moskstraumen und Værøy zu den roten Fischerhütten von Reine und Hamnøy.",
-    "es": "Desde Røst, la más baja y remota de las islas Lofoten, pasando por el remolino de Moskstraumen y Værøy hasta las cabañas rojas de pescadores de Reine y Hamnøy.",
-    "fr": "Depuis Røst, la plus basse et la plus isolée des îles Lofoten, devant le tourbillon du Moskstraumen et Værøy, jusqu'aux cabanes de pêcheurs rouges de Reine et de Hamnøy.",
-    "it": "Dalla più bassa e remota delle isole Lofoten, Røst, oltre il vortice del Moskstraumen e Værøy fino alle rosse capanne dei pescatori di Reine e Hamnøy.",
-    "pl": "Z najniżej położonej i najbardziej odległej wyspy Lofotów, Røst, obok wiru Moskstraumen i Værøy do czerwonych chat rybackich w Reine i Hamnøy.",
-    "ru": "От самого низкого и самого отдалённого из Лофотенских островов, Рёста, мимо водоворота Москенстраумен и острова Вэрёй к красным рыбацким домикам Рейне и Хамнёя.",
-    "sk": "Z najnižšieho a najodľahlejšieho z Lofotských ostrovov, Røstu, okolo víru Moskstraumen a Værøy k červeným rybárskym chatám v Reine a Hamnøy.",
-    "zh": "从罗弗敦群岛中海拔最低、最偏远的勒斯特岛出发，经过莫斯肯漩涡和韦罗伊岛，飞往雷讷和哈姆尼的红色渔屋。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 2500,
-     "stol": true,
-     "label": {
-      "en": "Lofoten loop",
-      "hu": "Lofoten-kör",
-      "de": "Lofoten-Runde",
-      "es": "Circuito de las Lofoten",
-      "fr": "Boucle des Lofoten",
-      "it": "Giro delle Lofoten",
-      "pl": "Pętla Lofotów",
-      "ru": "Маршрут над Лофотенами",
-      "sk": "Okruh Lofôt",
-      "zh": "罗弗敦环线"
-     },
-     "desc": {
-      "en": "Værøy, the Moskstraumen, Reine and Hamnøy.",
-      "hu": "Værøy, a Moskstraumen, Reine és Hamnøy.",
-      "de": "Værøy, der Moskstraumen, Reine und Hamnøy.",
-      "es": "Værøy, el Moskstraumen, Reine y Hamnøy.",
-      "fr": "Værøy, le Moskstraumen, Reine et Hamnøy.",
-      "it": "Værøy, il Moskstraumen, Reine e Hamnøy.",
-      "pl": "Værøy, Moskstraumen, Reine i Hamnøy.",
-      "ru": "Вэрёй, Москенстраумен, Рейне и Хамнёй.",
-      "sk": "Værøy, Moskstraumen, Reine a Hamnøy.",
-      "zh": "韦罗伊岛、莫斯肯漩涡、雷讷和哈姆尼。"
-     },
-     "pts": [
-      "ENRS",
-      [
-       "Værøy",
-       67.6667,
-       12.6667
-      ],
-      [
-       "Moskstraumen",
-       67.75,
-       12.8
-      ],
-      [
-       "Hamnøy",
-       67.95,
-       13.1333
-      ],
-      [
-       "~",
-       67.9876,
-       13.0118
-      ],
-      [
-       "~=",
-       67.611,
-       12.1823
-      ],
-      "ENRS"
-     ]
-    }
-   ],
-   "pois": [
-    [
-     "Reine",
-     67.9333,
-     13.0833
-    ]
-   ],
-   "new": true,
-   "kw": "Hamnøy Reine Lofoten",
-   "img": "Røst|Moskstraumen"
-  },
-  {
    "id": "stol-losinj",
    "continent": "EU",
    "country": {
@@ -61731,131 +61610,6 @@
    "new": true,
    "kw": "Goðafoss Godafoss vízesés",
    "img": "Grímsey|Goðafoss"
-  },
-  {
-   "id": "stol-heimaey",
-   "continent": "EU",
-   "country": {
-    "en": "Iceland",
-    "hu": "Izland",
-    "de": "Island",
-    "es": "Islandia",
-    "fr": "Islande",
-    "it": "Islanda",
-    "pl": "Islandia",
-    "ru": "Исландия",
-    "sk": "Island",
-    "zh": "冰岛"
-   },
-   "name": {
-    "en": "Iceland: Heimaey and the Westman Islands",
-    "hu": "Izland: Heimaey és a Vestmann-szigetek",
-    "de": "Island: Heimaey und die Westmännerinseln",
-    "es": "Islandia: Heimaey y las islas Vestmann",
-    "fr": "Islande : Heimaey et les îles Vestmann",
-    "it": "Islanda: Heimaey e le isole Vestmann",
-    "pl": "Islandia: Heimaey i Wyspy Westmanna",
-    "ru": "Исландия: Хеймаэй и острова Вестманнаэйяр",
-    "sk": "Island: Heimaey a Vestmannaeyjar",
-    "zh": "冰岛：海马岛与韦斯特曼群岛"
-   },
-   "main": {
-    "en": "Eldfell",
-    "hu": "Eldfell",
-    "lat": 63.4264,
-    "lon": -20.2578,
-    "de": "Eldfell",
-    "es": "Eldfell",
-    "fr": "Eldfell",
-    "it": "Eldfell",
-    "pl": "Eldfell",
-    "ru": "Эльдфедль",
-    "sk": "Eldfell",
-    "zh": "埃尔德费尔火山"
-   },
-   "tags": [
-    "island",
-    "volcano",
-    "coast"
-   ],
-   "desc": {
-    "en": "The Heimaey volcano that buried half a town in 1973, the brand-new island of Surtsey, Eyjafjallajökull and the cliffs of Skógafoss.",
-    "hu": "A Heimaey vulkán, amely 1973-ban a város felét betemette, az új Surtsey-sziget, az Eyjafjallajökull és a Skógafoss szikláit.",
-    "de": "Der Vulkan auf Heimaey, der 1973 die halbe Stadt unter sich begrub, die brandneue Insel Surtsey, der Eyjafjallajökull und die Klippen des Skógafoss.",
-    "es": "El volcán de Heimaey que sepultó media ciudad en 1973, la recién nacida isla de Surtsey, el Eyjafjallajökull y los acantilados de Skógafoss.",
-    "fr": "Le volcan de Heimaey qui engloutit la moitié d'une ville en 1973, l'île toute neuve de Surtsey, l'Eyjafjallajökull et les falaises de Skógafoss.",
-    "it": "Il vulcano di Heimaey che nel 1973 seppellì metà di una cittadina, la nuovissima isola di Surtsey, l'Eyjafjallajökull e le scogliere di Skógafoss.",
-    "pl": "Wulkan na Heimaey, który w 1973 roku pogrzebał połowę miasta, całkiem nowa wyspa Surtsey, Eyjafjallajökull i klify Skógafoss.",
-    "ru": "Вулкан на Хеймаэе, засыпавший половину города в 1973 году, совсем юный остров Сюртсей, Эйяфьятлайёкюдль и скалы Скоугафосса.",
-    "sk": "Sopka na Heimaey, ktorá v roku 1973 pochovala polovicu mesta, celkom nový ostrov Surtsey, Eyjafjallajökull a útesy pri Skógafosse.",
-    "zh": "1973年掩埋了半座小镇的海马岛火山、崭新的叙尔特塞岛、艾雅法拉火山和斯科加瀑布的悬崖。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 3000,
-     "stol": true,
-     "label": {
-      "en": "Westman loop",
-      "hu": "Vestmann-kör",
-      "de": "Westmännerinseln-Runde",
-      "es": "Circuito de las Vestmann",
-      "fr": "Boucle des Vestmann",
-      "it": "Giro delle Vestmann",
-      "pl": "Pętla Wysp Westmanna",
-      "ru": "Маршрут над островами Вестманнаэйяр",
-      "sk": "Okruh Vestmannaeyjar",
-      "zh": "韦斯特曼环线"
-     },
-     "desc": {
-      "en": "Eldfell, Surtsey, Eyjafjallajökull and Skógafoss.",
-      "hu": "Eldfell, Surtsey, Eyjafjallajökull és Skógafoss.",
-      "de": "Eldfell, Surtsey, Eyjafjallajökull und Skógafoss.",
-      "es": "Eldfell, Surtsey, Eyjafjallajökull y Skógafoss.",
-      "fr": "Eldfell, Surtsey, Eyjafjallajökull et Skógafoss.",
-      "it": "Eldfell, Surtsey, Eyjafjallajökull e Skógafoss.",
-      "pl": "Eldfell, Surtsey, Eyjafjallajökull i Skógafoss.",
-      "ru": "Эльдфедль, Сюртсей, Эйяфьятлайёкюдль и Скоугафосс.",
-      "sk": "Eldfell, Surtsey, Eyjafjallajökull a Skógafoss.",
-      "zh": "埃尔德费尔火山、叙尔特塞岛、艾雅法拉火山和斯科加瀑布。"
-     },
-     "pts": [
-      "BIVM",
-      [
-       "Eldfell",
-       63.4264,
-       -20.2578
-      ],
-      [
-       "Eyjafjallajökull",
-       63.6333,
-       -19.6
-      ],
-      [
-       "Skógafoss",
-       63.532,
-       -19.5114
-      ],
-      [
-       "Surtsey",
-       63.3033,
-       -20.6044
-      ],
-      [
-       "~",
-       63.3434,
-       -20.6607
-      ],
-      "BIVM"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Eyjafjallajökull Eyjafjallajökull gleccser vulkán Skógafoss Skógafoss vízesés",
-   "img": "Heimaey|Surtsey"
   },
   {
    "id": "stol-corvo",
@@ -62125,266 +61879,6 @@
    "img": "El Hierro|Garajonay National Park"
   },
   {
-   "id": "stol-la-gomera",
-   "continent": "EU",
-   "country": {
-    "en": "Spain",
-    "hu": "Spanyolország",
-    "de": "Spanien",
-    "es": "España",
-    "fr": "Espagne",
-    "it": "Spagna",
-    "pl": "Hiszpania",
-    "ru": "Испания",
-    "sk": "Španielsko",
-    "zh": "西班牙"
-   },
-   "name": {
-    "en": "La Gomera and the Teide",
-    "hu": "La Gomera és a Teide",
-    "de": "La Gomera und der Teide",
-    "es": "La Gomera y el Teide",
-    "fr": "La Gomera et le Teide",
-    "it": "La Gomera e il Teide",
-    "pl": "La Gomera i Teide",
-    "ru": "Ла-Гомера и Тейде",
-    "sk": "La Gomera a Teide",
-    "zh": "戈梅拉岛与泰德峰"
-   },
-   "main": {
-    "en": "Mount Teide",
-    "hu": "Teide",
-    "lat": 28.2723,
-    "lon": -16.6425,
-    "de": "Teide",
-    "es": "Teide",
-    "fr": "Mont Teide",
-    "it": "Monte Teide",
-    "pl": "Pico del Teide",
-    "ru": "Вулкан Тейде",
-    "sk": "Hora Teide",
-    "zh": "泰德峰"
-   },
-   "tags": [
-    "island",
-    "volcano",
-    "mountain"
-   ],
-   "desc": {
-    "en": "From La Gomera's clifftop strip over the Los Órganos basalt columns and Valle Gran Rey to the 3,718 m volcano Teide on Tenerife.",
-    "hu": "La Gomera sziklaszélén álló pályájáról a Los Órganos bazaltoszlopai és a Valle Gran Rey fölött a tenerifei Teide 3718 méteres vulkánjához.",
-    "de": "Von der Piste auf der Klippe von La Gomera über die Basaltsäulen Los Órganos und das Valle Gran Rey zum 3718 m hohen Vulkan Teide auf Teneriffa.",
-    "es": "Desde la pista de La Gomera, en lo alto de un acantilado, sobre los órganos basálticos de Los Órganos y Valle Gran Rey hasta el volcán Teide, de 3718 m, en Tenerife.",
-    "fr": "Depuis la piste perchée au bord d'une falaise de La Gomera, au-dessus des orgues basaltiques de Los Órganos et de Valle Gran Rey, jusqu'au volcan Teide, à 3 718 m, sur Tenerife.",
-    "it": "Dalla pista a picco sulla scogliera di La Gomera sopra le colonne basaltiche di Los Órganos e Valle Gran Rey fino al vulcano Teide, di 3.718 m, a Tenerife.",
-    "pl": "Z pasa na klifie La Gomery nad bazaltowymi kolumnami Los Órganos i Valle Gran Rey do liczącego 3718 m wulkanu Teide na Teneryfie.",
-    "ru": "От полосы на скале Ла-Гомеры над базальтовыми колоннами Лос-Органос и Валье-Гран-Рей к вулкану Тейде высотой 3718 м на Тенерифе.",
-    "sk": "Z dráhy na útese na La Gomere ponad čadičové stĺpy Los Órganos a Valle Gran Rey k 3 718 m vysokej sopke Teide na Tenerife.",
-    "zh": "从戈梅拉岛的崖顶跑道起飞，飞越管风琴岩玄武岩柱和大王谷，抵达特内里费岛海拔3,718米的泰德火山。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 6000,
-     "stol": true,
-     "label": {
-      "en": "Gomera and Teide loop",
-      "hu": "Gomera–Teide kör",
-      "de": "Gomera-und-Teide-Runde",
-      "es": "Circuito de La Gomera y el Teide",
-      "fr": "Boucle de La Gomera et du Teide",
-      "it": "Giro di La Gomera e del Teide",
-      "pl": "Pętla Gomera i Teide",
-      "ru": "Маршрут Гомера и Тейде",
-      "sk": "Okruh Gomera a Teide",
-      "zh": "戈梅拉与泰德环线"
-     },
-     "desc": {
-      "en": "Valle Gran Rey, Los Órganos and Teide.",
-      "hu": "Valle Gran Rey, Los Órganos és a Teide.",
-      "de": "Valle Gran Rey, Los Órganos und Teide.",
-      "es": "Valle Gran Rey, Los Órganos y Teide.",
-      "fr": "Valle Gran Rey, Los Órganos et Teide.",
-      "it": "Valle Gran Rey, Los Órganos e Teide.",
-      "pl": "Valle Gran Rey, Los Órganos i Teide.",
-      "ru": "Валье-Гран-Рей, Лос-Органос и Тейде.",
-      "sk": "Valle Gran Rey, Los Órganos a Teide.",
-      "zh": "大王谷、管风琴岩和泰德峰。"
-     },
-     "pts": [
-      "GCGM",
-      [
-       "~=",
-       28.0296,
-       -17.1127
-      ],
-      [
-       "Mount Teide",
-       28.2723,
-       -16.6425
-      ],
-      [
-       "~",
-       28.3742,
-       -16.683
-      ],
-      [
-       "Los Órganos",
-       28.185,
-       -17.327
-      ],
-      [
-       "Valle Gran Rey",
-       28.1,
-       -17.3333
-      ],
-      "GCGM"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "",
-   "img": "Garajonay National Park|Teide"
-  },
-  {
-   "id": "stol-gstaad",
-   "continent": "EU",
-   "country": {
-    "en": "Switzerland",
-    "hu": "Svájc",
-    "de": "Schweiz",
-    "es": "Suiza",
-    "fr": "Suisse",
-    "it": "Svizzera",
-    "pl": "Szwajcaria",
-    "ru": "Швейцария",
-    "sk": "Švajčiarsko",
-    "zh": "瑞士"
-   },
-   "name": {
-    "en": "Switzerland: Gstaad and the Bernese Alps",
-    "hu": "Svájc: Gstaad és a Berni-Alpok",
-    "de": "Schweiz: Gstaad und die Berner Alpen",
-    "es": "Suiza: Gstaad y los Alpes Berneses",
-    "fr": "Suisse : Gstaad et les Alpes bernoises",
-    "it": "Svizzera: Gstaad e le Alpi Bernesi",
-    "pl": "Szwajcaria: Gstaad i Alpy Berneńskie",
-    "ru": "Швейцария: Гштад и Бернские Альпы",
-    "sk": "Švajčiarsko: Gstaad a Berner Alpy",
-    "zh": "瑞士：格施塔德与伯尔尼阿尔卑斯山"
-   },
-   "main": {
-    "en": "Eiger",
-    "hu": "Eiger",
-    "lat": 46.5775,
-    "lon": 8.0053,
-    "de": "Eiger",
-    "es": "Eiger",
-    "fr": "Eiger",
-    "it": "Eiger",
-    "pl": "Eiger",
-    "ru": "Айгер",
-    "sk": "Eiger",
-    "zh": "艾格峰"
-   },
-   "tags": [
-    "mountain",
-    "glacier",
-    "unesco"
-   ],
-   "desc": {
-    "en": "From Saanen's grass-edged airfield beside Gstaad to the Eiger, Mönch and Jungfrau, the Aletsch Glacier and the Matterhorn.",
-    "hu": "Saanen füves szélű repülőteréről Gstaad mellett az Eigerhez, a Mönchhöz és a Jungfrauhoz, az Aletsch-gleccserhez és a Matterhornhoz.",
-    "de": "Vom grasbewachsenen Flugplatz Saanen bei Gstaad zu Eiger, Mönch und Jungfrau, zum Aletschgletscher und zum Matterhorn.",
-    "es": "Desde el aeródromo de hierba de Saanen, junto a Gstaad, hasta el Eiger, el Mönch y el Jungfrau, el glaciar de Aletsch y el Cervino.",
-    "fr": "Depuis l'aérodrome à piste d'herbe de Saanen, près de Gstaad, jusqu'à l'Eiger, au Mönch et à la Jungfrau, au glacier d'Aletsch et au Cervin.",
-    "it": "Dall'aerodromo con pista erbosa di Saanen, vicino a Gstaad, fino a Eiger, Mönch e Jungfrau, al Ghiacciaio dell'Aletsch e al Cervino.",
-    "pl": "Z trawiastego lotniska w Saanen obok Gstaad do Eigeru, Mönchu i Jungfrau, lodowca Aletsch i Matterhornu.",
-    "ru": "От аэродрома с травяным покрытием в Заанене рядом с Гштадом к Айгеру, Мёнху и Юнгфрау, леднику Алеч и Маттерхорну.",
-    "sk": "Z trávou lemovaného letiska v Saanene pri Gstaade k Eigeru, Mönchu a Jungfrau, ľadovcu Aletsch a Matterhornu.",
-    "zh": "从格施塔德旁萨嫩的草边机场出发，飞往艾格峰、僧侣峰和少女峰、阿莱奇冰川以及马特洪峰。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 11000,
-     "stol": true,
-     "label": {
-      "en": "Bernese Alps loop",
-      "hu": "Berni-Alpok kör",
-      "de": "Berner-Alpen-Runde",
-      "es": "Circuito de los Alpes Berneses",
-      "fr": "Boucle des Alpes bernoises",
-      "it": "Giro delle Alpi Bernesi",
-      "pl": "Pętla Alp Berneńskich",
-      "ru": "Маршрут над Бернскими Альпами",
-      "sk": "Okruh Bernských Álp",
-      "zh": "伯尔尼阿尔卑斯环线"
-     },
-     "desc": {
-      "en": "Eiger, Jungfrau, Aletsch Glacier and the Matterhorn.",
-      "hu": "Eiger, Jungfrau, Aletsch-gleccser és Matterhorn.",
-      "de": "Eiger, Jungfrau, Aletschgletscher und Matterhorn.",
-      "es": "Eiger, Jungfrau, glaciar de Aletsch y el Cervino.",
-      "fr": "Eiger, Jungfrau, glacier d'Aletsch et Cervin.",
-      "it": "Eiger, Jungfrau, Ghiacciaio dell'Aletsch e Cervino.",
-      "pl": "Eiger, Jungfrau, lodowiec Aletsch i Matterhorn.",
-      "ru": "Айгер, Юнгфрау, ледник Алеч и Маттерхорн.",
-      "sk": "Eiger, Jungfrau, ľadovec Aletsch a Matterhorn.",
-      "zh": "艾格峰、少女峰、阿莱奇冰川和马特洪峰。"
-     },
-     "pts": [
-      "LSGK",
-      [
-       "Matterhorn",
-       45.9766,
-       7.6585
-      ],
-      [
-       "~",
-       45.9761,
-       7.8138
-      ],
-      [
-       "Aletsch Glacier",
-       46.45,
-       8.05
-      ],
-      [
-       "Eiger",
-       46.5775,
-       8.0053
-      ],
-      [
-       "~",
-       46.5844,
-       7.9539
-      ],
-      [
-       "Jungfrau",
-       46.5368,
-       7.9626
-      ],
-      [
-       "~=",
-       46.5021,
-       7.377
-      ],
-      "LSGK"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Matterhorn Cervino Aletsch-gleccser Eiger Eiger északi fal Jungfrau",
-   "img": "Gstaad|Eiger"
-  },
-  {
    "id": "stol-pantelleria",
    "continent": "EU",
    "country": {
@@ -62509,132 +62003,6 @@
    "new": true,
    "kw": "",
    "img": "Pantelleria|Lampedusa"
-  },
-  {
-   "id": "stol-lukla",
-   "continent": "AS",
-   "country": {
-    "en": "Nepal",
-    "hu": "Nepál",
-    "de": "Nepal",
-    "es": "Nepal",
-    "fr": "Népal",
-    "it": "Nepal",
-    "pl": "Nepal",
-    "ru": "Непал",
-    "sk": "Nepál",
-    "zh": "尼泊尔"
-   },
-   "name": {
-    "en": "Nepal: Lukla and the Khumbu",
-    "hu": "Nepál: Lukla és a Khumbu",
-    "de": "Nepal: Lukla und das Khumbu",
-    "es": "Nepal: Lukla y el Khumbu",
-    "fr": "Népal : Lukla et le Khumbu",
-    "it": "Nepal: Lukla e il Khumbu",
-    "pl": "Nepal: Lukla i Khumbu",
-    "ru": "Непал: Лукла и Кхумбу",
-    "sk": "Nepál: Lukla a Khumbu",
-    "zh": "尼泊尔：卢克拉与昆布"
-   },
-   "main": {
-    "en": "Mount Everest",
-    "hu": "Mount Everest",
-    "lat": 27.9881,
-    "lon": 86.925,
-    "de": "Mount Everest",
-    "es": "Monte Everest",
-    "fr": "Mont Everest",
-    "it": "Monte Everest",
-    "pl": "Mount Everest",
-    "ru": "Гора Эверест",
-    "sk": "Mount Everest",
-    "zh": "珠穆朗玛峰"
-   },
-   "tags": [
-    "mountain",
-    "glacier",
-    "unesco"
-   ],
-   "desc": {
-    "en": "The famous sloped runway of Tenzing-Hillary: only 527 m with a cliff edge at the end. Then Namche Bazaar, Ama Dablam, the Gokyo lakes and Everest itself.",
-    "hu": "A Tenzing–Hillary lejtős kifutója: mindössze 527 méter, a végén szakadékkal. Majd Namche Bazaar, az Ama Dablam, a Gokyo-tavak és maga az Everest.",
-    "de": "Die berühmte abschüssige Piste von Tenzing-Hillary: nur 527 m lang, mit einer Felskante am Ende. Dann Namche Bazaar, Ama Dablam, die Gokyo-Seen und der Everest selbst.",
-    "es": "La famosa pista inclinada de Tenzing-Hillary: solo 527 m con un precipicio al final. Luego Namche Bazaar, el Ama Dablam, los lagos de Gokyo y el propio Everest.",
-    "fr": "La célèbre piste en pente de Tenzing-Hillary : seulement 527 m, avec un bord de falaise au bout. Puis Namche Bazaar, l'Ama Dablam, les lacs de Gokyo et l'Everest lui-même.",
-    "it": "La celebre pista inclinata di Tenzing-Hillary: solo 527 m con un precipizio in fondo. Poi Namche Bazaar, l'Ama Dablam, i laghi di Gokyo e l'Everest stesso.",
-    "pl": "Słynny pochyły pas Tenzinga i Hillary'ego: zaledwie 527 m, z urwiskiem na końcu. Potem Namche Bazaar, Ama Dablam, jeziora Gokyo i sam Everest.",
-    "ru": "Знаменитая наклонная полоса Тенцинга и Хиллари: всего 527 м, а в конце обрыв. Затем Намче-Базар, Ама-Даблам, озёра Гокио и сам Эверест.",
-    "sk": "Slávna zošikmená dráha Tenzing-Hillary: len 527 m s okrajom útesu na konci. Potom Namche Bazaar, Ama Dablam, jazerá Gokyo a samotný Everest.",
-    "zh": "著名的丹增-希拉里斜坡跑道：仅527米长，尽头便是悬崖。然后是南切巴扎、阿玛达布拉姆峰、戈基湖群，以及珠穆朗玛峰本身。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 90,
-     "alt_ft": 17500,
-     "stol": true,
-     "label": {
-      "en": "Khumbu loop",
-      "hu": "Khumbu-kör",
-      "de": "Khumbu-Runde",
-      "es": "Circuito del Khumbu",
-      "fr": "Boucle du Khumbu",
-      "it": "Giro del Khumbu",
-      "pl": "Pętla Khumbu",
-      "ru": "Маршрут над Кхумбу",
-      "sk": "Okruh Khumbu",
-      "zh": "昆布环线"
-     },
-     "desc": {
-      "en": "Namche Bazaar, Ama Dablam, Everest and the Gokyo Lakes.",
-      "hu": "Namche Bazaar, Ama Dablam, Everest és a Gokyo-tavak.",
-      "de": "Namche Bazaar, Ama Dablam, Everest und die Gokyo-Seen.",
-      "es": "Namche Bazaar, Ama Dablam, Everest y lagos de Gokyo.",
-      "fr": "Namche Bazaar, Ama Dablam, Everest et lacs de Gokyo.",
-      "it": "Namche Bazaar, Ama Dablam, Everest e Laghi di Gokyo.",
-      "pl": "Namche Bazaar, Ama Dablam, Everest i jeziora Gokyo.",
-      "ru": "Намче-Базар, Ама-Даблам, Эверест и озёра Гокио.",
-      "sk": "Namche Bazaar, Ama Dablam, Everest a jazerá Gokyo.",
-      "zh": "南切巴扎、阿玛达布拉姆峰、珠穆朗玛峰和戈基湖群。"
-     },
-     "pts": [
-      "VNLK",
-      [
-       "~=",
-       27.7317,
-       86.8175
-      ],
-      [
-       "Mount Everest",
-       27.9881,
-       86.925
-      ],
-      [
-       "Gokyo Lakes",
-       27.955,
-       86.695
-      ],
-      "VNLK"
-     ]
-    }
-   ],
-   "pois": [
-    [
-     "Namche Bazaar",
-     27.8069,
-     86.714
-    ],
-    [
-     "Ama Dablam",
-     27.8617,
-     86.8614
-    ]
-   ],
-   "new": true,
-   "kw": "Mount Everest Csomolungma Gokyo-tavak Namche Bazár Ama Dablam csúcs",
-   "img": "Tenzing-Hillary Airport|Namche Bazaar"
   },
   {
    "id": "stol-jumla",
@@ -62921,126 +62289,6 @@
    "img": "Bumthang District|Jakar Dzong"
   },
   {
-   "id": "stol-okavango-kiri",
-   "continent": "AF",
-   "country": {
-    "en": "Botswana",
-    "hu": "Botswana",
-    "de": "Botswana",
-    "es": "Botsuana",
-    "fr": "Botswana",
-    "it": "Botswana",
-    "pl": "Botswana",
-    "ru": "Ботсвана",
-    "sk": "Botswana",
-    "zh": "博茨瓦纳"
-   },
-   "name": {
-    "en": "Botswana: Okavango Delta from Kiri",
-    "hu": "Botswana: az Okavango-delta Kiriből",
-    "de": "Botswana: Okavango-Delta ab Kiri",
-    "es": "Botsuana: delta del Okavango desde Kiri",
-    "fr": "Botswana : delta de l'Okavango depuis Kiri",
-    "it": "Botswana: il Delta dell'Okavango da Kiri",
-    "pl": "Botswana: Delta Okawango z Kiri",
-    "ru": "Ботсвана: дельта Окаванго из Кири",
-    "sk": "Botswana: delta Okavanga z Kiri",
-    "zh": "博茨瓦纳：从基里出发的奥卡万戈三角洲"
-   },
-   "main": {
-    "en": "Chief's Island",
-    "hu": "Chief's Island",
-    "lat": -19.45,
-    "lon": 23.1,
-    "de": "Chief's Island",
-    "es": "Isla del Jefe",
-    "fr": "Île du Chef",
-    "it": "Chief's Island",
-    "pl": "Wyspa Chiefa",
-    "ru": "Остров Чифс",
-    "sk": "Chief's Island",
-    "zh": "酋长岛"
-   },
-   "tags": [
-    "wildlife",
-    "wetland",
-    "unesco"
-   ],
-   "desc": {
-    "en": "A bush strip deep inside the Delta: papyrus lagoons, elephant trails on Chief's Island, Xakanaxa's hippo channels and the lions of Savuti marsh.",
-    "hu": "Bokorpálya a delta mélyén: papirusz-lagúnák, elefántösvények Chief's Islanden, Xakanaxa víziló-csatornái és a Savuti-mocsár oroszlánjai.",
-    "de": "Eine Buschpiste mitten im Delta: Papyruslagunen, Elefantenpfade auf Chief's Island, die Nilpferdkanäle von Xakanaxa und die Löwen des Savuti-Sumpfs.",
-    "es": "Una pista de monte en el corazón del delta: lagunas de papiros, sendas de elefantes en la isla del Jefe, los canales de hipopótamos de Xakanaxa y los leones del pantano de Savuti.",
-    "fr": "Une piste de brousse au cœur du delta : lagunes de papyrus, pistes d'éléphants sur l'île du Chef, chenaux à hippopotames de Xakanaxa et lions du marais de Savuti.",
-    "it": "Una pista nella savana nel profondo del Delta: lagune di papiri, piste degli elefanti su Chief's Island, i canali degli ippopotami di Xakanaxa e i leoni della palude di Savuti.",
-    "pl": "Leśny pas w głębi Delty: papirusowe laguny, szlaki słoni na Wyspie Chiefa, kanały hipopotamów w Xakanaxa i lwy z bagien Savuti.",
-    "ru": "Посадочная полоса в буше в самой глубине дельты: папирусные лагуны, слоновьи тропы на острове Чифс, русла бегемотов в Ксаканаксе и львы болота Савути.",
-    "sk": "Savanová dráha hlboko v delte: papyrusové lagúny, slonie chodníky na Chief's Island, kanály s hrochmi pri Xakanaxa a levy z močiara Savuti.",
-    "zh": "三角洲腹地的一条丛林跑道：纸莎草潟湖、酋长岛上的象径、沙卡纳萨的河马水道，以及萨武提沼泽的狮群。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 1500,
-     "stol": true,
-     "label": {
-      "en": "Delta loop",
-      "hu": "Delta-kör",
-      "de": "Delta-Runde",
-      "es": "Circuito del delta",
-      "fr": "Boucle du delta",
-      "it": "Giro del Delta",
-      "pl": "Pętla Delty",
-      "ru": "Маршрут над дельтой",
-      "sk": "Okruh delty",
-      "zh": "三角洲环线"
-     },
-     "desc": {
-      "en": "Chief's Island, Xakanaxa and Savuti.",
-      "hu": "Chief's Island, Xakanaxa és Savuti.",
-      "de": "Chief's Island, Xakanaxa und Savuti.",
-      "es": "Isla del Jefe, Xakanaxa y Savuti.",
-      "fr": "Île du Chef, Xakanaxa et Savuti.",
-      "it": "Chief's Island, Xakanaxa e Savuti.",
-      "pl": "Wyspa Chiefa, Xakanaxa i Savuti.",
-      "ru": "Остров Чифс, Ксаканакса и Савути.",
-      "sk": "Chief's Island, Xakanaxa a Savuti.",
-      "zh": "酋长岛、沙卡纳萨和萨武提。"
-     },
-     "pts": [
-      "FBKI",
-      [
-       "Chief's Island",
-       -19.45,
-       23.1
-      ],
-      [
-       "Savuti",
-       -18.5667,
-       24.0667
-      ],
-      [
-       "~",
-       -18.6377,
-       24.1525
-      ],
-      [
-       "~=",
-       -19.6938,
-       23.0901
-      ],
-      "FBKI"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Chief-sziget Chiefs Island",
-   "img": "Okavango Delta|Moremi Game Reserve"
-  },
-  {
    "id": "stol-desroches",
    "continent": "AF",
    "country": {
@@ -63164,147 +62412,6 @@
    "new": true,
    "kw": "",
    "img": "Desroches Island|Poivre Atoll"
-  },
-  {
-   "id": "stol-lake-malawi",
-   "continent": "AF",
-   "country": {
-    "en": "Malawi",
-    "hu": "Malawi",
-    "de": "Malawi",
-    "es": "Malaui",
-    "fr": "Malawi",
-    "it": "Malawi",
-    "pl": "Malawi",
-    "ru": "Малави",
-    "sk": "Malawi",
-    "zh": "马拉维"
-   },
-   "name": {
-    "en": "Malawi: Cape Maclear and Lake Malawi",
-    "hu": "Malawi: Cape Maclear és a Malawi-tó",
-    "de": "Malawi: Cape Maclear und der Malawisee",
-    "es": "Malaui: Cape Maclear y el lago Malaui",
-    "fr": "Malawi : Cape Maclear et lac Malawi",
-    "it": "Malawi: Cape Maclear e il Lago Malawi",
-    "pl": "Malawi: Cape Maclear i jezioro Malawi",
-    "ru": "Малави: Кейп-Маклир и озеро Малави",
-    "sk": "Malawi: Cape Maclear a jazero Malawi",
-    "zh": "马拉维：麦克利尔角与马拉维湖"
-   },
-   "main": {
-    "en": "Cape Maclear",
-    "hu": "Cape Maclear",
-    "lat": -14.0167,
-    "lon": 34.8333,
-    "de": "Cape Maclear",
-    "es": "Cape Maclear",
-    "fr": "Cape Maclear",
-    "it": "Cape Maclear",
-    "pl": "Cape Maclear",
-    "ru": "Кейп-Маклир",
-    "sk": "Cape Maclear",
-    "zh": "麦克利尔角"
-   },
-   "tags": [
-    "lake",
-    "island",
-    "wildlife"
-   ],
-   "desc": {
-    "en": "The Lake of Stars: Cape Maclear's granite coves, Mumbo island's cichlid reefs and the fishing bays of Monkey Bay.",
-    "hu": "A Csillagok tava: Cape Maclear gránitöblei, Mumbo-sziget sügér-zátonyai és Monkey Bay halászöblei.",
-    "de": "Der See der Sterne: die Granitbuchten von Cape Maclear, die Buntbarschriffe der Insel Mumbo und die Fischerbuchten von Monkey Bay.",
-    "es": "El Lago de las Estrellas: las calas de granito de Cape Maclear, los arrecifes de cíclidos de la isla Mumbo y las bahías pesqueras de Monkey Bay.",
-    "fr": "Le lac des Étoiles : les criques de granit de Cape Maclear, les récifs à cichlidés de l'île Mumbo et les baies de pêche de Monkey Bay.",
-    "it": "Il Lago delle Stelle: le calette di granito di Cape Maclear, le barriere di ciclidi dell'isola di Mumbo e le baie di pesca di Monkey Bay.",
-    "pl": "Jezioro Gwiazd: granitowe zatoczki Cape Maclear, rafy pielęgnic wokół wyspy Mumbo i rybackie zatoki Monkey Bay.",
-    "ru": "Озеро звёзд: гранитные бухты Кейп-Маклир, рифы с цихлидами у острова Мумбо и рыбацкие заливы Манки-Бей.",
-    "sk": "Jazero hviezd: žulové zátoky Cape Maclear, útesy s cichlidami pri ostrove Mumbo a rybárske zátoky Monkey Bay.",
-    "zh": "星光之湖：麦克利尔角的花岗岩海湾、穆姆博岛的慈鲷礁，以及猴子湾的渔湾。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 110,
-     "alt_ft": 3000,
-     "stol": true,
-     "label": {
-      "en": "Lake Malawi loop",
-      "hu": "Malawi-tavi kör",
-      "de": "Malawisee-Runde",
-      "es": "Circuito del lago Malaui",
-      "fr": "Boucle du lac Malawi",
-      "it": "Giro del Lago Malawi",
-      "pl": "Pętla jeziora Malawi",
-      "ru": "Маршрут над озером Малави",
-      "sk": "Okruh jazera Malawi",
-      "zh": "马拉维湖环线"
-     },
-     "desc": {
-      "en": "Cape Maclear, Mumbo and Monkey Bay.",
-      "hu": "Cape Maclear, Mumbo és Monkey Bay.",
-      "de": "Cape Maclear, Mumbo und Monkey Bay.",
-      "es": "Cape Maclear, Mumbo y Monkey Bay.",
-      "fr": "Cape Maclear, Mumbo et Monkey Bay.",
-      "it": "Cape Maclear, Mumbo e Monkey Bay.",
-      "pl": "Cape Maclear, Mumbo i Monkey Bay.",
-      "ru": "Кейп-Маклир, Мумбо и Манки-Бей.",
-      "sk": "Cape Maclear, Mumbo a Monkey Bay.",
-      "zh": "麦克利尔角、穆姆博岛和猴子湾。"
-     },
-     "pts": [
-      "FWCM",
-      [
-       "~=",
-       -14.327,
-       35.1929
-      ],
-      [
-       "~",
-       -14.2959,
-       35.2116
-      ],
-      [
-       "Cape Maclear",
-       -14.0167,
-       34.8333
-      ],
-      [
-       "Mumbo Island",
-       -13.9833,
-       34.8167
-      ],
-      [
-       "~",
-       -13.9617,
-       34.8464
-      ],
-      [
-       "~=",
-       -14.2881,
-       35.2867
-      ],
-      [
-       "~=",
-       -14.3357,
-       35.2192
-      ],
-      "FWCM"
-     ]
-    }
-   ],
-   "pois": [
-    [
-     "Monkey Bay",
-     -14.0833,
-     34.9167
-    ]
-   ],
-   "new": true,
-   "kw": "Cape Maclear Cape Maclear Malawi tó nemzeti park",
-   "img": "Cape Maclear|Lake Malawi National Park"
   },
   {
    "id": "stol-great-barrier",
@@ -63450,253 +62557,6 @@
    "new": true,
    "kw": "",
    "img": "Great Barrier Island|Hauraki Gulf"
-  },
-  {
-   "id": "stol-lord-howe",
-   "continent": "OC",
-   "country": {
-    "en": "Australia",
-    "hu": "Ausztrália",
-    "de": "Australien",
-    "es": "Australia",
-    "fr": "Australie",
-    "it": "Australia",
-    "pl": "Australia",
-    "ru": "Австралия",
-    "sk": "Austrália",
-    "zh": "澳大利亚"
-   },
-   "name": {
-    "en": "Lord Howe Island and Ball's Pyramid",
-    "hu": "Lord Howe-sziget és a Ball's Pyramid",
-    "de": "Lord Howe Island und Ball's Pyramid",
-    "es": "Isla Lord Howe y la Pirámide de Ball",
-    "fr": "Île Lord Howe et Ball's Pyramid",
-    "it": "Lord Howe Island e Ball's Pyramid",
-    "pl": "Lord Howe i Ball's Pyramid",
-    "ru": "Остров Лорд-Хау и пирамида Болла",
-    "sk": "Ostrov Lord Howe a Ball's Pyramid",
-    "zh": "豪勋爵岛与鲍尔斯金字塔岛"
-   },
-   "main": {
-    "en": "Ball's Pyramid",
-    "hu": "Ball's Pyramid",
-    "lat": -31.7458,
-    "lon": 159.2519,
-    "de": "Ball's Pyramid",
-    "es": "Pirámide de Ball",
-    "fr": "Ball's Pyramid",
-    "it": "Ball's Pyramid",
-    "pl": "Ball's Pyramid",
-    "ru": "Пирамида Болла",
-    "sk": "Ball's Pyramid",
-    "zh": "鲍尔斯金字塔岛"
-   },
-   "tags": [
-    "island",
-    "reef",
-    "unesco"
-   ],
-   "desc": {
-    "en": "A World Heritage subtropical island: Mount Gower and Mount Lidgbird above the lagoon, then 562 m Ball's Pyramid rising straight out of the Pacific.",
-    "hu": "Világörökségi szubtrópusi sziget: a lagúna fölé magasodó Gower- és Lidgbird-hegy, majd a Csendes-óceánból egyenesen kiemelkedő, 562 méter magas Ball's Pyramid.",
-    "de": "Eine subtropische Insel des Welterbes: Mount Gower und Mount Lidgbird über der Lagune, dann die 562 m hohe Ball's Pyramid, die direkt aus dem Pazifik aufragt.",
-    "es": "Una isla subtropical Patrimonio de la Humanidad: el monte Gower y el monte Lidgbird sobre la laguna, y luego la Pirámide de Ball, de 562 m, que surge directamente del Pacífico.",
-    "fr": "Une île subtropicale du patrimoine mondial : le mont Gower et le mont Lidgbird au-dessus du lagon, puis Ball's Pyramid, haute de 562 m, qui jaillit de l'océan Pacifique.",
-    "it": "Un'isola subtropicale Patrimonio dell'Umanità: il Monte Gower e il Monte Lidgbird sopra la laguna, poi Ball's Pyramid, di 562 m, che si erge dritta dal Pacifico.",
-    "pl": "Subtropikalna wyspa z listy światowego dziedzictwa: Mount Gower i Mount Lidgbird nad laguną, a potem liczący 562 m Ball's Pyramid wyrastający prosto z Pacyfiku.",
-    "ru": "Субтропический остров Всемирного наследия: горы Гауэр и Лидгберд над лагуной, затем пирамида Болла высотой 562 м, поднимающаяся прямо из Тихого океана.",
-    "sk": "Subtropický ostrov zapísaný na Zozname svetového dedičstva: hory Gower a Lidgbird nad lagúnou, potom 562 m vysoká Ball's Pyramid vystupujúca priamo z Tichého oceána.",
-    "zh": "世界遗产亚热带岛屿：潟湖之上的高尔山和利德伯德山，然后是从太平洋中拔地而起、高562米的鲍尔斯金字塔岛。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 2500,
-     "stol": true,
-     "label": {
-      "en": "Lord Howe loop",
-      "hu": "Lord Howe-kör",
-      "de": "Lord-Howe-Runde",
-      "es": "Circuito de Lord Howe",
-      "fr": "Boucle de Lord Howe",
-      "it": "Giro di Lord Howe",
-      "pl": "Pętla Lord Howe",
-      "ru": "Маршрут над Лорд-Хау",
-      "sk": "Okruh Lord Howe",
-      "zh": "豪勋爵环线"
-     },
-     "desc": {
-      "en": "Mount Lidgbird, Mount Gower and Ball's Pyramid.",
-      "hu": "Lidgbird-hegy, Gower-hegy és Ball's Pyramid.",
-      "de": "Mount Lidgbird, Mount Gower und Ball's Pyramid.",
-      "es": "Monte Lidgbird, monte Gower y Pirámide de Ball.",
-      "fr": "Mont Lidgbird, mont Gower et Ball's Pyramid.",
-      "it": "Monte Lidgbird, Monte Gower e Ball's Pyramid.",
-      "pl": "Mount Lidgbird, Mount Gower i Ball's Pyramid.",
-      "ru": "Гора Лидгберд, гора Гауэр и пирамида Болла.",
-      "sk": "Hory Lidgbird a Gower a Ball's Pyramid.",
-      "zh": "利德伯德山、高尔山和鲍尔斯金字塔岛。"
-     },
-     "pts": [
-      "YLHI",
-      [
-       "~=",
-       -31.5538,
-       159.1794
-      ],
-      [
-       "Ball's Pyramid",
-       -31.7458,
-       159.2519
-      ],
-      [
-       "~",
-       -31.7686,
-       159.199
-      ],
-      "YLHI"
-     ]
-    }
-   ],
-   "pois": [
-    [
-     "Mount Lidgbird",
-     -31.56,
-     159.085
-    ],
-    [
-     "Mount Gower",
-     -31.5833,
-     159.075
-    ]
-   ],
-   "new": true,
-   "kw": "Ball's Pyramid Balls Pyramid tengeri torony Mount Gower Mount Gower Lord Howe",
-   "img": "Lord Howe Island|Ball's Pyramid"
-  },
-  {
-   "id": "stol-milford",
-   "continent": "OC",
-   "country": {
-    "en": "New Zealand",
-    "hu": "Új-Zéland",
-    "de": "Neuseeland",
-    "es": "Nueva Zelanda",
-    "fr": "Nouvelle-Zélande",
-    "it": "Nuova Zelanda",
-    "pl": "Nowa Zelandia",
-    "ru": "Новая Зеландия",
-    "sk": "Nový Zéland",
-    "zh": "新西兰"
-   },
-   "name": {
-    "en": "New Zealand: Milford Sound Fiordland",
-    "hu": "Új-Zéland: Milford Sound, Fiordland",
-    "de": "Neuseeland: Milford Sound und Fiordland",
-    "es": "Nueva Zelanda: Milford Sound y Fiordland",
-    "fr": "Nouvelle-Zélande : Milford Sound, Fiordland",
-    "it": "Nuova Zelanda: Milford Sound e il Fiordland",
-    "pl": "Nowa Zelandia: Milford Sound w Fiordland",
-    "ru": "Новая Зеландия: Милфорд-Саунд и Фьордленд",
-    "sk": "Nový Zéland: Milford Sound vo Fiordlande",
-    "zh": "新西兰：米尔福德峡湾与峡湾国家公园"
-   },
-   "main": {
-    "en": "Mitre Peak",
-    "hu": "Mitre Peak",
-    "lat": -44.6417,
-    "lon": 167.8533,
-    "de": "Mitre Peak",
-    "es": "Mitre Peak",
-    "fr": "Mitre Peak",
-    "it": "Mitre Peak",
-    "pl": "Mitre Peak",
-    "ru": "Пик Митра",
-    "sk": "Mitre Peak",
-    "zh": "米特峰"
-   },
-   "tags": [
-    "fjord",
-    "mountain",
-    "waterfall",
-    "unesco"
-   ],
-   "desc": {
-    "en": "A short strip squeezed between Mitre Peak and the fjord walls: Sutherland Falls, the tallest in New Zealand, and the lonely Doubtful Sound.",
-    "hu": "Rövid pálya a Mitre Peak és a fjordfalak közé szorulva: a Sutherland-vízesés, Új-Zéland legmagasabbja, és a magányos Doubtful Sound.",
-    "de": "Eine kurze Piste, eingezwängt zwischen Mitre Peak und den Fjordwänden: die Sutherland Falls, die höchsten Wasserfälle Neuseelands, und der einsame Doubtful Sound.",
-    "es": "Una corta pista encajada entre el Mitre Peak y las paredes del fiordo: las cataratas Sutherland, las más altas de Nueva Zelanda, y el solitario Doubtful Sound.",
-    "fr": "Une courte piste coincée entre Mitre Peak et les parois du fjord : les chutes Sutherland, les plus hautes de Nouvelle-Zélande, et le solitaire Doubtful Sound.",
-    "it": "Una breve pista stretta tra il Mitre Peak e le pareti del fiordo: le Cascate Sutherland, le più alte della Nuova Zelanda, e il solitario Doubtful Sound.",
-    "pl": "Krótki pas wciśnięty między Mitre Peak a ściany fiordu: wodospad Sutherland, najwyższy w Nowej Zelandii, i samotny Doubtful Sound.",
-    "ru": "Короткая полоса, зажатая между пиком Митра и стенами фьорда: водопад Сазерленд, самый высокий в Новой Зеландии, и уединённый Даутфул-Саунд.",
-    "sk": "Krátka dráha stlačená medzi Mitre Peak a steny fjordu: vodopády Sutherland, najvyššie na Novom Zélande, a osamelý Doubtful Sound.",
-    "zh": "一条夹在米特峰与峡湾峭壁之间的短跑道：新西兰最高的萨瑟兰瀑布，以及孤寂的神秘峡湾。"
-   },
-   "variants": [
-    {
-     "id": "loop",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 6500,
-     "stol": true,
-     "label": {
-      "en": "Fiordland loop",
-      "hu": "Fiordland-kör",
-      "de": "Fiordland-Runde",
-      "es": "Circuito de Fiordland",
-      "fr": "Boucle du Fiordland",
-      "it": "Giro del Fiordland",
-      "pl": "Pętla Fiordland",
-      "ru": "Маршрут над Фьордлендом",
-      "sk": "Okruh Fiordlandu",
-      "zh": "峡湾地区环线"
-     },
-     "desc": {
-      "en": "Mitre Peak, Sutherland Falls and Doubtful Sound.",
-      "hu": "Mitre Peak, Sutherland-vízesés és Doubtful Sound.",
-      "de": "Mitre Peak, Sutherland Falls und Doubtful Sound.",
-      "es": "Mitre Peak, cataratas Sutherland y Doubtful Sound.",
-      "fr": "Mitre Peak, chutes Sutherland et Doubtful Sound.",
-      "it": "Mitre Peak, Cascate Sutherland e Doubtful Sound.",
-      "pl": "Mitre Peak, wodospad Sutherland i Doubtful Sound.",
-      "ru": "Пик Митра, водопад Сазерленд и Даутфул-Саунд.",
-      "sk": "Mitre Peak, vodopády Sutherland a Doubtful Sound.",
-      "zh": "米特峰、萨瑟兰瀑布和神秘峡湾。"
-     },
-     "pts": [
-      "NZMF",
-      [
-       "Mitre Peak",
-       -44.6417,
-       167.8533
-      ],
-      [
-       "Doubtful Sound",
-       -45.35,
-       166.9833
-      ],
-      [
-       "~",
-       -45.4271,
-       167.0908
-      ],
-      [
-       "~=",
-       -44.704,
-       168.0419
-      ],
-      "NZMF"
-     ]
-    }
-   ],
-   "pois": [],
-   "new": true,
-   "kw": "Mitre-csúcs Milford Sound",
-   "img": "Milford Sound / Piopiotahi|Mitre Peak (Fiordland)"
   },
   {
    "id": "stol-chatham",
