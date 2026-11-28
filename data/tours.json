@@ -1176,79 +1176,72 @@
        94.875
       ],
       [
-       "Mount Popa",
-       20.9242,
-       95.2497
+       "~",
+       21.0843,
+       94.9779
       ],
       [
        "~",
-       20.9996,
-       95.3167
-      ],
-      "VYBG"
-     ],
-     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
-    },
-    {
-     "id": "mid-javitott",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 2500,
-     "stol": false,
-     "label": {
-      "en": "Bagan and Mount Popa (javitott)",
-      "hu": "Bagan és a Popa-hegy (javitott)",
-      "de": "Bagan und Mount Popa (javitott)",
-      "es": "Bagan y el monte Popa (javitott)",
-      "fr": "Bagan et le mont Popa (javitott)",
-      "it": "Bagan e Monte Popa (javitott)",
-      "pl": "Bagan i góra Popa (javitott)",
-      "ru": "Баган и гора Попа (javitott)",
-      "sk": "Bagan a hora Popa (javitott)",
-      "zh": "蒲甘与波巴山 (javitott)"
-     },
-     "desc": {
-      "en": "Out to Mount Popa and its hilltop monastery, then back over the temple plain.",
-      "hu": "Ki a Popa-hegyhez és a csúcson álló kolostorhoz, majd vissza a templomsík felett.",
-      "de": "Hinaus zum Mount Popa und seinem Kloster auf dem Gipfel, dann zurück über die Tempelebene.",
-      "es": "Hasta el monte Popa y su monasterio en la cima, y de vuelta sobre la llanura de templos.",
-      "fr": "Jusqu'au mont Popa et à son monastère perché, puis retour au-dessus de la plaine des temples.",
-      "it": "Fino al Monte Popa e al suo monastero in cima al colle, poi di ritorno sulla piana dei templi.",
-      "pl": "Do góry Popa i jej klasztoru na szczycie, a potem z powrotem nad równiną świątyń.",
-      "ru": "К горе Попа и её монастырю на вершине, затем обратно над храмовой равниной.",
-      "sk": "Von k hore Popa a jej kláštoru na vrchole, potom späť nad chrámovou rovinou.",
-      "zh": "飞往波巴山及其山顶寺院，再飞越佛塔平原返回。"
-     },
-     "pts": [
-      "VYBG",
-      [
-       "Shwezigon Pagoda",
-       21.1985,
-       94.8897
-      ],
-      [
-       "Ananda Temple",
-       21.1717,
-       94.8678
-      ],
-      [
-       "Dhammayangyi Temple",
-       21.1667,
-       94.875
-      ],
-      [
-       "Mount Popa",
-       20.9692,
-       95.2497
+       21.017,
+       95.1015
       ],
       [
        "~",
-       20.9996,
-       95.3167
+       20.9785,
+       95.2086
+      ],
+      [
+       "~",
+       20.9631,
+       95.2416
+      ],
+      [
+       "~",
+       20.9342,
+       95.2828
+      ],
+      [
+       "~",
+       20.9072,
+       95.2848
+      ],
+      [
+       "~",
+       20.881,
+       95.2498
+      ],
+      [
+       "~",
+       20.888,
+       95.2086
+      ],
+      [
+       "~",
+       20.9072,
+       95.1757
+      ],
+      [
+       "~",
+       20.9399,
+       95.1015
+      ],
+      [
+       "~",
+       20.9958,
+       95.0397
+      ],
+      [
+       "~",
+       21.0535,
+       94.9779
+      ],
+      [
+       "~",
+       21.1094,
+       94.9326
       ],
       "VYBG"
-     ],
-     "review": "2. kör – javított változat (127°-os fordulóval) – az eredetivel együtt, válassz"
+     ]
     }
    ],
    "pois": [
