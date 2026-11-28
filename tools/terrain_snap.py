@@ -9,7 +9,7 @@ a program a vonal korul (+/- SNAP_CORR km) keres egy jobb utat, amely
   - a rajzolt vonalhoz kozel marad.
 Eredmeny: data/tours_javaslat.json + terrain_javaslat.txt (kuldd el atnezesre; az eredeti nem valtozik).
 
-Hasznalat:  py tools\\terrain_snap.py [tura-azonosito ...]       (nelkule: minden "drawn" valtozat)
+Hasznalat:  py tools\\terrain_snap.py [tura/valtozat ...]       (pl. bagan/mid; nelkule: minden "drawn" valtozat)
 Beallitasok (kornyezeti valtozo): SNAP_CORR (alap 4 km), COMFORT (alap 2500 ft), PEN (alap 4), CELL (alap 0.5 km), CLEAR (alap 500 ft)."""
 import os
 import sys
@@ -111,10 +111,12 @@ def main():
     rep = []
     try:
         for ti, t in enumerate(d["tours"]):
-            if only and t["id"] not in only:
-                continue
             for vi, v in enumerate(t["variants"]):
-                if not v.get("drawn") and not only:
+                key = t["id"] + "/" + v["id"]
+                if only:
+                    if key not in only and t["id"] not in only:
+                        continue
+                elif not v.get("drawn"):
                     continue
                 pts = []
                 for p in v["pts"]:
