@@ -5,12 +5,12 @@ A rajzolt utvonal (a tours.json-ban "drawn": true jelzesu valtozatok) fixen megm
 szakaszonkent a terep szerint finomodik: ahol a vonal a repulesi magassaghoz kozeli magassagu hegyre / gerincre csuszott,
 a program a vonal korul (+/- SNAP_CORR km) keres egy jobb utat, amely
   - a keményen tiltott teruleteken (terep + CLEAR > magassag) nem megy at,
-  - a magas teruletektol (magassag - COMFORT felett) lehetoleg tavol marad (puha buntetes), tehat a volgyet kovetve repul,
+  - a helyi volgyszintnel (a vonal korul) RELIEF-fel magasabb teruletektol lehetoleg tavol marad (puha buntetes), tehat a volgyeket / hegylabakat kovetve repul,
   - a rajzolt vonalhoz kozel marad.
 Eredmeny: data/tours_javaslat.json + terrain_javaslat.txt (kuldd el atnezesre; az eredeti nem valtozik).
 
 Hasznalat:  py tools\\terrain_snap.py [tura/valtozat ...]       (pl. bagan/mid; nelkule: minden "drawn" valtozat)
-Beallitasok (kornyezeti valtozo): SNAP_CORR (alap 4 km), COMFORT (alap 2500 ft), PEN (alap 4), CELL (alap 0.5 km), CLEAR (alap 500 ft)."""
+Beallitasok (kornyezeti valtozo): SNAP_CORR (alap 8 km), RELIEF (alap 1200 ft), PEN (alap 8), CELL (alap 0.5 km), CLEAR (alap 500 ft)."""
 import os
 import sys
 import json
@@ -21,9 +21,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import terrain_check as tc
 import terrain_fix as f
 
-SNAP_CORR = float(os.environ.get("SNAP_CORR", 4.0))
-COMFORT = float(os.environ.get("COMFORT", 2500))
-PEN = float(os.environ.get("PEN", 4.0))
+SNAP_CORR = float(os.environ.get("SNAP_CORR", 8.0))
+RELIEF = float(os.environ.get("RELIEF", 1200))     # a vonal korul mert legalacsonyabb (volgy-) szint folott ennyit meg "ingyen" szabad emelkedni
+PEN = float(os.environ.get("PEN", 8.0))
 CELL = float(os.environ.get("CELL", 0.5))
 CLEAR = tc.CLEAR
 
@@ -43,8 +43,9 @@ def corridor(a, b):
 
 
 def search(grid, nu, nv, el, alt, step):
-    """Koltseg-alapu A*: szabad cella (terep + CLEAR <= alt); a COMFORT feletti magassag puha buntetes; oldaleltérés kis buntetes."""
-    thr = alt - COMFORT
+    """Koltseg-alapu A*: szabad cella (terep + CLEAR <= alt); a helyi volgyszint + RELIEF feletti magassag puha buntetes (a terep reliefjehez kepest, nem a repulesi magassaghoz); oldaleltérés kis buntetes."""
+    ref = sorted(el.values())[int(0.1 * len(el))]          # a korridor volgyszintje (10. percentilis)
+    thr = ref + RELIEF
     blocked = {k: (el[k] + CLEAR > alt) for k in grid}
     start, goal = (0, 0), (nu, 0)
     blocked[start] = blocked[goal] = False
