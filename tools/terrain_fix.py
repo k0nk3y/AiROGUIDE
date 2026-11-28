@@ -171,23 +171,28 @@ def point_max(la, lo):
     return max(tc.elev_fetch(ps))
 
 
-def relocate(p, ref, alt):
-    """Hegyen levo latnivalo -> a legkozelebbi szabad kilatopont (RELOC_MIN..RELOC km), a 'ref' (elozo pont) oldalan.
+def relocate(p, ref, alt, nxt=None):
+    """Hegyen levo latnivalo -> szabad kilatopont (RELOC_MIN..RELOC km). Nem a legkozelebbit valasztja vakon, hanem azt, amelyik
+    nem csinal hajtukanyart: a fordulo (elozo -> uj pont -> kovetkezo) ne legyen sokkal elesebb, mint eredetileg.
     -> (la, lo) vagy None"""
     la0, lo0 = p[1], p[2]
     kx = 111.0 * max(0.2, math.cos(math.radians(la0)))
+    t0 = turn(ref, (la0, lo0), nxt) if nxt else 0
+    lim = max(t0 + 15, 80)
+    best = None
     r = RELOC_MIN
     while r <= RELOC + 1e-6:
-        cands = []
-        for k in range(16):
-            ang = k * math.pi / 8
-            cands.append((la0 + r * math.cos(ang) / 111.0, lo0 + r * math.sin(ang) / kx))
-        els = [point_max(*c) for c in cands]
-        ok = [(tc.hav(c[0], c[1], ref[0], ref[1]), c) for c, e in zip(cands, els) if e <= alt - CLEAR]
-        if ok:
-            return min(ok)[1]
+        for k in range(24):
+            ang = k * math.pi / 12
+            c = (la0 + r * math.cos(ang) / 111.0, lo0 + r * math.sin(ang) / kx)
+            if point_max(*c) > alt - CLEAR:
+                continue
+            tt = turn(ref, c, nxt) if nxt else 0
+            sc = r + (0 if tt <= lim else 4.0 + (tt - lim) * 0.5) + 0.002 * tc.hav(c[0], c[1], ref[0], ref[1])
+            if best is None or sc < best[0]:
+                best = (sc, c, tt)
         r += 1.0
-    return None
+    return best[1] if best else None
 
 
 def smooth(pts, alt, ap, notes):
@@ -248,7 +253,7 @@ def process(v, ap):
         if p[0] == "~" or p[0] in ap or isinstance(pts_raw[k], str):
             continue
         if retry(point_max, p[1], p[2]) > alt0 - CLEAR:
-            q = retry(relocate, p, (a[1], a[2]), alt0)
+            q = retry(relocate, p, (a[1], a[2]), alt0, (pts[k + 1][1], pts[k + 1][2]))
             if q:
                 d = tc.hav(p[1], p[2], q[0], q[1])
                 pts[k] = (p[0], round(q[0], 4), round(q[1], 4))
