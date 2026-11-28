@@ -7,7 +7,7 @@ Szabalyok (variansonkent):
   2. Kulonben a rossz szakaszokat kerul: a szakasz kore (+-CORR km) magassag-racsot olvas, es A* kereses talal egy szabad
      volgyet. A magas objektumoktol (csucsok, gerincek) lehetoleg DIL*CELL km tavolsagot tart (3 km, ha nem fer, kevesebbet).
      A hegyen levo latnivalot (nev marad) elobb a legkozelebbi szabad kilatpontra teszi (RELOC_MIN..RELOC km, alap 2..8 km).
-     Egy valtozat magassaga legfeljebb MAX_JUMP (2000 ft)-tal emelkedhet, a "~" pontoknal > TURN_MAX (90 fok) forduloket kisimitja.
+     Egy valtozat magassaga legfeljebb MAX_JUMP (6000 ft)-tal emelkedhet, a "~" pontoknal > TURN_MAX (90 fok) forduloket kisimitja.
   3. Ha nincs atjaro, emeli a magassagot a szukseges szintre, legfeljebb MAX_ALT-ig (alap 15 000 ft).
   4. Az eredetileg MAX_ALT feletti turak (Everest, K2 ...) HI_ALT-ig (alap 20 000 ft) mehetnek, es kapnak egy
      "hi_alt": true jelzest: ezekhez magaslati repulesre alkalmas gep kell (a program figyelmeztetest mutat).
@@ -30,7 +30,7 @@ DIL = int(os.environ.get("DIL", 2))                # a magas teruletek koruli ke
 MAXTURN = float(os.environ.get("MAXTURN", 100))
 RELOC = float(os.environ.get("RELOC", 8))        # a hegyen levo latnivalo legfeljebb ennyi km-re kerul arrebb (kilatopont)
 RELOC_MIN = float(os.environ.get("RELOC_MIN", 2))
-MAX_JUMP = float(os.environ.get("MAX_JUMP", 2000))
+MAX_JUMP = float(os.environ.get("MAX_JUMP", 6000))
 PLATEAU_JUMP = float(os.environ.get("PLATEAU_JUMP", 4500))  # fennsik / egeszben magas videk: ennyit szabad emelni (az eredeti magassag nyilvan rossz volt)
 RELOC_FAR = float(os.environ.get("RELOC_FAR", 25))       # nagy hegynel (nincs szabad pont RELOC-on belul): kilatopont max. ennyi km-re  # ennel nagyobb magassag-emelest nem javasol, inkabb kezi munka
 TURN_MAX = float(os.environ.get("TURN_MAX", 90))   # a "~" pontoknal ennel élesebb fordulot probal kisimitani
