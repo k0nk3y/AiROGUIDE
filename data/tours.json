@@ -448,7 +448,7 @@
        86.8144
       ],
       [
-       "~",
+       "Kala Patthar",
        27.9787,
        86.823
       ],
@@ -1237,7 +1237,7 @@
        94.875
       ],
       [
-       "~",
+       "Mount Popa",
        20.9692,
        95.2497
       ],
@@ -1410,7 +1410,7 @@
      "id": "city-javitott",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 1800,
+     "alt_ft": 2500,
      "stol": false,
      "label": {
       "en": "Budapest city loop (javitott)",
@@ -1444,7 +1444,7 @@
        19.046
       ],
       [
-       "~",
+       "János Hill Lookout",
        47.5123,
        18.9876
       ],
@@ -1890,7 +1890,7 @@
        14.5211
       ],
       [
-       "~",
+       "Mount Vesuvius",
        40.8086,
        14.4094
       ],
@@ -2043,11 +2043,6 @@
      "Trevi Fountain",
      41.9009,
      12.4833
-    ],
-    [
-     "Mount Vesuvius",
-     40.8213,
-     14.4262
     ]
    ],
    "kw": "Colosseum Kolosszeum Szent Péter-bazilika Vatikán Pompeji Vezúv vulkán Capri sziget Vízvezeték-park Róma Castel Gandolfo pápai nyaraló Villa d'Este Tivoli Ostia Antica Forum Romanum Trevi-kút",
@@ -3238,7 +3233,7 @@
        12.4167
       ],
       [
-       "~",
+       "Kampenwand",
        47.7664,
        12.3361
       ],
@@ -3331,11 +3326,6 @@
      "Wolfgangsee",
      47.75,
      13.45
-    ],
-    [
-     "Kampenwand",
-     47.749,
-     12.343
     ]
    ],
    "kw": "Dachstein gleccser Hallstatt Sankt Wolfgang Mondsee salzburgi vár Hohensalzburg Herrenchiemsee kastély Kampenwand Eisriesenwelt jégbarlang Grossglockner Großglockner Ausztria legmagasabb Zell am See Wolfgang-tó",
@@ -11616,7 +11606,7 @@
        34.734
       ],
       [
-       "~",
+       "Mount Erciyes",
        38.6291,
        35.448
       ],
@@ -11644,13 +11634,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Erciyes",
-     38.53,
-     35.448
-    ]
-   ],
+   "pois": [],
    "kw": "Uçhisar-vár Uchisar kastély Göreme Göreme Nemzeti Park hőlégballon Goreme Ürgüp Urgup Szerelem-völgy Kappadókia Derinkuyu földalatti város Erciyes-hegy Erciyes vulkán Kayseri Avanos fazekasváros Kappadókia",
    "img": "Göreme"
   },
@@ -11778,7 +11762,7 @@
      "id": "short-javitott",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 3000,
+     "alt_ft": 4000,
      "stol": false,
      "label": {
       "en": "Mallorca short (javitott)",
@@ -11869,7 +11853,7 @@
      "id": "north",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 3500,
+     "alt_ft": 4000,
      "stol": false,
      "label": {
       "en": "Tramuntana and Formentor",
@@ -12063,7 +12047,7 @@
        24.7089
       ],
       [
-       "~",
+       "Mount Ida",
        35.1898,
        24.7272
       ],
@@ -12074,7 +12058,7 @@
      "id": "west",
      "kind": "loop",
      "kt": 115,
-     "alt_ft": 6000,
+     "alt_ft": 6500,
      "stol": false,
      "label": {
       "en": "Western Crete",
@@ -12118,7 +12102,7 @@
        23.9233
       ],
       [
-       "~",
+       "Samaria Gorge",
        35.2954,
        23.9617
       ],
@@ -12213,9 +12197,34 @@
        24.749
       ],
       [
-       "Mount Ida",
-       35.228,
-       24.774
+       "~",
+       35.1017,
+       24.7415
+      ],
+      [
+       "~",
+       35.141,
+       24.714
+      ],
+      [
+       "~",
+       35.1679,
+       24.7122
+      ],
+      [
+       "~",
+       35.1961,
+       24.735
+      ],
+      [
+       "~",
+       35.1557,
+       24.8011
+      ],
+      [
+       "~",
+       35.1343,
+       24.9465
       ],
       [
        "Knossos Palace",
@@ -12285,8 +12294,28 @@
       ],
       [
        "~",
+       35.1017,
+       24.7415
+      ],
+      [
+       "~",
+       35.141,
+       24.714
+      ],
+      [
+       "~",
+       35.1679,
+       24.7122
+      ],
+      [
+       "Mount Ida",
        35.1961,
        24.735
+      ],
+      [
+       "~",
+       35.166,
+       24.7375
       ],
       [
        "~",
@@ -12297,6 +12326,26 @@
        "~",
        35.1267,
        24.9148
+      ],
+      [
+       "~",
+       35.1148,
+       24.9487
+      ],
+      [
+       "~",
+       35.1184,
+       24.9666
+      ],
+      [
+       "~",
+       35.1445,
+       25.0044
+      ],
+      [
+       "~",
+       35.2138,
+       25.0408
       ],
       [
        "Knossos Palace",
@@ -12313,11 +12362,6 @@
      "Mount Ida",
      35.228,
      24.774
-    ],
-    [
-     "Samaria Gorge",
-     35.278,
-     23.956
     ]
    ],
    "kw": "Knósszoszi palota Kréta Phaisztosz Matala Ida-hegy Szamaria-szurdok Elafonisi Balosz-lagúna Hanya régi kikötő Spinalonga Vai pálmaliget Zakrosz Chrissi-sziget",
@@ -13701,7 +13745,7 @@
        -156.983
       ],
       [
-       "~",
+       "Haleakala Crater",
        20.7277,
        -156.2867
       ],
@@ -13721,7 +13765,7 @@
        -156.1474
       ],
       [
-       "~",
+       "Mauna Kea",
        19.9197,
        -155.4681
       ],
@@ -13824,18 +13868,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Haleakala Crater",
-     20.7097,
-     -156.2533
-    ],
-    [
-     "Mauna Kea",
-     19.8206,
-     -155.4681
-    ]
-   ],
+   "pois": [],
    "kw": "Diamond Head Hanauma-öböl Makapuu világítótorony Kualoa Pearl Harbor Waimea-kanyon Waimea kanyon Kauai Kalalau-völgy Na Pali Hanalei-öböl Hanalei Wailua-vízesés Iao-völgy Lahaina Molokini-kráter Haleakala-kráter Hana Kilauea vulkán Mauna Kea Mauna Kea csillagvizsgáló Akaka-vízesés Akaka Hilo Szivárvány-vízesés Hilo Kalaupapa Molokai Lanai",
    "img": "Diamond Head, Hawaii",
    "new": true
@@ -13935,6 +13968,26 @@
        "Pisac",
        -13.4167,
        -71.8475
+      ],
+      [
+       "~",
+       -13.3999,
+       -71.9147
+      ],
+      [
+       "~",
+       -13.4158,
+       -71.9904
+      ],
+      [
+       "~",
+       -13.4057,
+       -72.0307
+      ],
+      [
+       "~",
+       -13.3562,
+       -72.0892
       ],
       [
        "Moray",
@@ -14058,6 +14111,26 @@
        -71.8475
       ],
       [
+       "~",
+       -13.3999,
+       -71.9147
+      ],
+      [
+       "~",
+       -13.4158,
+       -71.9904
+      ],
+      [
+       "~",
+       -13.4057,
+       -72.0307
+      ],
+      [
+       "~",
+       -13.3562,
+       -72.0892
+      ],
+      [
        "Moray",
        -13.3293,
        -72.1962
@@ -14071,6 +14144,11 @@
        "~",
        -13.2236,
        -72.324
+      ],
+      [
+       "~",
+       -13.2088,
+       -72.3679
       ],
       [
        "~",
@@ -14305,7 +14383,7 @@
        -43.2302
       ],
       [
-       "~",
+       "Pedra da Gávea",
        -22.9824,
        -43.2752
       ],
@@ -14585,7 +14663,7 @@
        18.378
       ],
       [
-       "~",
+       "Table Mountain",
        -33.9538,
        18.391
       ],
@@ -14625,7 +14703,7 @@
      "pts": [
       "FACT",
       [
-       "~",
+       "Table Mountain",
        -33.9581,
        18.4308
       ],
@@ -14653,13 +14731,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Table Mountain",
-     -33.9628,
-     18.4098
-    ]
-   ],
+   "pois": [],
    "kw": "Robben-sziget Mandela Fokvárosi stadion Camps Bay Table Mountain Asztal-hegy Chapman's Peak Boulders Beach pingvinek Jó Remény foka Cape Point",
    "img": "Table Mountain"
   },
@@ -14943,7 +15015,7 @@
      "pts": [
       "HTKJ",
       [
-       "~",
+       "Mount Meru",
        -3.2544,
        36.7914
       ],
@@ -14958,7 +15030,7 @@
        37.3639
       ],
       [
-       "~",
+       "Mount Kilimanjaro",
        -3.1665,
        37.3556
       ],
@@ -14966,18 +15038,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Meru",
-     -3.2427,
-     36.7478
-    ],
-    [
-     "Mount Kilimanjaro",
-     -3.0674,
-     37.3556
-    ]
-   ],
+   "pois": [],
    "kw": "Meru-hegy Amboseli Kilimandzsáró",
    "img": "Mount Kilimanjaro"
   },
@@ -15594,7 +15655,7 @@
        138.76
       ],
       [
-       "~",
+       "Mount Fuji",
        35.3479,
        138.7118
       ],
@@ -15622,13 +15683,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Fuji",
-     35.3606,
-     138.7274
-    ]
-   ],
+   "pois": [],
    "kw": "Szivárványhíd Tokió Tokyo Tower Meidzsi szentély Szenszódzsi templom Asakusa Tokyo Skytree Tokyo Disneyland Kavagucsi-tó Fudzsi-hegy Fuji Asi-tó Hakone Yokohama Landmark Tower",
    "img": "Mount Fuji"
   },
@@ -16013,7 +16068,7 @@
        -110.723
       ],
       [
-       "~",
+       "Grand Teton",
        43.741,
        -110.7775
       ],
@@ -16078,7 +16133,7 @@
        -110.8281
       ],
       [
-       "~",
+       "Grand Teton",
        43.759,
        -110.8024
       ],
@@ -16086,13 +16141,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Grand Teton",
-     43.741,
-     -110.8024
-    ]
-   ],
+   "pois": [],
    "kw": "Oxbow Bend Jackson-tó Jenny-tó Grand Teton Yellowstone-tó Yellowstone-vízesés Grand Prismatic Spring szivárványos forrás Old Faithful gejzír",
    "img": "Grand Prismatic Spring"
   },
@@ -16285,7 +16334,7 @@
      "id": "full-javitott",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 5500,
+     "alt_ft": 6500,
      "stol": false,
      "label": {
       "en": "Vegas loop (javitott)",
@@ -17459,7 +17508,7 @@
        -7.9937
       ],
       [
-       "~",
+       "Oukaïmeden",
        31.2234,
        -7.8695
       ],
@@ -17542,13 +17591,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Oukaïmeden",
-     31.206,
-     -7.864
-    ]
-   ],
+   "pois": [],
    "kw": "Koutoubia-mecset Marrakesh Oukaïmeden Imlil Toubkal Aït Benhaddou",
    "img": "Koutoubia Mosque"
   },
@@ -17976,12 +18019,12 @@
        35.7602
       ],
       [
-       "~",
+       "Ol Doinyo Lengai",
        -2.7767,
        35.9012
       ],
       [
-       "~",
+       "Mount Meru",
        -3.2652,
        36.7087
       ],
@@ -17989,18 +18032,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Ol Doinyo Lengai",
-     -2.764,
-     35.914
-    ],
-    [
-     "Mount Meru",
-     -3.2427,
-     36.7478
-    ]
-   ],
+   "pois": [],
    "kw": "Manyara-tó Ngorongoro-kráter Ol Doinyo Lengai Meru-hegy",
    "img": "Ngorongoro Conservation Area"
   },
@@ -18095,7 +18127,7 @@
      "pts": [
       "YAYE",
       [
-       "~",
+       "Kata Tjuta",
        -25.2957,
        130.7406
       ],
@@ -18178,13 +18210,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Kata Tjuta",
-     -25.3047,
-     130.7233
-    ]
-   ],
+   "pois": [],
    "kw": "Kata Tjuta Olgák Mount Olga kilátó Uluru Ayers Rock Kings Canyon Conner-hegy",
    "img": "Uluru"
   },
@@ -18416,7 +18442,7 @@
        170.2
       ],
       [
-       "~",
+       "Aoraki / Mount Cook",
        -43.6124,
        170.1482
       ],
@@ -18429,13 +18455,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Aoraki / Mount Cook",
-     -43.595,
-     170.1418
-    ]
-   ],
+   "pois": [],
    "kw": "Pukaki-tó Tasman-gleccser Aoraki Mount Cook Hooker-gleccser",
    "img": "Aoraki / Mount Cook"
   },
@@ -18758,7 +18778,7 @@
      "id": "full-javitott",
      "kind": "loop",
      "kt": 105,
-     "alt_ft": 6500,
+     "alt_ft": 7000,
      "stol": false,
      "label": {
       "en": "Bali loop (javitott)",
@@ -18812,7 +18832,7 @@
        115.375
       ],
       [
-       "~",
+       "Mount Agung",
        -8.307,
        115.508
       ],
@@ -19377,7 +19397,7 @@
        15.9376
       ],
       [
-       "~",
+       "Naukluft Mountains",
        -24.25,
        15.982
       ],
@@ -19385,13 +19405,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Naukluft Mountains",
-     -24.25,
-     16.15
-    ]
-   ],
+   "pois": [],
    "kw": "Sossusvlei Szosszuszvlej Namib vörös dűnék Deadvlei Halott-völgy kiszáradt fák Dune 45 45-ös dűne Big Daddy-dűne Big Daddy Naukluft-hegység Naukluft",
    "img": "Sossusvlei"
   },
@@ -19512,7 +19526,7 @@
        55.208
       ],
       [
-       "~",
+       "Morne Seychellois",
        -4.657,
        55.4229
       ],
@@ -19575,13 +19589,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Morne Seychellois",
-     -4.657,
-     55.441
-    ]
-   ],
+   "pois": [],
    "kw": "Sainte Anne tengeri park Sainte Anne Marine National Park Victoria (Seychelle-szigetek) Victoria főváros Mahé Beau Vallon Beau Vallon strand Silhouette-sziget Silhouette Morne Seychellois Morne Seychellois nemzeti park Anse Lazio Anse Lazio strand Praslin Curieuse-sziget Curieuse Vallée de Mai Vallée de Mai tengeri kókuszpálma Anse Source d'Argent La Digue strand Ezüstforrás",
    "img": "Anse Source d'Argent"
   },
@@ -19874,7 +19882,7 @@
        35.3044
       ],
       [
-       "~",
+       "Wadi Rum",
        29.557,
        35.42
       ],
@@ -19884,7 +19892,7 @@
        35.4541
       ],
       [
-       "~",
+       "Jebel Burdah",
        29.591,
        35.4721
       ],
@@ -19982,18 +19990,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Wadi Rum",
-     29.575,
-     35.42
-    ],
-    [
-     "Jebel Burdah",
-     29.6,
-     35.49
-    ]
-   ],
+   "pois": [],
    "kw": "Akabai erőd Akaba Vörös-tenger Wadi Rum Wadi Rum Holdvölgy sivatag Lawrence Jebel Burdah Burdah kőhíd Petra Petra Nabateus Kincstár Al-Khazneh Kis-Petra Siq al-Barid",
    "img": "Petra"
   },
@@ -20282,7 +20279,7 @@
        105.826
       ],
       [
-       "~",
+       "Tam Dao",
        21.4384,
        105.6587
       ],
@@ -20360,13 +20357,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Tam Dao",
-     21.454,
-     105.649
-    ]
-   ],
+   "pois": [],
    "kw": "Hoan Kiem-tó Hoàn Kiếm Kardtó Hanoi Tam Coc Ninh Binh Tam Cốc szárazföldi Ha Long Tam Dao Tam Đảo hegy Cat Ba-sziget Cát Bà Bai Chay-híd Bãi Cháy Ha Long-öböl Ha Long Halong Hạ Long Bay Bai Tu Long-öböl Bái Tử Long",
    "img": "Ha Long Bay"
   },
@@ -21042,7 +21033,7 @@
      "id": "foraker-javitott",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 13500,
+     "alt_ft": 14000,
      "stol": false,
      "label": {
       "en": "Foraker and Denali (javitott)",
@@ -21076,7 +21067,7 @@
        -151.18
       ],
       [
-       "~",
+       "Mount Foraker",
        62.9409,
        -151.357
       ],
@@ -21091,7 +21082,7 @@
        -151.1926
       ],
       [
-       "~",
+       "Denali",
        63.0437,
        -151.0633
       ],
@@ -21172,14 +21163,29 @@
        -151.197
       ],
       [
-       "~",
+       "Denali",
        63.0855,
        -151.1415
       ],
       [
        "~",
+       63.0295,
+       -151.191
+      ],
+      [
+       "~",
        62.9953,
        -151.1251
+      ],
+      [
+       "~",
+       62.9693,
+       -151.0198
+      ],
+      [
+       "~",
+       62.9697,
+       -150.9753
       ],
       [
        "~",
@@ -21190,6 +21196,26 @@
        "~",
        63.033,
        -150.8551
+      ],
+      [
+       "~",
+       63.051,
+       -150.6698
+      ],
+      [
+       "~",
+       63.0663,
+       -150.6124
+      ],
+      [
+       "~",
+       63.1003,
+       -150.5635
+      ],
+      [
+       "~",
+       63.265,
+       -150.5218
       ],
       [
        "Muldrow Glacier",
@@ -21209,7 +21235,7 @@
      "id": "kantishna-javitott",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 12000,
+     "alt_ft": 12500,
      "stol": true,
      "label": {
       "en": "Denali loop (javitott)",
@@ -21258,7 +21284,7 @@
        -151.197
       ],
       [
-       "~",
+       "Denali",
        63.0855,
        -151.1415
       ],
@@ -22108,12 +22134,12 @@
        -68.901
       ],
       [
-       "~",
+       "El Tatio Geysers",
        -22.3044,
        -68.1135
       ],
       [
-       "~",
+       "Licancabur",
        -22.8537,
        -67.9585
       ],
@@ -22158,7 +22184,7 @@
      "pts": [
       "SCCF",
       [
-       "~",
+       "Licancabur",
        -22.849,
        -67.9397
       ],
@@ -22183,7 +22209,7 @@
        -67.8988
       ],
       [
-       "~",
+       "Laguna Miscanti",
        -23.7085,
        -67.8297
       ],
@@ -22206,23 +22232,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "El Tatio Geysers",
-     -22.33,
-     -68.01
-    ],
-    [
-     "Licancabur",
-     -22.835,
-     -67.883
-    ],
-    [
-     "Laguna Miscanti",
-     -23.74,
-     -67.77
-    ]
-   ],
+   "pois": [],
    "kw": "Chuquicamata Chuquicamata rézbánya El Tatio gejzírek El Tatio gejzír Licancabur Licancabur vulkán Miscanti-lagúna Miscanti Salar de Atacama Atacama sólapos sós tó Holdvölgy Valle de la Luna Atacama Moon Valley",
    "img": "Atacama Desert"
   },
@@ -22328,7 +22338,7 @@
        147.3
       ],
       [
-       "~",
+       "Mount Wellington",
        -42.887,
        147.2573
       ],
@@ -22383,7 +22393,7 @@
        147.85
       ],
       [
-       "~",
+       "Mount Wellington",
        -42.905,
        147.2573
       ],
@@ -22396,13 +22406,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Wellington",
-     -42.896,
-     147.236
-    ]
-   ],
+   "pois": [],
    "kw": "Port Arthur Port Arthur fegyenctelep Tasmánia Bruny-sziget Bruny Wellington-hegy kunanyi Hobart Mount Wellington Wineglass Bay Boros pohár öböl Freycinet",
    "img": "Wineglass Bay"
   },
@@ -22553,7 +22557,7 @@
      "pts": [
       "YBCS",
       [
-       "~",
+       "Lake Eacham",
        -17.265,
        145.633
       ],
@@ -22586,13 +22590,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Lake Eacham",
-     -17.283,
-     145.633
-    ]
-   ],
+   "pois": [],
    "kw": "Green Island Zöld-sziget Cairns Michaelmas Cay Michaelmas zátony Kuranda Kuranda esőerdő Eacham-tó Eacham Atherton-fennsík Daintree-esőerdő Daintree Cape Tribulation Tribulation-fok Low Isles Low Isles világítótorony",
    "img": "Great Barrier Reef"
   },
@@ -22889,7 +22887,7 @@
      "id": "short-javitott",
      "kind": "loop",
      "kt": 95,
-     "alt_ft": 3500,
+     "alt_ft": 4000,
      "stol": false,
      "label": {
       "en": "Madeira short (javitott)",
@@ -22928,7 +22926,7 @@
        -16.704
       ],
       [
-       "~",
+       "Pico Ruivo",
        32.798,
        -16.9152
       ],
@@ -23036,7 +23034,7 @@
      "id": "grand-javitott",
      "kind": "loop",
      "kt": 105,
-     "alt_ft": 4000,
+     "alt_ft": 5000,
      "stol": false,
      "label": {
       "en": "Island loop (javitott)",
@@ -23135,7 +23133,7 @@
        -16.8234
       ],
       [
-       "~",
+       "Pico Ruivo",
        32.7938,
        -16.9309
       ],
@@ -23228,7 +23226,7 @@
      "id": "short",
      "kind": "loop",
      "kt": 95,
-     "alt_ft": 10000,
+     "alt_ft": 10500,
      "stol": false,
      "label": {
       "en": "Teide short",
@@ -23272,7 +23270,7 @@
        -16.84
       ],
       [
-       "~",
+       "Teide",
        28.2817,
        -16.682
       ],
@@ -23293,7 +23291,7 @@
      "id": "grand",
      "kind": "loop",
      "kt": 105,
-     "alt_ft": 8500,
+     "alt_ft": 9000,
      "stol": false,
      "label": {
       "en": "Tenerife and La Gomera",
@@ -23352,7 +23350,7 @@
        -16.254
       ],
       [
-       "~",
+       "Teide",
        28.3036,
        -16.663
       ],
@@ -23483,7 +23481,7 @@
        -16.7205
       ],
       [
-       "~",
+       "Mount Teide",
        28.3191,
        -16.6732
       ],
@@ -23508,11 +23506,6 @@
     }
    ],
    "pois": [
-    [
-     "Teide",
-     28.2724,
-     -16.6425
-    ],
     [
      "Mount Teide",
      28.2723,
@@ -23836,7 +23829,7 @@
        126.6196
       ],
       [
-       "~",
+       "Hallasan",
        33.3182,
        126.5432
       ],
@@ -23869,13 +23862,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Hallasan",
-     33.3617,
-     126.5292
-    ]
-   ],
+   "pois": [],
    "kw": "Hallasan Halla-hegy Jeju vulkán Yongmeori-part Yongmeori Sanbangsan Jeongbang-vízesés Jeongbang Seongsan Ilchulbong Napkelte-csúcs tufakúp",
    "img": "Hallasan|Jeju Island"
   },
@@ -24164,7 +24151,7 @@
        110.4915
       ],
       [
-       "~",
+       "Mount Merapi",
        -7.5929,
        110.4598
       ],
@@ -24219,7 +24206,7 @@
        110.4915
       ],
       [
-       "~",
+       "Mount Merapi",
        -7.5598,
        110.4264
       ],
@@ -24249,7 +24236,7 @@
        109.9627
       ],
       [
-       "~",
+       "Dieng Plateau",
        -7.1565,
        109.9218
       ],
@@ -24287,18 +24274,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Merapi",
-     -7.5407,
-     110.4457
-    ],
-    [
-     "Dieng Plateau",
-     -7.2,
-     109.91
-    ]
-   ],
+   "pois": [],
    "kw": "Prambanan Prambanan templom Yogyakarta Merapi Merapi vulkán Jáva Borobudur Borobudur buddhista templom Dieng-fennsík Dieng",
    "img": "Borobudur"
   },
@@ -24555,7 +24531,7 @@
        89.2958
       ],
       [
-       "~",
+       "Jomolhari",
        27.7391,
        89.2885
       ],
@@ -24583,13 +24559,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Jomolhari",
-     27.8,
-     89.27
-    ]
-   ],
+   "pois": [],
    "kw": "Tashichho-dzong Thimphu Tigrisfészek-kolostor Paro Taktsang Tigrisfészek Bhután Jomolhari Chomolhari Punakha-dzong Punakha Dochula-hágó Dochula",
    "img": "Paro Taktsang"
   },
@@ -24745,7 +24715,7 @@
        80.7599
       ],
       [
-       "~",
+       "Knuckles Range",
        7.418,
        80.8
       ],
@@ -24765,7 +24735,7 @@
        80.9001
       ],
       [
-       "~",
+       "Horton Plains",
        6.7795,
        80.8393
       ],
@@ -24800,7 +24770,7 @@
        80.5324
       ],
       [
-       "~",
+       "Adam's Peak",
        6.8221,
        80.4866
       ],
@@ -24828,23 +24798,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Knuckles Range",
-     7.4,
-     80.8
-    ],
-    [
-     "Horton Plains",
-     6.802,
-     80.8
-    ],
-    [
-     "Adam's Peak",
-     6.8094,
-     80.4994
-    ]
-   ],
+   "pois": [],
    "kw": "Sigiriya Oroszlán-szikla Sigiriya Kandy Kandy Fogtemplom Dambulla Dambulla barlangtemplom Knuckles-hegység Knuckles Horton-fennsík Horton Plains Ádám-csúcs Sri Pada Adams Peak",
    "img": "Sigiriya"
   },
@@ -25213,7 +25167,7 @@
        -121.8375
       ],
       [
-       "~",
+       "Mount Rainier",
        46.8973,
        -121.7603
       ],
@@ -25246,13 +25200,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Rainier",
-     46.8523,
-     -121.7603
-    ]
-   ],
+   "pois": [],
    "kw": "Snoqualmie-vízesés Snoqualmie Bellevue Bellevue Washington-tó Space Needle Space Needle Seattle Mount Rainier Rainier vulkán Mount St. Helens Mount St Helens vulkán",
    "img": "Mount Rainier"
   },
@@ -25612,7 +25560,7 @@
        -98.7044
       ],
       [
-       "~",
+       "Popocatépetl",
        18.9757,
        -98.6564
       ],
@@ -25665,13 +25613,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Popocatépetl",
-     19.0225,
-     -98.6278
-    ]
-   ],
+   "pois": [],
    "kw": "Zócalo Zocalo Mexikóváros főtér Chapultepec-kastély Chapultepec Estadio Azteca Azték stadion Xochimilco Xochimilco csatornák Popocatépetl Popocatepetl vulkán Nap-piramis Teotihuacán Teotihuacan",
    "img": "Teotihuacan"
   },
@@ -25832,7 +25774,7 @@
      "pts": [
       "SPZA",
       [
-       "~",
+       "Palpa geoglyphs",
        -14.5674,
        -75.1878
       ],
@@ -25842,7 +25784,7 @@
        -75.2173
       ],
       [
-       "~",
+       "Hummingbird geoglyph",
        -14.6761,
        -75.1551
       ],
@@ -25852,7 +25794,7 @@
        -75.1156
       ],
       [
-       "~",
+       "Chauchilla Cemetery",
        -14.9402,
        -75.1077
       ],
@@ -25992,7 +25934,7 @@
        -67.625
       ],
       [
-       "~",
+       "Tunupa Volcano",
        -19.8513,
        -67.5835
       ],
@@ -26067,7 +26009,7 @@
        -68.0796
       ],
       [
-       "~",
+       "Ollagüe Volcano",
        -21.2688,
        -68.1607
       ],
@@ -26131,18 +26073,7 @@
      "hi_alt": true
     }
    ],
-   "pois": [
-    [
-     "Tunupa Volcano",
-     -19.8333,
-     -67.6167
-    ],
-    [
-     "Ollagüe Volcano",
-     -21.3,
-     -68.18
-    ]
-   ],
+   "pois": [],
    "kw": "Vonattemető Uyuni vonattemető Incahuasi-sziget Incahuasi kaktusz-sziget Tunupa vulkán Tunupa Uyuni sósivatag Salar de Uyuni Ollagüe vulkán Ollague Laguna Colorada Vörös-lagúna flamingók",
    "img": "Salar de Uyuni"
   },
@@ -26238,7 +26169,7 @@
      "pts": [
       "SVCN",
       [
-       "~",
+       "Auyán-tepui",
        5.7956,
        -62.5491
       ],
@@ -26256,13 +26187,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Auyán-tepui",
-     5.78,
-     -62.54
-    ]
-   ],
+   "pois": [],
    "kw": "Auyán-tepui Auyantepui asztalhegy Angel-vízesés Salto Ángel Angel Falls Venezuela",
    "img": "Angel Falls"
   },
@@ -27041,7 +26966,7 @@
        -4.0536
       ],
       [
-       "~",
+       "Todra Gorge",
        31.5753,
        -5.5496
       ],
@@ -27059,13 +26984,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Todra Gorge",
-     31.58,
-     -5.57
-    ]
-   ],
+   "pois": [],
    "kw": "Erg Chebbi Merzouga Szahara dűnék Todra-szurdok Todra",
    "img": "Erg Chebbi"
   },
@@ -27350,7 +27269,7 @@
        169.1
       ],
       [
-       "~",
+       "Mount Aspiring",
        -44.394,
        168.7498
       ],
@@ -27423,13 +27342,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Aspiring",
-     -44.385,
-     168.728
-    ]
-   ],
+   "pois": [],
    "kw": "Wanaka-tó Wanaka Mount Aspiring Aspiring Fox-gleccser Fox gleccser Franz Josef-gleccser Franz Josef gleccser",
    "img": "Queenstown, New Zealand|The Remarkables"
   },
@@ -27584,7 +27497,7 @@
        6.65
       ],
       [
-       "~",
+       "Mont Blanc",
        45.8199,
        6.8469
       ],
@@ -27612,13 +27525,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mont Blanc",
-     45.8326,
-     6.8652
-    ]
-   ],
+   "pois": [],
    "kw": "Mont Pourri Pourri Vanoise Grande Motte Grande Motte gleccser Tignes Val Thorens Val Thorens síközpont Roselend-tó Roselend Mont Blanc Mont Blanc Méribel Meribel",
    "img": "Courchevel Altiport|Courchevel"
   },
@@ -28177,7 +28084,7 @@
        -144.1819
       ],
       [
-       "~",
+       "Mount Wrangell",
        62.041,
        -144.019
       ],
@@ -28197,7 +28104,7 @@
        -143.7484
       ],
       [
-       "~",
+       "Mount Blackburn",
        61.7393,
        -143.5035
       ],
@@ -28348,22 +28255,22 @@
        -143.25
       ],
       [
-       "~",
+       "Mount Sanford",
        62.2578,
        -144.0327
       ],
       [
-       "~",
+       "Mount Wrangell",
        62.0503,
        -143.9244
       ],
       [
-       "~",
+       "Mount Blackburn",
        61.7755,
        -143.3089
       ],
       [
-       "~",
+       "Mount Bona",
        61.4237,
        -141.666
       ],
@@ -28382,28 +28289,7 @@
      "review": "1. kör – kézzel tervezett (csúcsok 6–7 km-re, ÉK-i oldalról), terepellenőrzés nélkül"
     }
    ],
-   "pois": [
-    [
-     "Mount Wrangell",
-     62.005,
-     -144.019
-    ],
-    [
-     "Mount Blackburn",
-     61.73,
-     -143.43
-    ],
-    [
-     "Mount Sanford",
-     62.2133,
-     -144.1283
-    ],
-    [
-     "Mount Bona",
-     61.3856,
-     -141.7458
-    ]
-   ],
+   "pois": [],
    "kw": "Chitina Chitina Copper River Mount Wrangell Wrangell vulkán Mount Blackburn Blackburn vulkán Wrangell Kennecott bánya Kennecott kísértetváros McCarthy Mount Wrangell Wrangell vulkán Mount Blackburn Blackburn vulkán Wrangell",
    "img": "Kennecott, Alaska|McCarthy, Alaska",
    "new": true
@@ -28514,7 +28400,7 @@
        -107.6714
       ],
       [
-       "~",
+       "Mount Sneffels",
        38.0086,
        -107.7699
       ],
@@ -28522,13 +28408,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Sneffels",
-     38.0039,
-     -107.792
-    ]
-   ],
+   "pois": [],
    "kw": "Lizard Head Lizard Head hágó Telluride Silverton Silverton bányaváros Ouray Ouray Amerika Svájca Mount Sneffels Sneffels",
    "img": "Telluride, Colorado|Mount Sneffels"
   },
@@ -28634,17 +28514,17 @@
        7.8632
       ],
       [
-       "~",
+       "Eiger",
        46.5902,
        7.9868
       ],
       [
-       "~",
+       "Jungfraujoch",
        46.5706,
        7.9657
       ],
       [
-       "~",
+       "Konkordiaplatz",
        46.5107,
        8.0455
       ],
@@ -28709,7 +28589,7 @@
        7.6389
       ],
       [
-       "~",
+       "Matterhorn",
        45.9922,
        7.6455
       ],
@@ -28764,7 +28644,7 @@
        8.107
       ],
       [
-       "~",
+       "Eiger",
        46.5822,
        7.98
       ],
@@ -28774,7 +28654,7 @@
        7.9539
       ],
       [
-       "~",
+       "Jungfrau",
        46.5629,
        7.9524
       ],
@@ -28787,33 +28667,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Eiger",
-     46.5775,
-     8.0053
-    ],
-    [
-     "Jungfraujoch",
-     46.5472,
-     7.9853
-    ],
-    [
-     "Konkordiaplatz",
-     46.498,
-     8.064
-    ],
-    [
-     "Matterhorn",
-     45.9766,
-     7.6585
-    ],
-    [
-     "Jungfrau",
-     46.5368,
-     7.9626
-    ]
-   ],
+   "pois": [],
    "kw": "Thun Thuni-tó Interlaken Interlaken Eiger Eiger északi fal Jungfraujoch Jungfrau Európa teteje Konkordiaplatz Aletsch gleccser Grindelwald Grindelwald Matterhorn Cervino Aletsch-gleccser Eiger Eiger északi fal Jungfrau",
    "img": "Jungfrau|Eiger",
    "new": true
@@ -28920,7 +28774,7 @@
        -19.9886
       ],
       [
-       "~",
+       "Eyjafjallajökull",
        63.6441,
        -19.5796
       ],
@@ -28940,7 +28794,7 @@
        -18.9064
       ],
       [
-       "~",
+       "Hekla",
        63.9764,
        -19.6455
       ],
@@ -29000,7 +28854,7 @@
        -19.6913
       ],
       [
-       "~",
+       "Eyjafjallajökull",
        63.6681,
        -19.579
       ],
@@ -29023,18 +28877,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Eyjafjallajökull",
-     63.6314,
-     -19.6083
-    ],
-    [
-     "Hekla",
-     63.992,
-     -19.666
-    ]
-   ],
+   "pois": [],
    "kw": "Vestmann-szigetek Vestmannaeyjar Heimaey Seljalandsfoss Seljalandsfoss vízesés Eyjafjallajökull Eyjafjallajökull gleccser vulkán Skógafoss Skógafoss vízesés Vík Vík fekete part Reynisfjara Hekla Hekla vulkán Eyjafjallajökull Eyjafjallajökull gleccser vulkán Skógafoss Skógafoss vízesés",
    "img": "Skógafoss|Seljalandsfoss",
    "new": true
@@ -29260,7 +29103,7 @@
      "pts": [
       "LGTS",
       [
-       "~",
+       "Mount Olympus",
        40.1084,
        22.3403
       ],
@@ -29303,13 +29146,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Olympus",
-     40.085,
-     22.358
-    ]
-   ],
+   "pois": [],
    "kw": "Olümposz Olimposz hegy görög istenek Mytikas Meteora Meteora kolostorok Kozani Kozani Veria Veria",
    "img": "Meteora"
   },
@@ -30043,7 +29880,7 @@
        12.392
       ],
       [
-       "~",
+       "Grossglockner",
        47.0914,
        12.7008
       ],
@@ -30056,13 +29893,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Grossglockner",
-     47.074,
-     12.694
-    ]
-   ],
+   "pois": [],
    "kw": "Zugspitze Zugspitze Németország legmagasabb Wilder Kaiser Kaisergebirge Kitzbühel Kitzbühel Hahnenkamm Grossglockner Großglockner Ausztria legmagasabb Zillertali-Alpok Zillertal Hintertux gleccser",
    "img": "Innsbruck|Zugspitze"
   },
@@ -30183,7 +30014,7 @@
        6.6496
       ],
       [
-       "~",
+       "Mont Blanc",
        45.8935,
        6.8418
       ],
@@ -30206,13 +30037,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mont Blanc",
-     45.8326,
-     6.8652
-    ]
-   ],
+   "pois": [],
    "kw": "Jet d'Eau Genf szökőkút Mont Blanc Mont Blanc Chillon-vár Chillon Montreux Lavaux Lavaux szőlőteraszok Lausanne Lausanne",
    "img": "Château de Chillon|Lavaux"
   },
@@ -30696,7 +30521,7 @@
        140.85
       ],
       [
-       "~",
+       "Mount Yotei",
        42.808,
        140.813
       ],
@@ -30709,13 +30534,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Yotei",
-     42.826,
-     140.813
-    ]
-   ],
+   "pois": [],
    "kw": "Noboribetsu Noboribetsu Pokolvölgy Tója-tó Toya tó kaldera Mount Yotei Jotei Hokkaido Fuji Sikocu-tó Shikotsu tó",
    "img": "Lake Tōya|Mount Yōtei"
   },
@@ -30846,7 +30665,7 @@
        120.9104
       ],
       [
-       "~",
+       "Yushan",
        23.5019,
        120.9223
       ],
@@ -30904,13 +30723,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Yushan",
-     23.47,
-     120.957
-    ]
-   ],
+   "pois": [],
    "kw": "Csiufen Jiufen bányászváros Taroko-szurdok Taroko Nemzeti Park Yushan Jade-hegy Tajvan legmagasabb Nap-Hold-tó Sun Moon Lake Taipei 101 Tajpej felhőkarcoló",
    "img": "Taroko National Park|Taipei 101"
   },
@@ -31161,7 +30974,7 @@
      "id": "loop-javitott",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 6000,
+     "alt_ft": 6500,
      "stol": false,
      "label": {
       "en": "Sea to Sky (javitott)",
@@ -31503,9 +31316,19 @@
        -71.54
       ],
       [
-       "Cerro Tronador",
-       -41.167,
-       -71.884
+       "~",
+       -41.087,
+       -71.7603
+      ],
+      [
+       "~",
+       -41.1879,
+       -71.8005
+      ],
+      [
+       "~",
+       -41.2176,
+       -71.8501
       ],
       [
        "~",
@@ -31525,7 +31348,7 @@
      "id": "loop-javitott",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 8000,
+     "alt_ft": 8500,
      "stol": false,
      "label": {
       "en": "Nahuel Huapi (javitott)",
@@ -31574,7 +31397,7 @@
        -71.8309
       ],
       [
-       "~",
+       "Cerro Tronador",
        -41.1931,
        -71.8933
       ],
@@ -31967,7 +31790,7 @@
      "pts": [
       "HRYR",
       [
-       "~",
+       "Mount Bisoke",
        -1.484,
        29.5026
       ],
@@ -31977,7 +31800,7 @@
        29.463
       ],
       [
-       "~",
+       "Karisimbi",
        -1.4796,
        29.4315
       ],
@@ -32005,18 +31828,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Bisoke",
-     -1.475,
-     29.487
-    ],
-    [
-     "Karisimbi",
-     -1.503,
-     29.445
-    ]
-   ],
+   "pois": [],
    "kw": "Bisoke Bisoke vulkán gorilla Karisimbi Karisimbi vulkán Nyiragongo Nyiragongo lávató vulkán Kivu-tó Kivu tó Kigali Kigali Ruanda",
    "img": "Volcanoes National Park|Mount Karisimbi"
   },
@@ -33188,7 +33000,7 @@
        175.632
       ],
       [
-       "~",
+       "Mount Ruapehu",
        -39.284,
        175.5989
       ],
@@ -33821,7 +33633,7 @@
        -67.8153
       ],
       [
-       "~",
+       "Illimani",
        -16.6183,
        -67.7737
       ],
@@ -33846,7 +33658,7 @@
        -67.9776
       ],
       [
-       "~",
+       "Huayna Potosí",
        -16.255,
        -68.1228
       ],
@@ -33890,18 +33702,7 @@
      "hi_alt": true
     }
    ],
-   "pois": [
-    [
-     "Illimani",
-     -16.631,
-     -67.787
-    ],
-    [
-     "Huayna Potosí",
-     -16.262,
-     -68.15
-    ]
-   ],
+   "pois": [],
    "kw": "Illimani Illimani csúcs La Paz Huayna Potosí Huayna Potosi Isla del Sol Nap-sziget Titicaca Copacabana Copacabana Titicaca Tiwanaku Tiwanaku romok",
    "img": "Lake Titicaca|La Paz"
   },
@@ -34134,7 +33935,7 @@
        77.702
       ],
       [
-       "~",
+       "Stok Kangri",
        33.9683,
        77.493
       ],
@@ -34158,13 +33959,7 @@
      "hi_alt": true
     }
    ],
-   "pois": [
-    [
-     "Stok Kangri",
-     33.973,
-     77.472
-    ]
-   ],
+   "pois": [],
    "kw": "Thiksey-kolostor Thiksey kolostor Ladakh Hemis-kolostor Hemis kolostor Stok Kangri Stok Kangri csúcs Alchi Alchi kolostor Khardung La Khardung La hágó",
    "img": "Thiksey Monastery|Leh"
   },
@@ -34268,9 +34063,9 @@
        83.687
       ],
       [
-       "Dhaulagiri",
-       28.698,
-       83.487
+       "~",
+       28.659,
+       83.5127
       ],
       [
        "~",
@@ -34278,14 +34073,34 @@
        83.543
       ],
       [
-       "Annapurna I",
-       28.596,
-       83.8203
+       "~",
+       28.7518,
+       83.5941
       ],
       [
-       "Machapuchare",
+       "~",
+       28.7253,
+       83.6386
+      ],
+      [
+       "~",
+       28.633,
+       83.6972
+      ],
+      [
+       "~",
+       28.6185,
+       83.7759
+      ],
+      [
+       "~",
        28.495,
-       83.949
+       83.9798
+      ],
+      [
+       "~",
+       28.4815,
+       83.9875
       ],
       "VNPK"
      ],
@@ -34335,7 +34150,7 @@
        83.687
       ],
       [
-       "~",
+       "Dhaulagiri",
        28.659,
        83.5127
       ],
@@ -34360,7 +34175,7 @@
        83.6949
       ],
       [
-       "~",
+       "Annapurna I",
        28.6185,
        83.7759
       ],
@@ -34380,7 +34195,7 @@
        83.9434
       ],
       [
-       "~",
+       "Machapuchare",
        28.495,
        83.9798
       ],
@@ -34773,7 +34588,7 @@
        108.5247
       ],
       [
-       "~",
+       "Hai Van Pass",
        16.189,
        108.1352
       ],
@@ -34783,7 +34598,7 @@
        108.1304
       ],
       [
-       "~",
+       "Ba Na Hills",
        16.0262,
        108.0147
       ],
@@ -34816,18 +34631,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Hai Van Pass",
-     16.198,
-     108.119
-    ],
-    [
-     "Ba Na Hills",
-     15.995,
-     107.996
-    ]
-   ],
+   "pois": [],
    "kw": "Hoi An Hoi An lampion Cham-szigetek Cham szigetek Hai Van-hágó Hai Van hágó Ba Na-hegység Ba Na Hills Arany híd Mỹ Sơn My Son cham templom Márvány-hegyek Marble Mountains Da Nang",
    "img": "Dragon Bridge|Marble Mountains (Vietnam)|Hải Vân Pass|Hội An"
   },
@@ -34933,7 +34737,7 @@
        44.62
       ],
       [
-       "~",
+       "Mount Kazbek",
        42.6843,
        44.5363
       ],
@@ -34956,13 +34760,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Kazbek",
-     42.697,
-     44.519
-    ]
-   ],
+   "pois": [],
    "kw": "Telavi Telavi Kakheti Gergeti Szentháromság-templom Gergeti templom Kazbegi Kazbek Kazbek hegy Gudauri Gudauri síközpont Ananuri Ananuri erőd Dzsvari-kolostor Jvari kolostor Mtskheta",
    "img": "Gergeti Trinity Church|Mount Kazbek"
   },
@@ -35069,7 +34867,7 @@
        -66.1382
       ],
       [
-       "~",
+       "El Yunque",
        18.2776,
        -65.7919
       ],
@@ -35092,13 +34890,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "El Yunque",
-     18.295,
-     -65.787
-    ]
-   ],
+   "pois": [],
    "kw": "El Morro El Morro Havanna vár El Yunque El Yunque esőerdő Fajardo Fajardo Flamenco-strand Flamenco Beach Culebra",
    "img": "El Yunque National Forest|Old San Juan"
   },
@@ -35203,7 +34995,7 @@
        -109.4634
       ],
       [
-       "~",
+       "Sierra de la Laguna",
        23.4945,
        -110.0078
       ],
@@ -35226,13 +35018,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Sierra de la Laguna",
-     23.52,
-     -109.98
-    ]
-   ],
+   "pois": [],
    "kw": "Cabo Pulmo Cabo Pulmo zátony Sierra de la Laguna Sierra Laguna Todos Santos Todos Santos Baja El Arco Cabo San Lucas sziklaív",
    "img": "El Arco de Cabo San Lucas|Cabo San Lucas"
   },
@@ -35524,12 +35310,12 @@
      "pts": [
       "MROC",
       [
-       "~",
+       "Irazú",
        10.0045,
        -83.8779
       ],
       [
-       "~",
+       "Turrialba Volcano",
        10.032,
        -83.7935
       ],
@@ -35539,7 +35325,7 @@
        -83.7695
       ],
       [
-       "~",
+       "Poás",
        10.1953,
        -84.2153
       ],
@@ -35557,23 +35343,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Irazú",
-     9.979,
-     -83.852
-    ],
-    [
-     "Turrialba Volcano",
-     10.025,
-     -83.767
-    ],
-    [
-     "Poás",
-     10.2,
-     -84.233
-    ]
-   ],
+   "pois": [],
    "kw": "Irazú Irazu vulkán Turrialba-vulkán Turrialba vulkán Poás Poas vulkán kráter Arenal Arenal vulkán Monteverde Monteverde köderdő",
    "img": "Arenal Volcano|Poás Volcano"
   },
@@ -35684,7 +35454,7 @@
        83.8464
       ],
       [
-       "~",
+       "Dhaulagiri",
        28.698,
        83.4356
       ],
@@ -35724,7 +35494,7 @@
        83.6843
       ],
       [
-       "~",
+       "Nilgiri",
        28.63,
        83.7725
       ],
@@ -35743,18 +35513,7 @@
      "hi_alt": true
     }
    ],
-   "pois": [
-    [
-     "Dhaulagiri",
-     28.698,
-     83.487
-    ],
-    [
-     "Nilgiri",
-     28.63,
-     83.793
-    ]
-   ],
+   "pois": [],
    "kw": "Lo Manthang Lo Manthang Mustang Dhaulagiri Dhaulagiri nyolcezres Nilgiri Nilgiri csúcs Muktinath Muktinath templom Kagbeni Kagbeni",
    "img": "Jomsom|Muktinath"
   },
@@ -36068,7 +35827,7 @@
        -6.393
       ],
       [
-       "~",
+       "Ben More",
        56.418,
        -6.0662
       ],
@@ -36091,13 +35850,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Ben More",
-     56.427,
-     -6.038
-    ]
-   ],
+   "pois": [],
    "kw": "Iona Iona apátság Ben More Ben More Mull Staffa Staffa Fingal barlang Coll Coll sziget",
    "img": "Fingal's Cave|Iona"
   },
@@ -36202,7 +35955,7 @@
        9.957
       ],
       [
-       "~",
+       "Piz Bernina",
        46.3773,
        9.9322
       ],
@@ -36220,13 +35973,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Piz Bernina",
-     46.382,
-     9.907
-    ]
-   ],
+   "pois": [],
    "kw": "Bernina-hágó Bernina hágó Piz Palü Piz Palu Piz Bernina Piz Bernina Sils-tó Sils tó Engadin St. Moritz Sankt Moritz",
    "img": "Piz Bernina|St. Moritz"
   },
@@ -36330,7 +36077,7 @@
        0.036
       ],
       [
-       "~",
+       "Aneto",
        42.631,
        0.6315
       ],
@@ -36348,13 +36095,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Aneto",
-     42.631,
-     0.656
-    ]
-   ],
+   "pois": [],
    "kw": "Aínsa Ainsa Pireneusok Monte Perdido Monte Perdido Ordesa Aneto Aneto Pireneusok legmagasabb Pica d'Estats Pica d'Estats Andorra la Vella Andorra",
    "img": "Aneto|Pica d'Estats"
   },
@@ -36588,7 +36329,7 @@
        8.15
       ],
       [
-       "~",
+       "Feldberg",
        47.883,
        8.0273
       ],
@@ -36606,13 +36347,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Feldberg",
-     47.874,
-     8.004
-    ]
-   ],
+   "pois": [],
    "kw": "Triberg-vízesés Triberg vízesés Fekete-erdő Titisee Titisee tó Feldberg Feldberg Fekete-erdő Freiburg Freiburg Münster Strasbourgi katedrális Strasbourg katedrális",
    "img": "Triberg Waterfalls|Black Forest"
   },
@@ -36838,7 +36573,7 @@
        9.3
       ],
       [
-       "~",
+       "Monte Cinto",
        42.4091,
        8.9595
       ],
@@ -36871,13 +36606,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Monte Cinto",
-     42.383,
-     8.95
-    ]
-   ],
+   "pois": [],
    "kw": "Saint-Florent Saint-Florent Korzika Monte Cinto Monte Cinto Korzika Scandola Scandola természetvédelmi terület Calvi Calvi fellegvár Cap Corse Cap Corse félsziget",
    "img": "Scandola Nature Reserve|Calvi, Haute-Corse"
   },
@@ -36987,7 +36716,7 @@
        -1.986
       ],
       [
-       "~",
+       "La Rhune",
        43.31,
        -1.6618
       ],
@@ -37005,13 +36734,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "La Rhune",
-     43.31,
-     -1.637
-    ]
-   ],
+   "pois": [],
    "kw": "Bilbao Guggenheim Guggenheim múzeum Bilbao San Sebastián San Sebastian Concha La Rhune La Rhune hegy Biarritz Biarritz Gaztelugatxe Gaztelugatxe Sárkánykő",
    "img": "San Sebastián|Gaztelugatxe"
   },
@@ -37754,7 +37477,7 @@
      "pts": [
       "RPLL",
       [
-       "~",
+       "Mount Makiling",
        14.1516,
        121.1867
       ],
@@ -37777,13 +37500,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Makiling",
-     14.136,
-     121.196
-    ]
-   ],
+   "pois": [],
    "kw": "Mount Makiling Makiling hegy Taal-vulkán Taal vulkán Tagaytay Corregidor Corregidor sziget Intramuros Intramuros Manila erőd",
    "img": "Taal Volcano|Intramuros"
   },
@@ -37910,7 +37627,7 @@
      "id": "loop-javitott",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 4500,
+     "alt_ft": 5000,
      "stol": false,
      "label": {
       "en": "Twin Towers loop (javitott)",
@@ -37939,7 +37656,7 @@
      "pts": [
       "WMKK",
       [
-       "~",
+       "Genting Highlands",
        3.3918,
        101.7749
       ],
@@ -38131,7 +37848,7 @@
      "pts": [
       "VTCC",
       [
-       "~",
+       "Doi Inthanon",
        18.606,
        98.5199
       ],
@@ -38288,7 +38005,7 @@
      "pts": [
       "OOMS",
       [
-       "~",
+       "Jebel Akhdar",
        23.0559,
        57.6656
       ],
@@ -38326,13 +38043,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Jebel Akhdar",
-     23.082,
-     57.658
-    ]
-   ],
+   "pois": [],
    "kw": "Dzsebel Akhdar Jebel Akhdar Zöld-hegység Nakhal-erőd Nakhal erőd Omán Daymaniyat-szigetek Daymaniyat szigetek Muttrah korzó Muttrah Corniche Maszkat",
    "img": "Sultan Qaboos Grand Mosque|Muscat"
   },
@@ -38900,7 +38611,7 @@
      "pts": [
       "KSAN",
       [
-       "~",
+       "Cuyamaca Peak",
        32.9164,
        -116.6941
       ],
@@ -39158,7 +38869,7 @@
        -111.75
       ],
       [
-       "~",
+       "Humphreys Peak",
        35.2851,
        -111.698
       ],
@@ -39181,13 +38892,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Humphreys Peak",
-     35.346,
-     -111.678
-    ]
-   ],
+   "pois": [],
    "kw": "Oak Creek-kanyon Oak Creek kanyon Sedona Humphreys Peak Humphreys Peak Arizona legmagasabb Jerome Jerome kísértetváros Montezuma-kastély Montezuma Castle sziklalakás",
    "img": "Sedona, Arizona|Cathedral Rock (Arizona)"
   },
@@ -40027,7 +39732,7 @@
      "pts": [
       "SEQM",
       [
-       "~",
+       "Cayambe",
        0.0534,
        -77.9995
       ],
@@ -40042,7 +39747,7 @@
        -77.9117
       ],
       [
-       "~",
+       "Antisana",
        -0.4566,
        -78.1265
       ],
@@ -40057,7 +39762,7 @@
        -78.2346
       ],
       [
-       "~",
+       "Cotopaxi",
        -0.666,
        -78.4068
       ],
@@ -40072,7 +39777,7 @@
        -78.5416
       ],
       [
-       "~",
+       "Iliniza",
        -0.6543,
        -78.6966
       ],
@@ -40086,28 +39791,7 @@
      "hi_alt": true
     }
    ],
-   "pois": [
-    [
-     "Cayambe",
-     0.03,
-     -77.986
-    ],
-    [
-     "Antisana",
-     -0.48,
-     -78.14
-    ],
-    [
-     "Cotopaxi",
-     -0.684,
-     -78.438
-    ],
-    [
-     "Iliniza",
-     -0.659,
-     -78.714
-    ]
-   ],
+   "pois": [],
    "kw": "Cayambe Cayambe vulkán Antisana Antisana vulkán Cotopaxi Cotopaxi vulkán Iliniza Iliniza Quito óvárosa Quito óváros",
    "img": "Cotopaxi|Quito"
   },
@@ -40263,7 +39947,7 @@
        -65.1699
       ],
       [
-       "~",
+       "Hornocal",
        -23.21,
        -65.1294
       ],
@@ -40326,13 +40010,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Hornocal",
-     -23.21,
-     -65.1
-    ]
-   ],
+   "pois": [],
    "kw": "Salinas Grandes Salinas Grandes sósivatag Hornocal Hornocal hegy 14 szín Tilcara Tilcara Pucará Purmamarca Purmamarca hét színű domb",
    "img": "Quebrada de Humahuaca|Purmamarca"
   },
@@ -41220,7 +40898,7 @@
      "id": "loop-javitott",
      "kind": "loop",
      "kt": 120,
-     "alt_ft": 5000,
+     "alt_ft": 6000,
      "stol": false,
      "label": {
       "en": "Arctic loop (javitott)",
@@ -41249,7 +40927,7 @@
      "pts": [
       "ESNQ",
       [
-       "~",
+       "Kebnekaise",
        67.8682,
        18.5418
       ],
@@ -41740,7 +41418,7 @@
        -3.3417
       ],
       [
-       "~",
+       "Old Man of Hoy",
        58.9144,
        -3.3189
       ],
@@ -41768,11 +41446,6 @@
      "Knap of Howar",
      59.3356,
      -2.8908
-    ],
-    [
-     "Old Man of Hoy",
-     58.8964,
-     -3.3189
     ]
    ],
    "kw": "Olasz kápolna Italian Chapel Orkney Scapa Flow Hoy-i Öreg Old Man of Hoy tengeri szikla Skara Brae Skara Brae kőkorszaki falu Brodgar-kőkör Ring of Brodgar kőkör Orkney Szent Magnus-székesegyház Kirkwall katedrális Brodgar-kőkör Ring of Brodgar kőkör Orkney Hoy-i Öreg Old Man of Hoy tengeri szikla Skara Brae Skara Brae kőkorszaki falu",
@@ -42015,7 +41688,7 @@
        44.73
       ],
       [
-       "~",
+       "Geghard Monastery",
        40.1353,
        44.7962
       ],
@@ -42078,13 +41751,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Geghard Monastery",
-     40.14,
-     44.819
-    ]
-   ],
+   "pois": [],
    "kw": "Khor Virap Khor Virap Ararát kolostor Garni-templom Garni pogány templom Geghard-kolostor Geghard sziklakolostor Sevanavank Sevan tó kolostor Jereváni Kaszkád Jereván Cascade",
    "img": "Khor Virap|Mount Ararat"
   },
@@ -42380,7 +42047,7 @@
        76.339
       ],
       [
-       "~",
+       "Munnar Tea Gardens",
        10.0259,
        77.059
       ],
@@ -42673,7 +42340,7 @@
      "id": "loop-javitott",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 4000,
+     "alt_ft": 4500,
      "stol": false,
      "label": {
       "en": "Li River loop (javitott)",
@@ -42737,7 +42404,7 @@
        110.0661
       ],
       [
-       "~",
+       "Longji Rice Terraces",
        25.7376,
        110.1182
       ],
@@ -43382,7 +43049,7 @@
        -103.4591
       ],
       [
-       "~",
+       "Crazy Horse Memorial",
        43.818,
        -103.625
       ],
@@ -43405,13 +43072,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Crazy Horse Memorial",
-     43.836,
-     -103.625
-    ]
-   ],
+   "pois": [],
    "kw": "Needles Highway Custer State Park Needles Rushmore-hegy Mount Rushmore elnökök Crazy Horse emlékmű Crazy Horse Memorial Dél-Dakota Badlands Nemzeti Park Badlands Dél-Dakota",
    "img": "Mount Rushmore|Badlands National Park"
   },
@@ -43572,7 +43233,7 @@
      "pts": [
       "KCNY",
       [
-       "~",
+       "Mesa Arch",
        38.389,
        -109.8325
       ],
@@ -43587,7 +43248,7 @@
        -109.741
       ],
       [
-       "~",
+       "Fisher Towers",
        38.715,
        -109.329
       ],
@@ -43848,7 +43509,7 @@
        -90.601
       ],
       [
-       "~",
+       "Volcán de Fuego",
        14.4595,
        -90.8558
       ],
@@ -43863,7 +43524,7 @@
        -90.9201
       ],
       [
-       "~",
+       "Acatenango",
        14.4917,
        -90.912
       ],
@@ -43886,18 +43547,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Volcán de Fuego",
-     14.473,
-     -90.88
-    ],
-    [
-     "Acatenango",
-     14.501,
-     -90.876
-    ]
-   ],
+   "pois": [],
    "kw": "Pacaya Pacaya vulkán Guatemala Volcán de Fuego Fuego vulkán Guatemala Acatenango Acatenango vulkán Atitlán-tó Atitlan tó vulkán Guatemala Antigua Guatemala Antigua Guatemala gyarmati város",
    "img": "Volcán de Fuego|Lake Atitlán"
   },
@@ -44680,12 +44330,12 @@
        33.7871
       ],
       [
-       "~",
+       "Mount Sinai",
        28.4759,
        33.8507
       ],
       [
-       "~",
+       "St Catherine's Monastery",
        28.6055,
        34.0737
       ],
@@ -44733,18 +44383,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Sinai",
-     28.539,
-     33.975
-    ],
-    [
-     "St Catherine's Monastery",
-     28.556,
-     33.976
-    ]
-   ],
+   "pois": [],
    "kw": "Sínai-hegy Sínai hegy Mózes Szent Katalin-kolostor Szent Katalin kolostor Sínai Kék lyuk, Dahab Dahab Blue Hole Tiran-sziget Tiran sziget Sarm Ras Mohammed Ras Mohammed Nemzeti Park korall Naama-öböl Naama Bay Sarm el-Sejk",
    "img": "Mount Sinai|Ras Mohammed National Park"
   },
@@ -44857,7 +44496,7 @@
        55.7599
       ],
       [
-       "~",
+       "Piton de la Fournaise",
        -21.2347,
        55.7453
       ],
@@ -44917,12 +44556,12 @@
        55.517
       ],
       [
-       "~",
+       "Piton des Neiges",
        -21.0799,
        55.4985
       ],
       [
-       "~",
+       "Cirque de Mafate",
        -21.073,
        55.4427
       ],
@@ -44945,23 +44584,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Piton de la Fournaise",
-     -21.244,
-     55.708
-    ],
-    [
-     "Piton des Neiges",
-     -21.099,
-     55.478
-    ],
-    [
-     "Cirque de Mafate",
-     -21.064,
-     55.426
-    ]
-   ],
+   "pois": [],
    "kw": "Piton de la Fournaise Piton de la Fournaise vulkán Réunion Salazie-katlan Salazie katlan Hell-Bourg Piton des Neiges Piton des Neiges Réunion Mafate-katlan Mafate katlan Réunion",
    "img": "Piton de la Fournaise|Cirque de Mafate"
   },
@@ -45587,12 +45210,12 @@
        -15.764
       ],
       [
-       "~",
+       "Roque Nublo",
        27.9375,
        -15.6288
       ],
       [
-       "~",
+       "Tejeda",
        27.9813,
        -15.6314
       ],
@@ -45610,18 +45233,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Roque Nublo",
-     27.963,
-     -15.6
-    ],
-    [
-     "Tejeda",
-     27.994,
-     -15.617
-    ]
-   ],
+   "pois": [],
    "kw": "Maspalomas-dűnék Maspalomas dűne Gran Canaria Puerto de Mogán Puerto de Mogan kikötő Roque Nublo Roque Nublo Gran Canaria szikla Tejeda Tejeda Gran Canaria falu Las Canteras-part Las Palmas Las Canteras strand",
    "img": "Roque Nublo|Maspalomas"
   },
@@ -45848,7 +45460,7 @@
      "pts": [
       "EGAA",
       [
-       "~",
+       "Slieve Donard",
        54.1984,
        -5.928
       ],
@@ -45881,13 +45493,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Slieve Donard",
-     54.181,
-     -5.92
-    ]
-   ],
+   "pois": [],
    "kw": "Slieve Donard Mourne hegység Slieve Donard Titanic Belfast Belfast Titanic múzeum Carrick-a-Rede Carrick a Rede kötélhíd Giant's Causeway Giants Causeway bazalt oszlopok Dunluce-vár Dunluce vár Észak-Írország",
    "img": "Giant's Causeway|Dunluce Castle"
   },
@@ -46386,7 +45992,7 @@
      "id": "loop-javitott",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 11000,
+     "alt_ft": 11500,
      "stol": false,
      "label": {
       "en": "Trans-Ili loop (javitott)",
@@ -46435,7 +46041,7 @@
        76.972
       ],
       [
-       "~",
+       "Big Almaty Lake",
        43.0656,
        77.0023
       ],
@@ -46450,7 +46056,7 @@
        77.0023
       ],
       [
-       "~",
+       "Talgar Peak",
        43.1592,
        77.1737
       ],
@@ -46723,9 +46329,24 @@
      "pts": [
       "RJAF",
       [
-       "Mount Norikura",
-       36.103,
-       137.554
+       "~",
+       36.094,
+       137.5733
+      ],
+      [
+       "~",
+       36.0699,
+       137.5322
+      ],
+      [
+       "~",
+       36.0793,
+       137.4967
+      ],
+      [
+       "~",
+       36.0983,
+       137.4847
       ],
       [
        "~",
@@ -46733,14 +46354,64 @@
        137.522
       ],
       [
+       "~",
+       36.1686,
+       137.5229
+      ],
+      [
+       "~",
+       36.1845,
+       137.5384
+      ],
+      [
+       "~",
+       36.2039,
+       137.5891
+      ],
+      [
        "Kamikochi",
        36.253,
        137.637
       ],
       [
-       "Mount Yari",
-       36.342,
-       137.648
+       "~",
+       36.2655,
+       137.6029
+      ],
+      [
+       "~",
+       36.2787,
+       137.5939
+      ],
+      [
+       "~",
+       36.2989,
+       137.593
+      ],
+      [
+       "~",
+       36.3547,
+       137.6322
+      ],
+      [
+       "~",
+       36.4478,
+       137.6813
+      ],
+      [
+       "~",
+       36.4488,
+       137.7
+      ],
+      [
+       "~",
+       36.433,
+       137.7462
+      ],
+      [
+       "~",
+       36.2489,
+       137.9402
       ],
       [
        "Matsumoto Castle",
@@ -46784,7 +46455,7 @@
      "pts": [
       "RJAF",
       [
-       "~",
+       "Mount Norikura",
        36.094,
        137.5733
       ],
@@ -46797,6 +46468,11 @@
        "~",
        36.1608,
        137.5846
+      ],
+      [
+       "~",
+       36.1725,
+       137.5396
       ],
       [
        "~",
@@ -46825,6 +46501,16 @@
       ],
       [
        "~",
+       36.2748,
+       137.6003
+      ],
+      [
+       "~",
+       36.3049,
+       137.5976
+      ],
+      [
+       "Mount Yari",
        36.3547,
        137.6322
       ],
@@ -47090,7 +46776,7 @@
        108.964
       ],
       [
-       "~",
+       "Mount Hua",
        34.4753,
        110.0589
       ],
@@ -47113,13 +46799,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Hua",
-     34.48,
-     110.08
-    ]
-   ],
+   "pois": [],
    "kw": "Nagy Vadlúd-pagoda Xian Nagy Vadlúd pagoda Hua-hegy Huashan szent hegy Terrakotta hadsereg Xian terrakotta sereg Hszian városfal Xian Ming városfal",
    "img": "Terracotta Army|Xi'an"
   },
@@ -47241,7 +46921,7 @@
        36.204
       ],
       [
-       "~",
+       "Cedars of God",
        34.242,
        36.0232
       ],
@@ -47274,13 +46954,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Cedars of God",
-     34.242,
-     36.045
-    ]
-   ],
+   "pois": [],
    "kw": "Baalbek Baalbek római templom Isten cédrusai Cedars of God Libanon cédrus Byblos Byblos föníciai kikötő Libanon Jeita-barlang Jeita barlang Libanon Galamb-szikla Bejrút Raouche Pigeon Rocks",
    "img": "Baalbek|Byblos"
   },
@@ -47517,7 +47191,7 @@
        116.036
       ],
       [
-       "~",
+       "Mount Rinjani",
        -8.4063,
        116.4394
       ],
@@ -47525,13 +47199,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Rinjani",
-     -8.411,
-     116.457
-    ]
-   ],
+   "pois": [],
    "kw": "Kuta Lombok Kuta Mandalika Lombok strand Gili Trawangan Gili Trawangan sziget Lombok Rinjani-hegy Rinjani vulkán Lombok",
    "img": "Mount Rinjani|Lombok"
   },
@@ -47986,7 +47654,7 @@
      "id": "loop-javitott",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 7000,
+     "alt_ft": 7500,
      "stol": false,
      "label": {
       "en": "Volcano loop (javitott)",
@@ -48030,7 +47698,7 @@
        -122.115
       ],
       [
-       "~",
+       "Mount Hood",
        45.3828,
        -121.7456
       ],
@@ -48050,7 +47718,7 @@
        -121.5975
       ],
       [
-       "~",
+       "Mount St. Helens",
        46.1785,
        -122.2128
       ],
@@ -48711,12 +48379,12 @@
        -71.537
       ],
       [
-       "~",
+       "El Misti",
        -16.2805,
        -71.4334
       ],
       [
-       "~",
+       "Chachani",
        -16.2335,
        -71.5179
       ],
@@ -48750,18 +48418,7 @@
      "hi_alt": true
     }
    ],
-   "pois": [
-    [
-     "El Misti",
-     -16.294,
-     -71.409
-    ],
-    [
-     "Chachani",
-     -16.19,
-     -71.53
-    ]
-   ],
+   "pois": [],
    "kw": "Arequipa főtere Arequipa Plaza de Armas El Misti Misti vulkán Arequipa Chachani Chachani vulkán Arequipa Colca-kanyon Colca kanyon Cruz del Condor",
    "img": "Colca Canyon|Arequipa"
   },
@@ -49166,7 +48823,7 @@
      "pts": [
       "GMTT",
       [
-       "~",
+       "Chefchaouen",
        35.1815,
        -5.2792
       ],
@@ -49187,8 +48844,18 @@
       ],
       [
        "~",
+       35.2336,
+       -5.183
+      ],
+      [
+       "~",
        35.2185,
        -5.1464
+      ],
+      [
+       "~",
+       35.2324,
+       -5.1759
       ],
       [
        "~",
@@ -50195,7 +49862,7 @@
      "pts": [
       "NZFX",
       [
-       "~",
+       "Mount Erebus",
        -77.6001,
        167.4945
       ],
@@ -50276,7 +49943,7 @@
        163.0
       ],
       [
-       "~",
+       "Mount Erebus",
        -77.5768,
        167.0448
       ],
@@ -50639,7 +50306,7 @@
      "pts": [
       "WMKL",
       [
-       "~",
+       "Langkawi Sky Bridge",
        6.3733,
        99.6778
       ],
@@ -50667,13 +50334,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Langkawi Sky Bridge",
-     6.386,
-     99.665
-    ]
-   ],
+   "pois": [],
    "kw": "Langkawi Sky Bridge Langkawi Sky Bridge Mat Cincang Kilim Geopark Kilim Karst Geoforest Park Langkawi Dayang Bunting Dayang Bunting tó Langkawi Pantai Cenang Pantai Cenang Langkawi strand",
    "img": "Langkawi|Langkawi Sky Bridge"
   },
@@ -50815,7 +50476,7 @@
        116.5574
       ],
       [
-       "~",
+       "Mount Kinabalu",
        6.114,
        116.5354
       ],
@@ -50843,13 +50504,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Kinabalu",
-     6.075,
-     116.558
-    ]
-   ],
+   "pois": [],
    "kw": "Kota Kinabalu Városi mecset Kota Kinabalu City Mosque Poring forrásai Poring Hot Springs Kinabalu Kinabalu-hegy Kinabalu hegy Borneó Gaya-sziget Gaya sziget Tunku Abdul Rahman Park",
    "img": "Mount Kinabalu|Kota Kinabalu"
   },
@@ -51194,12 +50849,12 @@
      "pts": [
       "UHPP",
       [
-       "~",
+       "Koryaksky",
        53.3073,
        158.7333
       ],
       [
-       "~",
+       "Avachinsky Volcano",
        53.2687,
        158.8087
       ],
@@ -51222,18 +50877,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Koryaksky",
-     53.32,
-     158.712
-    ],
-    [
-     "Avachinsky Volcano",
-     53.256,
-     158.83
-    ]
-   ],
+   "pois": [],
    "kw": "Korjakszkij-vulkán Korjakszkij vulkán Kamcsatka Avacsinszkij-vulkán Avacsinszkij vulkán Kamcsatka Mutnovszkij Mutnovsky vulkán Kamcsatka Vilucsinszkij Vilyuchinsky vulkán Kamcsatka",
    "img": "Avachinsky|Koryaksky"
   },
@@ -51806,7 +51450,7 @@
        -23.605
       ],
       [
-       "~",
+       "Pico do Fogo",
        14.95,
        -24.312
       ],
@@ -51824,13 +51468,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Pico do Fogo",
-     14.95,
-     -24.34
-    ]
-   ],
+   "pois": [],
    "kw": "Cidade Velha Cidade Velha Zöld-foki gyarmati Pico do Fogo Fogo vulkán Zöld-foki Tarrafal Tarrafal Santiago fekete strand",
    "img": "Pico do Fogo|Cidade Velha",
    "new": true
@@ -52382,7 +52020,7 @@
        36.7652
       ],
       [
-       "~",
+       "Mount Kenya",
        -0.161,
        37.2924
       ],
@@ -52401,13 +52039,7 @@
      "hi_alt": true
     }
    ],
-   "pois": [
-    [
-     "Mount Kenya",
-     -0.152,
-     37.308
-    ]
-   ],
+   "pois": [],
    "kw": "Ol Pejeta rezervátum Ol Pejeta orrszarvú szentély Satima-hegy Aberdare Satima hegy Kenya-hegy Kenya hegy gleccser Egyenlítő Lewa vadrezervátum Lewa Conservancy orrszarvú",
    "img": "Mount Kenya|Ol Pejeta Conservancy",
    "new": true
@@ -53867,7 +53499,7 @@
        85.65
       ],
       [
-       "~",
+       "Mount Belukha",
        49.843,
        86.6867
       ],
@@ -53895,13 +53527,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Belukha",
-     49.807,
-     86.59
-    ]
-   ],
+   "pois": [],
    "kw": "Csemal Csemal Katun folyó Altaj Szeminszkij-hágó Seminsky hágó Altaj Belukha-hegy Belukha hegy Altaj Teleckoje-tó Teletskoye tó Altaj",
    "img": "Belukha Mountain|Lake Teletskoye",
    "new": true
@@ -53970,7 +53596,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 17000,
+     "alt_ft": 18500,
      "stol": false,
      "label": {
       "en": "Tibetan plateau loop",
@@ -54014,6 +53640,51 @@
        91.5167
       ],
       [
+       "~",
+       29.2062,
+       91.1597
+      ],
+      [
+       "~",
+       29.2226,
+       91.0055
+      ],
+      [
+       "~",
+       29.209,
+       90.9619
+      ],
+      [
+       "~",
+       29.1435,
+       90.8901
+      ],
+      [
+       "~",
+       29.1024,
+       90.7594
+      ],
+      [
+       "~",
+       29.0586,
+       90.7116
+      ],
+      [
+       "~",
+       28.9795,
+       90.7108
+      ],
+      [
+       "~",
+       28.9357,
+       90.663
+      ],
+      [
+       "~",
+       28.9458,
+       90.5362
+      ],
+      [
        "Yamdrok Lake",
        28.983,
        90.45
@@ -54022,6 +53693,31 @@
        "~",
        29.0776,
        90.3906
+      ],
+      [
+       "~",
+       29.1402,
+       90.4673
+      ],
+      [
+       "~",
+       29.1517,
+       90.5296
+      ],
+      [
+       "~",
+       29.2114,
+       90.5822
+      ],
+      [
+       "~",
+       29.2438,
+       90.6587
+      ],
+      [
+       "~",
+       29.2424,
+       90.7798
       ],
       "ZULS"
      ],
@@ -54032,7 +53728,7 @@
      "id": "loop-javitott",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 17000,
+     "alt_ft": 18500,
      "stol": false,
      "label": {
       "en": "Tibetan plateau loop (javitott)",
@@ -54072,6 +53768,11 @@
       ],
       [
        "~",
+       29.57,
+       91.1109
+      ],
+      [
+       "~",
        29.5242,
        91.1192
       ],
@@ -54087,8 +53788,28 @@
       ],
       [
        "~",
+       29.4802,
+       91.2739
+      ],
+      [
+       "~",
+       29.4138,
+       91.2737
+      ],
+      [
+       "~",
        29.3636,
        91.3075
+      ],
+      [
+       "~",
+       29.3438,
+       91.3336
+      ],
+      [
+       "~",
+       29.3452,
+       91.39
       ],
       [
        "Samye Monastery",
@@ -54137,13 +53858,18 @@
       ],
       [
        "~",
-       29.0776,
-       90.3906
+       29.1012,
+       90.4461
       ],
       [
        "~",
-       29.1012,
-       90.4461
+       29.1267,
+       90.4588
+      ],
+      [
+       "~",
+       29.156,
+       90.5039
       ],
       [
        "~",
@@ -54519,7 +54245,7 @@
        98.517
       ],
       [
-       "~",
+       "Mount Sinabung",
        3.1544,
        98.401
       ],
@@ -54537,13 +54263,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Sinabung",
-     3.17,
-     98.392
-    ]
-   ],
+   "pois": [],
    "kw": "Sipiso-piso vízesés Sipiso-piso vízesés Sinabung-vulkán Sinabung vulkán Szumátra Samosir-sziget Samosir sziget Toba batak",
    "img": "Lake Toba|Samosir",
    "new": true
@@ -54658,6 +54378,36 @@
        "Kalibo",
        11.705,
        122.364
+      ],
+      [
+       "~",
+       11.5369,
+       122.2619
+      ],
+      [
+       "~",
+       11.5043,
+       122.2101
+      ],
+      [
+       "~",
+       11.5042,
+       122.1699
+      ],
+      [
+       "~",
+       11.482,
+       122.1004
+      ],
+      [
+       "~",
+       11.4472,
+       122.0793
+      ],
+      [
+       "~",
+       11.3569,
+       122.0726
       ],
       [
        "Mount Madja-as",
@@ -55023,7 +54773,7 @@
        100.1257
       ],
       [
-       "~",
+       "Jade Dragon Snow Mountain",
        27.0766,
        100.1952
       ],
@@ -55046,11 +54796,6 @@
      "Lijiang Old Town",
      26.87,
      100.23
-    ],
-    [
-     "Jade Dragon Snow Mountain",
-     27.1,
-     100.18
     ]
    ],
    "kw": "Lugu-tó Lugu tó Mosuo Tigrisugrás-szurdok Tigrisugrás szurdok Jangce Jádesárkány-hegy Jade Dragon hegy Lijiang Lijiang óvárosa Lijiang óváros Naxi",
@@ -55532,7 +55277,7 @@
        -5.861
       ],
       [
-       "~",
+       "Naranjo de Bulnes",
        43.2194,
        -4.8244
       ],
@@ -55555,11 +55300,6 @@
      "Covadonga Lakes",
      43.274,
      -4.987
-    ],
-    [
-     "Naranjo de Bulnes",
-     43.202,
-     -4.818
     ]
    ],
    "kw": "Santa María del Naranco Naranco templom Oviedo Naranjo de Bulnes Naranjo de Bulnes Picos de Europa Peñas-fok Cabo Penas világítótorony Covadonga-tavak Covadonga tavak Enol Ercina",
@@ -55938,7 +55678,7 @@
        40.297
       ],
       [
-       "~",
+       "Kaçkar Mountains",
        40.7654,
        41.1867
       ],
@@ -55951,13 +55691,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Kaçkar Mountains",
-     40.835,
-     41.162
-    ]
-   ],
+   "pois": [],
    "kw": "Trabzoni Hagia Sophia Hagia Sophia Trabzon Sumela-kolostor Sumela kolostor szikla Trabzon Uzungöl Uzungöl tó Rize Kaçkar-hegység Kaçkar hegység Ayder",
    "img": "Sumela Monastery|Uzungöl",
    "new": true
@@ -56070,7 +55804,7 @@
        2.5485
       ],
       [
-       "~",
+       "Puy de Sancy",
        45.5124,
        2.8011
       ],
@@ -56083,13 +55817,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Puy de Sancy",
-     45.528,
-     2.814
-    ]
-   ],
+   "pois": [],
    "kw": "Pavin-tó Lac Pavin kráter tó Puy Mary Puy Mary vulkán Cantal Puy de Sancy Puy de Sancy Mont-Dore Puy de Dôme Puy de Dome vulkán Auvergne",
    "img": "Puy de Dôme|Chaîne des Puys",
    "new": true
@@ -56308,7 +56036,7 @@
      "pts": [
       "LPHR",
       [
-       "~",
+       "Mount Pico",
        38.4479,
        -28.4264
       ],
@@ -56341,11 +56069,6 @@
      "Caldeira do Faial",
      38.58,
      -28.71
-    ],
-    [
-     "Mount Pico",
-     38.467,
-     -28.402
     ]
    ],
    "kw": "Pico-hegy Pico hegy Azori Pico szőlőkultúra Pico szőlő lávakő unesco Capelinhos-vulkán Capelinhos vulkán Faial Faial kaldera Caldeira Faial kráter",
@@ -56481,7 +56204,7 @@
      "id": "long-javitott",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 5000,
+     "alt_ft": 6000,
      "stol": false,
      "label": {
       "en": "Inside Passage loop (javitott)",
@@ -56988,7 +56711,7 @@
        -76.5778
       ],
       [
-       "~",
+       "Blue Mountain Peak",
        18.0848,
        -76.5702
       ],
@@ -57235,7 +56958,7 @@
      "pts": [
       "MNMG",
       [
-       "~",
+       "Ometepe Island",
        11.5487,
        -85.635
       ],
@@ -57268,11 +56991,6 @@
      "Granada",
      11.934,
      -85.956
-    ],
-    [
-     "Ometepe Island",
-     11.536,
-     -85.622
     ]
    ],
    "kw": "Ometepe-sziget Ometepe Concepcion vulkán Masaya-vulkán Masaya vulkán láva tó Cerro Negro Cerro Negro vulkán León Granada Granada Nicaragua gyarmati",
@@ -62717,7 +62435,7 @@
        -155.16
       ],
       [
-       "~",
+       "Mount Katmai",
        58.2847,
        -155.0231
       ],
@@ -62755,13 +62473,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Katmai",
-     58.28,
-     -154.99
-    ]
-   ],
+   "pois": [],
    "new": true,
    "img": "Katmai National Park and Preserve|Valley of Ten Thousand Smokes",
    "kw": ""
@@ -62885,7 +62597,7 @@
      "id": "loop-javitott",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 6000,
+     "alt_ft": 6500,
      "stol": false,
      "label": {
       "en": "Honduras highlands loop (javitott)",
@@ -62919,7 +62631,7 @@
        -87.98
       ],
       [
-       "~",
+       "Celaque",
        14.56,
        -88.6335
       ],
@@ -63289,7 +63001,7 @@
        -72.0704
       ],
       [
-       "~",
+       "Pic la Selle",
        18.3948,
        -72.0298
       ],
@@ -63576,7 +63288,7 @@
        -65.49
       ],
       [
-       "~",
+       "Cerro Rico",
        -19.6044,
        -65.7404
       ],
@@ -63600,11 +63312,6 @@
      "Sucre Historic Centre",
      -19.046,
      -65.26
-    ],
-    [
-     "Cerro Rico",
-     -19.62,
-     -65.75
     ]
    ],
    "new": true,
@@ -64045,7 +63752,7 @@
        -172.4702
       ],
       [
-       "~",
+       "Mount Matavanu",
        -13.574,
        -172.52
       ],
@@ -64555,7 +64262,7 @@
        9.7
       ],
       [
-       "~",
+       "Mount Cameroon",
        4.1805,
        9.2091
       ],
@@ -64578,13 +64285,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Cameroon",
-     4.203,
-     9.17
-    ]
-   ],
+   "pois": [],
    "new": true,
    "img": "Mount Cameroon|Limbe, Cameroon",
    "kw": ""
@@ -65210,7 +64911,7 @@
        -89.63
       ],
       [
-       "~",
+       "Santa Ana Volcano",
        13.826,
        -89.63
       ],
@@ -65228,13 +64929,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Santa Ana Volcano",
-     13.853,
-     -89.63
-    ]
-   ],
+   "pois": [],
    "new": true,
    "img": "Lake Coatepeque|Santa Ana Volcano",
    "kw": ""
@@ -65347,7 +65042,7 @@
        -71.6396
       ],
       [
-       "~",
+       "Pico Duarte",
        19.004,
        -70.983
       ],
@@ -65360,13 +65055,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Pico Duarte",
-     19.022,
-     -70.983
-    ]
-   ],
+   "pois": [],
    "new": true,
    "img": "Zona Colonial|Pico Duarte",
    "kw": ""
@@ -65608,12 +65297,12 @@
        -154.2119
       ],
       [
-       "~",
+       "Iliamna Volcano",
        60.0389,
        -153.1442
       ],
       [
-       "~",
+       "Redoubt Volcano",
        60.4592,
        -152.7288
       ],
@@ -65636,16 +65325,6 @@
      "Tanalian Falls",
      60.18,
      -154.31
-    ],
-    [
-     "Iliamna Volcano",
-     60.0319,
-     -153.0919
-    ],
-    [
-     "Redoubt Volcano",
-     60.4853,
-     -152.743
     ]
    ],
    "new": true,
@@ -65779,7 +65458,7 @@
        -137.4008
       ],
       [
-       "~",
+       "Mount Fairweather",
        58.8671,
        -137.4864
       ],
@@ -65802,11 +65481,6 @@
      "Icy Strait Point",
      58.1194,
      -135.4519
-    ],
-    [
-     "Mount Fairweather",
-     58.9061,
-     -137.53
     ]
    ],
    "new": true,
@@ -66174,7 +65848,7 @@
        -125.3882
       ],
       [
-       "~",
+       "Mount Waddington",
        51.3578,
        -125.292
       ],
@@ -66212,13 +65886,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Waddington",
-     51.3769,
-     -125.2614
-    ]
-   ],
+   "pois": [],
    "new": true,
    "kw": "",
    "img": "Hunlen Falls|Tweedsmuir Provincial Park"
@@ -66320,7 +65988,7 @@
        -124.1707
       ],
       [
-       "~",
+       "Mount Waddington",
        51.3613,
        -125.247
       ],
@@ -66358,13 +66026,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Mount Waddington",
-     51.3769,
-     -125.2614
-    ]
-   ],
+   "pois": [],
    "new": true,
    "kw": "",
    "img": "Chilko Lake|Mount Waddington"
@@ -67148,7 +66810,7 @@
        -78.8999
       ],
       [
-       "~",
+       "Alexander Selkirk Island",
        -33.7667,
        -80.7616
       ],
@@ -67181,11 +66843,6 @@
      "El Yunque",
      -33.6389,
      -78.9611
-    ],
-    [
-     "Alexander Selkirk Island",
-     -33.7667,
-     -80.7833
     ]
    ],
    "new": true,
@@ -67688,7 +67345,7 @@
      "id": "loop-javitott",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 5500,
+     "alt_ft": 6500,
      "stol": true,
      "label": {
       "en": "Gold Rush loop (javitott)",
@@ -67786,6 +67443,11 @@
      "Chilkoot Pass",
      59.5681,
      -135.2347
+    ],
+    [
+     "~=",
+     59.5448,
+     -135.256
     ]
    ],
    "new": true,
@@ -68362,7 +68024,7 @@
        -17.9722
       ],
       [
-       "~",
+       "El Sabinar",
        27.6976,
        -18.0343
       ],
@@ -68392,7 +68054,7 @@
        -17.2567
       ],
       [
-       "~",
+       "Garajonay",
        28.0838,
        -17.2265
       ],
@@ -68425,11 +68087,6 @@
      "El Sabinar",
      27.715,
      -18.029
-    ],
-    [
-     "Garajonay",
-     28.1186,
-     -17.2371
     ]
    ],
    "new": true,
@@ -68713,7 +68370,7 @@
        82.7667
       ],
       [
-       "~",
+       "Phoksundo Lake",
        29.2157,
        82.9414
       ],
@@ -68776,13 +68433,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Phoksundo Lake",
-     29.1983,
-     82.9467
-    ]
-   ],
+   "pois": [],
    "new": true,
    "kw": "",
    "img": "Rara Lake|Jumla"
@@ -69425,7 +69076,7 @@
        148.0995
       ],
       [
-       "~",
+       "Strzelecki Peaks",
        -40.2174,
        148.0861
       ],
@@ -69453,13 +69104,7 @@
      ]
     }
    ],
-   "pois": [
-    [
-     "Strzelecki Peaks",
-     -40.2,
-     148.08
-    ]
-   ],
+   "pois": [],
    "new": true,
    "kw": "",
    "img": "Flinders Island|Cape Barren Island"
