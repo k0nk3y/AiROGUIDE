@@ -1,0 +1,101 @@
+# Túra-átnézési lista (v709)
+
+Állapot: [ ] = átnézésre vár. Döntés: eredeti / javított / kézi / kivesz.
+
+- [ ] bagan/mid – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] bagan/mid-javitott – 2. kör – javított változat (127°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] budapest/city – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] budapest/city-javitott – 2. kör – javított változat (132°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] mallorca/short – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] mallorca/short-javitott – 2. kör – javított változat (125°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] crete/grand – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] crete/grand-javitott – 2. kör – javított változat (152°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] machu-picchu/full – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] machu-picchu/full-javitott – 2. kör – javított változat (141°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] rio/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] rio/loop-javitott – 2. kör – javított változat (125°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] las-vegas/full – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] las-vegas/full-javitott – 2. kör – javított változat (124°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] bali/full – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] bali/full-javitott – 2. kör – javított változat (146°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] denali/foraker – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] denali/foraker-javitott – 2. kör – javított változat (168°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] denali/kantishna – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] denali/kantishna-javitott – 2. kör – javított változat (152°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] madeira/short – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] madeira/short-javitott – 2. kör – javított változat (179°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] madeira/grand – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] madeira/grand-javitott – 2. kör – javított változat (124°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] tenerife/la-gomera – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] tenerife/la-gomera-javitott – 2. kör – javított változat (139°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] bhutan/short – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] bhutan/short-javitott – 2. kör – javított változat (139°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] nazca/long – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] nazca/long-javitott – 2. kör – javított változat (122°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] mccarthy/wrangell – 1. kör – eredeti (a csúcsok fölött vezet); mellette a javított
+- [ ] mccarthy/wrangell-javitott – 1. kör – kézzel tervezett (csúcsok 6–7 km-re, ÉK-i oldalról), terepellenőrzés nélkül
+- [ ] vancouver/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] vancouver/loop-javitott – 2. kör – javított változat (173°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] bariloche/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] bariloche/loop-javitott – 2. kör – javított változat (131°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] rotorua-tongariro/long – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] rotorua-tongariro/long-javitott – 2. kör – javított változat (131°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] pokhara-annapurna/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] pokhara-annapurna/loop-javitott – 2. kör – javított változat (143°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] kuala-lumpur/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] kuala-lumpur/loop-javitott – 2. kör – javított változat (129°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] chiang-mai/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] chiang-mai/loop-javitott – 2. kör – javított változat (174°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] san-diego/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] san-diego/loop-javitott – 2. kör – javított változat (132°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] kiruna-abisko/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] kiruna-abisko/loop-javitott – 2. kör – javított változat (171°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] kerala/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] kerala/loop-javitott – 2. kör – javított változat (173°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] guilin/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] guilin/loop-javitott – 2. kör – javított változat (177°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] moab-arches/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] moab-arches/loop-javitott – 2. kör – javított változat (135°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] almaty/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] almaty/loop-javitott – 2. kör – javított változat (145°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] japan-alps/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] japan-alps/loop-javitott – 2. kör – javított változat (138°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] portland-gorge/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] portland-gorge/loop-javitott – 2. kör – javított változat (150°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] tangier-chefchaouen/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] tangier-chefchaouen/loop-javitott – 2. kör – javított változat (173°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] mcmurdo/short – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] mcmurdo/short-javitott – 2. kör – javított változat (179°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] lalibela/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] lalibela/loop-javitott – 2. kör – javított változat (176°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] tibet-lhasa/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] tibet-lhasa/loop-javitott – 2. kör – javított változat (146°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] boracay-panay/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] boracay-panay/loop-javitott – 2. kör – javított változat (126°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] juneau-passage/long – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] juneau-passage/long-javitott – 2. kör – javított változat (178°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] jamaica/long – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] jamaica/long-javitott – 2. kör – javított változat (156°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] copan-honduras/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] copan-honduras/loop-javitott – 2. kör – javított változat (132°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] haiti-citadelle/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] haiti-citadelle/loop-javitott – 2. kör – javított változat (154°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] samoa-upolu/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] samoa-upolu/loop-javitott – 2. kör – javított változat (135°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] stol-skagway/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] stol-skagway/loop-javitott – 2. kör – javított változat (169°-os fordulóval) – az eredetivel együtt, válassz
+- [ ] stol-grimsey/loop – 2. kör – eredeti útvonal – mellette a javított (-javitott), válassz
+- [ ] stol-grimsey/loop-javitott – 2. kör – javított változat (126°-os fordulóval) – az eredetivel együtt, válassz
+
+## Nagy csúcsos túrák (külön döntés: magaslati gép / kivesz)
+
+- [ ] kilimanjaro/loop
+- [ ] atacama/short
+- [ ] bhutan/long
+- [ ] santiago-andes/long
+- [ ] jomsom-mustang/loop
+- [ ] salta-humahuaca/loop
+- [ ] darjeeling-sikkim/long
+- [ ] stol-jumla/loop
+- [ ] pokhara-annapurna/loop
+- [ ] mccarthy/wrangell
