@@ -13,7 +13,7 @@ Hasznalat:
   python3 tools/terrain_check.py everest ...  csak a megadott tura-azonositok
   python3 tools/terrain_check.py --csv ki.csv az eredmeny CSV-ben is (tura;variáns;km;gyanus_km;max_ft;...)
 Beallitasok (kornyezeti valtozo): CLEAR (alap 500 ft), LAT (alap 1.5 km), STEP (alap 1.0 km)."""
-import csv, gzip, json, math, os, sys, time, urllib.error, urllib.request
+import csv, gzip, hashlib, json, math, os, sys, time, urllib.error, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "tools", ".elev_cache.json")
 CLEAR = float(os.environ.get("CLEAR", 500))      # minimalis fuggoleges szabad hely a terep folott (ft)
@@ -154,65 +154,90 @@ def analyse(v, ap):
     return {"km": tot, "bad": min(bad_km, tot), "worst": worst, "runs": runs, "max_ter": max(el[3 * i] for i in range(len(S)))}
 
 
+def vkey(t, v):
+    h = hashlib.md5(json.dumps(v["pts"], sort_keys=True).encode("utf-8")).hexdigest()[:10]
+    return "%s/%s|%s|%s" % (t["id"], v["id"], v["alt_ft"], h)
+
+
+def write_reports(rows, csvp, txtp, stop=None):
+    rows = sorted(rows, key=lambda r: ({"HIBA": 0, "figy": 1, "ok": 2}[r[8]], -r[4]))
+    with open(csvp, "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.writer(f, delimiter=";")
+        w.writerow(["tura", "variáns", "km", "gyanus_km", "gyanus_%", "legmagasabb_gerinc_ft_a_repmagassag_folott", "alt_ft", "minosites"])
+        for r in rows:
+            w.writerow([r[0], r[1], round(r[2]), round(r[3]), round(r[4]), round(r[5]), r[7], r[8]])
+    with open(txtp, "w", encoding="utf-8") as f:
+        f.write("Terep-ellenorzes (%d variáns kész)%s\n\n" % (len(rows), "  - FOLYAMATBAN: " + stop if stop else ""))
+        for r in rows:
+            if r[8] == "ok":
+                continue
+            f.write("%s %s/%s: %.0f km, ebbol %.0f km (%.0f%%) gyanus; legmagasabb gerinc %+d ft a %d ft-os repmagassaghoz kepest\n" % (r[8], r[0], r[1], r[2], r[3], r[4], r[5], r[7]))
+            for a, b, g in r[6][:6]:
+                f.write("      %.0f-%.0f. km: legkisebb szabad hely %d ft\n" % (a, b, g))
+
+
 def main():
     args = sys.argv[1:]
-    csvp = None
-    if "--csv" in args:
-        i = args.index("--csv"); csvp = args[i + 1]; del args[i:i + 2]
-    only = set(args)
+    only = set(a for a in args if not a.startswith("-"))
     if os.path.exists(CACHE):
         _cache.update(json.load(open(CACHE)))
+    done = {}
+    DONE = os.path.join(ROOT, "tools", ".terrain_done.json")
+    if os.path.exists(DONE):
+        done = json.load(open(DONE, encoding="utf-8"))
+    csvp = os.path.join(ROOT, "terrain_eredmeny.csv")
+    txtp = os.path.join(ROOT, "terrain_eredmeny.txt")
     ap = {}
     for ln in gzip.open(os.path.join(ROOT, "data", "airports_rwy.tsv.gz"), "rt", encoding="utf-8"):
         p = ln.split("\t")
         ap[p[0]] = (float(p[2]), float(p[3]))
     d = json.load(open(os.path.join(ROOT, "data", "tours.json"), encoding="utf-8"))
+    todo = [(t, v) for t in d["tours"] if not only or t["id"] in only for v in t["variants"]]
     rows = []
-    stop = None
+    for t, v in todo:
+        k = vkey(t, v)
+        if k in done:
+            rows.append(done[k])
+    print("%d variáns, ebbol %d mar kesz. Az eredmeny menet kozben is mentodik:\n  %s\n  %s\n(Leallitas: Ctrl+C vagy az ablak bezarasa; ujrainditaskor ott folytatja.)\n" % (len(todo), len(rows), csvp, txtp))
+    write_reports(rows, csvp, txtp)
     try:
-        for t in d["tours"]:
-            if only and t["id"] not in only:
+        for t, v in todo:
+            k = vkey(t, v)
+            if k in done:
                 continue
-            for v in t["variants"]:
+            while True:
                 try:
                     r = analyse(v, ap)
+                    break
                 except Stop as e:
-                    stop = str(e); break
-                if not r:
-                    continue
-                share = 100.0 * r["bad"] / r["km"] if r["km"] else 0
-                flag = "HIBA" if share >= 10 or r["worst"][0] > 1000 else ("figy" if share >= 2 or r["bad"] >= 3 else "ok")
-                rows.append((t["id"], v["id"], r["km"], r["bad"], share, r["worst"][0], r["runs"], v["alt_ft"], flag))
-                if flag != "ok":
-                    print("%-5s %s/%s: %.0f km, ebbol %.0f km (%.0f%%) a terep %d ft-nal kozelebb van a %d ft-os magassaghoz; legmagasabb gerinc %+d ft a repulesi magassaghoz kepest (a %.0f. km-nel)"
-                          % (flag, t["id"], v["id"], r["km"], r["bad"], share, CLEAR, v["alt_ft"], r["worst"][0], r["worst"][1]))
-                    for a, b, g in r["runs"][:4]:
-                        print("        %.0f-%.0f. km: legkisebb szabad hely %d ft" % (a, b, g))
-                else:
-                    print("ok    %s/%s" % (t["id"], v["id"]))
-            if stop:
-                break
+                    print("\n" + str(e) + "\n   Ujraprobalom egy ora mulva (az ablakot hagyd nyitva; az eddigi eredmeny mentve van).")
+                    write_reports(rows, csvp, txtp, str(e))
+                    time.sleep(3600)
+            if not r:
+                continue
+            share = 100.0 * r["bad"] / r["km"] if r["km"] else 0
+            flag = "HIBA" if share >= 10 or r["worst"][0] > 1000 else ("figy" if share >= 2 or r["bad"] >= 3 else "ok")
+            row = [t["id"], v["id"], r["km"], r["bad"], share, r["worst"][0], [list(x) for x in r["runs"]], v["alt_ft"], flag]
+            rows.append(row)
+            done[k] = row
+            json.dump(done, open(DONE, "w", encoding="utf-8"))
+            write_reports(rows, csvp, txtp)
+            print("%-5s %s/%s  (%d/%d)  gyanus: %.0f%%, legmagasabb gerinc %+d ft" % (flag, t["id"], v["id"], len(rows), len(todo), share, r["worst"][0]))
     finally:
         try:
             json.dump(_cache, open(CACHE, "w"))
         except Exception:
             pass
-    if csvp:
-        with open(csvp, "w", newline="", encoding="utf-8-sig") as f:
-            w = csv.writer(f, delimiter=";")
-            w.writerow(["tura", "variáns", "km", "gyanus_km", "gyanus_%", "legmagasabb_gerinc_ft_a_repmagassag_folott", "alt_ft", "minosites"])
-            for r in rows:
-                w.writerow([r[0], r[1], round(r[2]), round(r[3]), round(r[4]), round(r[5]), r[7], r[8]])
     n = sum(1 for r in rows if r[8] != "ok")
-    if stop:
-        print("\nMEGALLT: " + stop)
-    print("\n%d variáns vizsgálva, %d gyanús (HIBA: >=10%% szakasz vagy >1000 ft-tal magasabb gerinc; figy: >=2%%)." % (len(rows), n))
+    print("\nKESZ: %d variáns, %d gyanus (HIBA: >=10%% szakasz vagy >1000 ft-tal magasabb gerinc; figy: >=2%%). Eredmeny: %s" % (len(rows), n, txtp))
 
 
 if __name__ == "__main__":
     try:
         main()
+    except KeyboardInterrupt:
+        print("\nLeallitva. Ujrainditaskor ott folytatja.")
     except Exception as e:
         print("Hiba:", e)
-    if os.name == "nt" and len(sys.argv) == 1:
+    if os.name == "nt":
         input("\nNyomj Entert a bezarashoz...")

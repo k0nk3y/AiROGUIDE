@@ -1,2 +1,5 @@
 airoguide_*.json
 airoguide_debug.log
+terrain_eredmeny.*
+tools/.elev_cache.json
+tools/.terrain_done.json
