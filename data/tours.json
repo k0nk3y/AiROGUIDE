@@ -27998,7 +27998,89 @@
        -141.9173
       ],
       "CZN"
-     ]
+     ],
+     "review": "1. kör – eredeti (a csúcsok fölött vezet); mellette a javított"
+    },
+    {
+     "id": "wrangell-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 14000,
+     "stol": true,
+     "label": {
+      "en": "Wrangell loop (javitott)",
+      "hu": "Wrangell-kör (javitott)",
+      "de": "Wrangell-Runde (javitott)",
+      "es": "Circuito Wrangell (javitott)",
+      "fr": "Boucle du Wrangell (javitott)",
+      "it": "Giro del Wrangell (javitott)",
+      "pl": "Pętla Wrangell (javitott)",
+      "ru": "Маршрут вокруг Рангела (javitott)",
+      "sk": "Okruh Wrangell (javitott)",
+      "zh": "兰格尔环线 (javitott)"
+     },
+     "desc": {
+      "en": "Mount Bona, Blackburn, Sanford and Wrangell.",
+      "hu": "Bona, Blackburn, Sanford és Wrangell.",
+      "de": "Mount Bona, Blackburn, Sanford und Wrangell.",
+      "es": "Monte Bona, Blackburn, Sanford y Wrangell.",
+      "fr": "Monts Bona, Blackburn, Sanford et Wrangell.",
+      "it": "Monte Bona, Blackburn, Sanford e Wrangell.",
+      "pl": "Mount Bona, Blackburn, Sanford i Wrangell.",
+      "ru": "Горы Бона, Блэкберн, Сэнфорд и Рангел.",
+      "sk": "Hory Bona, Blackburn, Sanford a Wrangell.",
+      "zh": "博纳山、布莱克本山、桑福德山和兰格尔山。"
+     },
+     "pts": [
+      "CZN",
+      [
+       "~=",
+       62.0251,
+       -141.9565
+      ],
+      [
+       "~",
+       61.9937,
+       -141.9939
+      ],
+      [
+       "~",
+       62.4,
+       -143.25
+      ],
+      [
+       "Mount Sanford",
+       62.2578,
+       -144.0327
+      ],
+      [
+       "Mount Wrangell",
+       62.0503,
+       -143.9244
+      ],
+      [
+       "Mount Blackburn",
+       61.7755,
+       -143.3089
+      ],
+      [
+       "Mount Bona",
+       61.4237,
+       -141.666
+      ],
+      [
+       "~",
+       61.4508,
+       -141.566
+      ],
+      [
+       "~=",
+       62.0054,
+       -141.9173
+      ],
+      "CZN"
+     ],
+     "review": "1. kör – kézzel tervezett (csúcsok 6–7 km-re, ÉK-i oldalról), terepellenőrzés nélkül"
     }
    ],
    "pois": [],
