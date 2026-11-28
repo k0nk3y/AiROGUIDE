@@ -5,12 +5,12 @@ A rajzolt utvonal (a tours.json-ban "drawn": true jelzesu valtozatok) fixen megm
 szakaszonkent a terep szerint finomodik: ahol a vonal a repulesi magassaghoz kozeli magassagu hegyre / gerincre csuszott,
 a program a vonal korul (+/- SNAP_CORR km) keres egy jobb utat, amely
   - a keményen tiltott teruleteken (terep + CLEAR > magassag) nem megy at,
-  - a helyi volgyszintnel (a vonal korul) RELIEF-fel magasabb teruletektol lehetoleg tavol marad (puha buntetes), tehat a volgyeket / hegylabakat kovetve repul,
+  - a meredek lejtoktol (nagy emelkedes / sullyedes km-enkent) lehetoleg tavol marad (puha buntetes), tehat a volgyeket / sik teruleteket kovetve repul,
   - a rajzolt vonalhoz kozel marad.
 Eredmeny: data/tours_javaslat.json + terrain_javaslat.txt (kuldd el atnezesre; az eredeti nem valtozik).
 
 Hasznalat:  py tools\\terrain_snap.py [tura/valtozat ...]       (pl. bagan/mid; nelkule: minden "drawn" valtozat)
-Beallitasok (kornyezeti valtozo): SNAP_CORR (alap 8 km), RELIEF (alap 1200 ft), PEN (alap 8), CELL (alap 0.5 km), CLEAR (alap 500 ft)."""
+Beallitasok (kornyezeti valtozo): SNAP_CORR (alap 8 km), SLOPE_OK (alap 250 ft/km), SLOPE_STEEP (alap 400 ft/km), PEN (alap 6), CELL (alap 0.5 km), CLEAR (alap 500 ft)."""
 import os
 import sys
 import json
@@ -22,8 +22,9 @@ import terrain_check as tc
 import terrain_fix as f
 
 SNAP_CORR = float(os.environ.get("SNAP_CORR", 8.0))
-RELIEF = float(os.environ.get("RELIEF", 1200))     # a vonal korul mert legalacsonyabb (volgy-) szint folott ennyit meg "ingyen" szabad emelkedni
-PEN = float(os.environ.get("PEN", 8.0))
+SLOPE_OK = float(os.environ.get("SLOPE_OK", 250))      # ft/km: ennyi meredekseg alatt nincs buntetes (kb. 5%)
+SLOPE_STEEP = float(os.environ.get("SLOPE_STEEP", 400))  # ft/km: ennyivel nagyobb meredekseg a buntetes egysege
+PEN = float(os.environ.get("PEN", 6.0))
 CELL = float(os.environ.get("CELL", 0.5))
 CLEAR = tc.CLEAR
 
@@ -43,9 +44,7 @@ def corridor(a, b):
 
 
 def search(grid, nu, nv, el, alt, step):
-    """Koltseg-alapu A*: szabad cella (terep + CLEAR <= alt); a helyi volgyszint + RELIEF feletti magassag puha buntetes (a terep reliefjehez kepest, nem a repulesi magassaghoz); oldaleltérés kis buntetes."""
-    ref = sorted(el.values())[int(0.1 * len(el))]          # a korridor volgyszintje (10. percentilis)
-    thr = ref + RELIEF
+    """Koltseg-alapu A*: szabad cella (terep + CLEAR <= alt); a meredek terep (nagy magassagvaltozas km-enkent) puha buntetes: nem a magassag szamit, hanem a meredekseg; oldaleltérés kis buntetes."""
     blocked = {k: (el[k] + CLEAR > alt) for k in grid}
     start, goal = (0, 0), (nu, 0)
     blocked[start] = blocked[goal] = False
@@ -75,8 +74,10 @@ def search(grid, nu, nv, el, alt, step):
                 if t > 100:
                     continue
                 turn = (t / 45.0) ** 2 * CELL * 0.5
-            h = max(0.0, el[n] - thr) / 1000.0
-            ng = g + math.hypot(dd[0] * step, dd[1] * CELL) * (1.0 + PEN * h) + turn + abs(n[1]) * 0.04 * CELL
+            dk = math.hypot(dd[0] * step, dd[1] * CELL)
+            sl = abs(el[n] - el[cur]) / dk            # a lepes meredeksege (ft/km)
+            pen = max(0.0, sl - SLOPE_OK) / SLOPE_STEEP
+            ng = g + dk * (1.0 + PEN * pen) + turn + abs(n[1]) * 0.04 * CELL
             ns = (n, dd)
             if ng < best.get(ns, 1e18):
                 best[ns] = ng
