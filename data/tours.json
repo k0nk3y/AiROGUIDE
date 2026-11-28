@@ -11438,7 +11438,7 @@
      "id": "full",
      "kind": "loop",
      "kt": 105,
-     "alt_ft": 7000,
+     "alt_ft": 8000,
      "stol": false,
      "label": {
       "en": "Cappadocia loop",
@@ -11473,7 +11473,7 @@
       ],
       [
        "Mount Erciyes",
-       38.53,
+       38.6291,
        35.448
       ],
       [
@@ -13366,9 +13366,44 @@
        -156.2867
       ],
       [
+       "~",
+       20.6807,
+       -156.3185
+      ],
+      [
+       "~",
+       20.6518,
+       -156.309
+      ],
+      [
+       "~",
+       20.5911,
+       -156.1474
+      ],
+      [
        "Mauna Kea",
-       19.8206,
+       19.9197,
        -155.4681
+      ],
+      [
+       "~",
+       19.9371,
+       -155.4138
+      ],
+      [
+       "~",
+       19.9033,
+       -155.341
+      ],
+      [
+       "~",
+       19.8394,
+       -155.318
+      ],
+      [
+       "~",
+       19.6003,
+       -155.3529
       ],
       [
        "Kilauea Crater",
@@ -18345,7 +18380,7 @@
      "id": "okavango-kiri",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 1500,
+     "alt_ft": 4000,
      "stol": true,
      "label": {
       "en": "Delta loop",
@@ -24905,7 +24940,7 @@
      "id": "short",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 2500,
+     "alt_ft": 6500,
      "stol": false,
      "label": {
       "en": "Serengeti kopjes",
@@ -24955,7 +24990,7 @@
      "id": "long",
      "kind": "loop",
      "kt": 105,
-     "alt_ft": 3000,
+     "alt_ft": 6000,
      "stol": false,
      "label": {
       "en": "Mara River and Grumeti",
