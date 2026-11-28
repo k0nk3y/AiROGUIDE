@@ -342,15 +342,17 @@ def guarded(v, ap):
     r = process(v, ap)
     if r is None:
         return r
+    r = tuple(r) + (None,)
     m0 = max_turn(v["pts"], ap)
     lim = max(120, m0 + 15)
     if max_turn(r[0], ap) > lim:
         r2 = process(v, ap, nosmooth=True)
         if r2 is not None and max_turn(r2[0], ap) <= lim:
-            return r2
+            return tuple(r2) + (None,)
         base = r2 if r2 is not None else r
         notes = list(base[2]) + ["HAJTUKANYAR keletkezne (%d fok): az eredeti pontok maradnak, KEZI MUNKA KELL" % max_turn(base[0], ap)]
-        return (v["pts"], float(v["alt_ft"]), notes, True, float(v["alt_ft"]) > MAX_ALT)
+        alt = (list(base[0]), float(base[1]), float(base[1]) > MAX_ALT, max_turn(base[0], ap))
+        return (v["pts"], float(v["alt_ft"]), notes, True, float(v["alt_ft"]) > MAX_ALT, alt)
     return r
 
 
@@ -371,12 +373,27 @@ def main():
         for ti, t in enumerate(d["tours"]):
             if only and t["id"] not in only:
                 continue
+            shift = 0
             for vi, v in enumerate(t["variants"]):
                 r = guarded(v, ap)
                 if not r:
                     continue
-                newpts, newalt, notes, hard, high = r
-                ov = out["tours"][ti]["variants"][vi]
+                newpts, newalt, notes, hard, high, alt = r
+                ov = out["tours"][ti]["variants"][vi + shift]
+                if alt:
+                    nv = json.loads(json.dumps(v))
+                    nv["id"] = v["id"] + "-javitott"
+                    nv["pts"] = alt[0]
+                    nv["alt_ft"] = int(alt[1])
+                    if alt[2]:
+                        nv["hi_alt"] = True
+                    for fld in ("label",):
+                        if isinstance(nv.get(fld), dict):
+                            nv[fld] = {k: (x + " (javitott)") for k, x in nv[fld].items()}
+                    nv["review"] = "2. kör – javított változat (%d°-os fordulóval) – az eredetivel együtt, válassz" % alt[3]
+                    ov["review"] = "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+                    out["tours"][ti]["variants"].insert(vi + shift + 1, nv)
+                    shift += 1
                 ov["pts"] = newpts
                 ov["alt_ft"] = int(newalt)
                 if high:

@@ -1,0 +1,4 @@
+@echo off
+chcp 65001 >nul
+cd /d "%~dp0.."
+where py >nul 2>nul && (py -3 tools\terrain_fix.py bagan budapest mallorca crete machu-picchu rio las-vegas bali denali madeira tenerife bhutan nazca vancouver bariloche rotorua-tongariro pokhara-annapurna kuala-lumpur chiang-mai san-diego kiruna-abisko kerala guilin moab-arches almaty japan-alps portland-gorge tangier-chefchaouen mcmurdo lalibela tibet-lhasa boracay-panay juneau-passage jamaica copan-honduras haiti-citadelle samoa-upolu stol-skagway stol-grimsey) || (python tools\terrain_fix.py bagan budapest mallorca crete machu-picchu rio las-vegas bali denali madeira tenerife bhutan nazca vancouver bariloche rotorua-tongariro pokhara-annapurna kuala-lumpur chiang-mai san-diego kiruna-abisko kerala guilin moab-arches almaty japan-alps portland-gorge tangier-chefchaouen mcmurdo lalibela tibet-lhasa boracay-panay juneau-passage jamaica copan-honduras haiti-citadelle samoa-upolu stol-skagway stol-grimsey)
