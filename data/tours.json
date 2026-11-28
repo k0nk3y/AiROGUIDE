@@ -1187,7 +1187,7 @@
       ],
       "VYBG"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [
@@ -1343,7 +1343,7 @@
       ],
       "LHBP"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     },
     {
      "id": "bend",
@@ -11624,7 +11624,7 @@
       ],
       "LEPA"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     },
     {
      "id": "north",
@@ -11830,7 +11830,7 @@
       ],
       "LGIR"
      ],
-     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
     },
     {
      "id": "west",
@@ -11981,7 +11981,7 @@
       ],
       "LGIR"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -13672,7 +13672,7 @@
       ],
       "SPZO"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -13808,7 +13808,7 @@
       ],
       "SBGL"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -14424,7 +14424,7 @@
       ],
       "HTKJ"
      ],
-     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -15717,7 +15717,7 @@
       ],
       "KLAS"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -18085,7 +18085,7 @@
       ],
       "WADD"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -18624,7 +18624,7 @@
       ],
       "FYSS"
      ],
-     "review": "Nincs átjáró + hajtűkanyar – Alacsonyabb (<8000 ft)"
+     "review": "1. kör – Nincs átjáró (+ hajtűs) – Alacsonyabb (<8000 ft)"
     }
    ],
    "pois": [],
@@ -20249,7 +20249,7 @@
       ],
       "PATK"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     },
     {
      "id": "kantishna",
@@ -21129,7 +21129,7 @@
       ],
       "SCCF"
      ],
-     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró – Nagy csúcs (>15000 ft)"
     },
     {
      "id": "long",
@@ -21861,7 +21861,7 @@
       ],
       "LPMA"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     },
     {
      "id": "grand",
@@ -21932,7 +21932,7 @@
       ],
       "LPMA"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -22203,7 +22203,7 @@
       ],
       "GCGM"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -23080,7 +23080,7 @@
       ],
       "VQPR"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     },
     {
      "id": "long",
@@ -23161,7 +23161,7 @@
       ],
       "VQPR"
      ],
-     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -24344,7 +24344,7 @@
       ],
       "SPZA"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -26728,7 +26728,7 @@
       ],
       "CZN"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -27317,7 +27317,7 @@
       ],
       "BIVM"
      ],
-     "review": "Nincs átjáró – Alacsonyabb (<8000 ft)"
+     "review": "1. kör – Nincs átjáró – Alacsonyabb (<8000 ft)"
     }
    ],
    "pois": [],
@@ -28483,7 +28483,7 @@
       ],
       "LSGG"
      ],
-     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -29417,7 +29417,7 @@
       ],
       "CYVR"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -29567,7 +29567,7 @@
       ],
       "SCEL"
      ],
-     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -29686,7 +29686,7 @@
       ],
       "SAZS"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -31212,7 +31212,7 @@
       ],
       "NZRO"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -32275,7 +32275,7 @@
       "VNPK"
      ],
      "hi_alt": true,
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -33073,7 +33073,7 @@
       ],
       "MMSD"
      ],
-     "review": "Nincs átjáró – Alacsonyabb (<8000 ft)"
+     "review": "1. kör – Nincs átjáró – Alacsonyabb (<8000 ft)"
     }
    ],
    "pois": [],
@@ -33549,7 +33549,7 @@
       "VNJS"
      ],
      "hi_alt": true,
-     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -35660,7 +35660,7 @@
       ],
       "WMKK"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -35785,7 +35785,7 @@
       ],
       "VTCC"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -36456,7 +36456,7 @@
       ],
       "KSAN"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -37771,7 +37771,7 @@
       ],
       "SASA"
      ],
-     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -38656,7 +38656,7 @@
       ],
       "ESNQ"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -39396,7 +39396,7 @@
       ],
       "UDYZ"
      ],
-     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -39531,7 +39531,7 @@
       ],
       "UTSS"
      ],
-     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -39651,7 +39651,7 @@
       ],
       "VOCI"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -39901,7 +39901,7 @@
       ],
       "ZGKL"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -40658,7 +40658,7 @@
       ],
       "KCNY"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -41709,7 +41709,7 @@
       ],
       "HESH"
      ],
-     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -43315,7 +43315,7 @@
       ],
       "UAAA"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -43597,7 +43597,7 @@
       ],
       "RJAF"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -44370,7 +44370,7 @@
       ],
       "PANC"
      ],
-     "review": "Nincs átjáró + hajtűkanyar – Közepesen magas (8000-15000 ft)"
+     "review": "1. kör – Nincs átjáró (+ hajtűs) – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -44694,7 +44694,7 @@
       ],
       "KPDX"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -45365,7 +45365,7 @@
       "SPQU"
      ],
      "hi_alt": true,
-     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -45738,7 +45738,7 @@
       ],
       "GMTT"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -46670,7 +46670,7 @@
       ],
       "NZFX"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     },
     {
      "id": "dry",
@@ -48008,7 +48008,7 @@
       ],
       "HALL"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [
@@ -49272,7 +49272,7 @@
       ],
       "OISS"
      ],
-     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -49528,7 +49528,7 @@
       "OPSD"
      ],
      "hi_alt": true,
-     "review": "Nincs átjáró + hajtűkanyar – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró (+ hajtűs) – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [
@@ -50289,7 +50289,7 @@
       "ZULS"
      ],
      "hi_alt": true,
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -50791,7 +50791,7 @@
       ],
       "RPVE"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -51193,7 +51193,7 @@
       ],
       "VEBD"
      ],
-     "review": "Nincs átjáró + hajtűkanyar – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró (+ hajtűs) – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [
@@ -51974,7 +51974,7 @@
       ],
       "LTCG"
      ],
-     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -52484,7 +52484,7 @@
       ],
       "PAJN"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -52796,7 +52796,7 @@
       ],
       "MKJS"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -57380,7 +57380,7 @@
       "ZWSH"
      ],
      "hi_alt": true,
-     "review": "Nincs átjáró + hajtűkanyar – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró (+ hajtűs) – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [
@@ -58655,7 +58655,7 @@
       ],
       "MHLM"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [
@@ -58924,7 +58924,7 @@
       ],
       "MTCH"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [
@@ -59589,7 +59589,7 @@
       ],
       "NSFA"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [
@@ -61255,7 +61255,7 @@
       ],
       "PAOH"
      ],
-     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [
@@ -63121,7 +63121,7 @@
       ],
       "PAGY"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [
@@ -63388,7 +63388,7 @@
       ],
       "BIGR"
      ],
-     "review": "Hajtűkanyar (visszafordulna)"
+     "review": "2. kör – terep: eredeti útvonal, az automatikus javítás visszafordulót okozna"
     }
    ],
    "pois": [],
@@ -64001,7 +64001,7 @@
       ],
       "VNJL"
      ],
-     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -64147,7 +64147,7 @@
       ],
       "VQBT"
      ],
-     "review": "Nincs átjáró + hajtűkanyar – Nagy csúcs (>15000 ft)"
+     "review": "1. kör – Nincs átjáró (+ hajtűs) – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
