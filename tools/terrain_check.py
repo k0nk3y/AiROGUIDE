@@ -53,7 +53,77 @@ def key(la, lo):
     return "%.3f,%.3f" % (la, lo)
 
 
+# ---- helyi magassag-csempek (SRTM "skadi", AWS nyilvanos adat): korlat nelkul, kulcs nelkul ----
+DEM_DIR = os.path.join(ROOT, "tools", ".dem")
+SOURCE = os.environ.get("ELEV", "tiles")          # "tiles" (alap, korlatlan) vagy "api" (Open-Meteo, napi keretes)
+_tiles = {}
+
+
+def _tile(la, lo):
+    """Az 1x1 fokos csempe: (meret, array) vagy None (ocean / nincs adat). Letolti, ha kell (1-12 MB)."""
+    import array
+    la0, lo0 = math.floor(la), math.floor(lo)
+    nm = "%s%02d%s%03d" % ("N" if la0 >= 0 else "S", abs(la0), "E" if lo0 >= 0 else "W", abs(lo0))
+    if nm in _tiles:
+        return _tiles[nm]
+    path = os.path.join(DEM_DIR, nm + ".hgt.gz")
+    if not os.path.exists(path):
+        os.makedirs(DEM_DIR, exist_ok=True)
+        url = "https://s3.amazonaws.com/elevation-tiles-prod/skadi/%s/%s.hgt.gz" % (nm[:3], nm)
+        try:
+            print("   csempe letoltese: %s ..." % nm, flush=True)
+            req = urllib.request.Request(url, headers={"User-Agent": "AiROGUIDE-terrain-check"})
+            with urllib.request.urlopen(req, timeout=120) as r, open(path + ".part", "wb") as f:
+                while True:
+                    b = r.read(1 << 20)
+                    if not b:
+                        break
+                    f.write(b)
+            os.replace(path + ".part", path)
+        except urllib.error.HTTPError as e:
+            if e.code in (403, 404):                  # nincs ilyen csempe: tenger
+                open(path, "wb").write(gzip.compress(b""))
+            else:
+                raise Stop("Csempe-letoltes sikertelen (%s): %s" % (nm, e))
+        except Exception as e:
+            raise Stop("Csempe-letoltes sikertelen (%s): %s. Internet kell hozza." % (nm, e))
+    raw = gzip.open(path, "rb").read()
+    if not raw:
+        t = None
+    else:
+        a = array.array("h"); a.frombytes(raw)
+        if sys.byteorder == "little":
+            a.byteswap()                              # a .hgt big-endian
+        n = int(round(math.sqrt(len(a))))
+        t = (n, a)
+    if len(_tiles) >= 6:
+        _tiles.pop(next(iter(_tiles)))
+    _tiles[nm] = t
+    return t
+
+
+def tile_elev(la, lo):
+    """Terepmagassag (m), bilinearis; tenger/ures = 0."""
+    t = _tile(la, lo)
+    if not t:
+        return 0.0
+    n, a = t
+    fy = (math.floor(la) + 1 - la) * (n - 1)          # a sorok eszakrol delre
+    fx = (lo - math.floor(lo)) * (n - 1)
+    y0, x0 = min(int(fy), n - 2), min(int(fx), n - 2)
+    dy, dx = fy - y0, fx - x0
+    v = [a[y0 * n + x0], a[y0 * n + x0 + 1], a[(y0 + 1) * n + x0], a[(y0 + 1) * n + x0 + 1]]
+    v = [0 if x <= -1000 else x for x in v]           # -32768 = adathiany
+    return (v[0] * (1 - dx) + v[1] * dx) * (1 - dy) + (v[2] * (1 - dx) + v[3] * dx) * dy
+
+
 def elev_fetch(pts):
+    if SOURCE == "tiles":
+        return [tile_elev(la, lo) * M2FT for la, lo in pts]
+    return elev_fetch_api(pts)
+
+
+def elev_fetch_api(pts):
     """pts: [(la, lo)] -> a hianyzo pontok lekerdezese az Open-Meteo-tol, 100-asaval."""
     need = [p for p in dict.fromkeys(key(*q) for q in pts) if p not in _cache]
     for i in range(0, len(need), 100):

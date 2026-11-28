@@ -4,3 +4,4 @@ terrain_eredmeny.*
 tools/.elev_cache.json
 tools/.terrain_done.json
 data/tours_javaslat.json
+tools/.dem/
