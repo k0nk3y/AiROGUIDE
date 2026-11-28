@@ -15,7 +15,7 @@
   "files": [
     {
       "path": "app.py",
-      "sha256": "60f482b302f294c2badf5145a9b9ab98abacd3e2da261e5085648701b9a17b55"
+      "sha256": "4a06e0299af8a0d30c1bc46cf7e1b4e1fd0cd106f3a718762b22022b194ce366"
     },
     {
       "path": "lang/de.json",
@@ -59,7 +59,7 @@
     },
     {
       "path": "data/tours.json",
-      "sha256": "e74a78e489835d5c5f5ad4dba44e07d20ff877d43768f6f84b94327b269e9227"
+      "sha256": "811ea9153eca21ed55eda975d7ea6836881e1190da49d0ea0614009898a13ada"
     },
     {
       "path": "data/tour_pois.json",
