@@ -11760,7 +11760,7 @@
      "id": "short",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 3000,
+     "alt_ft": 8500,
      "stol": false,
      "label": {
       "en": "Crete short",
@@ -11829,8 +11829,7 @@
        24.7272
       ],
       "LGIR"
-     ],
-     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     ]
     },
     {
      "id": "west",
@@ -18569,7 +18568,7 @@
      "id": "long",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 4500,
+     "alt_ft": 7000,
      "stol": false,
      "label": {
       "en": "Namib-Naukluft loop",
@@ -18618,18 +18617,27 @@
        15.2693
       ],
       [
-       "Naukluft Mountains",
-       -24.25,
-       16.15
+       "~",
+       -24.3815,
+       15.7784
       ],
       [
        "~",
-       -24.3389,
-       16.2172
+       -24.2484,
+       15.8567
+      ],
+      [
+       "~",
+       -24.2126,
+       15.9376
+      ],
+      [
+       "Naukluft Mountains",
+       -24.25,
+       15.982
       ],
       "FYSS"
-     ],
-     "review": "1. kör – Nincs átjáró (+ hajtűs) – Alacsonyabb (<8000 ft)"
+     ]
     }
    ],
    "pois": [],
@@ -26573,7 +26581,7 @@
      "id": "long",
      "kind": "loop",
      "kt": 105,
-     "alt_ft": 12000,
+     "alt_ft": 13000,
      "stol": true,
      "label": {
       "en": "Mount Wrangell",
@@ -27262,7 +27270,7 @@
      "id": "heimaey",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 3000,
+     "alt_ft": 5500,
      "stol": true,
      "label": {
       "en": "Westman loop",
@@ -27331,8 +27339,7 @@
        -20.6607
       ],
       "BIVM"
-     ],
-     "review": "1. kör – Nincs átjáró – Alacsonyabb (<8000 ft)"
+     ]
     }
    ],
    "pois": [],
@@ -28418,7 +28425,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 7000,
+     "alt_ft": 12500,
      "stol": false,
      "label": {
       "en": "Lake Geneva loop",
@@ -28477,11 +28484,6 @@
        6.8418
       ],
       [
-       "~",
-       45.8771,
-       7.0064
-      ],
-      [
        "Chillon Castle",
        46.4146,
        6.9276
@@ -28497,8 +28499,7 @@
        6.6323
       ],
       "LSGG"
-     ],
-     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     ]
     }
    ],
    "pois": [],
@@ -33028,7 +33029,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 4000,
+     "alt_ft": 6500,
      "stol": false,
      "label": {
       "en": "Land's End",
@@ -33087,8 +33088,7 @@
        -109.8073
       ],
       "MMSD"
-     ],
-     "review": "1. kör – Nincs átjáró – Alacsonyabb (<8000 ft)"
+     ]
     }
    ],
    "pois": [],
@@ -39396,7 +39396,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 7000,
+     "alt_ft": 11500,
      "stol": false,
      "label": {
       "en": "Ararat loop",
@@ -39461,11 +39461,6 @@
       ],
       [
        "~",
-       40.6171,
-       44.8923
-      ],
-      [
-       "~",
        40.5868,
        44.9229
       ],
@@ -39505,8 +39500,7 @@
        44.516
       ],
       "UDYZ"
-     ],
-     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     ]
     }
    ],
    "pois": [],
@@ -39576,7 +39570,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 5000,
+     "alt_ft": 8500,
      "stol": false,
      "label": {
       "en": "Silk Road loop",
@@ -39640,8 +39634,7 @@
        66.6
       ],
       "UTSS"
-     ],
-     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     ]
     }
    ],
    "pois": [],
@@ -45459,7 +45452,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 16000,
+     "alt_ft": 19500,
      "stol": false,
      "label": {
       "en": "Condor loop",
@@ -45529,8 +45522,7 @@
       ],
       "SPQU"
      ],
-     "hi_alt": true,
-     "review": "1. kör – Nincs átjáró – Nagy csúcs (>15000 ft)"
+     "hi_alt": true
     }
    ],
    "pois": [],
@@ -49327,7 +49319,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 7000,
+     "alt_ft": 9500,
      "stol": false,
      "label": {
       "en": "Persian empire loop",
@@ -49436,11 +49428,6 @@
        53.1206
       ],
       [
-       "~",
-       30.2516,
-       53.0992
-      ],
-      [
        "Naqsh-e Rustam",
        29.989,
        52.875
@@ -49462,11 +49449,6 @@
       ],
       [
        "~",
-       29.7708,
-       52.5139
-      ],
-      [
-       "~",
        29.6855,
        52.4789
       ],
@@ -49481,8 +49463,7 @@
        52.528
       ],
       "OISS"
-     ],
-     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     ]
     }
    ],
    "pois": [],
@@ -52129,7 +52110,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 9500,
+     "alt_ft": 13000,
      "stol": false,
      "label": {
       "en": "Black Sea peaks loop",
@@ -52183,8 +52164,7 @@
        41.1505
       ],
       "LTCG"
-     ],
-     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     ]
     }
    ],
    "pois": [],
@@ -61405,7 +61385,7 @@
      "id": "loop",
      "kind": "loop",
      "kt": 100,
-     "alt_ft": 8500,
+     "alt_ft": 14000,
      "stol": true,
      "label": {
       "en": "Glacier Bay loop",
@@ -61484,8 +61464,7 @@
        -137.1
       ],
       "PAOH"
-     ],
-     "review": "1. kör – Nincs átjáró – Közepesen magas (8000-15000 ft)"
+     ]
     }
    ],
    "pois": [
