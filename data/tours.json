@@ -1351,74 +1351,7 @@
        19.0396
       ],
       "LHBP"
-     ],
-     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
-    },
-    {
-     "id": "city-javitott",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 2500,
-     "stol": false,
-     "label": {
-      "en": "Budapest city loop (javitott)",
-      "hu": "Budapesti városkör (javitott)",
-      "de": "Budapest-Stadtrunde (javitott)",
-      "es": "Circuito urbano de Budapest (javitott)",
-      "fr": "Boucle de Budapest (javitott)",
-      "it": "Giro di Budapest (javitott)",
-      "pl": "Pętla nad Budapesztem (javitott)",
-      "ru": "Круг над Будапештом (javitott)",
-      "sk": "Okruh nad Budapešťou (javitott)",
-      "zh": "布达佩斯市区环线 (javitott)"
-     },
-     "desc": {
-      "en": "Short loop over the Budapest landmarks: Gellért Hill, Buda Castle, Parliament and Margaret Island.",
-      "hu": "Rövid kör Budapest nevezetességei felett: a Gellért-hegy, a budai vár, az Országház és a Margitsziget.",
-      "de": "Kurze Runde über die Wahrzeichen von Budapest: Gellértberg, Burg von Buda, Parlament und Margareteninsel.",
-      "es": "Circuito corto sobre los lugares emblemáticos de Budapest: la colina Gellért, el Castillo de Buda, el Parlamento y la isla Margarita.",
-      "fr": "Courte boucle au-dessus des sites de Budapest : la colline Gellért, le château de Buda, le Parlement et l'île Marguerite.",
-      "it": "Breve giro sui monumenti di Budapest: il Monte Gellért, il Castello di Buda, il Parlamento e l'Isola Margherita.",
-      "pl": "Krótka pętla nad budapeszteńskimi zabytkami: Wzgórze Gellérta, Zamek Królewski na Budzie, Parlament i Wyspa Małgorzaty.",
-      "ru": "Короткий круг над достопримечательностями Будапешта: гора Геллерт, Будайская крепость, парламент и остров Маргит.",
-      "sk": "Krátky okruh nad budapeštianskymi pamiatkami: vrch Gellért, Budínsky hrad, parlament a Margitin ostrov.",
-      "zh": "飞越布达佩斯地标的短途环线：盖勒特山、布达城堡、国会大厦和玛格丽特岛。"
-     },
-     "pts": [
-      "LHBP",
-      [
-       "Gellért Hill",
-       47.4862,
-       19.046
-      ],
-      [
-       "János Hill Lookout",
-       47.5123,
-       18.9876
-      ],
-      [
-       "~",
-       47.5524,
-       18.9709
-      ],
-      [
-       "Margaret Island",
-       47.526,
-       19.048
-      ],
-      [
-       "Hungarian Parliament",
-       47.5072,
-       19.0456
-      ],
-      [
-       "Buda Castle",
-       47.4961,
-       19.0396
-      ],
-      "LHBP"
-     ],
-     "review": "2. kör – javított változat (132°-os fordulóval) – az eredetivel együtt, válassz"
+     ]
     },
     {
      "id": "bend",
