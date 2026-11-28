@@ -18,7 +18,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "tools", ".elev_cache.json")
 CLEAR = float(os.environ.get("CLEAR", 500))      # minimalis fuggoleges szabad hely a terep folott (ft)
 LAT = float(os.environ.get("LAT", 1.5))          # oldalso savszelesseg a kozepvonaltol (km)
-STEP = float(os.environ.get("STEP", 2.0))        # mintavetel (km)
+STEP = float(os.environ.get("STEP", 0.5))        # mintavetel (km)
 M2FT = 3.28084
 _cache = {}
 

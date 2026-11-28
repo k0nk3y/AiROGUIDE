@@ -23,10 +23,10 @@ import terrain_check as tc
 ROOT = tc.ROOT
 CLEAR = tc.CLEAR
 CORR = float(os.environ.get("CORR", 12))
-CELL = float(os.environ.get("CELL", 1.5))
+CELL = float(os.environ.get("CELL", 0.75))
 MAX_ALT = float(os.environ.get("MAX_ALT", 15000))
 HI_ALT = float(os.environ.get("HI_ALT", 20000))
-DIL = int(os.environ.get("DIL", 2))                # a magas teruletek koruli kerulo-sav (cella)
+DIL = int(os.environ.get("DIL", 3))                # a magas teruletek koruli kerulo-sav (cella)
 MAXTURN = float(os.environ.get("MAXTURN", 100))
 RELOC = float(os.environ.get("RELOC", 8))        # a hegyen levo latnivalo legfeljebb ennyi km-re kerul arrebb (kilatopont)
 RELOC_MIN = float(os.environ.get("RELOC_MIN", 2))
@@ -35,6 +35,9 @@ PLATEAU_JUMP = float(os.environ.get("PLATEAU_JUMP", 4500))  # fennsik / egeszben
 RELOC_FAR = float(os.environ.get("RELOC_FAR", 25))       # nagy hegynel (nincs szabad pont RELOC-on belul): kilatopont max. ennyi km-re  # ennel nagyobb magassag-emelest nem javasol, inkabb kezi munka
 TURN_MAX = float(os.environ.get("TURN_MAX", 90))   # a "~" pontoknal ennel élesebb fordulot probal kisimitani
 FREE = 3.0                                    # a vegpontok koruli ennyi km-en belul nem tiltott (a latnivalo maga lehet hegy)
+
+
+MOVED = []
 
 
 def leg_bad(a, b, alt):
@@ -262,6 +265,7 @@ def retry(fn, *args):
 def process(v, ap, nosmooth=False):
     """-> (uj_pts, uj_alt, notes, hard, hi) vagy None, ha nincs mit javitani."""
     pts_raw = v["pts"]
+    del MOVED[:]
     pts = []
     for p in pts_raw:
         if isinstance(p, str):
@@ -282,8 +286,9 @@ def process(v, ap, nosmooth=False):
             q = retry(relocate, p, (a[1], a[2]), alt0, (pts[k + 1][1], pts[k + 1][2]))
             if q:
                 d = tc.hav(p[1], p[2], q[0], q[1])
-                pts[k] = (p[0], round(q[0], 4), round(q[1], 4))
-                pre.append("%s: hegyen van -> kilatopont %.1f km-re (%.4f, %.4f)" % (p[0], d, q[0], q[1]))
+                pts[k] = ("~", round(q[0], 4), round(q[1], 4))      # a latnivalo a valodi helyen marad (tour "pois"), az utvonal csak elhalad mellette
+                MOVED.append((p[0], p[1], p[2]))
+                pre.append("%s: hegyen van -> az utvonal %.1f km-rel mellette halad el (%.4f, %.4f); a latnivalo a helyen marad" % (p[0], d, q[0], q[1]))
     if pre:
         pts_raw = [pts_raw[0]] + [[x[0], x[1], x[2]] for x in pts[1:-1]] + [pts_raw[-1]] if len(pts) == len(pts_raw) else pts_raw
     legs = []
@@ -380,6 +385,10 @@ def main():
                     continue
                 newpts, newalt, notes, hard, high, alt = r
                 ov = out["tours"][ti]["variants"][vi + shift]
+                for nm, la0, lo0 in (MOVED if not alt else MOVED):
+                    pl = out["tours"][ti].setdefault("pois", [])
+                    if not any(x[0] == nm for x in pl):
+                        pl.append([nm, la0, lo0])
                 if alt:
                     nv = json.loads(json.dumps(v))
                     nv["id"] = v["id"] + "-javitott"
