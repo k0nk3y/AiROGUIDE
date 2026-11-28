@@ -13,14 +13,18 @@ Hasznalat:
   python3 tools/terrain_check.py everest ...  csak a megadott tura-azonositok
   python3 tools/terrain_check.py --csv ki.csv az eredmeny CSV-ben is (tura;variáns;km;gyanus_km;max_ft;...)
 Beallitasok (kornyezeti valtozo): CLEAR (alap 500 ft), LAT (alap 1.5 km), STEP (alap 1.0 km)."""
-import csv, gzip, json, math, os, sys, time, urllib.request
+import csv, gzip, json, math, os, sys, time, urllib.error, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "tools", ".elev_cache.json")
 CLEAR = float(os.environ.get("CLEAR", 500))      # minimalis fuggoleges szabad hely a terep folott (ft)
 LAT = float(os.environ.get("LAT", 1.5))          # oldalso savszelesseg a kozepvonaltol (km)
-STEP = float(os.environ.get("STEP", 1.0))        # mintavetel (km)
+STEP = float(os.environ.get("STEP", 2.0))        # mintavetel (km)
 M2FT = 3.28084
 _cache = {}
+
+
+class Stop(Exception):
+    pass
 
 
 def hav(a, b, c, d):
@@ -57,18 +61,34 @@ def elev_fetch(pts):
         la = ",".join(c.split(",")[0] for c in ch)
         lo = ",".join(c.split(",")[1] for c in ch)
         url = "https://api.open-meteo.com/v1/elevation?latitude=%s&longitude=%s" % (la, lo)
+        el = None
         for tr in range(4):
             try:
                 with urllib.request.urlopen(url, timeout=30) as r:
                     el = json.load(r)["elevation"]
                 break
+            except urllib.error.HTTPError as e:
+                body = ""
+                try:
+                    body = e.read().decode("utf-8", "replace")
+                except Exception:
+                    pass
+                if e.code == 429 and "aily" in body:
+                    raise Stop("Az ingyenes napi keret elfogyott. A mar lekert adat el van mentve, holnap folytasd ugyanigy.")
+                if tr == 3:
+                    raise Stop("A szolgaltatas nem valaszol (HTTP %s %s)." % (e.code, body[:120]))
+                print("   varakozas (%s), ujraprobalom..." % e.code); time.sleep(65 if e.code == 429 else 5)
             except Exception as e:
                 if tr == 3:
-                    sys.exit("Magassag-lekerdezes sikertelen (%s). Internet kell hozza." % e)
-                time.sleep(2 + 3 * tr)
+                    raise Stop("Magassag-lekerdezes sikertelen (%s). Internet kell hozza." % e)
+                time.sleep(3 + 4 * tr)
         for c, e in zip(ch, el):
             _cache[c] = e
-        time.sleep(0.25)                          # udvarias maradjon az ingyenes API-val
+        try:
+            json.dump(_cache, open(CACHE, 'w'))
+        except Exception:
+            pass
+        time.sleep(0.3)                           # udvarias maradjon az ingyenes API-val
     return [_cache[key(*q)] * M2FT for q in pts]
 
 
@@ -148,12 +168,16 @@ def main():
         ap[p[0]] = (float(p[2]), float(p[3]))
     d = json.load(open(os.path.join(ROOT, "data", "tours.json"), encoding="utf-8"))
     rows = []
+    stop = None
     try:
         for t in d["tours"]:
             if only and t["id"] not in only:
                 continue
             for v in t["variants"]:
-                r = analyse(v, ap)
+                try:
+                    r = analyse(v, ap)
+                except Stop as e:
+                    stop = str(e); break
                 if not r:
                     continue
                 share = 100.0 * r["bad"] / r["km"] if r["km"] else 0
@@ -166,6 +190,8 @@ def main():
                         print("        %.0f-%.0f. km: legkisebb szabad hely %d ft" % (a, b, g))
                 else:
                     print("ok    %s/%s" % (t["id"], v["id"]))
+            if stop:
+                break
     finally:
         try:
             json.dump(_cache, open(CACHE, "w"))
@@ -178,8 +204,15 @@ def main():
             for r in rows:
                 w.writerow([r[0], r[1], round(r[2]), round(r[3]), round(r[4]), round(r[5]), r[7], r[8]])
     n = sum(1 for r in rows if r[8] != "ok")
+    if stop:
+        print("\nMEGALLT: " + stop)
     print("\n%d variáns vizsgálva, %d gyanús (HIBA: >=10%% szakasz vagy >1000 ft-tal magasabb gerinc; figy: >=2%%)." % (len(rows), n))
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        print("Hiba:", e)
+    if os.name == "nt" and len(sys.argv) == 1:
+        input("\nNyomj Entert a bezarashoz...")
