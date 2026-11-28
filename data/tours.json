@@ -11636,105 +11636,13 @@
        2.6483
       ],
       "LEPA"
-     ],
-     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
-    },
-    {
-     "id": "short-javitott",
-     "kind": "loop",
-     "kt": 100,
-     "alt_ft": 4000,
-     "stol": false,
-     "label": {
-      "en": "Mallorca short (javitott)",
-      "hu": "Mallorca rövid (javitott)",
-      "de": "Mallorca kurz (javitott)",
-      "es": "Mallorca corto (javitott)",
-      "fr": "Majorque, version courte (javitott)",
-      "it": "Maiorca breve (javitott)",
-      "pl": "Krótka pętla po Majorce (javitott)",
-      "ru": "Короткий маршрут над Майоркой (javitott)",
-      "sk": "Mallorca krátko (javitott)",
-      "zh": "马略卡短线 (javitott)"
-     },
-     "desc": {
-      "en": "Short loop: Palma Cathedral, Valldemossa and the Tramuntana coast.",
-      "hu": "Rövid kör: Palma katedrális, Valldemossa és a Tramuntana-part.",
-      "de": "Kurze Runde: Kathedrale von Palma, Valldemossa und die Küste der Tramuntana.",
-      "es": "Circuito corto: la catedral de Palma, Valldemossa y la costa de la Tramuntana.",
-      "fr": "Courte boucle : la cathédrale de Palma, Valldemossa et la côte de la Tramuntana.",
-      "it": "Breve giro: Cattedrale di Palma, Valldemossa e la costa della Tramuntana.",
-      "pl": "Krótka pętla: katedra w Palmie, Valldemossa i wybrzeże Tramuntany.",
-      "ru": "Короткий круг: собор Пальмы, Вальдемосса и побережье Трамунтаны.",
-      "sk": "Krátky okruh: katedrála v Palme, Valldemossa a pobrežie Tramuntany.",
-      "zh": "短途环线：帕尔马大教堂、巴尔德莫萨和特拉蒙塔纳海岸。"
-     },
-     "pts": [
-      "LEPA",
-      [
-       "~",
-       39.6317,
-       2.7552
-      ],
-      [
-       "~",
-       39.7754,
-       2.6958
-      ],
-      [
-       "~",
-       39.8132,
-       2.7213
-      ],
-      [
-       "Sa Calobra",
-       39.85,
-       2.8
-      ],
-      [
-       "~",
-       39.8643,
-       2.757
-      ],
-      [
-       "Sóller",
-       39.766,
-       2.715
-      ],
-      [
-       "~",
-       39.7895,
-       2.6687
-      ],
-      [
-       "~",
-       39.7834,
-       2.6302
-      ],
-      [
-       "~",
-       39.7584,
-       2.5889
-      ],
-      [
-       "Valldemossa",
-       39.711,
-       2.624
-      ],
-      [
-       "Palma Cathedral",
-       39.5676,
-       2.6483
-      ],
-      "LEPA"
-     ],
-     "review": "2. kör – javított változat (125°-os fordulóval) – az eredetivel együtt, válassz"
+     ]
     },
     {
      "id": "north",
      "kind": "loop",
      "kt": 110,
-     "alt_ft": 4000,
+     "alt_ft": 3500,
      "stol": false,
      "label": {
       "en": "Tramuntana and Formentor",
