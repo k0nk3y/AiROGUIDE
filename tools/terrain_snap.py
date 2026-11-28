@@ -22,7 +22,7 @@ import terrain_check as tc
 import terrain_fix as f
 
 SNAP_CORR = float(os.environ.get("SNAP_CORR", 8.0))
-SLOPE_OK = float(os.environ.get("SLOPE_OK", 250))      # ft/km: ennyi meredekseg alatt nincs buntetes (kb. 5%)
+SLOPE_OK = float(os.environ.get("SLOPE_OK", 300))      # ft/km: ennyi meredekseg alatt nincs buntetes (kb. 5%)
 SLOPE_STEEP = float(os.environ.get("SLOPE_STEEP", 400))  # ft/km: ennyivel nagyobb meredekseg a buntetes egysege
 PEN = float(os.environ.get("PEN", 6.0))
 CELL = float(os.environ.get("CELL", 0.5))
@@ -46,6 +46,20 @@ def corridor(a, b):
 def search(grid, nu, nv, el, alt, step):
     """Koltseg-alapu A*: szabad cella (terep + CLEAR <= alt); a meredek terep (nagy magassagvaltozas km-enkent) puha buntetes: nem a magassag szamit, hanem a meredekseg; oldaleltérés kis buntetes."""
     blocked = {k: (el[k] + CLEAR > alt) for k in grid}
+    # a cella meredeksege: a helyi gradiens nagysaga (ft/km) - nem az uton menti valtozas, igy a hegyoldalon a szintvonal menten sem "olcso" a vonal
+    steep = {}
+    for (i, j) in grid:
+        def dif(a, b, h):
+            if a in el and b in el:
+                return (el[b] - el[a]) / (2.0 * h)
+            if b in el:
+                return (el[b] - el[(i, j)]) / h
+            if a in el:
+                return (el[(i, j)] - el[a]) / h
+            return 0.0
+        gu = dif((i - 1, j), (i + 1, j), step)
+        gv = dif((i, j - 1), (i, j + 1), CELL)
+        steep[(i, j)] = math.hypot(gu, gv)
     start, goal = (0, 0), (nu, 0)
     blocked[start] = blocked[goal] = False
     dirs = [(1, 0), (1, 1), (1, -1), (0, 1), (0, -1), (2, 1), (2, -1), (1, 2), (1, -2)]
@@ -75,8 +89,7 @@ def search(grid, nu, nv, el, alt, step):
                     continue
                 turn = (t / 45.0) ** 2 * CELL * 0.5
             dk = math.hypot(dd[0] * step, dd[1] * CELL)
-            sl = abs(el[n] - el[cur]) / dk            # a lepes meredeksege (ft/km)
-            pen = max(0.0, sl - SLOPE_OK) / SLOPE_STEEP
+            pen = max(0.0, 0.5 * (steep[n] + steep[cur]) - SLOPE_OK) / SLOPE_STEEP      # a terep meredeksege a lepes helyen
             ng = g + dk * (1.0 + PEN * pen) + turn + abs(n[1]) * 0.04 * CELL
             ns = (n, dd)
             if ng < best.get(ns, 1e18):
