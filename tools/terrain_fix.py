@@ -6,6 +6,8 @@ Szabalyok (variansonkent):
      utvonalon a magassag korul jar, pl. fennsik), csak a magassagot emeli (500 ft-ra felkerekitve), utvonalat nem valtoztat.
   2. Kulonben a rossz szakaszokat kerul: a szakasz kore (+-CORR km) magassag-racsot olvas, es A* kereses talal egy szabad
      volgyet. A magas objektumoktol (csucsok, gerincek) lehetoleg DIL*CELL km tavolsagot tart (3 km, ha nem fer, kevesebbet).
+     A hegyen levo latnivalot (nev marad) elobb a legkozelebbi szabad kilatpontra teszi (RELOC_MIN..RELOC km, alap 2..8 km).
+     Egy valtozat magassaga legfeljebb MAX_JUMP (2000 ft)-tal emelkedhet, a "~" pontoknal > TURN_MAX (90 fok) forduloket kisimitja.
   3. Ha nincs atjaro, emeli a magassagot a szukseges szintre, legfeljebb MAX_ALT-ig (alap 15 000 ft).
   4. Az eredetileg MAX_ALT feletti turak (Everest, K2 ...) HI_ALT-ig (alap 20 000 ft) mehetnek, es kapnak egy
      "hi_alt": true jelzest: ezekhez magaslati repulesre alkalmas gep kell (a program figyelmeztetest mutat).
@@ -26,6 +28,10 @@ MAX_ALT = float(os.environ.get("MAX_ALT", 15000))
 HI_ALT = float(os.environ.get("HI_ALT", 20000))
 DIL = int(os.environ.get("DIL", 2))                # a magas teruletek koruli kerulo-sav (cella)
 MAXTURN = float(os.environ.get("MAXTURN", 100))
+RELOC = float(os.environ.get("RELOC", 8))        # a hegyen levo latnivalo legfeljebb ennyi km-re kerul arrebb (kilatopont)
+RELOC_MIN = float(os.environ.get("RELOC_MIN", 2))
+MAX_JUMP = float(os.environ.get("MAX_JUMP", 2000))  # ennel nagyobb magassag-emelest nem javasol, inkabb kezi munka
+TURN_MAX = float(os.environ.get("TURN_MAX", 90))   # a "~" pontoknal ennel élesebb fordulot probal kisimitani
 FREE = 3.0                                    # a vegpontok koruli ennyi km-en belul nem tiltott (a latnivalo maga lehet hegy)
 
 
@@ -145,6 +151,70 @@ def fix_leg(a, b, alt):
     return None
 
 
+def _brg(a, b):
+    p = math.pi / 180
+    y = math.sin((b[1] - a[1]) * p) * math.cos(b[0] * p)
+    x = math.cos(a[0] * p) * math.sin(b[0] * p) - math.sin(a[0] * p) * math.cos(b[0] * p) * math.cos((b[1] - a[1]) * p)
+    return math.degrees(math.atan2(y, x)) % 360
+
+
+def turn(a, b, c):
+    d = abs(_brg(b, c) - _brg(a, b)) % 360
+    return 360 - d if d > 180 else d
+
+
+def point_max(la, lo):
+    """a pont 1.5 km-es kornyezetenek legmagasabb terepe"""
+    ps = [(la, lo)]
+    for dx, dy in ((1, 0), (-1, 0), (0, 1), (0, -1)):
+        ps.append((la + dy * 1.5 / 111.0, lo + dx * 1.5 / (111.0 * max(0.2, math.cos(math.radians(la))))))
+    return max(tc.elev_fetch(ps))
+
+
+def relocate(p, ref, alt):
+    """Hegyen levo latnivalo -> a legkozelebbi szabad kilatopont (RELOC_MIN..RELOC km), a 'ref' (elozo pont) oldalan.
+    -> (la, lo) vagy None"""
+    la0, lo0 = p[1], p[2]
+    kx = 111.0 * max(0.2, math.cos(math.radians(la0)))
+    r = RELOC_MIN
+    while r <= RELOC + 1e-6:
+        cands = []
+        for k in range(16):
+            ang = k * math.pi / 8
+            cands.append((la0 + r * math.cos(ang) / 111.0, lo0 + r * math.sin(ang) / kx))
+        els = [point_max(*c) for c in cands]
+        ok = [(tc.hav(c[0], c[1], ref[0], ref[1]), c) for c, e in zip(cands, els) if e <= alt - CLEAR]
+        if ok:
+            return min(ok)[1]
+        r += 1.0
+    return None
+
+
+def smooth(pts, alt, ap, notes):
+    """A '~' terelopontokat, amelyeknel a fordulo > TURN_MAX fok, elhagyja, ha az igy kialakulo szakasz szabad maradt."""
+    def xy(p):
+        return (ap[p][0], ap[p][1]) if isinstance(p, str) else (p[1], p[2])
+    pts = list(pts)
+    changed = True
+    while changed:
+        changed = False
+        for k in range(1, len(pts) - 1):
+            p = pts[k]
+            if isinstance(p, str) or p[0] != "~":
+                continue
+            if pts[k - 1] is None or (isinstance(pts[k - 1], str) and pts[k - 1] not in ap) or (isinstance(pts[k + 1], str) and pts[k + 1] not in ap):
+                continue
+            a, b, c = xy(pts[k - 1]), xy(p), xy(pts[k + 1])
+            if turn(a, b, c) > TURN_MAX:
+                bad, _, _ = retry(leg_bad, a, c, alt)
+                if not bad:
+                    del pts[k]
+                    notes.append("eles fordulo (%d fok) kisimitva: egy '~' pont elhagyva" % turn(a, b, c))
+                    changed = True
+                    break
+    return pts
+
+
 def up500(x):
     return int(math.ceil(x / 500.0) * 500)
 
@@ -172,19 +242,34 @@ def process(v, ap):
         return None
     alt0 = float(v["alt_ft"])
     cap = HI_ALT if alt0 > MAX_ALT else MAX_ALT
+    pre = []
+    for k in range(1, len(pts) - 1):
+        a, p = pts[k - 1], pts[k]
+        if p[0] == "~" or p[0] in ap or isinstance(pts_raw[k], str):
+            continue
+        if retry(point_max, p[1], p[2]) > alt0 - CLEAR:
+            q = retry(relocate, p, (a[1], a[2]), alt0)
+            if q:
+                d = tc.hav(p[1], p[2], q[0], q[1])
+                pts[k] = (p[0], round(q[0], 4), round(q[1], 4))
+                pre.append("%s: hegyen van -> kilatopont %.1f km-re (%.4f, %.4f)" % (p[0], d, q[0], q[1]))
+    if pre:
+        pts_raw = [pts_raw[0]] + [[x[0], x[1], x[2]] for x in pts[1:-1]] + [pts_raw[-1]] if len(pts) == len(pts_raw) else pts_raw
     legs = []
     for k in range(len(pts) - 1):
         a, b = pts[k], pts[k + 1]
         bad, worst, frac = retry(leg_bad, (a[1], a[2]), (b[1], b[2]), alt0)
         legs.append((a, b, bad, worst, frac))
     if not any(l[2] for l in legs):
+        if pre:
+            return (pts_raw, alt0, pre, False, alt0 > MAX_ALT)
         return (pts_raw, alt0, [], False, alt0 > MAX_ALT) if alt0 > MAX_ALT and not v.get("hi_alt") else None
     need = up500(max(l[3] for l in legs) + CLEAR)
     total = sum(tc.hav(a[1], a[2], b[1], b[2]) for a, b, _, _, _ in legs)
     badkm = sum(tc.hav(a[1], a[2], b[1], b[2]) * fr for a, b, _, _, fr in legs)
-    notes, hard = [], False
+    notes, hard = list(pre), False
     # 1. csak magassag-emeles: kis tullogas, vagy a terep az egesz utvonalon a repulesi magassag korul jar
-    if need <= cap and (need - alt0 <= 1000 or badkm >= 0.45 * total):
+    if need <= cap and (need - alt0 <= 1000 or (badkm >= 0.45 * total and need - alt0 <= MAX_JUMP)):
         notes.append("magassag %d -> %d ft (a gerinc/fennsik miatt; utvonal valtozatlan)" % (alt0, need))
         return (pts_raw, float(need), notes, False, need > MAX_ALT)
     # 2. kerulo szakaszonkent
@@ -203,13 +288,15 @@ def process(v, ap):
     alt = alt0
     if fail:
         nf = up500(max(f[2] for f in fail) + CLEAR)
-        if nf <= cap:
+        if nf <= cap and nf - alt0 <= MAX_JUMP:
             alt = float(nf)
             notes.append("nincs atjaro %d szakaszon -> magassag %d -> %d ft" % (len(fail), alt0, nf))
         else:
             hard = True
             for a, b, w in fail:
-                notes.append("%s -> %s: KEZZEL KELL MEGOLDANI (nincs atjaro; ehhez %d ft kellene, a plafon %d ft)" % (a[0], b[0], up500(w + CLEAR), cap))
+                notes.append("%s -> %s: KEZZEL KELL MEGOLDANI (nincs atjaro; ehhez %d ft kellene, plafon %d ft, max. emeles %d ft)" % (a[0], b[0], up500(w + CLEAR), cap, MAX_JUMP))
+    if not hard:
+        newpts = smooth(newpts, alt, ap, notes)
     return (newpts, alt, notes, hard, alt > MAX_ALT)
 
 
