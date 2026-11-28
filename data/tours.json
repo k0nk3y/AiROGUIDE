@@ -1186,7 +1186,8 @@
        95.3167
       ],
       "VYBG"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [
@@ -1341,7 +1342,8 @@
        19.0396
       ],
       "LHBP"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     },
     {
      "id": "bend",
@@ -11621,7 +11623,8 @@
        2.6483
       ],
       "LEPA"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     },
     {
      "id": "north",
@@ -11826,7 +11829,8 @@
        24.7272
       ],
       "LGIR"
-     ]
+     ],
+     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
     },
     {
      "id": "west",
@@ -11976,7 +11980,8 @@
        25.163
       ],
       "LGIR"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -13666,7 +13671,8 @@
        -71.9817
       ],
       "SPZO"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -13801,7 +13807,8 @@
        -43.163
       ],
       "SBGL"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -14416,7 +14423,8 @@
        37.3556
       ],
       "HTKJ"
-     ]
+     ],
+     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -15708,7 +15716,8 @@
        -114.7377
       ],
       "KLAS"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -18075,7 +18084,8 @@
        115.508
       ],
       "WADD"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -18613,7 +18623,8 @@
        16.2172
       ],
       "FYSS"
-     ]
+     ],
+     "review": "Nincs átjáró + hajtűkanyar – Alacsonyabb (<8000 ft)"
     }
    ],
    "pois": [],
@@ -20237,7 +20248,8 @@
        -150.6
       ],
       "PATK"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     },
     {
      "id": "kantishna",
@@ -21116,7 +21128,8 @@
        -67.9704
       ],
       "SCCF"
-     ]
+     ],
+     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
     },
     {
      "id": "long",
@@ -21847,7 +21860,8 @@
        -16.908
       ],
       "LPMA"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     },
     {
      "id": "grand",
@@ -21917,7 +21931,8 @@
        -16.942
       ],
       "LPMA"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -22187,7 +22202,8 @@
        -17.3333
       ],
       "GCGM"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -23063,7 +23079,8 @@
        89.3636
       ],
       "VQPR"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     },
     {
      "id": "long",
@@ -23143,7 +23160,8 @@
        89.66
       ],
       "VQPR"
-     ]
+     ],
+     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -24325,7 +24343,8 @@
        -75.0598
       ],
       "SPZA"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -26708,7 +26727,8 @@
        -141.9173
       ],
       "CZN"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -27296,7 +27316,8 @@
        -20.6607
       ],
       "BIVM"
-     ]
+     ],
+     "review": "Nincs átjáró – Alacsonyabb (<8000 ft)"
     }
    ],
    "pois": [],
@@ -28461,7 +28482,8 @@
        6.6323
       ],
       "LSGG"
-     ]
+     ],
+     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -29394,7 +29416,8 @@
        -123.2
       ],
       "CYVR"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -29543,7 +29566,8 @@
        -71.6192
       ],
       "SCEL"
-     ]
+     ],
+     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -29661,7 +29685,8 @@
        -71.44
       ],
       "SAZS"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -31186,7 +31211,8 @@
        176.503
       ],
       "NZRO"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -32248,7 +32274,8 @@
       ],
       "VNPK"
      ],
-     "hi_alt": true
+     "hi_alt": true,
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -33045,7 +33072,8 @@
        -109.8073
       ],
       "MMSD"
-     ]
+     ],
+     "review": "Nincs átjáró – Alacsonyabb (<8000 ft)"
     }
    ],
    "pois": [],
@@ -33520,7 +33548,8 @@
       ],
       "VNJS"
      ],
-     "hi_alt": true
+     "hi_alt": true,
+     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -35630,7 +35659,8 @@
        101.6964
       ],
       "WMKK"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -35754,7 +35784,8 @@
        98.922
       ],
       "VTCC"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -36424,7 +36455,8 @@
        -117.148
       ],
       "KSAN"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -37738,7 +37770,8 @@
        -65.493
       ],
       "SASA"
-     ]
+     ],
+     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -38622,7 +38655,8 @@
        20.596
       ],
       "ESNQ"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -39361,7 +39395,8 @@
        44.516
       ],
       "UDYZ"
-     ]
+     ],
+     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -39495,7 +39530,8 @@
        66.6
       ],
       "UTSS"
-     ]
+     ],
+     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -39614,7 +39650,8 @@
        76.57
       ],
       "VOCI"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -39863,7 +39900,8 @@
        109.9938
       ],
       "ZGKL"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -40619,7 +40657,8 @@
        -109.4993
       ],
       "KCNY"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -41669,7 +41708,8 @@
        34.329
       ],
       "HESH"
-     ]
+     ],
+     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -43274,7 +43314,8 @@
        77.26
       ],
       "UAAA"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -43555,7 +43596,8 @@
        137.969
       ],
       "RJAF"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -44327,7 +44369,8 @@
        -149.9003
       ],
       "PANC"
-     ]
+     ],
+     "review": "Nincs átjáró + hajtűkanyar – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -44650,7 +44693,8 @@
        -122.3502
       ],
       "KPDX"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -45320,7 +45364,8 @@
       ],
       "SPQU"
      ],
-     "hi_alt": true
+     "hi_alt": true,
+     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -45692,7 +45737,8 @@
        -5.938
       ],
       "GMTT"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -46623,7 +46669,8 @@
        166.642
       ],
       "NZFX"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     },
     {
      "id": "dry",
@@ -47960,7 +48007,8 @@
        39.2766
       ],
       "HALL"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [
@@ -49223,7 +49271,8 @@
        52.528
       ],
       "OISS"
-     ]
+     ],
+     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -49478,7 +49527,8 @@
       ],
       "OPSD"
      ],
-     "hi_alt": true
+     "hi_alt": true,
+     "review": "Nincs átjáró + hajtűkanyar – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [
@@ -50238,7 +50288,8 @@
       ],
       "ZULS"
      ],
-     "hi_alt": true
+     "hi_alt": true,
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -50739,7 +50790,8 @@
        121.9914
       ],
       "RPVE"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -51140,7 +51192,8 @@
        88.61
       ],
       "VEBD"
-     ]
+     ],
+     "review": "Nincs átjáró + hajtűkanyar – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [
@@ -51920,7 +51973,8 @@
        41.1505
       ],
       "LTCG"
-     ]
+     ],
+     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [],
@@ -52429,7 +52483,8 @@
        -134.547
       ],
       "PAJN"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -52740,7 +52795,8 @@
        -77.137
       ],
       "MKJS"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -57323,7 +57379,8 @@
       ],
       "ZWSH"
      ],
-     "hi_alt": true
+     "hi_alt": true,
+     "review": "Nincs átjáró + hajtűkanyar – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [
@@ -58597,7 +58654,8 @@
        -89.1377
       ],
       "MHLM"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [
@@ -58865,7 +58923,8 @@
        -71.9067
       ],
       "MTCH"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [
@@ -59529,7 +59588,8 @@
        -171.9168
       ],
       "NSFA"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [
@@ -61194,7 +61254,8 @@
        -137.1
       ],
       "PAOH"
-     ]
+     ],
+     "review": "Nincs átjáró – Közepesen magas (8000-15000 ft)"
     }
    ],
    "pois": [
@@ -63059,7 +63120,8 @@
        -135.6484
       ],
       "PAGY"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [
@@ -63325,7 +63387,8 @@
        -17.9782
       ],
       "BIGR"
-     ]
+     ],
+     "review": "Hajtűkanyar (visszafordulna)"
     }
    ],
    "pois": [],
@@ -63937,7 +64000,8 @@
        82.2963
       ],
       "VNJL"
-     ]
+     ],
+     "review": "Nincs átjáró – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
@@ -64082,7 +64146,8 @@
        90.8109
       ],
       "VQBT"
-     ]
+     ],
+     "review": "Nincs átjáró + hajtűkanyar – Nagy csúcs (>15000 ft)"
     }
    ],
    "pois": [],
