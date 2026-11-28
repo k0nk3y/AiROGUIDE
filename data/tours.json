@@ -1186,7 +1186,69 @@
        95.3167
       ],
       "VYBG"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "mid-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 2500,
+     "stol": false,
+     "label": {
+      "en": "Bagan and Mount Popa (javitott)",
+      "hu": "Bagan és a Popa-hegy (javitott)",
+      "de": "Bagan und Mount Popa (javitott)",
+      "es": "Bagan y el monte Popa (javitott)",
+      "fr": "Bagan et le mont Popa (javitott)",
+      "it": "Bagan e Monte Popa (javitott)",
+      "pl": "Bagan i góra Popa (javitott)",
+      "ru": "Баган и гора Попа (javitott)",
+      "sk": "Bagan a hora Popa (javitott)",
+      "zh": "蒲甘与波巴山 (javitott)"
+     },
+     "desc": {
+      "en": "Out to Mount Popa and its hilltop monastery, then back over the temple plain.",
+      "hu": "Ki a Popa-hegyhez és a csúcson álló kolostorhoz, majd vissza a templomsík felett.",
+      "de": "Hinaus zum Mount Popa und seinem Kloster auf dem Gipfel, dann zurück über die Tempelebene.",
+      "es": "Hasta el monte Popa y su monasterio en la cima, y de vuelta sobre la llanura de templos.",
+      "fr": "Jusqu'au mont Popa et à son monastère perché, puis retour au-dessus de la plaine des temples.",
+      "it": "Fino al Monte Popa e al suo monastero in cima al colle, poi di ritorno sulla piana dei templi.",
+      "pl": "Do góry Popa i jej klasztoru na szczycie, a potem z powrotem nad równiną świątyń.",
+      "ru": "К горе Попа и её монастырю на вершине, затем обратно над храмовой равниной.",
+      "sk": "Von k hore Popa a jej kláštoru na vrchole, potom späť nad chrámovou rovinou.",
+      "zh": "飞往波巴山及其山顶寺院，再飞越佛塔平原返回。"
+     },
+     "pts": [
+      "VYBG",
+      [
+       "Shwezigon Pagoda",
+       21.1985,
+       94.8897
+      ],
+      [
+       "Ananda Temple",
+       21.1717,
+       94.8678
+      ],
+      [
+       "Dhammayangyi Temple",
+       21.1667,
+       94.875
+      ],
+      [
+       "Mount Popa",
+       20.9692,
+       95.2497
+      ],
+      [
+       "~",
+       20.9996,
+       95.3167
+      ],
+      "VYBG"
+     ],
+     "review": "2. kör – javított változat (127°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [
@@ -1341,7 +1403,74 @@
        19.0396
       ],
       "LHBP"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "city-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 1800,
+     "stol": false,
+     "label": {
+      "en": "Budapest city loop (javitott)",
+      "hu": "Budapesti városkör (javitott)",
+      "de": "Budapest-Stadtrunde (javitott)",
+      "es": "Circuito urbano de Budapest (javitott)",
+      "fr": "Boucle de Budapest (javitott)",
+      "it": "Giro di Budapest (javitott)",
+      "pl": "Pętla nad Budapesztem (javitott)",
+      "ru": "Круг над Будапештом (javitott)",
+      "sk": "Okruh nad Budapešťou (javitott)",
+      "zh": "布达佩斯市区环线 (javitott)"
+     },
+     "desc": {
+      "en": "Short loop over the Budapest landmarks: Gellért Hill, Buda Castle, Parliament and Margaret Island.",
+      "hu": "Rövid kör Budapest nevezetességei felett: a Gellért-hegy, a budai vár, az Országház és a Margitsziget.",
+      "de": "Kurze Runde über die Wahrzeichen von Budapest: Gellértberg, Burg von Buda, Parlament und Margareteninsel.",
+      "es": "Circuito corto sobre los lugares emblemáticos de Budapest: la colina Gellért, el Castillo de Buda, el Parlamento y la isla Margarita.",
+      "fr": "Courte boucle au-dessus des sites de Budapest : la colline Gellért, le château de Buda, le Parlement et l'île Marguerite.",
+      "it": "Breve giro sui monumenti di Budapest: il Monte Gellért, il Castello di Buda, il Parlamento e l'Isola Margherita.",
+      "pl": "Krótka pętla nad budapeszteńskimi zabytkami: Wzgórze Gellérta, Zamek Królewski na Budzie, Parlament i Wyspa Małgorzaty.",
+      "ru": "Короткий круг над достопримечательностями Будапешта: гора Геллерт, Будайская крепость, парламент и остров Маргит.",
+      "sk": "Krátky okruh nad budapeštianskymi pamiatkami: vrch Gellért, Budínsky hrad, parlament a Margitin ostrov.",
+      "zh": "飞越布达佩斯地标的短途环线：盖勒特山、布达城堡、国会大厦和玛格丽特岛。"
+     },
+     "pts": [
+      "LHBP",
+      [
+       "Gellért Hill",
+       47.4862,
+       19.046
+      ],
+      [
+       "János Hill Lookout",
+       47.5123,
+       18.9876
+      ],
+      [
+       "~",
+       47.5524,
+       18.9709
+      ],
+      [
+       "Margaret Island",
+       47.526,
+       19.048
+      ],
+      [
+       "Hungarian Parliament",
+       47.5072,
+       19.0456
+      ],
+      [
+       "Buda Castle",
+       47.4961,
+       19.0396
+      ],
+      "LHBP"
+     ],
+     "review": "2. kör – javított változat (132°-os fordulóval) – az eredetivel együtt, válassz"
     },
     {
      "id": "bend",
@@ -11621,7 +11750,99 @@
        2.6483
       ],
       "LEPA"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "short-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Mallorca short (javitott)",
+      "hu": "Mallorca rövid (javitott)",
+      "de": "Mallorca kurz (javitott)",
+      "es": "Mallorca corto (javitott)",
+      "fr": "Majorque, version courte (javitott)",
+      "it": "Maiorca breve (javitott)",
+      "pl": "Krótka pętla po Majorce (javitott)",
+      "ru": "Короткий маршрут над Майоркой (javitott)",
+      "sk": "Mallorca krátko (javitott)",
+      "zh": "马略卡短线 (javitott)"
+     },
+     "desc": {
+      "en": "Short loop: Palma Cathedral, Valldemossa and the Tramuntana coast.",
+      "hu": "Rövid kör: Palma katedrális, Valldemossa és a Tramuntana-part.",
+      "de": "Kurze Runde: Kathedrale von Palma, Valldemossa und die Küste der Tramuntana.",
+      "es": "Circuito corto: la catedral de Palma, Valldemossa y la costa de la Tramuntana.",
+      "fr": "Courte boucle : la cathédrale de Palma, Valldemossa et la côte de la Tramuntana.",
+      "it": "Breve giro: Cattedrale di Palma, Valldemossa e la costa della Tramuntana.",
+      "pl": "Krótka pętla: katedra w Palmie, Valldemossa i wybrzeże Tramuntany.",
+      "ru": "Короткий круг: собор Пальмы, Вальдемосса и побережье Трамунтаны.",
+      "sk": "Krátky okruh: katedrála v Palme, Valldemossa a pobrežie Tramuntany.",
+      "zh": "短途环线：帕尔马大教堂、巴尔德莫萨和特拉蒙塔纳海岸。"
+     },
+     "pts": [
+      "LEPA",
+      [
+       "~",
+       39.6317,
+       2.7552
+      ],
+      [
+       "~",
+       39.7754,
+       2.6958
+      ],
+      [
+       "~",
+       39.8132,
+       2.7213
+      ],
+      [
+       "Sa Calobra",
+       39.85,
+       2.8
+      ],
+      [
+       "~",
+       39.8643,
+       2.757
+      ],
+      [
+       "Sóller",
+       39.766,
+       2.715
+      ],
+      [
+       "~",
+       39.7895,
+       2.6687
+      ],
+      [
+       "~",
+       39.7834,
+       2.6302
+      ],
+      [
+       "~",
+       39.7584,
+       2.5889
+      ],
+      [
+       "Valldemossa",
+       39.711,
+       2.624
+      ],
+      [
+       "Palma Cathedral",
+       39.5676,
+       2.6483
+      ],
+      "LEPA"
+     ],
+     "review": "2. kör – javított változat (125°-os fordulóval) – az eredetivel együtt, válassz"
     },
     {
      "id": "north",
@@ -11981,7 +12202,89 @@
        25.163
       ],
       "LGIR"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "grand-javitott",
+     "kind": "loop",
+     "kt": 115,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Crete grand loop (javitott)",
+      "hu": "Kréta nagy kör (javitott)",
+      "de": "Große Kreta-Runde (javitott)",
+      "es": "Gran circuito de Creta (javitott)",
+      "fr": "Grande boucle de Crète (javitott)",
+      "it": "Grande giro di Creta (javitott)",
+      "pl": "Wielka pętla po Krecie (javitott)",
+      "ru": "Большой круг над Критом (javitott)",
+      "sk": "Veľký okruh po Kréte (javitott)",
+      "zh": "克里特大环线 (javitott)"
+     },
+     "desc": {
+      "en": "The east and south of the island: Spinalonga, Vai palm beach, Zakros, Chrissi island, Matala and Mount Ida.",
+      "hu": "A sziget keleti és déli fele: Spinalonga, a Vai pálmaliget, Zakrosz, Chrissi-sziget, Matala és az Ida-hegy.",
+      "de": "Der Osten und Süden der Insel: Spinalonga, Palmenstrand von Vai, Zakros, Insel Chrissi, Matala und Ida-Gebirge.",
+      "es": "El este y el sur de la isla: Spinalonga, la playa de palmeras de Vai, Zakros, la isla de Chrissi, Matala y el monte Ida.",
+      "fr": "L'est et le sud de l'île : Spinalonga, la plage de palmiers de Vaï, Zakros, l'île de Chrissi, Matala et le mont Ida.",
+      "it": "L'est e il sud dell'isola: Spinalonga, la spiaggia di palme di Vai, Zakros, l'isola di Chrissi, Matala e il Monte Ida.",
+      "pl": "Wschód i południe wyspy: Spinalonga, palmowa plaża Vai, Zakros, wyspa Chrissi, Matala i góra Ida.",
+      "ru": "Восток и юг острова: Спиналонга, пальмовый пляж Вай, Закрос, остров Хрисси, Матала и гора Ида.",
+      "sk": "Východ a juh ostrova: Spinalonga, palmová pláž Vai, Zakros, ostrov Chrissi, Matala a hora Ida.",
+      "zh": "岛屿东部和南部：斯皮纳隆加、拜棕榈海滩、扎克罗斯、克里西岛、马塔拉和伊达山。"
+     },
+     "pts": [
+      "LGIR",
+      [
+       "Spinalonga",
+       35.2989,
+       25.739
+      ],
+      [
+       "Vai Palm Beach",
+       35.252,
+       26.261
+      ],
+      [
+       "Zakros",
+       35.098,
+       26.261
+      ],
+      [
+       "Chrissi Island",
+       34.883,
+       25.705
+      ],
+      [
+       "Matala",
+       34.994,
+       24.749
+      ],
+      [
+       "Mount Ida",
+       35.1961,
+       24.735
+      ],
+      [
+       "~",
+       35.1481,
+       24.7694
+      ],
+      [
+       "~",
+       35.1267,
+       24.9148
+      ],
+      [
+       "Knossos Palace",
+       35.298,
+       25.163
+      ],
+      "LGIR"
+     ],
+     "review": "2. kör – javított változat (152°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -13671,7 +13974,119 @@
        -71.9817
       ],
       "SPZO"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "full-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 15000,
+     "stol": false,
+     "label": {
+      "en": "Machu Picchu loop (javitott)",
+      "hu": "Machu Picchu-kör (javitott)",
+      "de": "Machu-Picchu-Runde (javitott)",
+      "es": "Circuito de Machu Picchu (javitott)",
+      "fr": "Boucle du Machu Picchu (javitott)",
+      "it": "Giro di Machu Picchu (javitott)",
+      "pl": "Pętla Machu Picchu (javitott)",
+      "ru": "Круг над Мачу-Пикчу (javitott)",
+      "sk": "Okruh Machu Picchu (javitott)",
+      "zh": "马丘比丘环线 (javitott)"
+     },
+     "desc": {
+      "en": "About an hour: Pisac, Ollantaytambo and Machu Picchu, back over Moray.",
+      "hu": "Kb. egy óra: Pisac, Ollantaytambo és Machu Picchu, vissza Moray felett.",
+      "de": "Etwa eine Stunde: Pisac, Ollantaytambo und Machu Picchu, zurück über Moray.",
+      "es": "Aproximadamente una hora: Pisac, Ollantaytambo y Machu Picchu, de regreso sobre Moray.",
+      "fr": "Environ une heure : Pisac, Ollantaytambo et le Machu Picchu, puis retour par Moray.",
+      "it": "Circa un'ora: Pisac, Ollantaytambo e Machu Picchu, e ritorno su Moray.",
+      "pl": "Około godziny: Pisac, Ollantaytambo i Machu Picchu, z powrotem nad Moray.",
+      "ru": "Около часа: Писак, Ольянтайтамбо и Мачу-Пикчу, обратно над Морай.",
+      "sk": "Asi hodina: Pisac, Ollantaytambo a Machu Picchu, späť nad Moray.",
+      "zh": "约一小时：皮萨克、奥扬泰坦博和马丘比丘，再飞越莫拉伊返回。"
+     },
+     "pts": [
+      "SPZO",
+      [
+       "Pisac",
+       -13.4167,
+       -71.8475
+      ],
+      [
+       "Moray",
+       -13.3293,
+       -72.1962
+      ],
+      [
+       "Ollantaytambo",
+       -13.2584,
+       -72.2631
+      ],
+      [
+       "~",
+       -13.2236,
+       -72.324
+      ],
+      [
+       "~",
+       -13.2353,
+       -72.4162
+      ],
+      [
+       "~",
+       -13.1876,
+       -72.4726
+      ],
+      [
+       "Machu Picchu",
+       -13.1631,
+       -72.545
+      ],
+      [
+       "~",
+       -13.2285,
+       -72.5774
+      ],
+      [
+       "~",
+       -13.1914,
+       -72.4973
+      ],
+      [
+       "~",
+       -13.1911,
+       -72.4663
+      ],
+      [
+       "~",
+       -13.215,
+       -72.4474
+      ],
+      [
+       "~",
+       -13.2139,
+       -72.3544
+      ],
+      [
+       "~",
+       -13.2551,
+       -72.2671
+      ],
+      [
+       "~",
+       -13.4463,
+       -72.1158
+      ],
+      [
+       "Sacsayhuamán",
+       -13.5093,
+       -71.9817
+      ],
+      "SPZO"
+     ],
+     "review": "2. kör – javított változat (141°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -13806,7 +14221,79 @@
        -43.163
       ],
       "SBGL"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 3000,
+     "stol": false,
+     "label": {
+      "en": "Rio loop (javitott)",
+      "hu": "Rio-kör (javitott)",
+      "de": "Rio-Runde (javitott)",
+      "es": "Circuito de Río (javitott)",
+      "fr": "Boucle de Rio (javitott)",
+      "it": "Giro di Rio (javitott)",
+      "pl": "Pętla nad Rio (javitott)",
+      "ru": "Круг над Рио (javitott)",
+      "sk": "Okruh nad Riom (javitott)",
+      "zh": "里约环线 (javitott)"
+     },
+     "desc": {
+      "en": "Sugarloaf, Copacabana, Christ the Redeemer and the Maracanã stadium.",
+      "hu": "Cukorsüvegcsúcs, Copacabana, a Megváltó Krisztus-szobor és a Maracanã stadion.",
+      "de": "Zuckerhut, Copacabana, Christusstatue und das Maracanã-Stadion.",
+      "es": "El Pan de Azúcar, Copacabana, el Cristo Redentor y el estadio Maracanã.",
+      "fr": "Le Pain de Sucre, Copacabana, le Christ Rédempteur et le stade du Maracanã.",
+      "it": "Pan di Zucchero, Copacabana, Cristo Redentore e lo stadio Maracanã.",
+      "pl": "Głowa Cukru, Copacabana, Chrystus Odkupiciel i stadion Maracanã.",
+      "ru": "Сахарная Голова, Копакабана, Христос-Искупитель и стадион Маракана.",
+      "sk": "Cukrová homoľa, Copacabana, Kristus Vykupiteľ a štadión Maracanã.",
+      "zh": "糖面包山、科帕卡巴纳、基督像和马拉卡纳体育场。"
+     },
+     "pts": [
+      "SBGL",
+      [
+       "Maracanã Stadium",
+       -22.9122,
+       -43.2302
+      ],
+      [
+       "Pedra da Gávea",
+       -22.9824,
+       -43.2752
+      ],
+      [
+       "~",
+       -23.0227,
+       -43.2565
+      ],
+      [
+       "Christ the Redeemer",
+       -22.9519,
+       -43.2105
+      ],
+      [
+       "Copacabana",
+       -22.9711,
+       -43.1822
+      ],
+      [
+       "Sugarloaf Mountain",
+       -22.9486,
+       -43.1566
+      ],
+      [
+       "Rio-Niterói Bridge",
+       -22.878,
+       -43.163
+      ],
+      "SBGL"
+     ],
+     "review": "2. kör – javított változat (125°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -15713,7 +16200,84 @@
        -114.7377
       ],
       "KLAS"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "full-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Vegas loop (javitott)",
+      "hu": "Vegas-kör (javitott)",
+      "de": "Vegas-Runde (javitott)",
+      "es": "Circuito de Las Vegas (javitott)",
+      "fr": "Boucle de Vegas (javitott)",
+      "it": "Giro di Las Vegas (javitott)",
+      "pl": "Pętla nad Vegas (javitott)",
+      "ru": "Круг над Вегасом (javitott)",
+      "sk": "Okruh Vegas (javitott)",
+      "zh": "维加斯环线 (javitott)"
+     },
+     "desc": {
+      "en": "About an hour: the Strip, Red Rock, Hoover Dam, Lake Mead and the Valley of Fire.",
+      "hu": "Kb. egy óra: a Strip, Red Rock, Hoover-gát, a Mead-tó és a Valley of Fire.",
+      "de": "Etwa eine Stunde: der Strip, Red Rock, Hoover Dam, Lake Mead und das Valley of Fire.",
+      "es": "Aproximadamente una hora: el Strip, Red Rock, la presa Hoover, el lago Mead y el Valle del Fuego.",
+      "fr": "Environ une heure : le Strip, Red Rock, le barrage Hoover, le lac Mead et la Valley of Fire.",
+      "it": "Circa un'ora: la Strip, Red Rock, la Diga di Hoover, il Lago Mead e la Valley of Fire.",
+      "pl": "Około godziny: Strip, Red Rock, Zapora Hoovera, jezioro Mead i Dolina Ognia.",
+      "ru": "Около часа: Стрип, Ред-Рок, плотина Гувера, озеро Мид и Долина Огня.",
+      "sk": "Asi hodina: Strip, Red Rock, Hooverova priehrada, jazero Mead a Valley of Fire.",
+      "zh": "约一小时：大道、红岩、胡佛水坝、米德湖和火焰谷。"
+     },
+     "pts": [
+      "KLAS",
+      [
+       "Las Vegas Strip",
+       36.1147,
+       -115.1728
+      ],
+      [
+       "Red Rock Canyon",
+       36.135,
+       -115.427
+      ],
+      [
+       "~",
+       36.186,
+       -115.4363
+      ],
+      [
+       "~",
+       36.1607,
+       -115.3727
+      ],
+      [
+       "~",
+       36.2294,
+       -115.278
+      ],
+      [
+       "Valley of Fire",
+       36.435,
+       -114.516
+      ],
+      [
+       "Lake Mead",
+       36.2,
+       -114.35
+      ],
+      [
+       "Hoover Dam",
+       36.016,
+       -114.7377
+      ],
+      "KLAS"
+     ],
+     "review": "2. kör – javított változat (124°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -18080,7 +18644,84 @@
        115.508
       ],
       "WADD"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "full-javitott",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 6500,
+     "stol": false,
+     "label": {
+      "en": "Bali loop (javitott)",
+      "hu": "Bali-kör (javitott)",
+      "de": "Bali-Runde (javitott)",
+      "es": "Circuito de Bali (javitott)",
+      "fr": "Boucle de Bali (javitott)",
+      "it": "Giro di Bali (javitott)",
+      "pl": "Pętla po Bali (javitott)",
+      "ru": "Круг над Бали (javitott)",
+      "sk": "Okruh Bali (javitott)",
+      "zh": "巴厘岛环线 (javitott)"
+     },
+     "desc": {
+      "en": "About an hour: Uluwatu, Tegallalang rice terraces, Mount Batur and Mount Agung.",
+      "hu": "Kb. egy óra: Uluwatu, Tegallalang rizsteraszai, a Batur és az Agung.",
+      "de": "Etwa eine Stunde: Uluwatu, die Reisterrassen von Tegallalang, Mount Batur und Mount Agung.",
+      "es": "Aproximadamente una hora: Uluwatu, las terrazas de arroz de Tegallalang, el monte Batur y el monte Agung.",
+      "fr": "Environ une heure : Uluwatu, les rizières en terrasses de Tegallalang, le mont Batur et le mont Agung.",
+      "it": "Circa un'ora: Uluwatu, le risaie a terrazze di Tegallalang, il Monte Batur e il Monte Agung.",
+      "pl": "Około godziny: Uluwatu, tarasy ryżowe Tegallalang, góra Batur i góra Agung.",
+      "ru": "Около часа: Улувату, рисовые террасы Тегаллаланга, гора Батур и гора Агунг.",
+      "sk": "Asi hodina: Uluwatu, ryžové terasy Tegallalang, Mount Batur a Mount Agung.",
+      "zh": "约一小时：乌鲁瓦图、德哥拉朗梯田、巴图尔山和阿贡山。"
+     },
+     "pts": [
+      "WADD",
+      [
+       "Uluwatu Temple",
+       -8.8291,
+       115.0849
+      ],
+      [
+       "~",
+       -8.8151,
+       115.0514
+      ],
+      [
+       "Tanah Lot",
+       -8.6212,
+       115.0868
+      ],
+      [
+       "Tegallalang Rice Terraces",
+       -8.4312,
+       115.2793
+      ],
+      [
+       "Mount Batur",
+       -8.242,
+       115.375
+      ],
+      [
+       "Mount Agung",
+       -8.307,
+       115.508
+      ],
+      [
+       "~",
+       -8.3146,
+       115.4507
+      ],
+      [
+       "~",
+       -8.4142,
+       115.4253
+      ],
+      "WADD"
+     ],
+     "review": "2. kör – javított változat (146°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -20252,7 +20893,89 @@
        -150.6
       ],
       "PATK"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "foraker-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 13500,
+     "stol": false,
+     "label": {
+      "en": "Foraker and Denali (javitott)",
+      "hu": "Foraker és Denali (javitott)",
+      "de": "Foraker und Denali (javitott)",
+      "es": "Foraker y Denali (javitott)",
+      "fr": "Foraker et Denali (javitott)",
+      "it": "Foraker e Denali (javitott)",
+      "pl": "Foraker i Denali (javitott)",
+      "ru": "Форакер и Денали (javitott)",
+      "sk": "Foraker a Denali (javitott)",
+      "zh": "福勒克山与迪纳利 (javitott)"
+     },
+     "desc": {
+      "en": "About an hour: Mount Foraker, Denali and the Ruth Glacier.",
+      "hu": "Kb. egy óra: a Mount Foraker, a Denali és a Ruth-gleccser.",
+      "de": "Etwa eine Stunde: Mount Foraker, Denali und Ruth Glacier.",
+      "es": "Aproximadamente una hora: el monte Foraker, el Denali y el glaciar Ruth.",
+      "fr": "Environ une heure : le mont Foraker, le Denali et le glacier Ruth.",
+      "it": "Circa un'ora: Monte Foraker, Denali e Ruth Glacier.",
+      "pl": "Około godziny: Mount Foraker, Denali i Lodowiec Ruth.",
+      "ru": "Около часа: гора Форакер, Денали и ледник Рут.",
+      "sk": "Asi hodina: Mount Foraker, Denali a ľadovec Ruth.",
+      "zh": "约一小时：福勒克山、迪纳利和鲁斯冰川。"
+     },
+     "pts": [
+      "PATK",
+      [
+       "Kahiltna Glacier",
+       62.88,
+       -151.18
+      ],
+      [
+       "Mount Foraker",
+       62.9409,
+       -151.357
+      ],
+      [
+       "~",
+       62.9278,
+       -151.2973
+      ],
+      [
+       "~",
+       62.9986,
+       -151.1926
+      ],
+      [
+       "Denali",
+       63.0437,
+       -151.0633
+      ],
+      [
+       "~",
+       62.9891,
+       -151.0864
+      ],
+      [
+       "~",
+       62.9654,
+       -151.0449
+      ],
+      [
+       "~",
+       62.9694,
+       -150.7134
+      ],
+      [
+       "Ruth Glacier",
+       62.945,
+       -150.6
+      ],
+      "PATK"
+     ],
+     "review": "2. kör – javított változat (168°-os fordulóval) – az eredetivel együtt, válassz"
     },
     {
      "id": "kantishna",
@@ -20337,7 +21060,124 @@
        -150.8098
       ],
       "5Z5"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "kantishna-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 12000,
+     "stol": true,
+     "label": {
+      "en": "Denali loop (javitott)",
+      "hu": "Denali-kör (javitott)",
+      "de": "Denali-Runde (javitott)",
+      "es": "Circuito del Denali (javitott)",
+      "fr": "Boucle du Denali (javitott)",
+      "it": "Giro del Denali (javitott)",
+      "pl": "Pętla Denali (javitott)",
+      "ru": "Маршрут вокруг Денали (javitott)",
+      "sk": "Okruh Denali (javitott)",
+      "zh": "德纳里环线 (javitott)"
+     },
+     "desc": {
+      "en": "Wonder Lake, Muldrow Glacier and Denali.",
+      "hu": "Wonder-tó, Muldrow-gleccser és a Denali.",
+      "de": "Wonder Lake, Muldrow-Gletscher und Denali.",
+      "es": "Lago Wonder, glaciar Muldrow y Denali.",
+      "fr": "Lac Wonder, glacier Muldrow et Denali.",
+      "it": "Lago Wonder, Ghiacciaio Muldrow e Denali.",
+      "pl": "Wonder Lake, lodowiec Muldrow i Denali.",
+      "ru": "Озеро Уандер, ледник Малдроу и Денали.",
+      "sk": "Jazero Wonder, ľadovec Muldrow a Denali.",
+      "zh": "奇迹湖、马尔德罗冰川和德纳里。"
+     },
+     "pts": [
+      "5Z5",
+      [
+       "~=",
+       63.516,
+       -150.865
+      ],
+      [
+       "~",
+       63.218,
+       -151.0573
+      ],
+      [
+       "~",
+       63.1514,
+       -151.1929
+      ],
+      [
+       "~",
+       63.0958,
+       -151.197
+      ],
+      [
+       "Denali",
+       63.0855,
+       -151.1415
+      ],
+      [
+       "~",
+       63.0821,
+       -151.2306
+      ],
+      [
+       "~",
+       63.0507,
+       -151.3443
+      ],
+      [
+       "~",
+       63.0226,
+       -151.3688
+      ],
+      [
+       "~",
+       62.9958,
+       -151.3637
+      ],
+      [
+       "~",
+       62.9885,
+       -151.3027
+      ],
+      [
+       "~",
+       62.9953,
+       -151.1251
+      ],
+      [
+       "~",
+       62.9695,
+       -151.005
+      ],
+      [
+       "~",
+       62.9974,
+       -150.8987
+      ],
+      [
+       "~",
+       63.033,
+       -150.8551
+      ],
+      [
+       "Muldrow Glacier",
+       63.28,
+       -150.5
+      ],
+      [
+       "~=",
+       63.505,
+       -150.8098
+      ],
+      "5Z5"
+     ],
+     "review": "2. kör – javított változat (152°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [
@@ -21862,7 +22702,84 @@
        -16.908
       ],
       "LPMA"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "short-javitott",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Madeira short (javitott)",
+      "hu": "Madeira rövid (javitott)",
+      "de": "Madeira kurz (javitott)",
+      "es": "Madeira corto (javitott)",
+      "fr": "Madère, version courte (javitott)",
+      "it": "Madeira breve (javitott)",
+      "pl": "Krótka pętla po Maderze (javitott)",
+      "ru": "Короткий маршрут над Мадейрой (javitott)",
+      "sk": "Madeira krátko (javitott)",
+      "zh": "马德拉短线 (javitott)"
+     },
+     "desc": {
+      "en": "Short loop: Funchal, Cabo Girão, Pico Ruivo and São Lourenço.",
+      "hu": "Rövid kör: Funchal, Cabo Girão, a Pico Ruivo és São Lourenço.",
+      "de": "Kurze Runde: Funchal, Cabo Girão, Pico Ruivo und São Lourenço.",
+      "es": "Circuito corto: Funchal, Cabo Girão, el Pico Ruivo y São Lourenço.",
+      "fr": "Courte boucle : Funchal, Cabo Girão, Pico Ruivo et São Lourenço.",
+      "it": "Breve giro: Funchal, Cabo Girão, Pico Ruivo e São Lourenço.",
+      "pl": "Krótka pętla: Funchal, Cabo Girão, Pico Ruivo i São Lourenço.",
+      "ru": "Короткий круг: Фуншал, Кабо-Жирао, Пику-Руйву и Сан-Лоренсу.",
+      "sk": "Krátky okruh: Funchal, Cabo Girão, Pico Ruivo a São Lourenço.",
+      "zh": "短途环线：丰沙尔、吉朗角、鲁伊沃峰和圣洛伦索。"
+     },
+     "pts": [
+      "LPMA",
+      [
+       "Ponta de São Lourenço",
+       32.744,
+       -16.693
+      ],
+      [
+       "~",
+       32.7788,
+       -16.704
+      ],
+      [
+       "Pico Ruivo",
+       32.798,
+       -16.9152
+      ],
+      [
+       "~",
+       32.756,
+       -16.8146
+      ],
+      [
+       "~",
+       32.7258,
+       -16.8145
+      ],
+      [
+       "~",
+       32.6472,
+       -16.8788
+      ],
+      [
+       "Cabo Girão",
+       32.654,
+       -17.0
+      ],
+      [
+       "Funchal",
+       32.65,
+       -16.908
+      ],
+      "LPMA"
+     ],
+     "review": "2. kör – javított változat (179°-os fordulóval) – az eredetivel együtt, válassz"
     },
     {
      "id": "grand",
@@ -21932,7 +22849,129 @@
        -16.942
       ],
       "LPMA"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "grand-javitott",
+     "kind": "loop",
+     "kt": 105,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Island loop (javitott)",
+      "hu": "Szigetkör (javitott)",
+      "de": "Inselrunde (javitott)",
+      "es": "Circuito de la isla (javitott)",
+      "fr": "Boucle de l'île (javitott)",
+      "it": "Giro dell'isola (javitott)",
+      "pl": "Pętla dookoła wyspy (javitott)",
+      "ru": "Круг над островом (javitott)",
+      "sk": "Okruh ostrovom (javitott)",
+      "zh": "环岛飞行 (javitott)"
+     },
+     "desc": {
+      "en": "About an hour: São Lourenço, Porto Santo, Pico Ruivo, Porto Moniz and Cabo Girão.",
+      "hu": "Kb. egy óra: São Lourenço, Porto Santo, a Pico Ruivo, Porto Moniz és Cabo Girão.",
+      "de": "Etwa eine Stunde: São Lourenço, Porto Santo, Pico Ruivo, Porto Moniz und Cabo Girão.",
+      "es": "Aproximadamente una hora: São Lourenço, Porto Santo, el Pico Ruivo, Porto Moniz y Cabo Girão.",
+      "fr": "Environ une heure : São Lourenço, Porto Santo, le Pico Ruivo, Porto Moniz et le Cabo Girão.",
+      "it": "Circa un'ora: São Lourenço, Porto Santo, Pico Ruivo, Porto Moniz e Cabo Girão.",
+      "pl": "Około godziny: São Lourenço, Porto Santo, Pico Ruivo, Porto Moniz i Cabo Girão.",
+      "ru": "Около часа: Сан-Лоренсу, Порту-Санту, Пику-Руйву, Порту-Мониш и Кабо-Жирао.",
+      "sk": "Asi hodina: São Lourenço, Porto Santo, Pico Ruivo, Porto Moniz a Cabo Girão.",
+      "zh": "约一小时：圣洛伦索、圣港岛、鲁伊沃峰、波尔图莫尼兹和吉朗角。"
+     },
+     "pts": [
+      "LPMA",
+      [
+       "Ponta de São Lourenço",
+       32.744,
+       -16.693
+      ],
+      [
+       "Porto Santo",
+       33.07,
+       -16.34
+      ],
+      [
+       "~",
+       33.1616,
+       -16.4081
+      ],
+      [
+       "Porto Moniz",
+       32.868,
+       -17.17
+      ],
+      [
+       "~",
+       32.8305,
+       -17.2367
+      ],
+      [
+       "~",
+       32.7743,
+       -17.2499
+      ],
+      [
+       "~",
+       32.707,
+       -17.1963
+      ],
+      [
+       "~",
+       32.6622,
+       -17.1029
+      ],
+      [
+       "Cabo Girão",
+       32.654,
+       -17.0
+      ],
+      [
+       "~",
+       32.6568,
+       -16.9574
+      ],
+      [
+       "~",
+       32.6503,
+       -16.91
+      ],
+      [
+       "~",
+       32.6682,
+       -16.8415
+      ],
+      [
+       "~",
+       32.6927,
+       -16.8205
+      ],
+      [
+       "~",
+       32.7614,
+       -16.8234
+      ],
+      [
+       "Pico Ruivo",
+       32.7938,
+       -16.9309
+      ],
+      [
+       "~",
+       32.8185,
+       -16.8896
+      ],
+      [
+       "~",
+       32.8135,
+       -16.8542
+      ],
+      "LPMA"
+     ],
+     "review": "2. kör – javított változat (124°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -22003,7 +23042,7 @@
      "id": "short",
      "kind": "loop",
      "kt": 95,
-     "alt_ft": 9000,
+     "alt_ft": 10000,
      "stol": false,
      "label": {
       "en": "Teide short",
@@ -22068,7 +23107,7 @@
      "id": "grand",
      "kind": "loop",
      "kt": 105,
-     "alt_ft": 8000,
+     "alt_ft": 8500,
      "stol": false,
      "label": {
       "en": "Tenerife and La Gomera",
@@ -22202,7 +23241,84 @@
        -17.3333
       ],
       "GCGM"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "la-gomera-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6000,
+     "stol": true,
+     "label": {
+      "en": "Gomera and Teide loop (javitott)",
+      "hu": "Gomera–Teide kör (javitott)",
+      "de": "Gomera-und-Teide-Runde (javitott)",
+      "es": "Circuito de La Gomera y el Teide (javitott)",
+      "fr": "Boucle de La Gomera et du Teide (javitott)",
+      "it": "Giro di La Gomera e del Teide (javitott)",
+      "pl": "Pętla Gomera i Teide (javitott)",
+      "ru": "Маршрут Гомера и Тейде (javitott)",
+      "sk": "Okruh Gomera a Teide (javitott)",
+      "zh": "戈梅拉与泰德环线 (javitott)"
+     },
+     "desc": {
+      "en": "Valle Gran Rey, Los Órganos and Teide.",
+      "hu": "Valle Gran Rey, Los Órganos és a Teide.",
+      "de": "Valle Gran Rey, Los Órganos und Teide.",
+      "es": "Valle Gran Rey, Los Órganos y Teide.",
+      "fr": "Valle Gran Rey, Los Órganos et Teide.",
+      "it": "Valle Gran Rey, Los Órganos e Teide.",
+      "pl": "Valle Gran Rey, Los Órganos i Teide.",
+      "ru": "Валье-Гран-Рей, Лос-Органос и Тейде.",
+      "sk": "Valle Gran Rey, Los Órganos a Teide.",
+      "zh": "大王谷、管风琴岩和泰德峰。"
+     },
+     "pts": [
+      "GCGM",
+      [
+       "~=",
+       28.0296,
+       -17.1127
+      ],
+      [
+       "~",
+       28.1993,
+       -16.8556
+      ],
+      [
+       "~",
+       28.334,
+       -16.7788
+      ],
+      [
+       "~",
+       28.3554,
+       -16.7205
+      ],
+      [
+       "Mount Teide",
+       28.3191,
+       -16.6732
+      ],
+      [
+       "~",
+       28.3742,
+       -16.683
+      ],
+      [
+       "Los Órganos",
+       28.185,
+       -17.327
+      ],
+      [
+       "Valle Gran Rey",
+       28.1,
+       -17.3333
+      ],
+      "GCGM"
+     ],
+     "review": "2. kör – javított változat (139°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -23078,7 +24194,89 @@
        89.3636
       ],
       "VQPR"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "short-javitott",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 12000,
+     "stol": false,
+     "label": {
+      "en": "Paro and Thimphu (javitott)",
+      "hu": "Paro és Thimphu (javitott)",
+      "de": "Paro und Thimphu (javitott)",
+      "es": "Paro y Timbu (javitott)",
+      "fr": "Paro et Thimphou (javitott)",
+      "it": "Paro e Thimphu (javitott)",
+      "pl": "Paro i Thimphu (javitott)",
+      "ru": "Паро и Тхимпху (javitott)",
+      "sk": "Paro a Thimphu (javitott)",
+      "zh": "帕罗与廷布 (javitott)"
+     },
+     "desc": {
+      "en": "From Paro over the Tiger's Nest and the Tashichho Dzong in Thimphu.",
+      "hu": "Paróból a Tigrisfészek-kolostor és a thimphui Tashichho-dzong felett.",
+      "de": "Ab Paro über das Tigernest und den Tashichho Dzong in Thimphu.",
+      "es": "Desde Paro sobre el Nido del Tigre y el Tashichho Dzong en Timbu.",
+      "fr": "De Paro, par-dessus le Nid du Tigre jusqu'au Tashichho Dzong à Thimphou.",
+      "it": "Da Paro sul Nido della Tigre fino al Tashichho Dzong a Thimphu.",
+      "pl": "Z Paro nad Tygrysim Gniazdem i Tashichho Dzong w Thimphu.",
+      "ru": "Из Паро над Тигровым гнездом к дзонгу Ташичхо в Тхимпху.",
+      "sk": "Z Paro nad Tigriím hniezdom a Tashichho Dzongom v Thimphu.",
+      "zh": "从帕罗出发，飞越虎穴寺和廷布的扎西曲宗。"
+     },
+     "pts": [
+      "VQPR",
+      [
+       "~",
+       27.3412,
+       89.4546
+      ],
+      [
+       "~",
+       27.3201,
+       89.5145
+      ],
+      [
+       "~",
+       27.4264,
+       89.6781
+      ],
+      [
+       "Tashichho Dzong",
+       27.4929,
+       89.66
+      ],
+      [
+       "~",
+       27.5485,
+       89.6469
+      ],
+      [
+       "~",
+       27.4224,
+       89.5697
+      ],
+      [
+       "~",
+       27.4482,
+       89.4229
+      ],
+      [
+       "Tiger's Nest",
+       27.4916,
+       89.3636
+      ],
+      [
+       "~",
+       27.4615,
+       89.3665
+      ],
+      "VQPR"
+     ],
+     "review": "2. kör – javított változat (139°-os fordulóval) – az eredetivel együtt, válassz"
     },
     {
      "id": "long",
@@ -24350,7 +25548,74 @@
        -75.0598
       ],
       "SPZA"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "long-javitott",
+     "kind": "loop",
+     "kt": 95,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Nazca and Palpa (javitott)",
+      "hu": "Nazca és Palpa (javitott)",
+      "de": "Nazca und Palpa (javitott)",
+      "es": "Nazca y Palpa (javitott)",
+      "fr": "Nazca et Palpa (javitott)",
+      "it": "Nazca e Palpa (javitott)",
+      "pl": "Nazca i Palpa (javitott)",
+      "ru": "Наска и Пальпа (javitott)",
+      "sk": "Nazca a Palpa (javitott)",
+      "zh": "纳斯卡与帕尔帕 (javitott)"
+     },
+     "desc": {
+      "en": "About an hour: Chauchilla cemetery, Cahuachi, the Nazca lines and the Palpa geoglyphs.",
+      "hu": "Kb. egy óra: a Chauchilla-temető, Cahuachi, a Nazca-vonalak és a palpai geoglifák.",
+      "de": "Etwa eine Stunde: Friedhof Chauchilla, Cahuachi, die Nazca-Linien und die Palpa-Geoglyphen.",
+      "es": "Aproximadamente una hora: el cementerio de Chauchilla, Cahuachi, las líneas de Nazca y los geoglifos de Palpa.",
+      "fr": "Environ une heure : le cimetière de Chauchilla, Cahuachi, les lignes de Nazca et les géoglyphes de Palpa.",
+      "it": "Circa un'ora: il cimitero di Chauchilla, Cahuachi, le linee di Nazca e i geoglifi di Palpa.",
+      "pl": "Około godziny: cmentarz Chauchilla, Cahuachi, linie z Nazca i geoglify Palpa.",
+      "ru": "Около часа: кладбище Чаучилья, Кауачи, линии Наски и геоглифы Пальпы.",
+      "sk": "Asi hodina: cintorín Chauchilla, Cahuachi, línie v Nazca a geoglyfy v Palpe.",
+      "zh": "约一小时：恰乌奇利亚墓地、卡瓦奇、纳斯卡线条和帕尔帕地画。"
+     },
+     "pts": [
+      "SPZA",
+      [
+       "Palpa geoglyphs",
+       -14.5674,
+       -75.1878
+      ],
+      [
+       "~",
+       -14.5653,
+       -75.2173
+      ],
+      [
+       "Hummingbird geoglyph",
+       -14.6761,
+       -75.1551
+      ],
+      [
+       "Cahuachi",
+       -14.8183,
+       -75.1156
+      ],
+      [
+       "Chauchilla Cemetery",
+       -14.9402,
+       -75.1077
+      ],
+      [
+       "~",
+       -14.9889,
+       -75.0598
+      ],
+      "SPZA"
+     ],
+     "review": "2. kör – javított változat (122°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -29414,7 +30679,104 @@
        -123.2
       ],
       "CYVR"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 6000,
+     "stol": false,
+     "label": {
+      "en": "Sea to Sky (javitott)",
+      "hu": "Tengertől az égig (javitott)",
+      "de": "Sea to Sky (javitott)",
+      "es": "Del mar al cielo (javitott)",
+      "fr": "De la mer au ciel (javitott)",
+      "it": "Sea to Sky (javitott)",
+      "pl": "Od morza do nieba (javitott)",
+      "ru": "От моря до неба (javitott)",
+      "sk": "Od mora k oblohe (javitott)",
+      "zh": "海天公路 (javitott)"
+     },
+     "desc": {
+      "en": "Stanley Park, Grouse Mountain, Howe Sound and Whistler.",
+      "hu": "Stanley Park, Grouse Mountain, Howe Sound és Whistler.",
+      "de": "Stanley Park, Grouse Mountain, Howe Sound und Whistler.",
+      "es": "Stanley Park, Grouse Mountain, Howe Sound y Whistler.",
+      "fr": "Stanley Park, Grouse Mountain, Howe Sound et Whistler.",
+      "it": "Stanley Park, Grouse Mountain, Howe Sound e Whistler.",
+      "pl": "Stanley Park, Grouse Mountain, Howe Sound i Whistler.",
+      "ru": "Стэнли-парк, гора Граус, Хау-Саунд и Уистлер.",
+      "sk": "Stanley Park, Grouse Mountain, Howe Sound a Whistler.",
+      "zh": "斯坦利公园、松鸡山、豪湾和惠斯勒。"
+     },
+     "pts": [
+      "CYVR",
+      [
+       "Stanley Park",
+       49.3043,
+       -123.1443
+      ],
+      [
+       "Grouse Mountain",
+       49.379,
+       -123.083
+      ],
+      [
+       "~",
+       49.446,
+       -123.0717
+      ],
+      [
+       "~",
+       49.6157,
+       -123.1688
+      ],
+      [
+       "~",
+       49.8034,
+       -123.1373
+      ],
+      [
+       "~",
+       49.8599,
+       -123.1699
+      ],
+      [
+       "~",
+       50.0074,
+       -123.1451
+      ],
+      [
+       "~",
+       50.1089,
+       -123.0433
+      ],
+      [
+       "Whistler",
+       50.1163,
+       -122.9574
+      ],
+      [
+       "~",
+       50.1089,
+       -123.003
+      ],
+      [
+       "~",
+       50.1394,
+       -123.1218
+      ],
+      [
+       "Howe Sound",
+       49.65,
+       -123.2
+      ],
+      "CYVR"
+     ],
+     "review": "2. kör – javított változat (173°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -29681,7 +31043,84 @@
        -71.44
       ],
       "SAZS"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 8000,
+     "stol": false,
+     "label": {
+      "en": "Nahuel Huapi (javitott)",
+      "hu": "Nahuel Huapi (javitott)",
+      "de": "Nahuel Huapi (javitott)",
+      "es": "Nahuel Huapi (javitott)",
+      "fr": "Nahuel Huapi (javitott)",
+      "it": "Nahuel Huapi (javitott)",
+      "pl": "Nahuel Huapi (javitott)",
+      "ru": "Науэль-Уапи (javitott)",
+      "sk": "Nahuel Huapi (javitott)",
+      "zh": "纳韦尔瓦皮湖 (javitott)"
+     },
+     "desc": {
+      "en": "Cerro Catedral, Cerro Tronador and Lake Nahuel Huapi.",
+      "hu": "A Cerro Catedral, a Cerro Tronador és a Nahuel Huapi-tó.",
+      "de": "Cerro Catedral, Cerro Tronador und der Nahuel-Huapi-See.",
+      "es": "Cerro Catedral, cerro Tronador y lago Nahuel Huapi.",
+      "fr": "Cerro Catedral, Cerro Tronador et lac Nahuel Huapi.",
+      "it": "Cerro Catedral, Cerro Tronador e il lago Nahuel Huapi.",
+      "pl": "Cerro Catedral, Cerro Tronador i jezioro Nahuel Huapi.",
+      "ru": "Серро-Катедраль, Серро-Тронадор и озеро Науэль-Уапи.",
+      "sk": "Cerro Catedral, Cerro Tronador a jazero Nahuel Huapi.",
+      "zh": "卡特德拉尔山、特罗纳多尔山和纳韦尔瓦皮湖。"
+     },
+     "pts": [
+      "SAZS",
+      [
+       "Isla Victoria",
+       -40.91,
+       -71.54
+      ],
+      [
+       "~",
+       -41.0575,
+       -71.7235
+      ],
+      [
+       "~",
+       -41.2018,
+       -71.7809
+      ],
+      [
+       "~",
+       -41.222,
+       -71.8309
+      ],
+      [
+       "Cerro Tronador",
+       -41.1931,
+       -71.8933
+      ],
+      [
+       "~",
+       -41.2228,
+       -71.8862
+      ],
+      [
+       "~",
+       -41.2444,
+       -71.8422
+      ],
+      [
+       "Cerro Catedral",
+       -41.17,
+       -71.44
+      ],
+      "SAZS"
+     ],
+     "review": "2. kör – javított változat (131°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -31206,7 +32645,74 @@
        176.503
       ],
       "NZRO"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "long-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 8500,
+     "stol": false,
+     "label": {
+      "en": "Volcanic plateau (javitott)",
+      "hu": "Vulkáni fennsík (javitott)",
+      "de": "Vulkanplateau (javitott)",
+      "es": "Meseta volcánica (javitott)",
+      "fr": "Plateau volcanique (javitott)",
+      "it": "Altopiano vulcanico (javitott)",
+      "pl": "Płaskowyż wulkaniczny (javitott)",
+      "ru": "Вулканическое плато (javitott)",
+      "sk": "Sopečná plošina (javitott)",
+      "zh": "火山高原 (javitott)"
+     },
+     "desc": {
+      "en": "Mount Tarawera, Wai-O-Tapu, Lake Taupō, Ruapehu and Ngauruhoe.",
+      "hu": "A Mount Tarawera, Wai-O-Tapu, a Taupō-tó, a Ruapehu és a Ngauruhoe.",
+      "de": "Mount Tarawera, Wai-O-Tapu, Lake Taupō, Ruapehu und Ngauruhoe.",
+      "es": "Monte Tarawera, Wai-O-Tapu, lago Taupō, Ruapehu y Ngauruhoe.",
+      "fr": "Mont Tarawera, Wai-O-Tapu, lac Taupō, Ruapehu et Ngauruhoe.",
+      "it": "Monte Tarawera, Wai-O-Tapu, lago Taupō, Ruapehu e Ngauruhoe.",
+      "pl": "Mount Tarawera, Wai-O-Tapu, jezioro Taupō, Ruapehu i Ngauruhoe.",
+      "ru": "Гора Таравера, Вай-О-Тапу, озеро Таупо, Руапеху и Нгаурухоэ.",
+      "sk": "Mount Tarawera, Wai-O-Tapu, jazero Taupō, Ruapehu a Ngauruhoe.",
+      "zh": "塔拉纳威山、怀奥塔普、陶波湖、鲁阿佩胡山和瑙鲁霍伊山。"
+     },
+     "pts": [
+      "NZRO",
+      [
+       "Wai-O-Tapu",
+       -38.359,
+       176.366
+      ],
+      [
+       "Lake Taupo",
+       -38.6857,
+       176.0702
+      ],
+      [
+       "Mount Ngauruhoe",
+       -39.156,
+       175.632
+      ],
+      [
+       "Mount Ruapehu",
+       -39.284,
+       175.5989
+      ],
+      [
+       "~",
+       -39.3013,
+       175.6048
+      ],
+      [
+       "Mount Tarawera",
+       -38.229,
+       176.503
+      ],
+      "NZRO"
+     ],
+     "review": "2. kör – javított változat (131°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -32268,7 +33774,105 @@
       ],
       "VNPK"
      ],
-     "hi_alt": true
+     "hi_alt": true,
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 17000,
+     "stol": false,
+     "label": {
+      "en": "Annapurna loop (javitott)",
+      "hu": "Annapurna-kör (javitott)",
+      "de": "Annapurna-Runde (javitott)",
+      "es": "Circuito del Annapurna (javitott)",
+      "fr": "Boucle des Annapurnas (javitott)",
+      "it": "Giro dell'Annapurna (javitott)",
+      "pl": "Pętla Annapurny (javitott)",
+      "ru": "Круг по Аннапурне (javitott)",
+      "sk": "Okruh Annapurny (javitott)",
+      "zh": "安纳布尔纳环线 (javitott)"
+     },
+     "desc": {
+      "en": "Poon Hill, Dhaulagiri, Annapurna, Machapuchare and Phewa Lake.",
+      "hu": "Poon Hill, a Dhaulagiri, az Annapurna, a Machapuchare és a Phewa-tó.",
+      "de": "Poon Hill, Dhaulagiri, Annapurna, Machapuchare und Phewa-See.",
+      "es": "Poon Hill, Dhaulagiri, Annapurna, Machapuchare y lago Phewa.",
+      "fr": "Poon Hill, Dhaulagiri, Annapurna, Machapuchare et lac Phewa.",
+      "it": "Poon Hill, Dhaulagiri, Annapurna, Machapuchare e lago Phewa.",
+      "pl": "Poon Hill, Dhaulagiri, Annapurna, Machapuchare i jezioro Phewa.",
+      "ru": "Пун-Хилл, Дхаулагири, Аннапурна, Мачапучаре и озеро Фева.",
+      "sk": "Poon Hill, Dhaulagiri, Annapurna, Machapuchare a jazero Phewa.",
+      "zh": "潘山、道拉吉里峰、安纳布尔纳峰、鱼尾峰和费瓦湖。"
+     },
+     "pts": [
+      "VNPK",
+      [
+       "Phewa Lake",
+       28.21,
+       83.945
+      ],
+      [
+       "Poon Hill",
+       28.4,
+       83.687
+      ],
+      [
+       "Dhaulagiri",
+       28.659,
+       83.5127
+      ],
+      [
+       "~",
+       28.6615,
+       83.5612
+      ],
+      [
+       "~",
+       28.7579,
+       83.543
+      ],
+      [
+       "~",
+       28.7498,
+       83.6112
+      ],
+      [
+       "~",
+       28.618,
+       83.6949
+      ],
+      [
+       "Annapurna I",
+       28.6185,
+       83.7759
+      ],
+      [
+       "~",
+       28.5664,
+       83.7537
+      ],
+      [
+       "~",
+       28.476,
+       83.7949
+      ],
+      [
+       "~",
+       28.4515,
+       83.9434
+      ],
+      [
+       "Machapuchare",
+       28.495,
+       83.9798
+      ],
+      "VNPK"
+     ],
+     "hi_alt": true,
+     "review": "2. kör – javított változat (143°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -35670,7 +37274,69 @@
        101.6964
       ],
       "WMKK"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Twin Towers loop (javitott)",
+      "hu": "Ikertorony-kör (javitott)",
+      "de": "Zwillingstürme-Runde (javitott)",
+      "es": "Circuito de las Torres Gemelas (javitott)",
+      "fr": "Boucle des tours jumelles (javitott)",
+      "it": "Giro delle Torri Gemelle (javitott)",
+      "pl": "Pętla Bliźniaczych Wież (javitott)",
+      "ru": "Круг по башням-близнецам (javitott)",
+      "sk": "Okruh Dvojčatami (javitott)",
+      "zh": "双子塔环线 (javitott)"
+     },
+     "desc": {
+      "en": "Putrajaya, the Petronas Towers, the Batu Caves and Genting Highlands.",
+      "hu": "Putrajaya, a Petronas-tornyok, a Batu-barlangok és a Genting-fennsík.",
+      "de": "Putrajaya, die Petronas Towers, die Batu-Höhlen und die Genting Highlands.",
+      "es": "Putrajaya, las Torres Petronas, las cuevas de Batu y Genting Highlands.",
+      "fr": "Putrajaya, tours Petronas, grottes de Batu et Genting Highlands.",
+      "it": "Putrajaya, le Torri Petronas, le Batu Caves e Genting Highlands.",
+      "pl": "Putrajaya, Petronas Towers, jaskinie Batu i Genting Highlands.",
+      "ru": "Путраджайя, башни Петронас, пещеры Бату и нагорье Гентинг.",
+      "sk": "Putrajaya, Petronas Towers, jaskyne Batu a Genting Highlands.",
+      "zh": "布城、双子塔、黑风洞和云顶高原。"
+     },
+     "pts": [
+      "WMKK",
+      [
+       "Genting Highlands",
+       3.3918,
+       101.7749
+      ],
+      [
+       "~",
+       3.4402,
+       101.7421
+      ],
+      [
+       "Batu Caves",
+       3.2379,
+       101.684
+      ],
+      [
+       "Petronas Towers",
+       3.1578,
+       101.7116
+      ],
+      [
+       "Putrajaya",
+       2.9264,
+       101.6964
+      ],
+      "WMKK"
+     ],
+     "review": "2. kör – javított változat (129°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -35794,7 +37460,94 @@
        98.922
       ],
       "VTCC"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6000,
+     "stol": false,
+     "label": {
+      "en": "Northern Thailand (javitott)",
+      "hu": "Észak-Thaiföld (javitott)",
+      "de": "Nordthailand (javitott)",
+      "es": "Norte de Tailandia (javitott)",
+      "fr": "Nord de la Thaïlande (javitott)",
+      "it": "Thailandia settentrionale (javitott)",
+      "pl": "Północna Tajlandia (javitott)",
+      "ru": "Северный Таиланд (javitott)",
+      "sk": "Severné Thajsko (javitott)",
+      "zh": "泰国北部 (javitott)"
+     },
+     "desc": {
+      "en": "Doi Inthanon, Doi Suthep and Chiang Dao.",
+      "hu": "Doi Inthanon, Doi Suthep és Chiang Dao.",
+      "de": "Doi Inthanon, Doi Suthep und Chiang Dao.",
+      "es": "Doi Inthanon, Doi Suthep y Chiang Dao.",
+      "fr": "Doi Inthanon, Doi Suthep et Chiang Dao.",
+      "it": "Doi Inthanon, Doi Suthep e Chiang Dao.",
+      "pl": "Doi Inthanon, Doi Suthep i Chiang Dao.",
+      "ru": "Дой-Интанон, Дой-Сутхеп и Чиангдао.",
+      "sk": "Doi Inthanon, Doi Suthep a Chiang Dao.",
+      "zh": "茵他暖山、素贴山和清道。"
+     },
+     "pts": [
+      "VTCC",
+      [
+       "Doi Inthanon",
+       18.606,
+       98.5199
+      ],
+      [
+       "~",
+       18.664,
+       98.5562
+      ],
+      [
+       "~",
+       18.7195,
+       98.5412
+      ],
+      [
+       "~",
+       18.7422,
+       98.4727
+      ],
+      [
+       "~",
+       18.6676,
+       98.4101
+      ],
+      [
+       "~",
+       19.0058,
+       98.6449
+      ],
+      [
+       "~",
+       19.3402,
+       98.9124
+      ],
+      [
+       "Chiang Dao",
+       19.4,
+       98.92
+      ],
+      [
+       "~",
+       19.3692,
+       99.0297
+      ],
+      [
+       "Doi Suthep",
+       18.805,
+       98.922
+      ],
+      "VTCC"
+     ],
+     "review": "2. kör – javított változat (174°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -36464,7 +38217,74 @@
        -117.148
       ],
       "KSAN"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Harbour and cliffs (javitott)",
+      "hu": "Kikötő és sziklák (javitott)",
+      "de": "Hafen und Klippen (javitott)",
+      "es": "Puerto y acantilados (javitott)",
+      "fr": "Port et falaises (javitott)",
+      "it": "Porto e scogliere (javitott)",
+      "pl": "Port i klify (javitott)",
+      "ru": "Гавань и обрывы (javitott)",
+      "sk": "Prístav a útesy (javitott)",
+      "zh": "港口与悬崖 (javitott)"
+     },
+     "desc": {
+      "en": "Point Loma, La Jolla, Torrey Pines, Cuyamaca Peak and the Coronado Bridge.",
+      "hu": "Point Loma, La Jolla, Torrey Pines, a Cuyamaca-csúcs és a Coronado-híd.",
+      "de": "Point Loma, La Jolla, Torrey Pines, Cuyamaca Peak und die Coronado Bridge.",
+      "es": "Point Loma, La Jolla, Torrey Pines, Cuyamaca Peak y puente de Coronado.",
+      "fr": "Point Loma, La Jolla, Torrey Pines, Cuyamaca Peak et pont de Coronado.",
+      "it": "Point Loma, La Jolla, Torrey Pines, Cuyamaca Peak e Coronado Bridge.",
+      "pl": "Point Loma, La Jolla, Torrey Pines, Cuyamaca Peak i most Coronado.",
+      "ru": "Пойнт-Лома, Ла-Хойя, Торри-Пайнс, пик Куямака и мост Коронадо.",
+      "sk": "Point Loma, La Jolla, Torrey Pines, Cuyamaca Peak a most Coronado.",
+      "zh": "洛玛角、拉霍亚、托里松、库亚马卡峰和科罗纳多大桥。"
+     },
+     "pts": [
+      "KSAN",
+      [
+       "Cuyamaca Peak",
+       32.9164,
+       -116.6941
+      ],
+      [
+       "~",
+       33.0475,
+       -116.6072
+      ],
+      [
+       "Torrey Pines",
+       32.919,
+       -117.254
+      ],
+      [
+       "La Jolla Cove",
+       32.85,
+       -117.273
+      ],
+      [
+       "Cabrillo Point",
+       32.67,
+       -117.241
+      ],
+      [
+       "Coronado Bridge",
+       32.688,
+       -117.148
+      ],
+      "KSAN"
+     ],
+     "review": "2. kör – javított változat (132°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -38707,7 +40527,94 @@
        20.596
       ],
       "ESNQ"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 120,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Arctic loop (javitott)",
+      "hu": "Sarkvidéki kör (javitott)",
+      "de": "Arktis-Runde (javitott)",
+      "es": "Circuito ártico (javitott)",
+      "fr": "Boucle arctique (javitott)",
+      "it": "Giro artico (javitott)",
+      "pl": "Pętla arktyczna (javitott)",
+      "ru": "Арктический круг (javitott)",
+      "sk": "Arktický okruh (javitott)",
+      "zh": "北极环线 (javitott)"
+     },
+     "desc": {
+      "en": "Jukkasjärvi, Torneträsk, Abisko and Kebnekaise.",
+      "hu": "Jukkasjärvi, a Torneträsk, Abisko és a Kebnekaise.",
+      "de": "Jukkasjärvi, Torneträsk, Abisko und Kebnekaise.",
+      "es": "Jukkasjärvi, Torneträsk, Abisko y Kebnekaise.",
+      "fr": "Jukkasjärvi, Torneträsk, Abisko et Kebnekaise.",
+      "it": "Jukkasjärvi, Torneträsk, Abisko e Kebnekaise.",
+      "pl": "Jukkasjärvi, Torneträsk, Abisko i Kebnekaise.",
+      "ru": "Юккасъярви, Турнетреск, Абиску и Кебнекайсе.",
+      "sk": "Jukkasjärvi, Torneträsk, Abisko a Kebnekaise.",
+      "zh": "尤卡斯耶尔维、托尔讷湖、阿比斯库和凯布讷山。"
+     },
+     "pts": [
+      "ESNQ",
+      [
+       "Kebnekaise",
+       67.8682,
+       18.5418
+      ],
+      [
+       "~",
+       67.8717,
+       18.6892
+      ],
+      [
+       "~",
+       67.9091,
+       18.744
+      ],
+      [
+       "~",
+       68.0093,
+       18.6838
+      ],
+      [
+       "~",
+       68.0455,
+       18.5549
+      ],
+      [
+       "~",
+       68.1612,
+       18.4642
+      ],
+      [
+       "~",
+       68.2275,
+       18.4966
+      ],
+      [
+       "Abisko",
+       68.356,
+       18.783
+      ],
+      [
+       "Torneträsk",
+       68.3,
+       19.7
+      ],
+      [
+       "Icehotel Jukkasjärvi",
+       67.85,
+       20.596
+      ],
+      "ESNQ"
+     ],
+     "review": "2. kör – javított változat (171°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -39724,7 +41631,84 @@
        76.57
       ],
       "VOCI"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Backwater loop (javitott)",
+      "hu": "Holtág-kör (javitott)",
+      "de": "Backwater-Runde (javitott)",
+      "es": "Circuito de los remansos (javitott)",
+      "fr": "Boucle des backwaters (javitott)",
+      "it": "Giro dei backwaters (javitott)",
+      "pl": "Pętla backwaters (javitott)",
+      "ru": "Круг по лагунам (javitott)",
+      "sk": "Okruh backwaters (javitott)",
+      "zh": "回水区环线 (javitott)"
+     },
+     "desc": {
+      "en": "Fort Kochi, Alleppey, Munnar and Athirappilly Falls.",
+      "hu": "Fort Kochi, Alappuzha, Munnar és az Athirappilly-vízesés.",
+      "de": "Fort Kochi, Alleppey, Munnar und die Athirappilly-Fälle.",
+      "es": "Fort Kochi, Alleppey, Munnar y cataratas de Athirappilly.",
+      "fr": "Fort Kochi, Alleppey, Munnar et chutes d'Athirappilly.",
+      "it": "Fort Kochi, Alleppey, Munnar e le cascate di Athirappilly.",
+      "pl": "Fort Kochi, Alleppey, Munnar i wodospad Athirappilly.",
+      "ru": "Форт-Кочи, Аллеппи, Муннар и водопад Атирапилли.",
+      "sk": "Fort Kochi, Alappuzha, Munnar a vodopády Athirappilly.",
+      "zh": "柯枝堡、阿勒皮、蒙纳尔和阿提拉皮利瀑布。"
+     },
+     "pts": [
+      "VOCI",
+      [
+       "Fort Kochi",
+       9.966,
+       76.242
+      ],
+      [
+       "Alleppey Backwaters",
+       9.498,
+       76.339
+      ],
+      [
+       "Munnar Tea Gardens",
+       10.0259,
+       77.059
+      ],
+      [
+       "~",
+       9.9967,
+       77.0274
+      ],
+      [
+       "~",
+       9.9867,
+       76.9597
+      ],
+      [
+       "~",
+       10.0123,
+       76.9115
+      ],
+      [
+       "~",
+       10.1603,
+       76.8057
+      ],
+      [
+       "Athirappilly Falls",
+       10.285,
+       76.57
+      ],
+      "VOCI"
+     ],
+     "review": "2. kör – javított változat (173°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -39973,7 +41957,109 @@
        109.9938
       ],
       "ZGKL"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Li River loop (javitott)",
+      "hu": "Li-folyó kör (javitott)",
+      "de": "Li-Fluss-Runde (javitott)",
+      "es": "Circuito del río Li (javitott)",
+      "fr": "Boucle de la rivière Li (javitott)",
+      "it": "Giro del fiume Li (javitott)",
+      "pl": "Pętla rzeki Li (javitott)",
+      "ru": "Круг по реке Ли (javitott)",
+      "sk": "Okruh riekou Li (javitott)",
+      "zh": "漓江环线 (javitott)"
+     },
+     "desc": {
+      "en": "Elephant Trunk Hill, Xingping, Yangshuo and the Longji terraces.",
+      "hu": "Az Elefántormány-hegy, Xingping, Yangshuo és a Longji teraszok.",
+      "de": "Elefantenrüsselberg, Xingping, Yangshuo und die Longji-Terrassen.",
+      "es": "Colina de la Trompa del Elefante, Xingping, Yangshuo y terrazas de Longji.",
+      "fr": "Colline de la Trompe d'éléphant, Xingping, Yangshuo et terrasses de Longji.",
+      "it": "Elephant Trunk Hill, Xingping, Yangshuo e le terrazze di Longji.",
+      "pl": "Wzgórze Słoniowej Trąby, Xingping, Yangshuo i tarasy Longji.",
+      "ru": "Гора Слонёнок, Сяньпин, Яншо и террасы Лунцзи.",
+      "sk": "Kopec Slonej choboty, Xingping, Yangshuo a terasy Longji.",
+      "zh": "象鼻山、兴坪、阳朔和龙脊梯田。"
+     },
+     "pts": [
+      "ZGKL",
+      [
+       "Yangshuo",
+       24.777,
+       110.495
+      ],
+      [
+       "~",
+       24.7969,
+       110.5398
+      ],
+      [
+       "Li River Xingping",
+       24.956,
+       110.464
+      ],
+      [
+       "Elephant Trunk Hill",
+       25.2662,
+       110.297
+      ],
+      [
+       "~",
+       25.496,
+       110.21
+      ],
+      [
+       "~",
+       25.6229,
+       110.0669
+      ],
+      [
+       "~",
+       25.7082,
+       110.0661
+      ],
+      [
+       "Longji Rice Terraces",
+       25.7376,
+       110.1182
+      ],
+      [
+       "~",
+       25.7257,
+       110.0874
+      ],
+      [
+       "~",
+       25.744,
+       109.9938
+      ],
+      [
+       "~",
+       25.7348,
+       110.0547
+      ],
+      [
+       "~",
+       25.7089,
+       110.072
+      ],
+      [
+       "~",
+       25.5837,
+       110.0228
+      ],
+      "ZGKL"
+     ],
+     "review": "2. kör – javított változat (177°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -40729,7 +42815,74 @@
        -109.4993
       ],
       "KCNY"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Red Rock loop (javitott)",
+      "hu": "Vörös sziklák kör (javitott)",
+      "de": "Red-Rock-Runde (javitott)",
+      "es": "Circuito de rocas rojas (javitott)",
+      "fr": "Boucle des roches rouges (javitott)",
+      "it": "Giro delle rocce rosse (javitott)",
+      "pl": "Pętla czerwonych skał (javitott)",
+      "ru": "Круг по красным скалам (javitott)",
+      "sk": "Okruh červených skál (javitott)",
+      "zh": "红岩环线 (javitott)"
+     },
+     "desc": {
+      "en": "Mesa Arch, Dead Horse Point, Delicate Arch and Fisher Towers.",
+      "hu": "A Mesa Arch, a Dead Horse Point, a Delicate Arch és a Fisher Towers.",
+      "de": "Mesa Arch, Dead Horse Point, Delicate Arch und Fisher Towers.",
+      "es": "Mesa Arch, Dead Horse Point, Delicate Arch y Fisher Towers.",
+      "fr": "Mesa Arch, Dead Horse Point, Delicate Arch et Fisher Towers.",
+      "it": "Mesa Arch, Dead Horse Point, Delicate Arch e Fisher Towers.",
+      "pl": "Mesa Arch, Dead Horse Point, Delicate Arch i Fisher Towers.",
+      "ru": "Меса-Арч, Дэд-Хорс-Пойнт, Деликат-Арч и Фишер-Тауэрс.",
+      "sk": "Mesa Arch, Dead Horse Point, Delicate Arch a Fisher Towers.",
+      "zh": "梅萨拱门、死马点、精致拱门和费舍尔塔。"
+     },
+     "pts": [
+      "KCNY",
+      [
+       "Mesa Arch",
+       38.389,
+       -109.8325
+      ],
+      [
+       "~",
+       38.371,
+       -109.8273
+      ],
+      [
+       "Dead Horse Point",
+       38.482,
+       -109.741
+      ],
+      [
+       "Fisher Towers",
+       38.715,
+       -109.329
+      ],
+      [
+       "~",
+       38.7603,
+       -109.3207
+      ],
+      [
+       "Delicate Arch",
+       38.7436,
+       -109.4993
+      ],
+      "KCNY"
+     ],
+     "review": "2. kör – javított változat (135°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -43439,7 +45592,84 @@
        77.26
       ],
       "UAAA"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 11000,
+     "stol": false,
+     "label": {
+      "en": "Trans-Ili loop (javitott)",
+      "hu": "Trans-Ili kör (javitott)",
+      "de": "Transili-Runde (javitott)",
+      "es": "Circuito del Trans-Ili (javitott)",
+      "fr": "Boucle trans-Ili (javitott)",
+      "it": "Giro del Trans-Ili (javitott)",
+      "pl": "Pętla Zailijska (javitott)",
+      "ru": "Заилийский круг (javitott)",
+      "sk": "Okruh Zailijským Alatau (javitott)",
+      "zh": "外伊犁环线 (javitott)"
+     },
+     "desc": {
+      "en": "Kok-Tobe, Medeu, Big Almaty Lake and Talgar Peak.",
+      "hu": "A Kok-Tobe, a Medeu, a Nagy Almati-tó és a Talgar-csúcs.",
+      "de": "Kök-Töbe, Medeu, Großer Almatiner See und Talgar-Gipfel.",
+      "es": "Kok-Tobe, Medeu, Gran Lago de Almaty y pico Talgar.",
+      "fr": "Kok-Tobe, Medeu, Grand lac d'Almaty et pic Talgar.",
+      "it": "Kok-Tobe, Medeu, lago Big Almaty e Talgar Peak.",
+      "pl": "Kok-Tobe, Medeu, jezioro Big Almaty i szczyt Talgar.",
+      "ru": "Кок-Тобе, Медеу, Большое Алматинское озеро и пик Талгар.",
+      "sk": "Kok-Tobe, Medeu, Veľké almatinské jazero a štít Talgar.",
+      "zh": "科克托别、麦迪奥、大阿拉木图湖和塔尔加尔峰。"
+     },
+     "pts": [
+      "UAAA",
+      [
+       "Kok-Tobe",
+       43.232,
+       76.974
+      ],
+      [
+       "Medeu",
+       43.157,
+       77.059
+      ],
+      [
+       "~",
+       43.1368,
+       76.9856
+      ],
+      [
+       "~",
+       43.0821,
+       76.972
+      ],
+      [
+       "Big Almaty Lake",
+       43.0656,
+       77.0023
+      ],
+      [
+       "~",
+       43.1061,
+       76.9838
+      ],
+      [
+       "~",
+       43.133,
+       77.0023
+      ],
+      [
+       "Talgar Peak",
+       43.1592,
+       77.1737
+      ],
+      "UAAA"
+     ],
+     "review": "2. kör – javított változat (145°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -43720,7 +45950,114 @@
        137.969
       ],
       "RJAF"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 9000,
+     "stol": false,
+     "label": {
+      "en": "Northern Alps loop (javitott)",
+      "hu": "Északi-Alpok kör (javitott)",
+      "de": "Nordalpen-Runde (javitott)",
+      "es": "Circuito de los Alpes del Norte (javitott)",
+      "fr": "Boucle des Alpes du Nord (javitott)",
+      "it": "Giro delle Alpi Settentrionali (javitott)",
+      "pl": "Pętla Alp Północnych (javitott)",
+      "ru": "Круг по Северным Альпам (javitott)",
+      "sk": "Okruh Severnými Alpami (javitott)",
+      "zh": "北阿尔卑斯环线 (javitott)"
+     },
+     "desc": {
+      "en": "Matsumoto Castle, Mount Yari, Kamikochi and Mount Norikura.",
+      "hu": "A macumotói vár, a Jari-hegy, Kamikocsi és a Norikura-hegy.",
+      "de": "Burg Matsumoto, Berg Yari, Kamikōchi und Berg Norikura.",
+      "es": "Castillo de Matsumoto, monte Yari, Kamikochi y monte Norikura.",
+      "fr": "Château de Matsumoto, mont Yari, Kamikochi et mont Norikura.",
+      "it": "Castello di Matsumoto, Monte Yari, Kamikochi e Monte Norikura.",
+      "pl": "Zamek Matsumoto, góra Yari, Kamikochi i góra Norikura.",
+      "ru": "Замок Мацумото, гора Яри, Камикочи и гора Норикура.",
+      "sk": "Hrad Macumoto, Mount Yari, Kamikochi a Mount Norikura.",
+      "zh": "松本城、枪岳、上高地和乘鞍岳。"
+     },
+     "pts": [
+      "RJAF",
+      [
+       "Mount Norikura",
+       36.094,
+       137.5733
+      ],
+      [
+       "~",
+       36.1323,
+       137.5966
+      ],
+      [
+       "~",
+       36.1608,
+       137.5846
+      ],
+      [
+       "~",
+       36.1349,
+       137.522
+      ],
+      [
+       "~",
+       36.1705,
+       137.4929
+      ],
+      [
+       "~",
+       36.2,
+       137.5004
+      ],
+      [
+       "Kamikochi",
+       36.253,
+       137.637
+      ],
+      [
+       "~",
+       36.2649,
+       137.5862
+      ],
+      [
+       "Mount Yari",
+       36.3547,
+       137.6322
+      ],
+      [
+       "~",
+       36.392,
+       137.6518
+      ],
+      [
+       "~",
+       36.4134,
+       137.7177
+      ],
+      [
+       "~",
+       36.3923,
+       137.7794
+      ],
+      [
+       "~",
+       36.2543,
+       137.9248
+      ],
+      [
+       "Matsumoto Castle",
+       36.239,
+       137.969
+      ],
+      "RJAF"
+     ],
+     "review": "2. kör – javított változat (138°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -44815,7 +47152,94 @@
        -122.3502
       ],
       "KPDX"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 7000,
+     "stol": false,
+     "label": {
+      "en": "Volcano loop (javitott)",
+      "hu": "Vulkán-kör (javitott)",
+      "de": "Vulkan-Runde (javitott)",
+      "es": "Circuito de volcanes (javitott)",
+      "fr": "Boucle des volcans (javitott)",
+      "it": "Giro dei vulcani (javitott)",
+      "pl": "Pętla wulkanów (javitott)",
+      "ru": "Вулканический круг (javitott)",
+      "sk": "Okruh sopkami (javitott)",
+      "zh": "火山环线 (javitott)"
+     },
+     "desc": {
+      "en": "Portland, Mount St. Helens, Mount Hood and Multnomah Falls.",
+      "hu": "Portland, a Mount St. Helens, a Mount Hood és a Multnomah-vízesés.",
+      "de": "Portland, Mount St. Helens, Mount Hood und Multnomah Falls.",
+      "es": "Portland, monte St. Helens, monte Hood y cataratas Multnomah.",
+      "fr": "Portland, Mount St. Helens, Mount Hood et chutes Multnomah.",
+      "it": "Portland, Mount St. Helens, Mount Hood e Multnomah Falls.",
+      "pl": "Portland, Mount St. Helens, Mount Hood i Multnomah Falls.",
+      "ru": "Портленд, гора Сент-Хеленс, гора Худ и водопад Малтнома.",
+      "sk": "Portland, Mount St. Helens, Mount Hood a vodopády Multnomah.",
+      "zh": "波特兰、圣海伦斯火山、胡德山和马特诺玛瀑布。"
+     },
+     "pts": [
+      "KPDX",
+      [
+       "Portland Skyline",
+       45.523,
+       -122.676
+      ],
+      [
+       "~",
+       45.4916,
+       -122.6511
+      ],
+      [
+       "Multnomah Falls",
+       45.576,
+       -122.115
+      ],
+      [
+       "Mount Hood",
+       45.3828,
+       -121.7456
+      ],
+      [
+       "~",
+       45.4074,
+       -121.7615
+      ],
+      [
+       "~",
+       45.4308,
+       -121.7345
+      ],
+      [
+       "~",
+       45.4299,
+       -121.5975
+      ],
+      [
+       "Mount St. Helens",
+       46.1785,
+       -122.2128
+      ],
+      [
+       "~",
+       46.1678,
+       -122.2535
+      ],
+      [
+       "~",
+       46.188,
+       -122.3502
+      ],
+      "KPDX"
+     ],
+     "review": "2. kör – javított változat (150°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -45857,7 +48281,99 @@
        -5.938
       ],
       "GMTT"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Strait of Gibraltar loop (javitott)",
+      "hu": "Gibraltári-szoros kör (javitott)",
+      "de": "Straße-von-Gibraltar-Runde (javitott)",
+      "es": "Circuito del estrecho de Gibraltar (javitott)",
+      "fr": "Boucle du détroit de Gibraltar (javitott)",
+      "it": "Giro dello Stretto di Gibilterra (javitott)",
+      "pl": "Pętla Cieśniny Gibraltarskiej (javitott)",
+      "ru": "Круг по Гибралтарскому проливу (javitott)",
+      "sk": "Okruh Gibraltárskym prielivom (javitott)",
+      "zh": "直布罗陀海峡环线 (javitott)"
+     },
+     "desc": {
+      "en": "Cap Spartel, the Caves of Hercules, Jebel Musa and Chefchaouen.",
+      "hu": "Cap Spartel, a Herkules-barlangok, a Jebel Musa és Chefchaouen.",
+      "de": "Cap Spartel, die Herkulesgrotten, Dschebel Musa und Chefchaouen.",
+      "es": "Cabo Espartel, las Grutas de Hércules, Yebel Musa y Chefchaouen.",
+      "fr": "Cap Spartel, grottes d'Hercule, Jebel Musa et Chefchaouen.",
+      "it": "Capo Spartel, le Grotte di Ercole, Jebel Musa e Chefchaouen.",
+      "pl": "Cap Spartel, Jaskinie Herkulesa, Dżabal Musa i Szafszawan.",
+      "ru": "Мыс Спартель, Геркулесовы пещеры, Джебель-Муса и Шефшауэн.",
+      "sk": "Cap Spartel, Herkulove jaskyne, Jebel Musa a Chefchaouen.",
+      "zh": "斯帕特尔角、海格力斯洞穴、穆萨山和舍夫沙万。"
+     },
+     "pts": [
+      "GMTT",
+      [
+       "Chefchaouen",
+       35.1815,
+       -5.2792
+      ],
+      [
+       "~",
+       35.2242,
+       -5.2796
+      ],
+      [
+       "~",
+       35.2671,
+       -5.2278
+      ],
+      [
+       "~",
+       35.263,
+       -5.1912
+      ],
+      [
+       "~",
+       35.2185,
+       -5.1464
+      ],
+      [
+       "~",
+       35.2604,
+       -5.1996
+      ],
+      [
+       "~",
+       35.3502,
+       -5.186
+      ],
+      [
+       "Jebel Musa",
+       35.886,
+       -5.438
+      ],
+      [
+       "Tangier Medina",
+       35.787,
+       -5.813
+      ],
+      [
+       "Cap Spartel",
+       35.79,
+       -5.921
+      ],
+      [
+       "Caves of Hercules",
+       35.76,
+       -5.938
+      ],
+      "GMTT"
+     ],
+     "review": "2. kör – javított változat (173°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -46788,7 +49304,79 @@
        166.642
       ],
       "NZFX"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "short-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4000,
+     "stol": false,
+     "label": {
+      "en": "Ross Island loop (javitott)",
+      "hu": "Ross-sziget kör (javitott)",
+      "de": "Ross-Island-Runde (javitott)",
+      "es": "Circuito de la isla de Ross (javitott)",
+      "fr": "Boucle de l'île de Ross (javitott)",
+      "it": "Giro di Ross Island (javitott)",
+      "pl": "Pętla wyspy Rossa (javitott)",
+      "ru": "Круг по острову Росса (javitott)",
+      "sk": "Okruh ostrovom Ross (javitott)",
+      "zh": "罗斯岛环线 (javitott)"
+     },
+     "desc": {
+      "en": "Hut Point, Cape Evans, Cape Royds and Mount Erebus.",
+      "hu": "Hut Point, Cape Evans, Cape Royds és az Erebus-hegy.",
+      "de": "Hut Point, Cape Evans, Cape Royds und Mount Erebus.",
+      "es": "Hut Point, cabo Evans, cabo Royds y monte Erebus.",
+      "fr": "Hut Point, cap Evans, cap Royds et mont Erebus.",
+      "it": "Hut Point, Cape Evans, Cape Royds e Monte Erebus.",
+      "pl": "Hut Point, Cape Evans, Cape Royds i Mount Erebus.",
+      "ru": "Хат-Пойнт, мыс Эванс, мыс Ройдс и гора Эребус.",
+      "sk": "Hut Point, Cape Evans, Cape Royds a Mount Erebus.",
+      "zh": "哈特角、埃文斯角、罗伊兹角和埃里伯斯火山。"
+     },
+     "pts": [
+      "NZFX",
+      [
+       "Mount Erebus",
+       -77.6001,
+       167.4945
+      ],
+      [
+       "~",
+       -77.6512,
+       167.3916
+      ],
+      [
+       "~",
+       -77.66,
+       167.2575
+      ],
+      [
+       "~",
+       -77.6394,
+       166.7011
+      ],
+      [
+       "Cape Royds",
+       -77.55,
+       166.17
+      ],
+      [
+       "Cape Evans",
+       -77.636,
+       166.4
+      ],
+      [
+       "Hut Point",
+       -77.847,
+       166.642
+      ],
+      "NZFX"
+     ],
+     "review": "2. kör – javított változat (179°-os fordulóval) – az eredetivel együtt, válassz"
     },
     {
      "id": "dry",
@@ -48125,7 +50713,104 @@
        39.2766
       ],
       "HALL"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 12500,
+     "stol": false,
+     "label": {
+      "en": "Highland churches loop (javitott)",
+      "hu": "Felföldi templomkör (javitott)",
+      "de": "Hochlandkirchen-Runde (javitott)",
+      "es": "Ruta de las iglesias de las tierras altas (javitott)",
+      "fr": "Boucle des églises des hautes terres (javitott)",
+      "it": "Anello delle chiese degli altipiani (javitott)",
+      "pl": "Pętla po kościołach wyżyny (javitott)",
+      "ru": "Маршрут по церквям нагорья (javitott)",
+      "sk": "Okruh vysočinských kostolov (javitott)",
+      "zh": "高地教堂环线 (javitott)"
+     },
+     "desc": {
+      "en": "Lalibela's churches and the Abuna Yosef massif.",
+      "hu": "Lalibela templomai és az Abuna Yosef-hegység.",
+      "de": "Lalibelas Kirchen und das Abuna-Yosef-Massiv.",
+      "es": "Las iglesias de Lalibela y el macizo del Abuna Yosef.",
+      "fr": "Les églises de Lalibela et le massif d'Abuna Yosef.",
+      "it": "Le chiese di Lalibela e il massiccio dell'Abuna Yosef.",
+      "pl": "Kościoły Lalibeli i masyw Abuna Yosef.",
+      "ru": "Церкви Лалибелы и массив Абуна-Йосеф.",
+      "sk": "Kostoly v Lalibele a masív Abuna Yosef.",
+      "zh": "拉利贝拉的教堂与阿布纳约瑟夫山地。"
+     },
+     "pts": [
+      "HALL",
+      [
+       "Lalibela Rock-Hewn Churches",
+       12.0319,
+       39.0473
+      ],
+      [
+       "~",
+       12.1007,
+       39.0234
+      ],
+      [
+       "~",
+       12.1285,
+       39.0355
+      ],
+      [
+       "~",
+       12.2161,
+       39.1403
+      ],
+      [
+       "~",
+       12.2234,
+       39.1703
+      ],
+      [
+       "Mount Abuna Yosef",
+       12.187,
+       39.233
+      ],
+      [
+       "~",
+       12.1452,
+       39.2766
+      ],
+      [
+       "~",
+       12.2014,
+       39.2109
+      ],
+      [
+       "~",
+       12.1974,
+       39.1494
+      ],
+      [
+       "~",
+       12.1653,
+       39.1206
+      ],
+      [
+       "~",
+       12.1565,
+       39.078
+      ],
+      [
+       "~",
+       12.03,
+       38.9939
+      ],
+      "HALL"
+     ],
+     "review": "2. kör – javított változat (176°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [
@@ -50438,7 +53123,145 @@
       ],
       "ZULS"
      ],
-     "hi_alt": true
+     "hi_alt": true,
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 17000,
+     "stol": false,
+     "label": {
+      "en": "Tibetan plateau loop (javitott)",
+      "hu": "Tibeti fennsík kör (javitott)",
+      "de": "Runde über das Tibetische Hochland (javitott)",
+      "es": "Ruta de la meseta tibetana (javitott)",
+      "fr": "Boucle du plateau tibétain (javitott)",
+      "it": "Anello dell'altopiano tibetano (javitott)",
+      "pl": "Pętla Wyżyny Tybetańskiej (javitott)",
+      "ru": "Маршрут по Тибетскому плато (javitott)",
+      "sk": "Okruh Tibetskej náhorskej plošiny (javitott)",
+      "zh": "青藏高原环线 (javitott)"
+     },
+     "desc": {
+      "en": "The Potala, Drepung, Samye and Yamdrok Lake.",
+      "hu": "A Potala, a Drepung, a Samye és a Yamdrok-tó.",
+      "de": "Der Potala, Drepung, Samye und der Yamdrok-See.",
+      "es": "El Potala, Drepung, Samye y el lago Yamdrok.",
+      "fr": "Le Potala, Drepung, Samye et le lac Yamdrok.",
+      "it": "Il Potala, Drepung, Samye e il lago Yamdrok.",
+      "pl": "Potala, Drepung, Samye i jezioro Yamdrok.",
+      "ru": "Потала, Дрепунг, Самъе и озеро Ямдрок.",
+      "sk": "Potala, Drepung, Samje a jazero Jamdrok.",
+      "zh": "布达拉宫、哲蚌寺、桑耶寺与羊卓雍措。"
+     },
+     "pts": [
+      "ZULS",
+      [
+       "Drepung Monastery",
+       29.697,
+       91.053
+      ],
+      [
+       "Potala Palace",
+       29.6578,
+       91.1175
+      ],
+      [
+       "~",
+       29.5242,
+       91.1192
+      ],
+      [
+       "~",
+       29.4869,
+       91.2074
+      ],
+      [
+       "~",
+       29.4967,
+       91.2401
+      ],
+      [
+       "~",
+       29.3636,
+       91.3075
+      ],
+      [
+       "Samye Monastery",
+       29.3167,
+       91.5167
+      ],
+      [
+       "~",
+       29.222,
+       91.2106
+      ],
+      [
+       "~",
+       29.2439,
+       91.0051
+      ],
+      [
+       "~",
+       29.2258,
+       90.9469
+      ],
+      [
+       "~",
+       29.1384,
+       90.8512
+      ],
+      [
+       "~",
+       29.0973,
+       90.7205
+      ],
+      [
+       "~",
+       28.996,
+       90.5814
+      ],
+      [
+       "~",
+       28.973,
+       90.5089
+      ],
+      [
+       "Yamdrok Lake",
+       28.983,
+       90.45
+      ],
+      [
+       "~",
+       29.0776,
+       90.3906
+      ],
+      [
+       "~",
+       29.1012,
+       90.4461
+      ],
+      [
+       "~",
+       29.173,
+       90.5092
+      ],
+      [
+       "~",
+       29.2377,
+       90.6621
+      ],
+      [
+       "~",
+       29.2365,
+       90.7659
+      ],
+      "ZULS"
+     ],
+     "hi_alt": true,
+     "review": "2. kör – javított változat (146°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -50939,7 +53762,94 @@
        121.9914
       ],
       "RPVE"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 90,
+     "alt_ft": 3500,
+     "stol": false,
+     "label": {
+      "en": "Boracay and Panay loop (javitott)",
+      "hu": "Boracay–Panay kör (javitott)",
+      "de": "Boracay-und-Panay-Runde (javitott)",
+      "es": "Ruta de Boracay y Panay (javitott)",
+      "fr": "Boucle de Boracay et Panay (javitott)",
+      "it": "Anello di Boracay e Panay (javitott)",
+      "pl": "Pętla Boracay i Panay (javitott)",
+      "ru": "Маршрут Боракай и Панай (javitott)",
+      "sk": "Okruh Boracay a Panay (javitott)",
+      "zh": "长滩岛与班乃岛环线 (javitott)"
+     },
+     "desc": {
+      "en": "White Beach, Puka, Kalibo and Mount Madja-as.",
+      "hu": "White Beach, Puka, Kalibo és a Madja-as.",
+      "de": "White Beach, Puka, Kalibo und Mount Madja-as.",
+      "es": "Playa Blanca, Puka, Kalibo y monte Madja-as.",
+      "fr": "White Beach, Puka, Kalibo et le mont Madja-as.",
+      "it": "White Beach, Puka, Kalibo e monte Madja-as.",
+      "pl": "White Beach, Puka, Kalibo i góra Madja-as.",
+      "ru": "Уайт-Бич, Пука, Калибо и гора Мадьяас.",
+      "sk": "Biela pláž, Puka, Kalibo a hora Madja-as.",
+      "zh": "白沙滩、普卡、卡利博与马贾阿斯山。"
+     },
+     "pts": [
+      "RPVE",
+      [
+       "White Beach Boracay",
+       11.965,
+       121.924
+      ],
+      [
+       "Puka Shell Beach",
+       11.997,
+       121.917
+      ],
+      [
+       "~",
+       12.0172,
+       121.9474
+      ],
+      [
+       "Kalibo",
+       11.705,
+       122.364
+      ],
+      [
+       "~",
+       11.5079,
+       122.2443
+      ],
+      [
+       "~",
+       11.482,
+       122.1004
+      ],
+      [
+       "~",
+       11.4472,
+       122.0793
+      ],
+      [
+       "~",
+       11.3268,
+       122.0704
+      ],
+      [
+       "Mount Madja-as",
+       11.27,
+       122.1
+      ],
+      [
+       "~",
+       11.2873,
+       121.9914
+      ],
+      "RPVE"
+     ],
+     "review": "2. kör – javított változat (126°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -52629,7 +55539,139 @@
        -134.547
       ],
       "PAJN"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "long-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 5000,
+     "stol": false,
+     "label": {
+      "en": "Inside Passage loop (javitott)",
+      "hu": "Belső-átjáró kör (javitott)",
+      "de": "Inside-Passage-Runde (javitott)",
+      "es": "Ruta del Paso Interior (javitott)",
+      "fr": "Boucle du Passage intérieur (javitott)",
+      "it": "Anello dell'Inside Passage (javitott)",
+      "pl": "Pętla Inside Passage (javitott)",
+      "ru": "Маршрут по Внутреннему проходу (javitott)",
+      "sk": "Okruh Inside Passage (javitott)",
+      "zh": "内湾航道环线 (javitott)"
+     },
+     "desc": {
+      "en": "Mendenhall, Tracy Arm, Eldred Rock and Haines.",
+      "hu": "Mendenhall, Tracy Arm, Eldred Rock és Haines.",
+      "de": "Mendenhall, Tracy Arm, Eldred Rock und Haines.",
+      "es": "Mendenhall, Tracy Arm, Eldred Rock y Haines.",
+      "fr": "Mendenhall, Tracy Arm, Eldred Rock et Haines.",
+      "it": "Mendenhall, Tracy Arm, Eldred Rock e Haines.",
+      "pl": "Mendenhall, Tracy Arm, Eldred Rock i Haines.",
+      "ru": "Менденхолл, Трейси-Арм, Элдред-Рок и Хейнс.",
+      "sk": "Mendenhall, Tracy Arm, Eldred Rock a Haines.",
+      "zh": "门登霍尔、特蕾西峡湾、埃尔德雷德岩与黑恩斯。"
+     },
+     "pts": [
+      "PAJN",
+      [
+       "Tracy Arm Fjord",
+       57.78,
+       -133.55
+      ],
+      [
+       "~",
+       57.8517,
+       -133.625
+      ],
+      [
+       "~",
+       57.9063,
+       -133.5776
+      ],
+      [
+       "~",
+       57.921,
+       -133.5023
+      ],
+      [
+       "~",
+       57.8472,
+       -133.3914
+      ],
+      [
+       "~",
+       58.1705,
+       -133.8508
+      ],
+      [
+       "~",
+       58.27,
+       -133.8975
+      ],
+      [
+       "~",
+       58.4035,
+       -134.4157
+      ],
+      [
+       "~",
+       58.5719,
+       -134.6324
+      ],
+      [
+       "~",
+       58.5984,
+       -134.7374
+      ],
+      [
+       "~",
+       58.9042,
+       -135.1667
+      ],
+      [
+       "~",
+       59.1091,
+       -135.2475
+      ],
+      [
+       "Haines",
+       59.236,
+       -135.444
+      ],
+      [
+       "~",
+       59.1996,
+       -135.5664
+      ],
+      [
+       "~",
+       59.2138,
+       -135.4878
+      ],
+      [
+       "~",
+       59.2008,
+       -135.4347
+      ],
+      [
+       "~",
+       59.0611,
+       -135.3567
+      ],
+      [
+       "Eldred Rock Lighthouse",
+       58.97,
+       -135.22
+      ],
+      [
+       "Mendenhall Glacier",
+       58.435,
+       -134.547
+      ],
+      "PAJN"
+     ],
+     "review": "2. kör – javított változat (178°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -52940,7 +55982,94 @@
        -77.137
       ],
       "MKJS"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "long-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Round Jamaica loop (javitott)",
+      "hu": "Jamaica-kör (javitott)",
+      "de": "Jamaika-Runde (javitott)",
+      "es": "Ruta alrededor de Jamaica (javitott)",
+      "fr": "Boucle de la Jamaïque (javitott)",
+      "it": "Anello della Giamaica (javitott)",
+      "pl": "Pętla wokół Jamajki (javitott)",
+      "ru": "Маршрут вокруг Ямайки (javitott)",
+      "sk": "Okruh okolo Jamajky (javitott)",
+      "zh": "环牙买加之旅 (javitott)"
+     },
+     "desc": {
+      "en": "Negril, Black River, the Blue Mountains and Dunn's River.",
+      "hu": "Negril, Black River, a Blue Mountains és Dunn's River.",
+      "de": "Negril, Black River, die Blue Mountains und Dunn's River.",
+      "es": "Negril, Black River, las Blue Mountains y Dunn's River.",
+      "fr": "Negril, Black River, les Blue Mountains et Dunn's River.",
+      "it": "Negril, Black River, le Blue Mountains e Dunn's River.",
+      "pl": "Negril, Black River, Błękitne Góry i Dunn's River.",
+      "ru": "Негрил, Блэк-Ривер, Блу-Маунтинс и Данс-Ривер.",
+      "sk": "Negril, Black River, Blue Mountains a Dunn's River.",
+      "zh": "内格里尔、黑河、蓝山与邓恩河。"
+     },
+     "pts": [
+      "MKJS",
+      [
+       "Negril Seven Mile Beach",
+       18.28,
+       -78.35
+      ],
+      [
+       "~",
+       18.1721,
+       -78.3494
+      ],
+      [
+       "Black River",
+       18.03,
+       -77.85
+      ],
+      [
+       "~",
+       18.0697,
+       -76.9429
+      ],
+      [
+       "~",
+       18.1575,
+       -76.7769
+      ],
+      [
+       "~",
+       18.1644,
+       -76.6068
+      ],
+      [
+       "~",
+       18.152,
+       -76.5778
+      ],
+      [
+       "Blue Mountain Peak",
+       18.0848,
+       -76.5702
+      ],
+      [
+       "~",
+       18.1534,
+       -76.5476
+      ],
+      [
+       "Dunn's River Falls",
+       18.41,
+       -77.137
+      ],
+      "MKJS"
+     ],
+     "review": "2. kör – javított változat (156°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
@@ -58797,7 +61926,84 @@
        -89.1377
       ],
       "MHLM"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 6000,
+     "stol": false,
+     "label": {
+      "en": "Honduras highlands loop (javitott)",
+      "hu": "Hondurasi felföld-kör (javitott)",
+      "de": "Honduras-Hochland-Runde (javitott)",
+      "es": "Петля гондурасского нагорья (javitott)",
+      "fr": "Boucle des hautes terres du Honduras (javitott)",
+      "it": "Giro degli altopiani dell'Honduras (javitott)",
+      "pl": "Pętla wyżyn Hondurasu (javitott)",
+      "ru": "Петля гондурасского нагорья (javitott)",
+      "sk": "Okruh honduraskou vysočinou (javitott)",
+      "zh": "洪都拉斯高地环线 (javitott)"
+     },
+     "desc": {
+      "en": "Yojoa, Copán, Celaque and Gracias.",
+      "hu": "Yojoa, Copán, Celaque és Gracias.",
+      "de": "Yojoa, Copán, Celaque und Gracias.",
+      "es": "Йохоа, Копан, Селаке и Грасьяс.",
+      "fr": "Yojoa, Copán, Celaque et Gracias.",
+      "it": "Yojoa, Copán, Celaque e Gracias.",
+      "pl": "Yojoa, Copán, Celaque i Gracias.",
+      "ru": "Йохоа, Копан, Селаке и Грасьяс.",
+      "sk": "Yojoa, Copán, Celaque a Gracias.",
+      "zh": "约霍亚、科潘、塞拉克和格拉西亚斯。"
+     },
+     "pts": [
+      "MHLM",
+      [
+       "Lake Yojoa",
+       14.88,
+       -87.98
+      ],
+      [
+       "Celaque",
+       14.56,
+       -88.6335
+      ],
+      [
+       "~",
+       14.6135,
+       -88.618
+      ],
+      [
+       "~",
+       14.6386,
+       -88.6353
+      ],
+      [
+       "~",
+       14.6854,
+       -88.72
+      ],
+      [
+       "~",
+       14.6936,
+       -88.8757
+      ],
+      [
+       "Copán Ruins",
+       14.84,
+       -89.142
+      ],
+      [
+       "~",
+       14.9478,
+       -89.1377
+      ],
+      "MHLM"
+     ],
+     "review": "2. kör – javított változat (132°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [
@@ -59065,7 +62271,99 @@
        -71.9067
       ],
       "MTCH"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 5500,
+     "stol": false,
+     "label": {
+      "en": "Haiti loop (javitott)",
+      "hu": "Haiti kör (javitott)",
+      "de": "Haiti-Runde (javitott)",
+      "es": "Петля Гаити (javitott)",
+      "fr": "Boucle d'Haïti (javitott)",
+      "it": "Giro di Haiti (javitott)",
+      "pl": "Pętla Haiti (javitott)",
+      "ru": "Петля Гаити (javitott)",
+      "sk": "Okruh Haiti (javitott)",
+      "zh": "海地环线 (javitott)"
+     },
+     "desc": {
+      "en": "Labadee, the Citadelle, Sans-Souci and Pic la Selle.",
+      "hu": "Labadee, a Citadelle, Sans-Souci és a Pic la Selle.",
+      "de": "Labadee, die Citadelle, Sans-Souci und Pic la Selle.",
+      "es": "Лабади, Цитадель, Сан-Суси и Пик-ла-Сель.",
+      "fr": "Labadee, la Citadelle, Sans-Souci et pic la Selle.",
+      "it": "Labadee, la Citadelle, Sans-Souci e Pic la Selle.",
+      "pl": "Labadee, Cytadela, Sans-Souci i Pic la Selle.",
+      "ru": "Лабади, Цитадель, Сан-Суси и Пик-ла-Сель.",
+      "sk": "Labadee, Citadelle, Sans-Souci a Pic la Selle.",
+      "zh": "拉巴迪、城堡、无忧宫和拉塞勒峰。"
+     },
+     "pts": [
+      "MTCH",
+      [
+       "Labadee",
+       19.78,
+       -72.24
+      ],
+      [
+       "~",
+       19.7698,
+       -72.2767
+      ],
+      [
+       "Citadelle Laferrière",
+       19.567,
+       -72.245
+      ],
+      [
+       "~",
+       18.517,
+       -72.0521
+      ],
+      [
+       "~",
+       18.4592,
+       -72.0704
+      ],
+      [
+       "Pic la Selle",
+       18.3948,
+       -72.0298
+      ],
+      [
+       "~",
+       18.4229,
+       -71.9652
+      ],
+      [
+       "~",
+       18.3982,
+       -71.9126
+      ],
+      [
+       "~",
+       18.3694,
+       -71.9067
+      ],
+      [
+       "~",
+       18.3985,
+       -71.8985
+      ],
+      [
+       "~",
+       18.4355,
+       -71.9209
+      ],
+      "MTCH"
+     ],
+     "review": "2. kör – javított változat (154°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [
@@ -59729,7 +63027,89 @@
        -171.9168
       ],
       "NSFA"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 4500,
+     "stol": false,
+     "label": {
+      "en": "Samoa loop (javitott)",
+      "hu": "Szamoa-kör (javitott)",
+      "de": "Samoa-Runde (javitott)",
+      "es": "Петля Самоа (javitott)",
+      "fr": "Boucle des Samoa (javitott)",
+      "it": "Giro di Samoa (javitott)",
+      "pl": "Pętla Samoa (javitott)",
+      "ru": "Петля Самоа (javitott)",
+      "sk": "Okruh Samoou (javitott)",
+      "zh": "萨摩亚环线 (javitott)"
+     },
+     "desc": {
+      "en": "Lalomanu, To Sua, Matavanu and the Savai'i lava fields.",
+      "hu": "Lalomanu, To Sua, Matavanu és Savai'i lávamezői.",
+      "de": "Lalomanu, To Sua, Matavanu und die Lavafelder von Savai'i.",
+      "es": "Лаломану, То-Суа, Матавану и лавовые поля Савайи.",
+      "fr": "Lalomanu, To Sua, Matavanu et les champs de lave de Savai'i.",
+      "it": "Lalomanu, To Sua, Matavanu e i campi di lava di Savai'i.",
+      "pl": "Lalomanu, To Sua, Matavanu i pola lawowe Savai'i.",
+      "ru": "Лаломану, То-Суа, Матавану и лавовые поля Савайи.",
+      "sk": "Lalomanu, To Sua, Matavanu a lávové polia Savai'i.",
+      "zh": "拉洛马努、多苏阿、马塔瓦努和萨瓦伊岛熔岩原。"
+     },
+     "pts": [
+      "NSFA",
+      [
+       "~",
+       -13.7067,
+       -172.2551
+      ],
+      [
+       "~",
+       -13.5605,
+       -172.3651
+      ],
+      [
+       "~",
+       -13.5231,
+       -172.4702
+      ],
+      [
+       "Mount Matavanu",
+       -13.574,
+       -172.52
+      ],
+      [
+       "~",
+       -13.5138,
+       -172.5206
+      ],
+      [
+       "Savai'i Lava Fields",
+       -13.45,
+       -172.16
+      ],
+      [
+       "To Sua Ocean Trench",
+       -14.045,
+       -171.402
+      ],
+      [
+       "~",
+       -14.1366,
+       -171.4608
+      ],
+      [
+       "~=",
+       -13.8144,
+       -171.9168
+      ],
+      "NSFA"
+     ],
+     "review": "2. kör – javított változat (135°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [
@@ -63279,7 +66659,99 @@
        -135.6484
       ],
       "PAGY"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 100,
+     "alt_ft": 5500,
+     "stol": true,
+     "label": {
+      "en": "Gold Rush loop (javitott)",
+      "hu": "Aranyláz-kör (javitott)",
+      "de": "Goldrausch-Runde (javitott)",
+      "es": "Circuito de la fiebre del oro (javitott)",
+      "fr": "Boucle de la ruée vers l'or (javitott)",
+      "it": "Giro della corsa all'oro (javitott)",
+      "pl": "Pętla Gorączki Złota (javitott)",
+      "ru": "Маршрут золотой лихорадки (javitott)",
+      "sk": "Okruh zlatej horúčky (javitott)",
+      "zh": "淘金热环线 (javitott)"
+     },
+     "desc": {
+      "en": "White Pass, Chilkoot Pass, Davidson Glacier and Haines.",
+      "hu": "White Pass, Chilkoot-hágó, Davidson-gleccser és Haines.",
+      "de": "White Pass, Chilkoot Pass, Davidson-Gletscher und Haines.",
+      "es": "Paso White, paso Chilkoot, glaciar Davidson y Haines.",
+      "fr": "White Pass, Chilkoot Pass, glacier Davidson et Haines.",
+      "it": "White Pass, Chilkoot Pass, Ghiacciaio Davidson e Haines.",
+      "pl": "White Pass, Chilkoot Pass, lodowiec Davidson i Haines.",
+      "ru": "Уайт-Пасс, перевал Чилкут, ледник Дэвидсон и Хейнс.",
+      "sk": "White Pass, Chilkoot Pass, ľadovec Davidson a Haines.",
+      "zh": "白山口、奇尔库特山口、戴维森冰川和黑恩斯。"
+     },
+     "pts": [
+      "PAGY",
+      [
+       "~=",
+       59.5274,
+       -135.2652
+      ],
+      [
+       "~",
+       59.5465,
+       -135.177
+      ],
+      [
+       "White Pass",
+       59.6167,
+       -135.15
+      ],
+      [
+       "~",
+       59.5993,
+       -135.0878
+      ],
+      [
+       "~",
+       59.5124,
+       -135.2859
+      ],
+      [
+       "~",
+       59.4024,
+       -135.3869
+      ],
+      [
+       "~",
+       59.2817,
+       -135.3804
+      ],
+      [
+       "Davidson Glacier",
+       59.15,
+       -135.5
+      ],
+      [
+       "~",
+       59.2019,
+       -135.5468
+      ],
+      [
+       "~",
+       59.2032,
+       -135.63
+      ],
+      [
+       "~",
+       59.1779,
+       -135.6484
+      ],
+      "PAGY"
+     ],
+     "review": "2. kör – javított változat (169°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [
@@ -63545,7 +67017,84 @@
        -17.9782
       ],
       "BIGR"
-     ]
+     ],
+     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
+    },
+    {
+     "id": "loop-javitott",
+     "kind": "loop",
+     "kt": 110,
+     "alt_ft": 5000,
+     "stol": true,
+     "label": {
+      "en": "Arctic Circle loop (javitott)",
+      "hu": "Sarkköri kör (javitott)",
+      "de": "Polarkreis-Runde (javitott)",
+      "es": "Circuito del Círculo Polar Ártico (javitott)",
+      "fr": "Boucle du cercle polaire (javitott)",
+      "it": "Giro del Circolo Polare Artico (javitott)",
+      "pl": "Pętla koła podbiegunowego (javitott)",
+      "ru": "Маршрут над полярным кругом (javitott)",
+      "sk": "Okruh polárneho kruhu (javitott)",
+      "zh": "北极圈环线 (javitott)"
+     },
+     "desc": {
+      "en": "Hrísey, Drangey and Goðafoss.",
+      "hu": "Hrísey, Drangey és Goðafoss.",
+      "de": "Hrísey, Drangey und Goðafoss.",
+      "es": "Hrísey, Drangey y Goðafoss.",
+      "fr": "Hrísey, Drangey et Goðafoss.",
+      "it": "Hrísey, Drangey e Goðafoss.",
+      "pl": "Hrísey, Drangey i Goðafoss.",
+      "ru": "Хрисей, Дрангей и Годафосс.",
+      "sk": "Hrísey, Drangey a Goðafoss.",
+      "zh": "赫里瑟岛、德朗岛和神瀑。"
+     },
+     "pts": [
+      "BIGR",
+      [
+       "Drangey",
+       65.9667,
+       -19.7167
+      ],
+      [
+       "~",
+       65.8609,
+       -19.6647
+      ],
+      [
+       "Goðafoss",
+       65.6828,
+       -17.55
+      ],
+      [
+       "~",
+       65.7783,
+       -17.4277
+      ],
+      [
+       "~",
+       65.7548,
+       -17.773
+      ],
+      [
+       "~",
+       65.8394,
+       -18.1111
+      ],
+      [
+       "Hrísey",
+       66.0167,
+       -18.3833
+      ],
+      [
+       "~=",
+       66.4572,
+       -17.9782
+      ],
+      "BIGR"
+     ],
+     "review": "2. kör – javított változat (126°-os fordulóval) – az eredetivel együtt, válassz"
     }
    ],
    "pois": [],
