@@ -13707,71 +13707,15 @@
      "pts": [
       "SPZO",
       [
-       "Pisac",
-       -13.4167,
-       -71.8475
-      ],
-      [
-       "Moray",
-       -13.3293,
-       -72.1962
-      ],
-      [
-       "Ollantaytambo",
-       -13.2584,
-       -72.2631
-      ],
-      [
-       "Machu Picchu",
-       -13.1631,
-       -72.545
+       "~",
+       -13.5392,
+       -71.8839
       ],
       [
        "~",
-       -13.2285,
-       -72.5774
+       -13.494,
+       -71.8543
       ],
-      [
-       "Sacsayhuamán",
-       -13.5093,
-       -71.9817
-      ],
-      "SPZO"
-     ],
-     "review": "2. kör – eredeti útvonal – mellette a javított (-javitott), válassz"
-    },
-    {
-     "id": "full-javitott",
-     "kind": "loop",
-     "kt": 110,
-     "alt_ft": 15000,
-     "stol": false,
-     "label": {
-      "en": "Machu Picchu loop (javitott)",
-      "hu": "Machu Picchu-kör (javitott)",
-      "de": "Machu-Picchu-Runde (javitott)",
-      "es": "Circuito de Machu Picchu (javitott)",
-      "fr": "Boucle du Machu Picchu (javitott)",
-      "it": "Giro di Machu Picchu (javitott)",
-      "pl": "Pętla Machu Picchu (javitott)",
-      "ru": "Круг над Мачу-Пикчу (javitott)",
-      "sk": "Okruh Machu Picchu (javitott)",
-      "zh": "马丘比丘环线 (javitott)"
-     },
-     "desc": {
-      "en": "About an hour: Pisac, Ollantaytambo and Machu Picchu, back over Moray.",
-      "hu": "Kb. egy óra: Pisac, Ollantaytambo és Machu Picchu, vissza Moray felett.",
-      "de": "Etwa eine Stunde: Pisac, Ollantaytambo und Machu Picchu, zurück über Moray.",
-      "es": "Aproximadamente una hora: Pisac, Ollantaytambo y Machu Picchu, de regreso sobre Moray.",
-      "fr": "Environ une heure : Pisac, Ollantaytambo et le Machu Picchu, puis retour par Moray.",
-      "it": "Circa un'ora: Pisac, Ollantaytambo e Machu Picchu, e ritorno su Moray.",
-      "pl": "Około godziny: Pisac, Ollantaytambo i Machu Picchu, z powrotem nad Moray.",
-      "ru": "Около часа: Писак, Ольянтайтамбо и Мачу-Пикчу, обратно над Морай.",
-      "sk": "Asi hodina: Pisac, Ollantaytambo a Machu Picchu, späť nad Moray.",
-      "zh": "约一小时：皮萨克、奥扬泰坦博和马丘比丘，再飞越莫拉伊返回。"
-     },
-     "pts": [
-      "SPZO",
       [
        "Pisac",
        -13.4167,
@@ -13779,28 +13723,38 @@
       ],
       [
        "~",
-       -13.3999,
-       -71.9147
+       -13.3685,
+       -71.8827
       ],
       [
        "~",
-       -13.4158,
-       -71.9904
+       -13.3372,
+       -71.9338
       ],
       [
        "~",
-       -13.4057,
-       -72.0307
+       -13.3172,
+       -71.9919
       ],
       [
        "~",
-       -13.3562,
-       -72.0892
+       -13.3186,
+       -72.0509
       ],
       [
-       "Moray",
-       -13.3293,
-       -72.1962
+       "~",
+       -13.3174,
+       -72.1033
+      ],
+      [
+       "~",
+       -13.2886,
+       -72.1545
+      ],
+      [
+       "~",
+       -13.2718,
+       -72.2193
       ],
       [
        "Ollantaytambo",
@@ -13809,63 +13763,123 @@
       ],
       [
        "~",
-       -13.2236,
-       -72.324
+       -13.2375,
+       -72.3095
       ],
       [
        "~",
-       -13.2088,
-       -72.3679
+       -13.2238,
+       -72.3613
       ],
       [
        "~",
-       -13.2353,
-       -72.4162
+       -13.2201,
+       -72.4136
       ],
       [
        "~",
-       -13.1876,
-       -72.4726
-      ],
-      [
-       "Machu Picchu",
-       -13.1631,
-       -72.545
+       -13.2063,
+       -72.4458
       ],
       [
        "~",
-       -13.2285,
-       -72.5774
+       -13.1888,
+       -72.4843
       ],
       [
        "~",
-       -13.1914,
-       -72.4973
+       -13.1826,
+       -72.5168
       ],
       [
        "~",
-       -13.1911,
-       -72.4663
+       -13.1827,
+       -72.5693
       ],
       [
        "~",
-       -13.215,
-       -72.4474
+       -13.1595,
+       -72.5761
       ],
       [
        "~",
-       -13.2139,
-       -72.3544
+       -13.1438,
+       -72.5577
       ],
       [
        "~",
-       -13.2551,
-       -72.2671
+       -13.1469,
+       -72.5316
       ],
       [
        "~",
-       -13.4463,
-       -72.1158
+       -13.1932,
+       -72.4845
+      ],
+      [
+       "~",
+       -13.2107,
+       -72.446
+      ],
+      [
+       "~",
+       -13.2245,
+       -72.4138
+      ],
+      [
+       "~",
+       -13.2282,
+       -72.3615
+      ],
+      [
+       "~",
+       -13.2419,
+       -72.3097
+      ],
+      [
+       "~",
+       -13.265,
+       -72.2583
+      ],
+      [
+       "~",
+       -13.2844,
+       -72.2317
+      ],
+      [
+       "~",
+       -13.3189,
+       -72.2332
+      ],
+      [
+       "~",
+       -13.3692,
+       -72.227
+      ],
+      [
+       "~",
+       -13.4193,
+       -72.2063
+      ],
+      [
+       "~",
+       -13.4538,
+       -72.1751
+      ],
+      [
+       "~",
+       -13.4744,
+       -72.1236
+      ],
+      [
+       "~",
+       -13.4837,
+       -72.0584
+      ],
+      [
+       "~",
+       -13.5018,
+       -72.0068
       ],
       [
        "Sacsayhuamán",
@@ -13873,11 +13887,21 @@
        -71.9817
       ],
       "SPZO"
-     ],
-     "review": "2. kör – javított változat (141°-os fordulóval) – az eredetivel együtt, válassz"
+     ]
     }
    ],
-   "pois": [],
+   "pois": [
+    [
+     "Moray",
+     -13.3293,
+     -72.1962
+    ],
+    [
+     "Machu Picchu",
+     -13.1631,
+     -72.545
+    ]
+   ],
    "kw": "Pisac Moray inka terasz Sacsayhuamán Cusco Ollantaytambo Machu Picchu",
    "img": "Machu Picchu"
   },
