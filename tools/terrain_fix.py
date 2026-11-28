@@ -211,6 +211,15 @@ def smooth(pts, alt, ap, notes):
                 continue
             a, b, c = xy(pts[k - 1]), xy(p), xy(pts[k + 1])
             if turn(a, b, c) > TURN_MAX:
+                P = [xy(q) if (not isinstance(q, str) or q in ap) else None for q in pts]
+                def T(i, j, l):
+                    if i < 0 or l >= len(P) or None in (P[i], P[j], P[l]):
+                        return 0
+                    return turn(P[i], P[j], P[l])
+                before = max(T(k - 2, k - 1, k), T(k - 1, k, k + 1), T(k, k + 1, k + 2))
+                after = max(T(k - 2, k - 1, k + 1), T(k - 1, k + 1, k + 2))
+                if after > before - 10 or after > 100:
+                    continue
                 bad, _, _ = retry(leg_bad, a, c, alt)
                 if not bad:
                     del pts[k]
@@ -233,7 +242,7 @@ def retry(fn, *args):
             time.sleep(3600)
 
 
-def process(v, ap):
+def process(v, ap, nosmooth=False):
     """-> (uj_pts, uj_alt, notes, hard, hi) vagy None, ha nincs mit javitani."""
     pts_raw = v["pts"]
     pts = []
@@ -300,9 +309,32 @@ def process(v, ap):
             hard = True
             for a, b, w in fail:
                 notes.append("%s -> %s: KEZZEL KELL MEGOLDANI (nincs atjaro; ehhez %d ft kellene, plafon %d ft, max. emeles %d ft)" % (a[0], b[0], up500(w + CLEAR), cap, MAX_JUMP))
-    if not hard:
+    if not hard and not nosmooth:
         newpts = smooth(newpts, alt, ap, notes)
     return (newpts, alt, notes, hard, alt > MAX_ALT)
+
+
+def max_turn(pts, ap):
+    P = [(ap[q][0], ap[q][1]) if isinstance(q, str) and q in ap else ((q[1], q[2]) if not isinstance(q, str) else None) for q in pts]
+    P = [q for q in P if q]
+    return max([turn(P[i], P[i + 1], P[i + 2]) for i in range(len(P) - 2)] or [0])
+
+
+def guarded(v, ap):
+    """process() + vedelem: ne keletkezzen ujabb hajtukanyar (>120 fok, es legalabb 15 fokkal rosszabb az eredetinel)."""
+    r = process(v, ap)
+    if r is None:
+        return r
+    m0 = max_turn(v["pts"], ap)
+    lim = max(120, m0 + 15)
+    if max_turn(r[0], ap) > lim:
+        r2 = process(v, ap, nosmooth=True)
+        if r2 is not None and max_turn(r2[0], ap) <= lim:
+            return r2
+        base = r2 if r2 is not None else r
+        notes = list(base[2]) + ["HAJTUKANYAR keletkezne (%d fok): az eredeti pontok maradnak, KEZI MUNKA KELL" % max_turn(base[0], ap)]
+        return (v["pts"], float(v["alt_ft"]), notes, True, float(v["alt_ft"]) > MAX_ALT)
+    return r
 
 
 def main():
@@ -323,7 +355,7 @@ def main():
             if only and t["id"] not in only:
                 continue
             for vi, v in enumerate(t["variants"]):
-                r = process(v, ap)
+                r = guarded(v, ap)
                 if not r:
                     continue
                 newpts, newalt, notes, hard, high = r
